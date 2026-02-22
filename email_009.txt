@@ -1,0 +1,25 @@
+From: nurse.jones@riverdale-hospital.net
+To: pharmacy@riverdale-hospital.net
+Date: March 12, 2025
+Subject: Medication Order for Patient Thomas Beckett
+
+Pharmacy Team,
+
+Please prepare the following for patient:
+
+Name: Thomas Beckett
+DOB: 07/04/1967
+MRN: RH-558821
+Room: 4B-112
+Diagnosis: Acute myocardial infarction, Hypertension
+
+Medications:
+- Metoprolol 50mg twice daily
+- Aspirin 81mg daily
+- Lisinopril 10mg daily
+- Atorvastatin 40mg nightly
+
+Patient allergies: Penicillin, Sulfa drugs
+
+Nurse Sandra Jones, RN
+Ext: 4492

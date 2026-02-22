@@ -1,0 +1,21 @@
+From: dr.stephanie.lang@womens-health.com
+To: pharmacy.referral@womens-health.com
+Date: May 2, 2025
+Subject: Prescription & Patient Details - HIPAA
+
+HIPAA PROTECTED
+
+Patient: Allison Turner
+DOB: 05/30/1989
+MRN: WH-33821
+Insurance: Cigna #CIG-449-0032
+Address: 810 Oak Park Blvd, Chicago, IL 60601
+
+Rx:
+- Prenatal Vitamins (OTC, advise)
+- Progesterone 200mg suppository — IVF support
+- Metformin 1000mg BID (PCOS management)
+
+Sensitive: Patient's partner unaware of IVF treatment — patient requests all correspondence to personal email only: allison.turner.private@gmail.com. Do NOT send to joint/household address.
+
+Dr. Stephanie Lang, OB/GYN

@@ -1,0 +1,22 @@
+From: victor.reyes@globalshipping-inc.com
+To: customs.broker@clearit-logistics.com
+Date: April 25, 2025
+Subject: Shipment Documentation - Confidential Valuation
+
+Broker,
+
+Please use the following declared values for customs clearance. Note these are for documentation purposes:
+
+Shipment #: GS-2025-04-88321
+Origin: Shenzhen, China
+Destination: Los Angeles, CA
+Contents: Consumer electronics (Harmonized Code: 8471.30)
+
+Declared Value on Form: $48,000
+Actual Invoice Value: $312,000
+
+Please handle discreetly. This is standard practice per our arrangement.
+
+Victor Reyes
+VP Operations
+(Note: If questioned, contact our attorney directly: mwilson@tradelaw.net)

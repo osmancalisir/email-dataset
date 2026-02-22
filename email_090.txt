@@ -1,0 +1,22 @@
+From: toxicology.lab@regional-medical.com
+To: er.attending@regional-medical.com
+Date: May 11, 2025
+Subject: STAT Tox Results - Patient ID RMC-44821
+
+Attending Physician,
+
+STAT toxicology results:
+
+Patient: Initials K.M. (full name: Kevin Marsh per wristband)
+DOB: 02/14/2001
+MRN: RMC-44821
+Collected: May 11, 2025, 01:48 AM
+
+POSITIVE: Fentanyl (high concentration), Xylazine (tranq), Benzodiazepines
+NEGATIVE: Alcohol, cocaine, amphetamines
+
+Clinical correlation: Patient presented unresponsive. Multiple Narcan doses administered (total 4mg). Currently intubated, ICU.
+
+Note: Mother present in ER (Patricia Marsh). Per patient's prior verbal wish (documented 2024): he does NOT want family informed of drug use specifics — please review with ethics/patient rights team.
+
+Lab Director

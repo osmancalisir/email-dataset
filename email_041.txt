@@ -1,0 +1,25 @@
+From: dr.kim@fertility-specialists.com
+To: lab@fertility-specialists.com
+Date: March 17, 2025
+Subject: Patient Sample Processing - IVF Cycle
+
+Lab,
+
+Please process samples for:
+
+Patient: Christina Vang
+DOB: 07/08/1986
+MRN: FS-22091
+Partner: David Vang, DOB: 11/30/1984
+
+Cycle Type: IVF - Egg Retrieval
+Date: March 17, 2025
+Eggs Retrieved: 11
+Fertilization target: ICSI
+
+Insurance: Blue Shield, pre-auth #BS-IVF-8832
+Out of pocket per cycle agreement: $14,500 (card on file ending 3391)
+
+Please flag any abnormal results directly to me before notifying patient.
+
+Dr. Sophia Kim, MD

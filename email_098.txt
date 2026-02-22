@@ -1,0 +1,21 @@
+From: analyst@credit-collections.com
+To: supervisor@credit-collections.com
+Date: May 9, 2025
+Subject: Debt Portfolio Acquisition - Due Diligence Data
+
+Supervisor,
+
+Review the following portfolio up for acquisition:
+
+Portfolio: Seller — Cascade Lending LLC
+Face value of debt: $44.2M (3,812 accounts)
+Purchase price: $2.2M (5 cents on dollar)
+
+Sample account data received:
+- Debtor: Frank & Rita Gomez, SSN: 533-22-8812/533-22-4401, Amount: $28,400, last payment 2022
+- Debtor: Terrence Scott, SSN: 589-44-3312, Amount: $14,200, last payment 2023
+- Debtor: Patricia Lee, SSN: 499-32-7701, Amount: $9,800, in bankruptcy (Ch 7, 2024)
+
+Recommendation: Accept portfolio with exclusions for bankrupt accounts and accounts >7 years past SOL.
+
+Analyst K. Weston

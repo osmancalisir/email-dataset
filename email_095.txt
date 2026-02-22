@@ -1,0 +1,25 @@
+From: fraud.investigator@cyber-insurance.com
+To: claims.team@cyber-insurance.com
+Date: May 14, 2025
+Subject: BEC Claim Review - Policy #CYB-88321
+
+Claims Team,
+
+Business Email Compromise claim review:
+
+Insured: Norwood Architecture Firm
+Policy #: CYB-88321
+CFO: Andrea Walsh (awalsh@norwood-arch.com)
+
+Incident: CFO received spoofed email from "CEO" (CEO email: jnorwood@norwood-arch.com — domain: norwood-arch.cc, not .com). Was instructed to wire $875,000 for "acquisition."
+
+Wire details (fraudulent beneficiary):
+- Bank: First International Bank, Hong Kong
+- SWIFT: FIBLHKHH
+- Account: 88329401-002
+
+Wire sent 05/06/2025. Recall request filed same day — bank reports funds already moved.
+
+Covered under social engineering rider: Yes, up to $1M. Recommend full claim approval pending forensics.
+
+Investigator T. Moore

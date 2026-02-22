@@ -1,0 +1,23 @@
+From: dr.hassan@neuro-clinic.com
+To: records@neuro-clinic.com
+Date: April 22, 2025
+Subject: Patient Transfer Summary - Confidential
+
+Records Team,
+
+Transfer summary for patient moving to Boston facility:
+
+Name: Eleanor Fitzpatrick
+DOB: 08/19/1945
+SSN: 433-12-7701
+Medicare #: 2GH4-TE8-EF45
+Address: 22 Harbor View Lane, Newport, RI 02840
+
+Diagnoses: Alzheimer's disease (G30.9), Parkinson's (G20), Osteoporosis
+Current Medications: Donepezil 10mg, Levodopa/Carbidopa 25-100mg TID, Alendronate 70mg weekly
+Power of Attorney: Son, Patrick Fitzpatrick, (401) 882-3301
+
+Cognitive assessment score: MMSE 14/30 (moderate impairment)
+Patient does not have capacity to consent to own care.
+
+Dr. Rania Hassan, MD, Neurology

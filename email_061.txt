@@ -1,0 +1,25 @@
+From: cto@securenet-systems.com
+To: pentest@external-security.io
+Date: April 29, 2025
+Subject: Penetration Test Scope - Confidential
+
+Security Team,
+
+Scope for authorized penetration test:
+
+Client: SecureNet Systems
+Test Window: May 15-22, 2025
+Authorized by: Marcus Reid, CTO (marcus.reid@securenet-systems.com)
+
+In-scope systems:
+- Primary domain: securenet-systems.com
+- IP Range: 192.168.4.0/24, 10.0.8.0/24
+- AWS account ID: 441928300021
+
+Admin credentials for test environment (do NOT use on prod):
+Username: testadmin@securenet-systems.com
+Password: SN!TestEnv2025#
+
+Rules of engagement: No social engineering, no physical access, no production database write operations.
+
+Emergency stop contact: (888) 441-0032 24/7

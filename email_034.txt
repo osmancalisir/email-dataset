@@ -1,0 +1,22 @@
+From: linda.mcallister@privatebank.com
+To: wire.transfers@privatebank.com
+Date: April 12, 2025
+Subject: Urgent Wire Transfer Authorization
+
+Wire Transfer Team,
+
+Authorized by client Rajesh Patel (Account #PVT-44821, DOB: 09/21/1968, Security Phrase: "Monsoon2024"):
+
+Amount: $350,000 USD
+Destination: HSBC Singapore
+SWIFT: HSBCSGSG
+Account: 022-443291-001
+Beneficiary: Patel Holdings Pte Ltd
+
+Purpose: Investment capital transfer
+Client called to authorize at 10:32 AM, call recorded per policy.
+
+Please process today — client has deadline.
+
+Linda McAllister
+Private Banking Relationship Manager

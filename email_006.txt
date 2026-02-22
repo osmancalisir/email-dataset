@@ -1,0 +1,19 @@
+From: lisa.nguyen@acmecorp.com
+To: it.security@acmecorp.com
+Date: February 28, 2025
+Subject: Password Reset Request
+
+Hi IT,
+
+I've been locked out of my account. Please reset:
+
+Username: lnguyen@acmecorp.com
+Employee ID: ACM-19283
+Department: Finance
+
+My temporary access code from last time was TMP#4492-XK. 
+Office: 3rd Floor, Room 312
+My personal mobile for 2FA: (773) 492-8801
+
+Thanks,
+Lisa Nguyen

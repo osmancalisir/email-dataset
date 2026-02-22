@@ -1,0 +1,22 @@
+From: hiv.clinic@community-health.org
+To: pharmacy.specialist@community-health.org
+Date: May 13, 2025
+Subject: Patient ART Prescription Update - CONFIDENTIAL
+
+HIPAA — SENSITIVE DIAGNOSIS
+
+Patient: James Horton
+DOB: 04/19/1978
+MRN: CH-882013
+SSN: 566-33-7712
+Insurance: Medicaid #CA-MCD-JH78
+
+HIV Status: Positive (diagnosed 2019)
+Current ART Regimen: Biktarvy (bictegravir/TAF/emtricitabine) 50-25-200mg once daily
+Most recent CD4: 680 cells/μL | Viral Load: Undetectable (<20 copies/mL)
+
+Change: Switching to Cabenuva (cabotegravir + rilpivirine) monthly injectable per patient preference.
+
+Patient Note: Patient has not disclosed status to family. Send all refill reminders to cell ONLY: (213) 449-0032. Do NOT mail to home address.
+
+Nurse Practitioner V. Santos

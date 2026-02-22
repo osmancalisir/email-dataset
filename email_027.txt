@@ -1,0 +1,17 @@
+From: it.admin@globaltech-solutions.com
+To: all-staff@globaltech-solutions.com
+Date: March 10, 2025
+Subject: System Migration - Temporary Credentials
+
+All Staff,
+
+During this weekend's system migration, use the following temporary admin credentials:
+
+Portal: https://intranet.globaltech-solutions.com
+Username: temp_admin_2025
+Password: GTmigrate#0310!
+
+IMPORTANT: These credentials expire Monday 3/12 at 8AM. Do not share externally. VPN required.
+
+IT Admin Team
+Helpdesk: ext. 5500

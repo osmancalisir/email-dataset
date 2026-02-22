@@ -1,0 +1,18 @@
+From: internal.audit@cornerstone-bank.com
+To: exec.team@cornerstone-bank.com
+Date: April 17, 2025
+Subject: CONFIDENTIAL AUDIT FINDING - Immediate Action Required
+
+Executive Team,
+
+Audit finding requiring immediate attention (CONFIDENTIAL — do not share with branch staff):
+
+Employee: Robert Finch, Branch Manager, Downtown Location
+Employee ID: CB-00832
+Finding: Unauthorized access to 47 customer accounts over 8-month period. Pattern suggests data harvesting — possible identity theft ring involvement.
+
+Customers potentially impacted: List of 47 in secure attachment.
+
+Do NOT alert Mr. Finch. Coordinate with Legal (Dept Head: Carol Sims) and Law Enforcement before any HR action.
+
+Chief Audit Officer

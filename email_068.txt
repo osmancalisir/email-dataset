@@ -1,0 +1,23 @@
+From: hr@sterling-analytics.com
+To: legal@sterling-analytics.com
+Date: May 12, 2025
+Subject: CONFIDENTIAL - Wrongful Termination Claim Pre-Litigation
+
+Legal,
+
+Heads up on potential litigation:
+
+Former employee: Vanessa Brooks
+Last role: Senior Data Analyst
+Termination date: April 15, 2025
+Stated reason: Performance (PIP failure)
+
+Ms. Brooks' attorney (firm: Justice & Associates) sent a demand letter alleging:
+1. Termination was retaliatory following internal EEOC complaint (race discrimination, filed 02/2025)
+2. Disparate treatment vs similarly-situated white employees
+
+Internal notes (DO NOT PRODUCE without legal review): Manager Kevin Tran made comments in Slack that could be problematic — IT has preserved logs per litigation hold.
+
+Settlement demand: $340,000. Do not respond until we confer.
+
+HR Director

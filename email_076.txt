@@ -1,0 +1,25 @@
+From: discharge.planner@st-marks-hospital.com
+To: homehealth@caringbridge.net
+Date: May 8, 2025
+Subject: Home Health Referral - Patient Walter Simms
+
+Home Health Team,
+
+Referral for home health services:
+
+Patient: Walter Simms
+DOB: 03/04/1949
+SSN: 488-21-6631
+Medicare #: 3FG5-HJ9-WS22
+Address: 8 Briarwood Circle, Richmond, VA 23201
+
+Discharge diagnosis: Right hip replacement (Z96.641), Type 2 Diabetes (E11.9), CHF (I50.9)
+Discharge date: May 9, 2025
+
+Ordered services: PT 3x/week, RN wound care 2x/week, diabetic management
+Medications: Metformin, Furosemide, Warfarin (INR monitoring needed)
+
+Caregiver: Wife, Betty Simms, (804) 223-0049
+Note: Patient has mild cognitive impairment — wife is primary decision-maker for daily care.
+
+Discharge Planner M. Washington

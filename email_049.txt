@@ -1,0 +1,21 @@
+From: nurse.practitioner@rural-clinic.net
+To: specialist.referral@university-hospital.edu
+Date: March 13, 2025
+Subject: Patient Referral - Urgent
+
+Dear Specialist Team,
+
+Referring patient for urgent oncology consultation:
+
+Name: Frances O'Brien
+DOB: 12/07/1959
+SSN: 488-31-2209
+Insurance: Medicare Part B #1EG4-B5-FO91
+Address: RR2 Box 44, Pine Ridge, SD 57770
+
+Clinical concern: Palpable mass, left breast (~2cm), discovered on exam 3/10/2025. Mammogram at local facility inconclusive. Family history: mother and aunt — breast cancer.
+
+Patient is anxious and in a remote area with limited transportation. Telehealth consult preferred if possible.
+
+NP Kelly Harris
+Pine Ridge Rural Clinic

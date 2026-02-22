@@ -1,0 +1,15 @@
+From: dr.patricia.lee@citymedical.org
+To: billing@citymedical.org
+Date: January 15, 2025
+Subject: Patient Billing Correction - Account #CM-20948
+
+Hi Billing,
+
+Patient Margaret Collins (DOB: 02/28/1952, SSN: 612-55-3307) has been incorrectly billed for a procedure she did not receive.
+
+She was admitted on 12/10/2024 for Type 2 Diabetes management (ICD-10: E11.9) and hypertension monitoring. Please remove the cardiology consultation charge of $850 from her account.
+
+Her insurance ID is BlueCross #BCB-442-987712.
+
+Thanks,
+Dr. Patricia Lee

@@ -1,0 +1,23 @@
+From: compliance@healthcare-network.org
+To: privacy.officer@healthcare-network.org
+Date: May 4, 2025
+Subject: HIPAA Breach Report - Incident #HN-2025-0221
+
+Privacy Officer,
+
+Reporting potential HIPAA breach per 45 CFR §164.410:
+
+Incident: Misdirected fax sent to wrong number (patient info faxed to a restaurant instead of specialist)
+
+Patient Affected: Henry Okafor
+DOB: 07/22/1961
+MRN: HN-441293
+Data exposed: Name, DOB, diagnosis (Hepatitis C, B18.2), physician name, appointment date
+
+Fax sent: 04/30/2025 at 2:14 PM
+Incorrect recipient: (312) 882-0041 (Sunrise Grill)
+Restaurant manager confirmed receipt and stated document was shredded.
+
+Breach determination required within 60 days. Recommend: patient notification, process retraining.
+
+Compliance Officer T. Bradley

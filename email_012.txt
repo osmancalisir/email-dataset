@@ -1,0 +1,24 @@
+From: hr.director@omegalogistics.com
+To: payroll@omegalogistics.com
+Date: March 25, 2025
+Subject: New Hire Payroll Setup
+
+Payroll Team,
+
+Please set up direct deposit for new hire:
+
+Name: Carlos Espinoza
+Employee ID: OL-00512
+SSN: 577-34-9981
+Start Date: April 1, 2025
+Annual Salary: $62,400
+Department: Operations
+
+Bank: Wells Fargo
+Routing: 121042882
+Account: 8843002917
+
+Benefits elections: Medical (family), Dental, 401k at 6%
+
+Maria Gutierrez
+HR Director

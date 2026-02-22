@@ -1,0 +1,23 @@
+From: account.manager@premiumbank.com
+To: fraud.dept@premiumbank.com
+Date: April 7, 2025
+Subject: Suspicious Activity - Account #PB-9934820
+
+Fraud Team,
+
+Flagging unusual activity on the following account:
+
+Account Holder: Dorothy Simmons
+DOB: 01/09/1946
+SSN: 422-11-6639
+Account #: PB-9934820
+Address: 7 Rosewood Court, Tampa, FL 33601
+
+Suspicious transactions:
+- 04/05/2025: $4,800 wire to unknown international account
+- 04/06/2025: $4,700 wire to same account
+(Structured transactions possibly to avoid $10K reporting)
+
+Ms. Simmons is 79 years old — possible elder financial abuse.
+
+Please investigate immediately.

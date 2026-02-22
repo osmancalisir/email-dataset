@@ -1,0 +1,19 @@
+From: nadia.petrov@pharmco-global.com
+To: clinical.trials@pharmco-global.com
+Date: March 14, 2025
+Subject: Trial Participant Data - Strictly Confidential
+
+RESTRICTED - CLINICAL TRIAL DATA
+
+Trial: PCT-2025-CARDIO-7
+Participant #: CT-0034
+Name: George Williamson (consented to name use)
+DOB: 03/17/1955
+SSN: 489-62-7701
+Adverse Event Reported: Irregular heartbeat (Day 14 of dosing)
+
+Dosage Group: Arm B (40mg experimental compound XC-14)
+Blind not broken — escalate to medical monitor.
+
+Nadia Petrov
+Clinical Data Manager

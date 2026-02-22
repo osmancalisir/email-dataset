@@ -1,0 +1,21 @@
+From: security@airport-ops.gov
+To: tsa.intel@airport-ops.gov
+Date: April 4, 2025
+Subject: SENSITIVE - Passenger Flagged at Checkpoint
+
+SENSITIVE SECURITY INFORMATION
+
+Checkpoint: Terminal B, Gate 22
+Date/Time: 04/04/2025, 07:43 AM
+
+Passenger: Omar Hakim
+DOB: 03/28/1985
+Passport: UK-PA8291034
+Flight: Intl to Chicago O'Hare (AA-217)
+
+Flagged: Document anomaly, secondary screening completed. Small undeclared cash: $9,400.
+
+No prohibited items found. Subject cooperative. Released to board.
+Refer to TTRT for follow-up per protocol.
+
+Officer Samantha Briggs, Badge #TSA-3302

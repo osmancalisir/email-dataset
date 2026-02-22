@@ -1,0 +1,24 @@
+From: dr.patel@addiction-recovery.net
+To: insurance.auth@addiction-recovery.net
+Date: April 27, 2025
+Subject: Treatment Authorization Request - CONFIDENTIAL
+
+Insurance Team,
+
+Requesting authorization for inpatient treatment:
+
+Patient: Christopher Lane
+DOB: 09/05/1991
+SSN: 578-44-3312
+Insurance: Anthem BCBS #ANT-882-CL91
+Address: 14 Ridgecrest Rd, Nashville, TN 37201
+
+Clinical info: Opioid use disorder (F11.20), alcohol use disorder (F10.20), co-occurring major depression (F32.1). Current daily fentanyl use, IV route.
+
+Recommended: 28-day inpatient detox + residential treatment (ASAM Level 3.7)
+Facility: Sunrise Recovery Center, Nashville
+Estimated cost: $28,000
+
+Emergency contact: Mother, Patricia Lane, (615) 773-0049. Note: patient does not want father notified.
+
+Dr. Anil Patel, Addiction Medicine

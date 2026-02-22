@@ -1,0 +1,21 @@
+From: robert.chen@pacific-wealth.com
+To: compliance@pacific-wealth.com
+Date: May 1, 2025
+Subject: CONFIDENTIAL - Client KYC Exception Request
+
+Compliance Team,
+
+Requesting KYC exception for the following high-net-worth client:
+
+Client: Vladimir Sorokin
+DOB: 04/17/1971
+Passport: RU-442198731
+US Taxpayer ID: 98-4421033
+Address: 1200 Brickell Ave Unit 4401, Miami, FL 33131
+Net Worth Declared: $47M (source: real estate holdings, Eastern Europe)
+
+Issue: Client unable to provide standard source-of-funds documentation. Requesting senior approval to proceed with $8.5M account opening.
+
+Note: Referred by board member James Whitmore — please handle sensitively.
+
+Robert Chen, Relationship Manager

@@ -1,0 +1,20 @@
+From: cto@nexacloud.io
+To: dev-leads@nexacloud.io
+Date: April 15, 2025
+Subject: CONFIDENTIAL - Security Breach Incident
+
+Team,
+
+We experienced a breach on 04/13/2025 at approximately 2:14 AM UTC.
+
+Compromised systems: Auth server, user DB (subset)
+Estimated affected users: ~14,000
+Data potentially exposed: emails, hashed passwords, last 4 digits of payment cards
+
+DO NOT disclose externally until legal review complete. PR firm engaged (IntelliPR, contact: Dawn Cole, 844-9933).
+
+Regulatory notification (GDPR/CCPA) deadline: 72 hours from discovery.
+
+All hands incident call: Today 5 PM EST.
+
+Marcus Reed, CTO

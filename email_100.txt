@@ -1,0 +1,20 @@
+From: ceo@nexagen-biotech.com
+To: head.research@nexagen-biotech.com
+Date: May 15, 2025
+Subject: TRADE SECRET - Compound NX-771 Synthesis Route
+
+TRADE SECRET - EYES ONLY
+
+Dr. Hoffman,
+
+As discussed, committing synthesis route to writing per your request. Keep this email in encrypted vault only — do not forward, print, or copy to unsecured systems.
+
+Compound: NX-771 (pending patent, application #US-2025-NX771-PROV)
+
+Key proprietary step: Asymmetric hydrogenation catalyst ratio — [Rh(COD)Cl]₂ at 0.5 mol% with BINAP ligand (S-enantiomer), solvent DCM:MeOH 3:1 at -15°C. This step is NOT in our published papers.
+
+Yield: 94% ee — this is our competitive advantage over Helix Bio who is stuck at 71% ee.
+
+Reminder: Dr. Patel's employment agreement includes trade secret non-disclosure and 5-year non-compete. If he leaves before Q3, we enforce immediately.
+
+CEO Nathan Cross

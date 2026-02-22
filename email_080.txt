@@ -1,0 +1,24 @@
+From: genetic.counselor@dnahealth.com
+To: patient.portal@dnahealth.com
+Date: April 29, 2025
+Subject: Genetic Test Results - Confidential - Patient Sarah Nolan
+
+HIPAA PROTECTED - GENETIC INFORMATION
+
+Patient: Sarah Nolan
+DOB: 05/14/1985
+MRN: DNA-44821
+SSN: 567-33-8812
+Insurance: Aetna (note: patient has elected NOT to submit to insurance per GINA concerns)
+Self-pay: $3,200
+
+Results Summary:
+- BRCA1 mutation: POSITIVE (pathogenic variant c.5266dupC)
+- Elevated lifetime risk of breast cancer: ~72%, ovarian cancer: ~44%
+
+Patient notified by phone 04/28/2025. Emotional support resources provided.
+Recommendation: Genetic oncology referral, enhanced screening, discuss prophylactic options.
+
+Note: Patient's mother and sister are unaware of their own potential risk — counseled patient on family communication.
+
+Genetic Counselor Dr. Amy Stern

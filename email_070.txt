@@ -1,0 +1,25 @@
+From: it.security@meridian-bank.com
+To: ciso@meridian-bank.com
+Date: May 6, 2025
+Subject: CRITICAL - Credential Compromise Alert
+
+CISO,
+
+Critical alert — immediate action required:
+
+At 03:12 AM today, our SIEM flagged successful login from foreign IP (91.234.182.44 — attributed to Russia) using credentials of:
+
+Employee: Thomas Park
+Title: Systems Administrator
+Username: tpark@meridian-bank.com
+Password hash cracked — plain: Meridian2024!
+Privileges: Domain Admin, full DB access
+
+Actions taken: Account disabled at 03:18 AM. Session terminated.
+Potential exposure window: 6 minutes. Database query logs show 3 SELECT statements on customer_accounts table.
+
+Estimated customers whose data may have been queried: ~8,400.
+
+Full forensics underway. Do NOT alert Thomas Park until HR/legal consulted.
+
+SOC Lead, R. Haines

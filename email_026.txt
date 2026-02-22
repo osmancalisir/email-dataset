@@ -1,0 +1,22 @@
+From: jennifer.walsh@cosmetic-surgeons.com
+To: billing@cosmetic-surgeons.com
+Date: February 25, 2025
+Subject: Patient Pre-Op Financial Clearance
+
+Billing,
+
+Clearing patient for surgery:
+
+Patient: Vanessa Reed
+DOB: 05/22/1987
+Insurance: United Healthcare #UHC-332-8821
+Procedure: Rhinoplasty + Blepharoplasty (CPT: 30400, 15820)
+Date: March 15, 2025
+
+Patient paying out of pocket for rhinoplasty ($7,200).
+Credit card authorized: Mastercard 5412 7734 9920 1104, exp 11/26, CVV 892
+
+Insurance covering blepharoplasty (pre-auth #UA-7743-2025).
+
+Jennifer Walsh
+Patient Coordinator

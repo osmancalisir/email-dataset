@@ -1,0 +1,22 @@
+From: sarah.kim@globalinvest.com
+To: compliance@globalinvest.com
+Date: March 18, 2025
+Subject: Confidential - Portfolio Rebalancing Instructions
+
+CONFIDENTIAL
+
+Please rebalance the following client portfolio per client authorization:
+
+Client: Robert Nguyen
+Account #: GI-00339214
+Portfolio Value: $2,340,000
+
+Instructions:
+- Liquidate 15% of AAPL holdings (~$87,000)
+- Purchase ETF: VTI ($50,000)
+- Move $37,000 to money market
+
+Client SSN on file: 701-32-6658
+Routing/Account for wire: 021000021 / 449302183
+
+Sarah Kim, Portfolio Manager

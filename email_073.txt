@@ -1,0 +1,22 @@
+From: forensic.accountant@treadwell-cpa.com
+To: attorney@litigation-firm.net
+Date: May 14, 2025
+Subject: Expert Report Draft - Privileged & Confidential
+
+ATTORNEY-CLIENT WORK PRODUCT
+
+Re: Precision Auto Group v. CFO Steven Whitfield
+Case #: COM-2025-4421
+
+Draft findings:
+- Unauthorized expense reimbursements: $287,000 over 3 years
+- Personal travel billed to company: $44,000 (documentation attached)
+- Related-party transactions with Whitfield's wife's company (Nexus Consulting LLC): $1.2M in contracts, no apparent services rendered
+
+Whitfield's personal accounts reviewed (subpoena #2025-SUB-0049):
+- Chase checking #992301882: $340,000 inflows inconsistent with salary
+- Offshore account (Cayman): flagged but not yet subpoenaed
+
+Report finalized pending your review. Do not share draft with client yet.
+
+Rachel Treadwell, CPA/CFF

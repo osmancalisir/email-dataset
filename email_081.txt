@@ -1,0 +1,22 @@
+From: data.broker@infomarket-solutions.com
+To: client.acquisition@targetedmedia.com
+Date: May 3, 2025
+Subject: Data Package Delivery - PII Dataset Invoice #IM-2025-0441
+
+Client,
+
+Your requested consumer data package has been processed:
+
+Package: Midwest Homeowners, Ages 45-65, HHI $80K+
+Records delivered: 244,000
+Fields included: Full name, home address, DOB, estimated income, mortgage balance, email, phone
+
+File location: SFTP drop: sftp.infomarket-solutions.com
+Credentials: user: client_44 / pass: DataDrv#2025
+
+Invoice: $12,200 (net 30)
+
+Please confirm receipt. Note: per our data license, records may not be re-sold or combined with health/financial data without addendum.
+
+Victor Ruiz
+Account Manager, InfoMarket Solutions

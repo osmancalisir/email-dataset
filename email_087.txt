@@ -1,0 +1,21 @@
+From: investor.relations@stealth-tech-startup.com
+To: vc.partner@horizonfund.vc
+Date: May 8, 2025
+Subject: CONFIDENTIAL - Pre-Term Sheet Data Room Access
+
+Dear Horizon Fund Team,
+
+Granting data room access for due diligence. Credentials:
+
+Platform: Datasite
+URL: https://datasite.com/stealth-tech-2025
+Username: horizon.due.diligence@horizonfund.vc
+Password: HorizonDR#2025!
+
+Contents: Cap table, financial model (2025-2030 projections), customer contracts (NDA required), patent filings (3 pending), team bios with compensation.
+
+CONFIDENTIAL: Revenue run rate $6.2M ARR. Key customer (50% of revenue): Microsoft (contract name redacted in public docs but visible in data room).
+
+Please do not share data room credentials. NDA on file covers all materials.
+
+CEO, Stealth Tech Inc.

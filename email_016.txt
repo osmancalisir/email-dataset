@@ -1,0 +1,24 @@
+From: brian.foster@techrecruit.io
+To: hiring@alphasoftware.com
+Date: March 7, 2025
+Subject: Candidate Background Check Results - Confidential
+
+Hiring Team,
+
+Background check complete for candidate:
+
+Name: Priya Sharma
+DOB: 04/19/1993
+SSN: 602-91-4478
+Address: 210 Elm Street, San Jose, CA 95101
+
+Results:
+- Criminal: Clear
+- Credit Score: 688 (one collection, $1,200 medical)
+- Employment gap 2021-2022 (confirmed: maternity leave)
+- Education: Verified MS Computer Science, Stanford 2018
+
+Recommend: Proceed with offer.
+
+Brian Foster
+TechRecruit Background Services
