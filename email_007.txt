@@ -21,3 +21,27 @@ Third-party driver: Sandra Perez, License: GA-DL-7834921
 
 Kevin Harris
 (404) 882-3301
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 5, 2025
+Subject: Auto Claim Submission [PERSON_2]
+
+[PERSON_28] [PERSON_7],
+
+[PERSON_15] find my accident claim details:
+
+[PERSON_6]: [PERSON_1]
+[PERSON_16] #: NSA-2291-KH
+[DATE_1]
+SSN: [PHONE_1]
+Address: 55 Oak Street, [PERSON_11], GA [ADDRESS_1] Date: 02/25/2025
+[PERSON_12]: 2021 [PERSON_25] Accord, VIN: 1HGCV1F34MA012345
+[PERSON_19] [PERSON_9]: [AMOUNT_1]
+
+Third-party driver: [PERSON_4], [PERSON_10]: GA-DL-[PHONE_2]
+
+[PERSON_5]
+[PHONE_3]

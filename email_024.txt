@@ -18,3 +18,26 @@ Please keep this letter confidential. Do not share with sellers directly as it m
 
 Ben Marshall
 Licensed Real Estate Agent, CA DRE #01993827
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 1, 2025
+Subject: Your Pre-Approval Letter & Financial Summary
+
+Hi [PERSON_7] & [PERSON_11],
+
+Your mortgage pre-approval details:
+
+Borrowers: [PERSON_2] & [PERSON_11] [PERSON_14]
+SSNs: [PHONE_1] / [PHONE_2]
+Combined [PERSON_8]: [AMOUNT_1]
+Pre-approved Amount: [AMOUNT_2]
+Lender: US Bank
+Pre-approval #: USB-2025-PP-44821
+
+[PERSON_9] keep this letter confidential. Do not share with sellers directly as it may weaken your [PERSON_3] position.
+
+[PERSON_1]
+[PERSON_6] [PERSON_15] [PERSON_10] Agent, CA DRE #[PHONE_3]

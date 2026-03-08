@@ -21,3 +21,27 @@ Suspicious transactions:
 Ms. Simmons is 79 years old — possible elder financial abuse.
 
 Please investigate immediately.
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 7, 2025
+Subject: Suspicious [PERSON_11] - [PERSON_14] #PB-[PHONE_1]
+
+[PERSON_19] [PERSON_22],
+
+[PERSON_12] unusual [PERSON_11] on the [PERSON_10] [PERSON_14]:
+
+[PERSON_14] [PERSON_17]: [PERSON_1]
+[DATE_1]
+[PERSON_25]: [PHONE_2]
+[PERSON_14] #: PB-[PHONE_1]
+Address: 7 Rosewood Court, [PERSON_20], FL [ADDRESS_1] [PERSON_3]:
+- 04/05/2025: [AMOUNT_1] wire to [PERSON_16] [PERSON_2] [PERSON_14]
+- [PERSON_8]: [AMOUNT_2] wire to [PERSON_23] [PERSON_14]
+([PERSON_9] [PERSON_3] possibly to avoid [AMOUNT_3] reporting)
+
+[PERSON_4] is 79 years old — possible elder financial abuse.
+
+[PERSON_18] investigate immediately.

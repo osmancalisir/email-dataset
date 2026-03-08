@@ -16,3 +16,24 @@ Advisors: Goldman Sachs (banker: William Park, wpark@gs.com), Skadden (legal)
 All communications on this matter to use encrypted email only. Code name: Project Falcon.
 
 CFO, Zephyr Pharmaceuticals
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 18, 2025
+Subject: [FINANCIAL_1] CONFIDENTIAL - M&A [PERSON_7] [PERSON_2]
+
+[PERSON_10] [PERSON_4],
+
+[PERSON_3] non-public [PERSON_2] — do not trade on this.
+
+We have entered LOI with acquisition [PERSON_7]: Helix Biotech (NASDAQ: HLXB)
+Agreed valuation: $[URL_3] ([PERCENTAGE_1] premium to current price)
+Announcement planned: May 2, 2025 (pre-market)
+
+Advisors: Goldman Sachs (banker: William Park, [EMAIL_3]), [PERSON_6] (legal)
+
+All communications on this matter to use encrypted email only. Code name: [PERSON_5] Falcon.
+
+[PERSON_12], [PERSON_9] [PERSON_1]

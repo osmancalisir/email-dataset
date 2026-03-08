@@ -22,3 +22,30 @@ Benefits elections: Medical (family), Dental, 401k at 6%
 
 Maria Gutierrez
 HR Director
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 25, 2025
+Subject: [PERSON_17] [PERSON_14] [PERSON_7] [PERSON_11]
+
+[PERSON_7] [PERSON_15],
+
+[PERSON_10] set up direct deposit for [PERSON_17] [PERSON_14]:
+
+Name: [PERSON_1]
+[PERSON_6] ID: OL-00512
+SSN: [PHONE_1]
+Start Date: April 1, 2025
+Annual Salary: [AMOUNT_1]
+Department: Operations
+
+Bank: Wells Fargo
+Routing: [PHONE_2]
+Account: [PHONE_3]
+
+Benefits elections: Medical (family), Dental, 401k at 6%
+
+[PERSON_2]
+HR [PERSON_4]

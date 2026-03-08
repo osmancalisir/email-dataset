@@ -23,3 +23,31 @@ Wire sent 05/06/2025. Recall request filed same day — bank reports funds alrea
 Covered under social engineering rider: Yes, up to $1M. Recommend full claim approval pending forensics.
 
 Investigator T. Moore
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 14, 2025
+Subject: BEC Claim Review - [PERSON_13] [PERSON_6]
+
+[PERSON_12] [PERSON_17],
+
+[PERSON_10] Email [PERSON_7] claim review:
+
+Insured: Norwood [PERSON_4] Firm
+[PERSON_13] #: CYB-88321
+CFO: [PERSON_2] ([EMAIL_3])
+
+Incident: CFO received spoofed email from "CEO" (CEO email: [EMAIL_4] — domain: [URL_5], not .com). Was instructed to [PERSON_19] [AMOUNT_1] for "acquisition."
+
+[PERSON_19] details (fraudulent beneficiary):
+- Bank: First International Bank, Hong Kong
+- SWIFT: [FINANCIAL_1]
+- Account: [PHONE_1]
+
+[PERSON_19] sent 05/06/2025. Recall request filed same day — bank reports funds already moved.
+
+Covered under social engineering rider: Yes, up to [AMOUNT_2]. Recommend full claim approval [PERSON_11] forensics.
+
+[PERSON_1]

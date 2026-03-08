@@ -22,3 +22,30 @@ Recommendation: Genetic oncology referral, enhanced screening, discuss prophylac
 Note: Patient's mother and sister are unaware of their own potential risk — counseled patient on family communication.
 
 Genetic Counselor Dr. Amy Stern
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 29, 2025
+Subject: [PERSON_18] Test [PERSON_20] - Confidential - [PERSON_19] [PERSON_5]
+
+[PERSON_30] [PERSON_9] - [PERSON_18] [PERSON_6]
+
+[PERSON_19]: [PERSON_5]
+[DATE_1]
+MRN: DNA-44821
+SSN: [PHONE_1]
+[PERSON_11]: [PERSON_29] ([PERSON_33]: [PERSON_19] [PERSON_37] [PERSON_21] [PERSON_36] to submit to [PERSON_11] per [PERSON_31] concerns)
+Self-pay: [AMOUNT_1]
+
+[PERSON_20] Summary:
+- BRCA1 mutation: [PERSON_17] (pathogenic variant [URL_4])
+- Elevated lifetime risk of breast [PERSON_24]: ~[PERCENTAGE_1], ovarian [PERSON_24]: [PERSON_34]
+
+[PERSON_19] [PERSON_12] by phone 04/28/2025. Emotional support resources provided.
+[PERSON_2]: [PERSON_18] [PERSON_14] [PERSON_15], enhanced screening, discuss prophylactic options.
+
+[PERSON_33]: [PERSON_19]'s [PERSON_25] and sister are unaware of their own potential risk — [PERSON_10] [PERSON_19] on [PERSON_26] communication.
+
+[PERSON_18] [PERSON_1]

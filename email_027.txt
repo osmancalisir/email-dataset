@@ -15,3 +15,22 @@ IMPORTANT: These credentials expire Monday 3/12 at 8AM. Do not share externally.
 
 IT Admin Team
 Helpdesk: ext. 5500
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 10, 2025
+Subject: System Migration - Temporary [PERSON_1]
+
+[PERSON_9] [PERSON_5],
+
+[PERSON_4] [PERSON_7] weekend's system migration, use the following temporary admin [PERSON_1]:
+
+Portal: https://intranet.[URL_2]
+[API_KEY_1]
+[API_KEY_2]!
+
+IMPORTANT: [PERSON_6] [PERSON_1] expire Monday 3/12 at 8AM. Do not share externally. VPN required.
+
+IT Admin [CALLSIGN_1]: ext. 5500

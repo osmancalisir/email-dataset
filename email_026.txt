@@ -20,3 +20,28 @@ Insurance covering blepharoplasty (pre-auth #UA-7743-2025).
 
 Jennifer Walsh
 Patient Coordinator
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: February 25, 2025
+Subject: [PERSON_18] Pre-Op [PERSON_6] [PERSON_7]
+
+[PERSON_17],
+
+[PERSON_13] [PERSON_18] for surgery:
+
+[PERSON_18]: [PERSON_3]
+[DATE_1]
+[PERSON_8]: United [PERSON_5] #UHC-[PHONE_1]
+[PERSON_10]: Rhinoplasty + Blepharoplasty (CPT: 30400, 15820)
+Date: March 15, 2025
+
+[PERSON_18] paying out of pocket for rhinoplasty ([AMOUNT_1]).
+Credit card authorized: Mastercard [FINANCIAL_1], [FINANCIAL_3], [FINANCIAL_2]
+
+[PERSON_8] covering blepharoplasty ([PERSON_14] #UA-[PHONE_2]).
+
+[PERSON_1]
+[PERSON_18] [PERSON_4]

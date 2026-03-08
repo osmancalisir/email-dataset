@@ -16,3 +16,24 @@ Health: recently diagnosed with early Parkinson's — may affect capacity decisi
 Handle with care.
 
 Rachel
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 8, 2025
+Subject: VIP Client [PERSON_9] - Internal Only
+
+[PERSON_2],
+
+[PERSON_6] up on client [PERSON_1] #SW-8847):
+
+Net worth approximately $[URL_4]. He's sensitive about his divorce proceedings — his ex-wife's attorney has been fishing for financial info. Do [PERSON_11] share any account details externally.
+
+His primary account: $[URL_5] managed
+[PERSON_4] concern: tax issues with IRS (back taxes ~[AMOUNT_3], currently in negotiation)
+Health: recently diagnosed with early Parkinson's — may affect capacity decisions soon.
+
+[PERSON_5] with care.
+
+[PERSON_3]

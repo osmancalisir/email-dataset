@@ -22,3 +22,28 @@ Estimated cost: $28,000
 Emergency contact: Mother, Patricia Lane, (615) 773-0049. Note: patient does not want father notified.
 
 Dr. Anil Patel, Addiction Medicine
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 27, 2025
+Subject: Treatment Authorization Request - CONFIDENTIAL
+
+[PERSON_5] [PERSON_18],
+
+[PERSON_4] authorization for inpatient treatment:
+
+Patient: Christopher [PERSON_21]
+[DATE_1]
+[PERSON_23]: [PHONE_1]
+[PERSON_5]: [PERSON_15] [PERSON_19] #[MIL_PLATFORM_1]-CL91
+Address: 14 Ridgecrest Rd, [PERSON_7], TN [ADDRESS_1] info: Opioid use disorder ([URL_4]), alcohol use disorder ([URL_5]), co-occurring major depression ([URL_6]). Current daily fentanyl use, IV route.
+
+Recommended: 28-day inpatient detox + residential treatment (ASAM Level [URL_7])
+Facility: [PERSON_13] Recovery Center, [PERSON_7]
+Estimated cost: [AMOUNT_1]
+
+Emergency contact: Mother, [PERSON_11] [PERSON_21], [PHONE_2]. [PERSON_22]: patient does [PERSON_25] want father notified.
+
+[PERSON_1], [PERSON_6] [PERSON_8]

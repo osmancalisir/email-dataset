@@ -19,3 +19,26 @@ Bank subpoena authorized for: Chase Business #88320019, Wells Fargo #44219093
 Assign field agent. In-person audit preferred.
 
 Revenue Agent P. Sullivan, IRS Field Division
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 5, 2025
+Subject: [PERSON_15] [PERSON_5] - [PERSON_18] [PERSON_1]
+
+[PERSON_18] [PERSON_10],
+
+[PERSON_22] [PERSON_15] [PERSON_5]:
+
+Taxpayer: Daniel & Susan [PERSON_4]
+SSNs: [PHONE_1] / [PHONE_2]
+Address: 77 [PERSON_8] [PERSON_16], [PERSON_6], AZ [PHONE_3] AGI: [AMOUNT_1]
+Flagged: Business deductions [AMOUNT_2] appear inflated; [PERSON_9] C losses claimed 4 consecutive years
+
+Business: [PERSON_4] Consulting LLC (EIN: [PHONE_4])
+Bank subpoena authorized for: [PERSON_3] #[PHONE_5], Wells Fargo #[PHONE_6]
+
+Assign field agent. In-person [PERSON_15] preferred.
+
+[PERSON_13] [PERSON_2], IRS Field Division

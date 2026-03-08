@@ -20,3 +20,28 @@ Please confirm receipt. Note: per our data license, records may not be re-sold o
 
 Victor Ruiz
 Account Manager, InfoMarket Solutions
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 3, 2025
+Subject: Data [PERSON_2] Delivery - PII Dataset [PERSON_3] #IM-[PHONE_1]
+
+Client,
+
+Your requested consumer data [PERSON_2] has been processed:
+
+[PERSON_2]: Midwest Homeowners, Ages 45-65, HHI [AMOUNT_1]+
+Records delivered: 244,000
+Fields included: Full name, home address, DOB, estimated income, mortgage balance, email, phone
+
+File location: SFTP drop: [API_KEY_3]
+Credentials: [API_KEY_1] / [API_KEY_2]
+
+[PERSON_3]: [AMOUNT_2] ([PAYMENT_TERM_1])
+
+[PERSON_6] confirm receipt. [PERSON_8]: per our data license, records may [PERSON_9] be re-sold or combined with health/financial data without addendum.
+
+[PERSON_1]
+Account Manager, InfoMarket Solutions

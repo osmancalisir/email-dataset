@@ -19,3 +19,26 @@ Issue: Client unable to provide standard source-of-funds documentation. Requesti
 Note: Referred by board member James Whitmore — please handle sensitively.
 
 Robert Chen, Relationship Manager
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 1, 2025
+Subject: CONFIDENTIAL - Client KYC [PERSON_8] Request
+
+[PERSON_6] [PERSON_21],
+
+[PERSON_7] KYC [PERSON_8] for the following high-net-worth client:
+
+Client: [PERSON_1]
+[DATE_1]
+Passport: RU-[PHONE_1]
+US Taxpayer ID: [PHONE_2]
+Address: 1200 Brickell Ave Unit 4401, [PERSON_17], FL [ADDRESS_1] Worth Declared: [AMOUNT_1] (source: real estate holdings, Eastern [PERSON_15])
+
+[PERSON_19]: Client unable to provide standard source-of-funds documentation. [PERSON_7] senior approval to proceed with $[URL_3] account opening.
+
+[PERSON_24]: Referred by board member [PERSON_2] please [PERSON_14] sensitively.
+
+[PERSON_4], [PERSON_3] [PERSON_11]

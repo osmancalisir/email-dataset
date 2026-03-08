@@ -18,3 +18,26 @@ Academic impact: GPA dropped from 3.8 to 2.9 this semester.
 Media risk: Robert Monroe is a local public figure (city council). Handle with full discretion.
 
 Principal James Owens
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 24, 2025
+Subject: CONFIDENTIAL - Student Incident & [PERSON_11] [PERSON_8]
+
+[PERSON_15] [PERSON_16],
+
+[PERSON_9] a sensitive student [PERSON_8]:
+
+Student: [PERSON_2], [PERSON_20] 11
+[DATE_1]
+[PERSON_11] [PERSON_8]: Parents divorcing. [PERSON_1]) has a restraining order against mother ([PERSON_3]). Both attempting to pick up student — legal [CALLSIGN_1] custody order only.
+
+Incident: [PERSON_10] disclosed to school counselor that she has been self-harming (cutting). Parents notified per protocol. Student is now in weekly therapy (external provider).
+
+Academic impact: GPA dropped from [URL_3] to [URL_4] this semester.
+
+[PERSON_22] risk: [PERSON_4] is a local public figure (city council). [PERSON_14] with [PERSON_24] discretion.
+
+[PERSON_7] [PERSON_5]

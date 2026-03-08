@@ -23,3 +23,30 @@ Out of pocket per cycle agreement: $14,500 (card on file ending 3391)
 Please flag any abnormal results directly to me before notifying patient.
 
 Dr. Sophia Kim, MD
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 17, 2025
+Subject: Patient [PERSON_12] Processing - [PERSON_22] [PERSON_13]
+
+[PERSON_20],
+
+[PERSON_10] [PERSON_9] samples for:
+
+Patient: [PERSON_1]
+[DATE_1]
+MRN: FS-[ADDRESS_1]: [PERSON_3], [DATE_2]
+
+[PERSON_13] Type: [PERSON_22] - Egg Retrieval
+Date: March 17, 2025
+Eggs Retrieved: 11
+Fertilization target: [PERSON_18]
+
+[PERSON_6]: [PERSON_19] Shield, pre-auth #[CONTRACT_1]
+Out of pocket per [PERSON_13] agreement: [AMOUNT_1] (card on file ending 3391)
+
+[PERSON_10] flag any abnormal results directly to me before notifying patient.
+
+[PERSON_2], MD

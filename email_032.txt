@@ -15,3 +15,23 @@ I have witnessed portfolio manager Craig Nelson (employee ID MCM-0441) trading a
 I can provide more details securely. Please advise.
 
 Anonymous Employee
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 1, 2025
+Subject: Anonymous Report - Insider Trading Concern
+
+To Whom It May Concern,
+
+I am a current [PERSON_2] at Meridian Capital (I prefer to remain anonymous but will identify as W-[PHONE_1] for follow-up).
+
+I have witnessed portfolio manager [PERSON_1] ([PERSON_2] ID MCM-0441) trading ahead of client orders in his personal brokerage account (I believe at Fidelity). Specific instances:
+
+- 02/12/2025: Purchased 2,000 shares of NRXT before large client buy order
+- 03/05/2025: Shorted PLXT before negative research note release
+
+I can provide more details securely. [PERSON_4] advise.
+
+Anonymous [PERSON_2]

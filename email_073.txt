@@ -20,3 +20,28 @@ Whitfield's personal accounts reviewed (subpoena #2025-SUB-0049):
 Report finalized pending your review. Do not share draft with client yet.
 
 Rachel Treadwell, CPA/CFF
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 14, 2025
+Subject: Expert Report Draft - Privileged & Confidential
+
+[FINANCIAL_1]-CLIENT WORK PRODUCT
+
+Re: Precision Auto Group v. CFO [PERSON_1]
+[PERSON_7] #: COM-[PHONE_1]
+
+Draft findings:
+- Unauthorized expense reimbursements: [AMOUNT_1] over 3 years
+- Personal travel billed to company: [AMOUNT_2] (documentation attached)
+- Related-party transactions with Whitfield's wife's company ([COMPANY_1]): $[URL_4] in contracts, no apparent services rendered
+
+Whitfield's personal accounts reviewed (subpoena #2025-SUB-0049):
+[PERSON_4] checking #[PHONE_2]: [AMOUNT_4] inflows inconsistent with salary
+- [PERSON_3] account (Cayman): flagged but not yet subpoenaed
+
+Report finalized pending your review. Do not share draft with client yet.
+
+[PERSON_2], CPA/CFF

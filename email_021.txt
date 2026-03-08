@@ -15,3 +15,23 @@ Please advise on shareholder agreement enforcement. Do not contact Sasha directl
 
 Grace Lin
 VP, Portfolio Operations
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 11, 2025
+Subject: Founder [PERSON_7] - Confidential
+
+[PERSON_11] [PERSON_15],
+
+Confidential communication re: co-founder [PERSON_7] at [PERSON_4] company BrightAI.
+
+Facts: CEO [PERSON_1] (SSN: [PHONE_1]) is seeking to remove co-founder [PERSON_2] (SSN: [PHONE_2]) citing breach of fiduciary duty. 
+
+[PERSON_10] has retained separate counsel. The concern involves [AMOUNT_1] in allegedly unauthorized company expenditures.
+
+[PERSON_9] advise on shareholder agreement enforcement. Do not contact [PERSON_10] directly.
+
+[PERSON_3]
+VP, [PERSON_4] Operations

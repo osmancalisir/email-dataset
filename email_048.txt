@@ -19,3 +19,27 @@ Suite: Grand Hotel Ravello, pre-paid ($28,000)
 Flight: Private charter from Dulles, arranged under Sato name
 
 Do NOT include Senator's name on any documentation. Charge all to corporate card ending 7823.
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 20, 2025
+Subject: [PERSON_15] Client Itinerary - Confidential
+
+[PERSON_4] [PERSON_14],
+
+[PERSON_15] client itinerary — handle with full discretion:
+
+Client: [PERSON_1]: travel must not appear in press)
+Travel dates: May 10-17, 2025
+Destination: [PERSON_8] Coast, Italy
+
+Passport: US-J[PHONE_1]
+[DATE_1]
+Traveling with: [PERSON_2] (not his spouse — full discretion required)
+
+[PERSON_11]: Grand Hotel Ravello, pre-paid ([AMOUNT_1])
+Flight: Private charter from Dulles, arranged under [PERSON_13] name
+
+Do NOT include Senator's name on any documentation. [PERSON_9] all to corporate card ending 7823.

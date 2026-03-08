@@ -20,3 +20,28 @@ Background check consent form attached — requires SSN (last 4: 9912 on applica
 Your start date is March 3, 2025. Contact hr@healthplex-hospital.com with questions.
 
 HR Team
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: February 18, 2025
+Subject: Onboarding Documents Required
+
+Dear [PERSON_1],
+
+[PERSON_8] to HealthPlex! [PERSON_12] submit the following to complete your onboarding:
+
+[PERSON_6] ID: HP-09231
+NPI #: [PHONE_1] (on file)
+DEA [PERSON_10]: [PERSON_12] provide a copy
+[PERSON_3] [PERSON_5]: Minimum [AMOUNT_1]/[AMOUNT_2] coverage required
+
+Direct Deposit: 
+[PERSON_12] submit bank routing and account number via HR portal.
+
+Background check consent form attached — requires SSN (last 4: 9912 on application).
+
+Your start date is March 3, 2025. Contact [EMAIL_1] with questions.
+
+HR Team

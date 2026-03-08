@@ -18,3 +18,26 @@ Internal note (do NOT disclose): Our project manager, Rick Delano, was aware of 
 Please advise on whether proactive disclosure is advisable vs. waiting for them to initiate.
 
 VP Finance, Omega Construction
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 11, 2025
+Subject: [PERSON_4] - Contract [PERSON_9] Pre-Lit [PERSON_5]
+
+[PERSON_1] [PERSON_4]
+
+[PERSON_7],
+
+Confidential [PERSON_5] memo for anticipated [PERSON_9] with Baxter Development:
+
+Background: We overbilled Baxter by approximately $[URL_5] due to a subcontractor billing error (not intentional). Baxter has discovered the discrepancy and is threatening litigation.
+
+Our position: We prefer to quietly refund $[URL_6] and negotiate away the remaining [AMOUNT_3] in exchange for a mutual release.
+
+Internal note (do NOT disclose): Our project manager, [PERSON_3], was aware of the overbilling for 3 months before flagging it internally. This creates potential exposure.
+
+[PERSON_11] advise on whether proactive disclosure is advisable vs. waiting for them to initiate.
+
+VP [PERSON_8], [PERSON_13] [PERSON_2]

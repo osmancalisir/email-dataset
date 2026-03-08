@@ -21,3 +21,29 @@ Background check pre-screen:
 Candidate is highly qualified. Recommend proceeding with interviews. Do not contact her employer.
 
 Diana Lawson, Executive Recruiter
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 5, 2025
+Subject: CEO [PERSON_7] [PERSON_18] - [PERSON_11] Confidential
+
+[PERSON_19] [PERSON_5],
+
+Confidential [PERSON_7] [PERSON_18] for CEO position:
+
+[PERSON_7]: [PERSON_1]
+[DATE_1]
+[PERSON_17] Employer: [PERSON_9] Global (MUST NOT be contacted as [PERSON_10] — she is not public [PERSON_22] [PERSON_26] [PERSON_19])
+[PERSON_17] [PERSON_3]: $[URL_4] total (base [AMOUNT_2] + bonus + equity)
+Expected: $[URL_5]+ + relocation package
+
+Background check pre-screen:
+- DUI: 2011 (resolved, no recurrence)
+- Past lawsuit: 2018 employment dispute (settled confidentially for [AMOUNT_4])
+- [PERSON_10] concern: One board member at [PERSON_17] company described "difficult management style"
+
+[PERSON_7] is highly qualified. Recommend proceeding with interviews. Do not contact [PERSON_26] employer.
+
+[PERSON_2], [PERSON_8] [PERSON_6]

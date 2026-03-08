@@ -20,3 +20,26 @@ Payment: $40,000 deposit received (CC ending 8821). Balance $45,000 due day of e
 Special note: Bride's father (Mr. Eduardo Santos) has dementia — please assign a staff liaison to assist him during event.
 
 Wedding Coordinator
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 21, 2025
+Subject: [PERSON_9] [PERSON_14] Details - May 24
+
+Hi [PERSON_6],
+
+Details for the [PERSON_7] [PERSON_9] [PERSON_5]:
+
+[PERSON_11]: Anthony & [PERSON_16] [PERSON_8]
+Contact: [PHONE_1] / [EMAIL_3]
+Address: 54 Park Ave, Brooklyn, NY [ADDRESS_1] count: 220
+Budget: [AMOUNT_1]
+Dietary restrictions: 12 kosher meals, 8 vegan, 3 severe nut allergies (guests: table 7)
+
+Payment: [AMOUNT_2] deposit received (CC ending 8821). [PERSON_10] [AMOUNT_3] due day of event.
+
+Special note: [PERSON_17]'s [PERSON_1]) has dementia — please assign a staff liaison to assist him [PERSON_12] event.
+
+[PERSON_9] [PERSON_4]

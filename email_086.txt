@@ -22,3 +22,30 @@ Potentially suitable organs: Heart, liver, kidneys, lungs (no known malignancy, 
 Please have coordinator on standby. Approach family conversation to be led by attending, Dr. Morrow, with OPO coordinator present.
 
 Transplant Coordinator R. James
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 10, 2025
+Subject: Potential Donor Referral - [PERSON_19] [PERSON_6]
+
+[PERSON_24] Team,
+
+Urgent referral:
+
+Patient: [PERSON_2]
+[DATE_1]
+MRN: UH-338821
+SSN: [PHONE_1]
+Blood Type: A+
+Current Status: Brain death determination pending (neurology evaluation at 3 PM today)
+
+Next of Kin: [PERSON_20], [PERSON_7], [PHONE_2] — has not yet been approached regarding donation
+[PERSON_17] of death: [PERSON_11] ischemic stroke
+
+Potentially suitable organs: Heart, liver, kidneys, lungs (no known malignancy, non-smoker)
+
+[PERSON_13] [PERSON_18] [PERSON_3] on standby. Approach family conversation to be led by attending, [PERSON_4], with [PERSON_24] [PERSON_3] present.
+
+[PERSON_5] [PERSON_1]

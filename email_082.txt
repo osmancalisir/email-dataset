@@ -19,3 +19,27 @@ Evidence chain-of-custody: Substance in DEA lab #LA-44. Recording device footage
 Do NOT share UC identity with local PD — risk of compromise.
 
 Handler SA T. Morris
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 9, 2025
+Subject: UC Operation Report - [PERSON_6]: [PERSON_17] [PERSON_18]
+
+LAW [FINANCIAL_1] [PERSON_4]
+
+Operation: [PERSON_17] [PERSON_18] (#DEA-2025-BT-0034)
+UC Officer: [PERSON_1] protected)
+
+Operational update: UC officer successfully met with subject [PERSON_12] "El Gato" [PERSON_10] (DOB est. 1981, no ID confirmed) at 440 Harbor Street warehouse on 05/08/2025 at 11 PM.
+
+Transaction: UC purchased 2kg of fentanyl analogue for [AMOUNT_1] (buy funds authorized under #DEA-BF-[PHONE_1]). Serial numbers recorded.
+
+Next meeting: May 16, same location. Subject offered connection to supplier.
+
+[PERSON_8] chain-of-custody: [PERSON_3] in [PERSON_19] [PERSON_20] #[MIL_PLATFORM_1]. Recording device footage: File BT-[PHONE_2].
+
+Do NOT share UC identity with local PD — risk of compromise.
+
+[COMPANY_1] [PERSON_2]

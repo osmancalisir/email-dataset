@@ -18,3 +18,26 @@ I strongly recommend admission to the honors track.
 
 Elena Brooks
 Current School Counselor
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: February 12, 2025
+Subject: Student Application - Confidential [PERSON_3]
+
+[PERSON_15] [PERSON_5],
+
+I'm providing this confidential [PERSON_3] for applicant:
+
+Name: [PERSON_1]
+[DATE_1] (age 13)
+Parent: [PERSON_2], SSN provided on financial aid form: [PHONE_1]
+Household [PERSON_11]: [AMOUNT_1] (financial aid requested)
+
+Academic notes: [PERSON_7] is exceptionally gifted (IQ assessment: 148 on file). He has ADHD (diagnosed, on Adderall 15mg) and benefits from extended time accommodations.
+
+I strongly recommend admission to the [PERSON_9] track.
+
+[PERSON_4]
+[PERSON_6] [PERSON_10] Counselor

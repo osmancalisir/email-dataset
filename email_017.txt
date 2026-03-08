@@ -19,3 +19,27 @@ Bank for refund routing: 322271627 / Account: 9983001122
 Please review and approve by April 10.
 
 Paul Henderson, CPA
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: [PERSON_10] 3, 2025
+Subject: 2024 Tax Return - Client [PERSON_1]
+
+Client File: [PERSON_1]
+SSN: [PHONE_1]
+[DATE_1]
+Filing Status: Married Filing Jointly
+[PERSON_7]: [PERSON_5], SSN: [PHONE_2]
+
+2024 [PERSON_8]: [AMOUNT_1]
+Federal Tax Owed: [AMOUNT_2]
+[PERSON_15] (CA): [AMOUNT_3]
+[PERSON_3] Due: [AMOUNT_4] due
+
+Bank for refund routing: [PHONE_3] / Account: [PHONE_4]
+
+[PERSON_9] review and approve by [PERSON_10] 10.
+
+[PERSON_2], [PERSON_19]

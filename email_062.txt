@@ -22,3 +22,28 @@ Creditor meeting (341 hearing): June 3, 2025, 10 AM
 All creditor claims due by June 30.
 
 Patricia Marsh, Chapter 7 Trustee
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 9, 2025
+Subject: [PERSON_12] #BK-[PHONE_1] - Debtor Asset [PERSON_1]
+
+Creditor Notice,
+
+[PERSON_12]: In re: Raymond & [PERSON_8] [PERSON_7]
+[PERSON_12] #: BK-[PHONE_1] ([PERSON_5] 7)
+Debtor SSNs: [PHONE_2] / [PHONE_3]
+Address: 22 Pinewood Ave, Hartford, CT [ADDRESS_1] identified:
+- Checking account (Citizens Bank): [AMOUNT_1]
+- 2019 [PERSON_9] Camry (value: [AMOUNT_2])
+- 401k (exempt under CT law): [AMOUNT_3]
+- Vacation home, Vermont: [AMOUNT_4] (non-exempt — pending sale)
+
+Total unsecured debt: [AMOUNT_5]
+Creditor meeting (341 hearing): [PERSON_14] 3, 2025, 10 AM
+
+All creditor claims due by [PERSON_14] 30.
+
+[PERSON_3] Marsh, [PERSON_5] 7 [PERSON_4]

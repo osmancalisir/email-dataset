@@ -14,3 +14,22 @@ I have documentation — internal memos dated March 2025 and an email chain show
 I am willing to be a confidential source. Do not call me at my office number. Use encrypted contact only. My identity if ever needed: [Withheld pending agreement]
 
 Please investigate before the NDA filing scheduled for May 30.
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 10, 2025
+Subject: Tip - [PERSON_4] Misconduct (Confidential [PERSON_10])
+
+[PERSON_9],
+
+I am a current employee at Halcyon Biotech and need to share what I know. [PERSON_11] protect my identity.
+
+CEO [PERSON_2] ([DATE_1]) has been instructing the clinical team to selectively report trial data for drug compound HB-2241. [PERSON_7] cardiac events in 4 patients were omitted from the Q1 summary submitted to the FDA.
+
+I have documentation — internal memos dated March 2025 and an email chain showing [PERSON_1] (CMO) raising concerns and being overruled.
+
+I am willing to be a confidential source. Do not call me at my office number. Use encrypted contact only. My identity if ever needed: [Withheld pending agreement]
+
+[PERSON_11] investigate before the NDA filing scheduled for May 30.

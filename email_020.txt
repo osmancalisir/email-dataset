@@ -17,3 +17,25 @@ Blind not broken — escalate to medical monitor.
 
 Nadia Petrov
 Clinical Data Manager
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 14, 2025
+Subject: [PERSON_14] Participant Data - Strictly Confidential
+
+[PERSON_3] - [PERSON_4] [PERSON_14] DATA
+
+[PERSON_14]: PCT-2025-CARDIO-7
+Participant #: CT-0034
+Name: [PERSON_1] (consented to name use)
+[DATE_1]
+SSN: [PHONE_1]
+[PERSON_8] Event Reported: Irregular heartbeat (Day 14 of dosing)
+
+[PERSON_12] Group: Arm B (40mg experimental compound [MIL_PLATFORM_1])
+Blind not broken — escalate to [PERSON_5] monitor.
+
+[PERSON_2]
+[PERSON_4] Data [PERSON_7]

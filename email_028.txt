@@ -19,3 +19,27 @@ Court date: May 5, 2025. All parties to receive separate notifications.
 
 Patricia Gomez
 Case Coordinator
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 9, 2025
+Subject: Confidential - Adoption [PERSON_14] [PERSON_12] #AC-[PHONE_1]
+
+[PERSON_14] Workers,
+
+[PERSON_12] on pending adoption:
+
+[PERSON_7] Parents: Steven & Carol Haines, 44 Lakeview Dr, Minneapolis, MN 55401
+[PERSON_16] Study: Passed (Feb 2025)
+Background: Clear
+
+Birth Mother: [Redacted per request], [DATE_1], currently residing at shelter. SSN: [PHONE_2]
+
+Child: Baby Boy, [DATE_2], currently in [PERSON_10] care with the [PERSON_4] family.
+
+Court date: May 5, 2025. All parties to receive [PERSON_6] notifications.
+
+[PERSON_1]
+[PERSON_14] [PERSON_3]

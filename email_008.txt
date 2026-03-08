@@ -22,3 +22,30 @@ Full financials attached. Password: BF$ecure2025
 
 Regards,
 Amanda Chen, CEO
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 10, 2025
+Subject: CONFIDENTIAL - Q1 Financials & Series B Details
+
+[PERSON_8] [PERSON_4],
+
+[PERSON_3] confidential — do not forward.
+
+Q1 [PERSON_5]: $[URL_2] (up [PERCENTAGE_1] YoY)
+Burn [PERSON_11]: [AMOUNT_2]/month
+Runway: 14 months
+
+Series B Term Sheet received from Vertex Capital:
+- Valuation: [AMOUNT_3] pre-money
+- Investment: [AMOUNT_4]
+- Lead investor contact: [PERSON_1], [EMAIL_3]
+
+Founder equity post-dilution: [URL_4]%
+
+Full financials attached. [API_KEY_1]
+
+Regards,
+[PERSON_2], [PERSON_12]

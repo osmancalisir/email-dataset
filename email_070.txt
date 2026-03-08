@@ -23,3 +23,31 @@ Estimated customers whose data may have been queried: ~8,400.
 Full forensics underway. Do NOT alert Thomas Park until HR/legal consulted.
 
 SOC Lead, R. Haines
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 6, 2025
+Subject: [PERSON_3] - Credential [PERSON_1] Alert
+
+[PERSON_12],
+
+[PERSON_3] alert — immediate action required:
+
+At 03:12 AM today, our SIEM flagged successful [API_KEY_1] foreign IP ([URL_3] — attributed to [PERSON_10]) using credentials of:
+
+[PERSON_4]: Thomas Park
+Title: Systems Administrator
+[API_KEY_2]
+Password hash cracked — plain: Meridian2024!
+Privileges: Domain Admin, full DB access
+
+Actions taken: Account disabled at 03:18 AM. Session terminated.
+Potential exposure window: 6 minutes. [PERSON_6] query logs show 3 SELECT statements on customer_accounts table.
+
+Estimated customers whose data may have been queried: ~8,400.
+
+Full forensics underway. Do NOT alert Thomas Park until HR/legal consulted.
+
+SOC Lead, R. Haines

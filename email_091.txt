@@ -21,3 +21,29 @@ Credit when she applied: 659. Current situation likely worse.
 Recommendation: Serve 3-day pay or quit, proceed with eviction if not cured. Consult attorney before any action.
 
 Property Manager G. Sawyer
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 7, 2025
+Subject: Tenant [PERSON_13] - Unit 4C - Confidential
+
+[PERSON_12],
+
+Confidential [PERSON_8] on tenant:
+
+Unit: 4C
+Tenant: [PERSON_1], [DATE_1]
+SSN on application: [PHONE_1]
+[PERSON_14]: Through December 2025, Rent: [AMOUNT_1]/month
+
+[PERSON_13]: [PERSON_15] late payments in 5 months. Tenant disclosed she lost job in February.
+
+Additional concern: Neighbor complaint — unfamiliar individuals entering unit at odd hours. [PERSON_4] unauthorized occupant (boyfriend with prior eviction history — name: [PERSON_2], I ran informal check).
+
+Credit when she applied: 659. Current situation likely worse.
+
+Recommendation: [PERSON_16] 3-day pay or quit, proceed with eviction if not cured. Consult attorney before any action.
+
+Property [PERSON_5] G. [PERSON_10]

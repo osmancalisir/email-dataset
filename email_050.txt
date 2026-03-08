@@ -19,3 +19,27 @@ Budget: Up to $25,000. Report due within 3 weeks.
 Do not contact subject or anyone who may tip him off.
 
 CEO, Alpha Capital Private
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 22, 2025
+Subject: Confidential Investigation Request
+
+PRIVILEGED & CONFIDENTIAL
+
+We require discreet background investigation on the following individual prior to partnership agreement:
+
+Subject: [PERSON_1]
+[DATE_1]
+Last Known Address: 888 Park Blvd, [PERSON_4], FL 33101
+SSN (provided by subject on application): [PHONE_1]
+
+Areas of interest: Prior business litigation, undisclosed partnerships, offshore accounts, personal relationships that may create conflicts of interest.
+
+Budget: Up to [AMOUNT_1]. Report due within 3 weeks.
+
+Do not contact subject or anyone who may tip [PERSON_8] off.
+
+[PERSON_7], [PERSON_3] [PERSON_2] Private

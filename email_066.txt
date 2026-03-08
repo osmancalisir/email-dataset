@@ -21,3 +21,29 @@ Estate attorney: Frank Doyle, Esq., (617) 332-0049
 Hold all transactions pending probate clearance. Do not discuss account details with any third parties including deceased's ex-husband Kenneth Sullivan.
 
 Portfolio Manager Diane West
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 10, 2025
+Subject: Deceased Client [PERSON_7] Transition - Confidential
+
+[PERSON_13] [PERSON_8],
+
+[PERSON_5] [PERSON_7] following client death:
+
+Deceased: [PERSON_1]
+[DATE_1], Date of Death: April 29, 2025
+SSN: [PHONE_1]
+[PERSON_7] #: CC-088341 (value at death: [AMOUNT_1])
+
+Beneficiaries on file:
+- Primary: [PERSON_2] ([PERCENTAGE_1]) — SSN: [PHONE_2], [DATE_2]
+- Primary: Daughter [PERSON_15] Sullivan-Park ([PERCENTAGE_1]) — SSN: [PHONE_3], [DATE_3]
+
+[PERSON_9] attorney: [PERSON_6], Esq., [PHONE_4]
+
+Hold all transactions pending probate clearance. Do not discuss [PERSON_7] details with any third parties including deceased's ex-husband Kenneth Sullivan.
+
+Portfolio [PERSON_3]

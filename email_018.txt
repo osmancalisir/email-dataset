@@ -16,3 +16,22 @@ Urgency: High. Please schedule within 48 hours.
 
 Dr. Angela Cooper, PsyD
 License: OR-PSY-4492
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 20, 2025
+Subject: Patient Referral - Confidential
+
+CONFIDENTIAL - [PERSON_13] PROTECTED
+
+Referring patient: Daniel Park
+[DATE_1]
+[PERSON_4]: [PERSON_14] #AET-8823-DP
+Address: 33 Birch Road, Portland, OR [ADDRESS_1] notes: Patient presents with major depressive disorder (MDD, [URL_3]), anxiety disorder. Currently on [PERSON_3] 100mg. History of one suicide attempt (2019). Requires weekly CBT sessions.
+
+Urgency: High. [PERSON_11] schedule within 48 hours.
+
+[PERSON_1], [PERSON_16]
+[PERSON_7]: [CONTRACT_1]

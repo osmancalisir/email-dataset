@@ -21,3 +21,29 @@ Recommended action: Remove access to front office visitor logs, restricted areas
 Refer to RSO for full security interview. Handle with extreme care — her family's safety in-country may be a factor.
 
 Security Director
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 11, 2025
+Subject: [PERSON_7] - [PERSON_25] [PERSON_26] [PERSON_10] [PERSON_17]
+
+[PERSON_7] BUT UNCLASSIFIED
+
+Embassy: US Embassy, [Country Withheld per sensitivity]
+
+[PERSON_17] re: [PERSON_25] Employed [PERSON_26] (LES):
+
+Individual: [PERSON_1], LES [PERSON_2] Assistant
+[DATE_1]
+[PERSON_15] ID: [PERSON_13]
+[PERSON_10] [PERSON_8]: [PERSON_18] Access (not cleared for classified material)
+
+[PERSON_17]: [PERSON_4] report (sourced HUMINT, reliability B/2) indicates [PERSON_5] may have contact with persons of interest to a foreign [PERSON_4] service. No specific information passed — assessment is precautionary.
+
+Recommended action: [PERSON_24] access to front office visitor logs, restricted areas. Do NOT terminate or confront — may alert foreign service.
+
+[PERSON_27] to [PERSON_32] for [PERSON_30] [PERSON_10] interview. [PERSON_20] with extreme care — her family's safety in-country may be a factor.
+
+[PERSON_10] [PERSON_11]

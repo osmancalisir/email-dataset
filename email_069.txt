@@ -24,3 +24,32 @@ Mandated report to DCFS filed: 05/10/2025, Report #DCFS-LA-2025-0882
 Infant expected to be in NICU 14-21 days. Please assess family situation urgently.
 
 RN Teresa Kim
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 11, 2025
+Subject: [PERSON_26] [PERSON_17] - [PERSON_16] [PERSON_22] [PERSON_12] - URGENT
+
+[PERSON_16] [PERSON_22] [PERSON_23],
+
+Urgent [PERSON_12] for newborn in [PERSON_24]:
+
+[PERSON_17]: Baby [PERSON_3] (unnamed as of [PERSON_12])
+DOB: May 10, 2025
+MRN: [PERSON_7]
+[PERSON_8]: [PERSON_11] [PERSON_6] [PERSON_1] mother's reported substance: heroin + methamphetamine
+
+Mother: [PERSON_4]
+[DATE_1]
+SSN: [PHONE_1]
+Address: Last known — 330 W. 5th St, Los Angeles, CA 90012 (possibly unhoused)
+[PERSON_10]: Medi-Cal #[CONTRACT_1]
+
+Father: Unknown
+Mandated report to DCFS filed: 05/10/2025, Report #DCFS-LA-[PHONE_2]
+
+[PERSON_17] expected to be in [PERSON_24] 14-21 days. [PERSON_18] assess family situation urgently.
+
+RN [PERSON_5]

@@ -16,3 +16,24 @@ Account: 3849201047
 Client Emily Summers (SSN: 558-23-4490) has signed the release. Please do not disclose settlement terms per NDA.
 
 David Wright, Esq.
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 2, 2025
+Subject: Privileged & Confidential - Settlement Details
+
+[FINANCIAL_1]-CLIENT PRIVILEGED
+
+Re: [PERSON_1] vs. Hartwell Construction
+[PERSON_9] No.: CV-[PHONE_1]
+
+Settlement amount agreed: [AMOUNT_1]
+Payment to be wired to client trust account: 
+Bank of [PERSON_3] Routing: [PHONE_2]
+Account: [PHONE_3]
+
+Client [PERSON_1] (SSN: [PHONE_4]) has signed the release. [PERSON_6] do not disclose settlement terms [PERSON_11] NDA.
+
+[PERSON_2], Esq.

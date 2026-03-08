@@ -17,3 +17,25 @@ Subpoenas returnable June 10:
 Grand juror list attached (SEALED). Do not discuss case with any person outside the GJ room.
 
 Court Coordinator
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 12, 2025
+Subject: [PERSON_17] [PERSON_23] [PERSON_7] [PERSON_12] - [PERSON_15]
+
+[PERSON_17] [PERSON_23] - [PERSON_25] 6(e) PROTECTED - DO NOT [PERSON_10]
+
+GJ [PERSON_28]: GJ-[PHONE_1]-SD
+Target: [PERSON_2] Group (and individuals to be [PERSON_6])
+[PERSON_24]: [PERSON_3]
+
+Subpoenas returnable [PERSON_29] 10:
+1. JP [PERSON_1] [PERSON_12] for [PERSON_2] (EIN [PHONE_2]) and CEO [PERSON_4] (SSN [PHONE_3])
+2. [PERSON_16] LLC — email [PERSON_12] for [EMAIL_3] (2022-present)
+3. Verizon — call [PERSON_12] for [PHONE_4]
+
+[PERSON_17] [PERSON_19] [PERSON_26] attached ([PERSON_15]). Do not discuss [PERSON_28] with any person outside the GJ room.
+
+[PERSON_20] [PERSON_5]

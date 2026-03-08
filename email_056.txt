@@ -22,3 +22,28 @@ Notes: Applicant disclosed currently in divorce proceedings. Jointly held debts 
 Recommendation: Conditional approval pending divorce decree.
 
 Officer Sandra Potts
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 3, 2025
+Subject: [PERSON_6] [PERSON_26] [PERSON_4] - [PERSON_18] [PERSON_9]
+
+[PERSON_3],
+
+[PERSON_10] [PERSON_9] [PERSON_27] [PERSON_6] [PERSON_26] [PERSON_4]:
+
+[PERSON_5]: [PERSON_1]
+[DATE_1]
+SSN: [PHONE_1]
+Address: 312 [PERSON_16] Street Apt 7, Memphis, TN [ADDRESS_1]: Night-shift nurse, Regional Medical Center, [PERSON_17]: [PERSON_29],[PERSON_11]
+[PERSON_26] [PERSON_12]: [PERSON_30],000 (debt consolidation)
+Credit [PERSON_25]: 612 (derogatory: 2 medical collections, 1 late auto [AMOUNT_4])
+DTI: [PERCENTAGE_1]
+
+Notes: [PERSON_5] disclosed currently in [PERSON_8] proceedings. Jointly held debts not yet separated.
+
+Recommendation: Conditional approval pending [PERSON_8] decree.
+
+[PERSON_7] [PERSON_2]

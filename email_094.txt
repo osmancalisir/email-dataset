@@ -23,3 +23,30 @@ Family: Parents Richard & Susan Barnes fully engaged. Sister Rachel (age 17) dis
 Emergency contact: Mother Susan Barnes, (404) 882-0034.
 
 R.D. Lydia Chen
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 5, 2025
+Subject: [PERSON_5] [PERSON_17] [PERSON_10] - Patient [PERSON_2] CONFIDENTIAL
+
+[PERSON_5] [PERSON_17],
+
+[PERSON_11] [PERSON_10]:
+
+Patient: [PERSON_3]
+[DATE_1] (age 20)
+MRN: ED-[ADDRESS_1]: [PERSON_6] [PERSON_8], Restricting Type ([URL_3]) — BMI: [URL_4]
+
+Week 12 [PERSON_10]:
+- Weight: 94 lbs (target: 115 lbs) — gained [URL_5] lbs this week (positive)
+- Meal compliance: [PERCENTAGE_1] (improved from [PERCENTAGE_2])
+- Mood: Depressed, some passive suicidal ideation (no plan) — psychiatry notified
+- Restriction behaviors: Still using excessive exercise during bathroom breaks — monitoring increased
+
+Family: Parents Richard & Susan [PERSON_9] fully engaged. [PERSON_4] (age 17) disclosed she is also restricting — counselor referral made.
+
+Emergency contact: [PERSON_1], [PHONE_1].
+
+[URL_6]. [PERSON_15] [PERSON_16]

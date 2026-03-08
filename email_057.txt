@@ -21,3 +21,28 @@ Recommended placement: Resource room 60% of day, co-taught classes remainder
 Next IEP meeting: May 15, 2025 at 3 PM. Parent notified.
 
 Dr. Wendy Marsh, School Psychologist
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 30, 2025
+Subject: Psychoeducational Evaluation Results - Confidential
+
+[PERSON_21] CONFIDENTIAL
+
+Student: [PERSON_2]
+[DATE_1] ([PERSON_22] 6)
+Student ID: WV-[ADDRESS_1]/Guardian: [PERSON_3], [PHONE_1]
+
+Assessment Results:
+- Full [PERSON_24] IQ: 78 ([PERSON_6] range)
+- Reading: 2nd [PERSON_22] level (4 grades below)
+- Diagnosed: Specific Learning Disability in Reading ([PERSON_11]), Mild Intellectual Disability
+
+Eligibility: [PERSON_7] for [PERSON_13] [PERSON_8] [PERSON_10] (SLD + ID)
+Recommended placement: [PERSON_12] room [PERCENTAGE_1] of day, co-taught classes remainder
+
+Next IEP meeting: May 15, 2025 at 3 PM. Parent notified.
+
+[PERSON_1], [PERSON_16] [PERSON_4]

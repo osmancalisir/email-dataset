@@ -20,3 +20,28 @@ Clinical correlation: Patient presented unresponsive. Multiple Narcan doses admi
 Note: Mother present in ER (Patricia Marsh). Per patient's prior verbal wish (documented 2024): he does NOT want family informed of drug use specifics — please review with ethics/patient rights team.
 
 Lab Director
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 11, 2025
+Subject: [PERSON_19] Tox [PERSON_11] - [PERSON_12] ID [PERSON_3]
+
+[PERSON_2] [PERSON_4],
+
+[PERSON_19] [PERSON_1] [PERSON_11]:
+
+[PERSON_12]: Initials [URL_4]. (full name: Kevin Marsh per wristband)
+[DATE_1]
+MRN: [PERSON_3]
+Collected: May 11, 2025, 01:48 AM
+
+[PERSON_6]: Fentanyl (high concentration), [PERSON_7] (tranq), Benzodiazepines
+[PERSON_8]: Alcohol, cocaine, amphetamines
+
+Clinical correlation: [PERSON_12] presented unresponsive. [PERSON_9] Narcan doses administered (total 4mg). Currently intubated, ICU.
+
+[PERSON_21]: Mother present in ER ([PERSON_10] Marsh). Per [PERSON_12]'s prior verbal wish (documented 2024): he does [PERSON_23] want family informed of drug use specifics — please review with ethics/patient [PERSON_18] team.
+
+[PERSON_22] [PERSON_5]

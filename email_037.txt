@@ -18,3 +18,26 @@ Action Required: Submit I-129 petition by April 15.
 Do NOT inform employer of prior visa violation (2019, overstay 12 days) — we are handling via counsel.
 
 Mark Stevenson, Immigration Attorney
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 19, 2025
+Subject: PRIVILEGED - [PERSON_3] [PERSON_14] [PERSON_8]
+
+[FINANCIAL_1]-CLIENT PRIVILEGED
+
+Client: [PERSON_2]
+[DATE_1]
+Passport: JP-TT[PHONE_1]
+A-Number: A[PHONE_2]
+Current Status: [MIL_PLATFORM_1] OPT (expiring 07/30/2025)
+
+[MIL_PLATFORM_2] lottery: Selected (notified 03/14/2025)
+Sponsoring Employer: TechGiant Inc., HR contact: [PERSON_7] [PERSON_12]
+
+Action Required: Submit [MIL_PLATFORM_3] petition by April 15. 
+Do NOT inform employer of prior visa violation (2019, overstay 12 days) — we are handling [PERSON_18] counsel.
+
+[PERSON_1], [PERSON_3] [PERSON_5]

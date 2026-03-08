@@ -20,3 +20,28 @@ Please handle discreetly. This is standard practice per our arrangement.
 Victor Reyes
 VP Operations
 (Note: If questioned, contact our attorney directly: mwilson@tradelaw.net)
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: April 25, 2025
+Subject: Shipment Documentation - Confidential [PERSON_4]
+
+[PERSON_9],
+
+[PERSON_11] [PERSON_19] the following declared [PERSON_12] for [PERSON_7] clearance. [PERSON_17] these are for documentation purposes:
+
+Shipment #: GS-[PHONE_1]
+Origin: Shenzhen, [PERSON_16]
+Destination: Los Angeles, CA
+Contents: Consumer electronics (Harmonized Code: [URL_5])
+
+Declared Value on Form: [AMOUNT_1]
+Actual [PERSON_8] Value: [AMOUNT_2]
+
+[PERSON_11] handle discreetly. This is standard practice per our arrangement.
+
+[PERSON_1]
+VP [PERSON_3]
+([PERSON_17]: If questioned, contact our attorney directly: [EMAIL_3])

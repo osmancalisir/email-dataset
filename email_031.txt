@@ -18,3 +18,26 @@ Family requested: No CPR/DNR order in place. Nancy will be calling Friday to fin
 Financial: Monthly fee autopay from account ending 7721 — payment declined this month. Please contact Nancy.
 
 Dana Reyes, RN
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 3, 2025
+Subject: Resident [PERSON_2]
+
+[PERSON_14] [PERSON_8],
+
+[PERSON_16] on resident [PERSON_15] [PERSON_9] (Room 214):
+
+[DATE_1] (age 87)
+[PERSON_6] #: 1EG4-TE5-MK72
+POA: [PERSON_1], [PHONE_1]
+
+Medical [PERSON_16]: [PERSON_7] ([PERSON_20] 3, [URL_4]), recent UTI treated with antibiotics. Weight loss noted — consult with [PERSON_4] ordered.
+
+[PERSON_14] [PERSON_5]: No CPR/DNR order in place. [PERSON_18] will be calling Friday to finalize.
+
+Financial: Monthly fee autopay from account ending 7721 — payment declined this month. [PERSON_17] [PERSON_11] Nancy.
+
+[PERSON_3], RN

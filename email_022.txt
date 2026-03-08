@@ -16,3 +16,24 @@ Known associates on watchlist. Financial connections to shell co "Baltic Trade L
 Do not alert subject. Coordinate with FBI field office (Agent Dana Reyes, ext 4408).
 
 Officer T. Chen, CBP
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: March 22, 2025
+Subject: Flagged Traveler [PERSON_9] - DO NOT [PERSON_11]
+
+RESTRICTED - LAW [FINANCIAL_1] [PERSON_5]
+
+Subject: [PERSON_3]
+Passport: RU-[PHONE_1]
+[DATE_1]
+Nationality: Russian
+
+Flagged for secondary screening on all US entries. Last entry: [PERSON_16], 02/14/2025.
+Known associates on watchlist. Financial connections to shell co "Baltic [PERSON_12] LLC".
+
+Do not alert subject. [PERSON_4] with FBI field office ([PERSON_1], [PERSON_17] 4408).
+
+[PERSON_2], [PERSON_18]

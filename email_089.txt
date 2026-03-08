@@ -17,3 +17,25 @@ Senator's direct personal cell (share with TOP donors only): (202) 449-0038
 FEC quarterly filing due June 30 — scrub any donor names that could raise eyebrows before submission.
 
 Campaign Manager D. Rollins
+
+============================================================
+SANITIZED PROMPT:
+From: [EMAIL_1]
+To: [EMAIL_2]
+Date: May 9, 2025
+Subject: CONFIDENTIAL - [PERSON_16] [PERSON_7] [PERSON_13]
+
+[PERSON_10] [PERSON_5],
+
+[PERSON_4] [PERSON_16] information — internal only:
+
+Top [PERSON_16] renewal targets:
+1. [PERSON_1] (oil exec) — gave [AMOUNT_1] in 2022. Condition for renewal: favorable committee vote on offshore drilling bill. [PERSON_19]: cannot commit to quid pro quo in writing.
+2. [PERSON_2] (hedge fund) — gave [AMOUNT_2]. Her firm under SEC investigation — keep donation arms-length.
+3. Anonymous PAC [PERSON_16] (identity known to you and me only): [AMOUNT_3] expected. [PERSON_21] to arrive via conduit — ensure compliance team is [PERSON_23] looped in.
+
+Senator's direct personal cell (share with TOP donors only): [PHONE_1]
+
+FEC quarterly filing due [PERSON_22] 30 — scrub any [PERSON_16] names that could raise eyebrows [PERSON_15] submission.
+
+[PERSON_6] [PERSON_11] D. Rollins
