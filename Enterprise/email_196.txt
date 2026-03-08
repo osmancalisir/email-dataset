@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #196  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Fitzroy Okafor <fokafor@quantumdatas.com>
+TO:          Ingrid Zalewski <izalewski@quantumdatas.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2023
+REFERENCE:   LHD-7158-KEPYP
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Barnabas,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2023 (Ref: NDR-2519-J7MJ1). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External Assurance: Halcyon Wealth Partners (Ref: HL047811) | Target Publication: May 08, 2026 | Filing Deadline: March 31, 2026
+
+KEY ESG METRICS (FY2023 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2023 Actual   FY2022 Actual    Target
+Scope 1 Emissions (tCO2e)         142,269       149,913        113,815
+Scope 2 Emissions (tCO2e)          29,210        30,670         23,368
+Scope 3 Emissions (tCO2e)         190,320       190,320        161,772
+Total Energy (MWh)                179,821       188,812        161,838
+Water Withdrawal (m³)           1,819,098     1,910,052      1,637,188
+Waste Diverted (%)                 33.54%        6.67%         29.23%
+Gender Pay Gap (%)                 15.09%       15.35%          33.9%
+TRIR (injuries/200k hrs)             1.69          1.77           1.35
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-7190: Scope 3 emissions 26.33% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: GW695339).
+  Issue ESG-5522: Gender pay gap of 15.09% exceeds 33.9% target. Board must decide voluntary vs. mandatory cohort disclosure by May 04, 2026.
+  Issue ESG-0852: Tier-1 supplier Sterling Automotive (Spend: USD 59,894) failed human rights assessment (Score: 51/100, Threshold: 79/100). Disclosure may trigger customer contract reviews (Ref: EPI-7009-IQ4AF).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2023):  5,293 tCO2e (Registry: Verra (VCS), Ref: VL141853)
+  Credits Retired:              3,825 tCO2e
+  Average Price:                USD 82/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          20.35% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline May 11, 2026 (Ref: DF145054)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref NU607325
+  TCFD Alignment Score:         9.03% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2023_QOM-4757-WMZ92_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_LK536571.xlsx
+  • Supplier_Assessment_BI835451.pdf
+
+Board sign-off required by April 03, 2026. Route comments to Simone Castleberry only.
+
+Thaddeus Wainwright
+Chief Revenue Officer | Procurement | Mosaic Digital Solutions
+ESG Committee Code: XB135638  |  Direct: +1 (415) 4846-1936
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-LHD-7158-KEPYP | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2023 (Ref: NDR-2519-J7MJ1). This is classified RESTRICTED – BOARD & AUDIT [PERSON_6] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External [PERSON_7]: Halcyon Wealth Partners (Ref: HL047811) | Target Publication: May 08, 2026 | Filing [PERSON_14]: March 31, 2026
+
+KEY ESG METRICS (FY2023 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2023 Actual   FY2022 Actual    Target
+[PERSON_23] 1 Emissions (tCO2e)         142,269       149,913        113,815
+[PERSON_23] 2 Emissions (tCO2e)          29,210        30,670         23,368
+[PERSON_23] 3 Emissions (tCO2e)         190,320       190,320        161,772
+Total Energy (MWh)                179,821       188,812        161,838
+Water Withdrawal (m³)           1,819,098     1,910,052      1,637,188
+[PERSON_24] Diverted (%)                 [URL_1]%        [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                 [URL_4]%       [URL_5]%          [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]          [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_3] ISSUES (PRE-DECISIONAL)
+  [PERSON_25] ESG-7190: [PERSON_23] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_3] language re: forward guidance implications (Ref: GW695339).
+  [PERSON_25] ESG-5522: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_3] by May 04, 2026.
+  [PERSON_25] ESG-0852: Tier-1 supplier Sterling [PERSON_4] (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_26]: 51/100, Threshold: 79/100). [PERSON_3] may trigger customer contract reviews (Ref: EPI-7009-IQ4AF).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2023):  5,293 tCO2e (Registry: [PERSON_27] (VCS), Ref: VL141853)
+  Credits Retired:              3,825 tCO2e
+  [PERSON_16] [PERSON_28]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_17] [PERSON_3] [PERSON_38]:  [PERSON_5] [PERSON_14] May 11, 2026 (Ref: DF145054)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref NU607325
+  TCFD Alignment [PERSON_26]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2023_QOM-4757-WMZ92_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by April 03, 2026. [PERSON_30] comments to [PERSON_2] only.
+
+[PERSON_1]
+Chief [PERSON_18] Officer | Procurement | Mosaic Digital Solutions
+ESG [PERSON_6] Code: XB135638  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_3] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-KEPYP | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

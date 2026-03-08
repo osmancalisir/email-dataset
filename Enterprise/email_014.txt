@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #014  |  ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Kevin Montclair <kmontclair@silveroakcap.com>
+TO:          Stephanie Rosenberg <srosenberg@silveroakcap.com>
+SUBJECT:     CONFIDENTIAL: Transfer Pricing Restructuring – Project SOLSTICE (FY2023)
+REFERENCE:   ZEN-8896-X2V4K
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alistair,
+
+I write in strict confidence regarding the proposed intercompany transfer pricing restructuring for FY2023 (Project SOLSTICE, Ref: ADR-2863-ETJH7). This is classified ATTORNEY-CLIENT PRIVILEGED and shared solely with the Tax Steering Group.
+
+External Tax Advisor: Crestview Hospitality Group (Partner: Renata Nguyen) | Legal Counsel: Vortex Tech Industries (Ref: NP071830)
+Filing Jurisdictions: Germany, United States, Singapore
+
+CURRENT VS. PROPOSED STRUCTURE
+──────────────────────────────────────────────────────
+Entity                    Current Policy       Proposed Policy     P&L Impact (USD)
+Sterling Automotive_HoldCo              Cost Plus 17.55%    Cost Plus 25.51%       +3,572,362
+Sterling Automotive_IP_SubCo            Residual Profit      TNMM 3.35%            +1,301,262
+Sterling Automotive_Sales_Entity        CUT Method           RPSM                      -111,996
+Sterling Automotive_Mfg_Entity          Cost Plus 23.58%    Cost Plus 7.15%       +1,138,952
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    USD 13,560,777   (Effective Rate: 4.62% → 8.82%)
+One-Time Restructuring Cost:    USD 1,565,370
+Net Present Value (5-Year):     USD 15,333,225
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5981: OECD Pillar Two GloBE top-up exposure — USD 3,271,251 p.a. if challenged (Ref: PY954170).
+  Risk TP-3194: Germany thin-cap rules — debt/equity 5.0x vs. permitted 4.6x. Disallowed interest: USD 128,778.
+  Risk TP-3800: PE risk in United States — 5952 sales personnel exceeding agency threshold (BN843501).
+  Risk TP-5952: CbCR 22.8% effective rate in Singapore may attract audit attention (Ref: SF739789).
+
+ADVANCE PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ United States (Filed: February 23, 2026, Ref: XFC-4934-DU4UA)
+  Expected Conclusion: May 19, 2026 | Rollback Period: 9842 years
+  APA Fee Provision: USD 3,739,493
+
+APPROVAL SCHEDULE
+  ☐  Tax Steering Group — by April 22, 2026 (Ref: TSG-3834)
+  ☐  Board resolution BR-PM601160 — by March 16, 2026
+  ☐  Intercompany agreements executed (ICA-CR962012) — by April 16, 2026
+  ☐  Master File / Local File updates — by April 12, 2026 (Ref: PU624698)
+
+REFERENCED ATTACHMENTS
+  • TP_Restructuring_Memo_ProjectSOLSTICE_XGI-9018-ZNGJD.pdf
+  • Financial_Model_TaxImpact_CL068629_v7070.xlsx
+  • APA_Filing_XFC-4934-DU4UA_PRIVILEGED.pdf
+
+All queries directed to Renata Nguyen only. Do not share with local finance teams prior to Board approval.
+
+Desmond Harrington
+Director of Procurement | Procurement | Sterling Automotive
+Secure Line: +1 (202) 8257-8253  |  Tax Group ID: MX111144
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+Handling Protocol: REF-ZEN-8896-X2V4K | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I write in strict confidence regarding the [FINANCIAL_3] intercompany transfer pricing restructuring for FY2023 (Project [PERSON_12], Ref: ADR-2863-ETJH7). This is classified [FINANCIAL_2]-CLIENT PRIVILEGED and shared solely with the Tax [FINANCIAL_7] Group.
+
+External Tax Advisor: Crestview Hospitality Group (Partner: [PERSON_2] Legal Counsel: Vortex Tech Industries (Ref: NP071830)
+Filing Jurisdictions: Germany, United States, [PERSON_7]
+
+CURRENT VS. [FINANCIAL_3] [PERSON_8]
+──────────────────────────────────────────────────────
+Entity                    Current Policy       [FINANCIAL_3] Policy     P&L Impact (USD)
+Sterling Automotive_HoldCo              Cost Plus [URL_1]%    Cost Plus [URL_2]%       +3,572,362
+Sterling Automotive_IP_SubCo            Residual Profit      TNMM [URL_3]%            +1,301,262
+Sterling Automotive_Sales_Entity        CUT Method           RPSM                      -111,996
+Sterling Automotive_Mfg_Entity          Cost Plus [URL_4]%    Cost Plus [URL_5]%       +1,138,952
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    [AMOUNT_1]   ([PERSON_9] [PERSON_28]: [URL_6]% → [URL_7]%)
+[PERSON_16] Restructuring Cost:    [AMOUNT_2]
+Net Present Value (5-Year):     [AMOUNT_3]
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5981: OECD Pillar Two [PERSON_25] top-up exposure — [AMOUNT_4] [URL_8]. if challenged (Ref: PY954170).
+  Risk TP-3194: Germany thin-cap rules — debt/equity [URL_9] vs. permitted [URL_10]. Disallowed interest: [AMOUNT_5].
+  Risk TP-3800: PE risk in United States — 5952 sales personnel exceeding agency threshold (BN843501).
+  Risk TP-5952: CbCR [URL_11]% [PERSON_9] [PERSON_28] in [PERSON_7] may attract audit attention (Ref: SF739789).
+
+[PERSON_20] PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ United States (Filed: February 23, 2026, Ref: [PERSON_3])
+  Expected Conclusion: May 19, 2026 | Rollback Period: 9842 years
+  APA Fee Provision: [AMOUNT_6]
+
+[FINANCIAL_4] [PERSON_17]
+  ☐  Tax [FINANCIAL_7] Group — by April 22, 2026 (Ref: TSG-3834)
+  ☐  Board resolution BR-PM601160 — by March 16, 2026
+  ☐  Intercompany agreements executed (ICA-CR962012) — by April 16, 2026
+  ☐  Master File / Local File updates — by April 12, 2026 (Ref: PU624698)
+
+REFERENCED [FINANCIAL_6]
+  • TP_Restructuring_Memo_Project[FINANCIAL_1]_[URL_12]
+  • Financial_Model_TaxImpact_CL068629_[URL_13]
+  • APA_Filing_XFC-4934-DU4UA_[URL_14]
+
+All queries directed to [PERSON_4] only. Do not share with local finance teams prior to Board [FINANCIAL_4].
+
+[PERSON_1]
+Director of Procurement | Procurement | Sterling [PERSON_6]
+[PERSON_24] [PERSON_30]: [PHONE_1]  |  Tax Group ID: MX111144
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_2]-CLIENT PRIVILEGED – TAX [FINANCIAL_7] GROUP ONLY
+Handling Protocol: [CONTRACT_1]-X2V4K | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_24] Deletion
+================================================================================

@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #114  |  ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Ingrid Okonkwo <iokonkwo@nexpointdata.com>
+TO:          Rebecca Westergaard <rwestergaard@nexpointdata.com>
+SUBJECT:     CONFIDENTIAL: Transfer Pricing Restructuring – Project CARDINAL (FY2025)
+REFERENCE:   FRX-0460-WNBBG
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thomas,
+
+I write in strict confidence regarding the proposed intercompany transfer pricing restructuring for FY2025 (Project CARDINAL, Ref: BSK-3875-F3OI4). This is classified ATTORNEY-CLIENT PRIVILEGED and shared solely with the Tax Steering Group.
+
+External Tax Advisor: Cascadia Real Estate Trust (Partner: Desmond Castleberry) | Legal Counsel: Helix Biomedical Inc (Ref: OX839120)
+Filing Jurisdictions: Switzerland, Germany, United Kingdom
+
+CURRENT VS. PROPOSED STRUCTURE
+──────────────────────────────────────────────────────
+Entity                    Current Policy       Proposed Policy     P&L Impact (USD)
+Bridgeway Consumer Finance_HoldCo              Cost Plus 18.86%    Cost Plus 26.09%       +2,758,424
+Bridgeway Consumer Finance_IP_SubCo            Residual Profit      TNMM 26.37%            +4,169,573
+Bridgeway Consumer Finance_Sales_Entity        CUT Method           RPSM                      -330,918
+Bridgeway Consumer Finance_Mfg_Entity          Cost Plus 27.54%    Cost Plus 25.19%       +3,103,382
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    USD 3,423,885   (Effective Rate: 11.43% → 10.04%)
+One-Time Restructuring Cost:    USD 17,048,892
+Net Present Value (5-Year):     USD 3,730,373
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-4899: OECD Pillar Two GloBE top-up exposure — USD 67,764 p.a. if challenged (Ref: SH366481).
+  Risk TP-5409: Switzerland thin-cap rules — debt/equity 2.2x vs. permitted 1.5x. Disallowed interest: USD 3,763,749.
+  Risk TP-7848: PE risk in Germany — 9169 sales personnel exceeding agency threshold (MU894443).
+  Risk TP-9169: CbCR 26.86% effective rate in United Kingdom may attract audit attention (Ref: ZE502464).
+
+ADVANCE PRICING AGREEMENT
+  Bilateral APA filed: Switzerland ↔ Germany (Filed: March 06, 2026, Ref: SOW-6263-3KI71)
+  Expected Conclusion: May 11, 2026 | Rollback Period: 4326 years
+  APA Fee Provision: USD 780,477
+
+APPROVAL SCHEDULE
+  ☐  Tax Steering Group — by April 23, 2026 (Ref: TSG-4234)
+  ☐  Board resolution BR-KF835845 — by May 14, 2026
+  ☐  Intercompany agreements executed (ICA-XN413295) — by May 08, 2026
+  ☐  Master File / Local File updates — by May 24, 2026 (Ref: MX189439)
+
+REFERENCED ATTACHMENTS
+  • TP_Restructuring_Memo_ProjectCARDINAL_HWP-6578-3Y293.pdf
+  • Financial_Model_TaxImpact_JI927961_v9476.xlsx
+  • APA_Filing_SOW-6263-3KI71_PRIVILEGED.pdf
+
+All queries directed to Desmond Castleberry only. Do not share with local finance teams prior to Board approval.
+
+Kevin Mbeki
+Senior Vice President | Information Technology | Bridgeway Consumer Finance
+Secure Line: +1 (202) 9644-8480  |  Tax Group ID: OR699157
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+Handling Protocol: REF-FRX-0460-WNBBG | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_16],
+
+I write in strict confidence regarding the [FINANCIAL_3] intercompany transfer pricing restructuring for FY2025 (Project [FINANCIAL_1], Ref: BSK-3875-F3OI4). This is classified [FINANCIAL_2]-CLIENT PRIVILEGED and shared solely with the Tax [FINANCIAL_7] Group.
+
+External Tax Advisor: [PERSON_5] Real [PERSON_17] Trust (Partner: [PERSON_1]) | Legal Counsel: [COMPANY_1] (Ref: OX839120)
+Filing Jurisdictions: Switzerland, Germany, United Kingdom
+
+CURRENT VS. [FINANCIAL_3] [PERSON_3]
+──────────────────────────────────────────────────────
+Entity                    Current Policy       [FINANCIAL_3] Policy     P&L Impact (USD)
+Bridgeway Consumer Finance_HoldCo              Cost Plus [URL_1]%    Cost Plus [URL_2]%       +2,758,424
+Bridgeway Consumer Finance_IP_SubCo            Residual Profit      TNMM [URL_3]%            +4,169,573
+Bridgeway Consumer Finance_Sales_Entity        CUT Method           RPSM                      -330,918
+Bridgeway Consumer Finance_Mfg_Entity          Cost Plus [URL_4]%    Cost Plus [URL_5]%       +3,103,382
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    [AMOUNT_1]   ([PERSON_4] [PERSON_25]: [URL_6]% → [URL_7]%)
+[PERSON_8] Restructuring Cost:    [AMOUNT_2]
+Net Present Value (5-Year):     [AMOUNT_3]
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-4899: OECD Pillar Two [PERSON_21] top-up exposure — [AMOUNT_4] [URL_8]. if challenged (Ref: SH366481).
+  Risk TP-5409: Switzerland thin-cap rules — debt/equity [URL_9] vs. permitted [URL_10]. Disallowed interest: [AMOUNT_5].
+  Risk TP-7848: PE risk in Germany — 9169 sales personnel exceeding agency threshold (MU894443).
+  Risk TP-9169: CbCR [URL_11]% [PERSON_4] [PERSON_25] in United Kingdom may attract audit attention (Ref: ZE502464).
+
+[PERSON_13] PRICING AGREEMENT
+  Bilateral APA filed: Switzerland ↔ Germany (Filed: March 06, 2026, Ref: SOW-6263-3KI71)
+  Expected Conclusion: May 11, 2026 | Rollback Period: 4326 years
+  APA Fee Provision: [AMOUNT_6]
+
+[FINANCIAL_4] [PERSON_9]
+  ☐  Tax [FINANCIAL_7] Group — by April 23, 2026 (Ref: TSG-4234)
+  ☐  Board resolution BR-KF835845 — by May 14, 2026
+  ☐  Intercompany agreements executed (ICA-XN413295) — by May 08, 2026
+  ☐  Master File / Local File updates — by May 24, 2026 (Ref: MX189439)
+
+REFERENCED [FINANCIAL_6]
+  • TP_Restructuring_Memo_Project[FINANCIAL_1]_[URL_12]
+  • Financial_Model_TaxImpact_JI927961_[URL_13]
+  • APA_Filing_SOW-6263-3KI71_[URL_14]
+
+All queries directed to [PERSON_1] only. Do not share with local [PERSON_15] teams prior to Board [FINANCIAL_4].
+
+[PERSON_2]
+Senior [PERSON_28] President | Information Technology | Bridgeway Consumer [PERSON_15]
+[PERSON_20] [PERSON_29]: [PHONE_1]  |  Tax Group ID: OR699157
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_2]-CLIENT PRIVILEGED – TAX [FINANCIAL_7] GROUP ONLY
+Handling Protocol: [CONTRACT_1]-WNBBG | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_20] Deletion
+================================================================================

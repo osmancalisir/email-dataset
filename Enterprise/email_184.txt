@@ -1,0 +1,126 @@
+================================================================================
+EMAIL #184  |  RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Desmond Patel <dpatel@apexlogistic.com>
+TO:          Tanya Strauss <tstrauss@apexlogistic.com>
+SUBJECT:     CONFIDENTIAL: Regulatory Compliance Gap Report – Finance & Treasury
+REFERENCE:   UNF-9984-WBTE2
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Vanessa,
+
+Following the internal compliance review (February 18, 2026 – February 28, 2026), I am forwarding the Regulatory Compliance Gap Report for the Audit & Risk Committee. Reference: KBK-2459-PML5I.
+
+Scope: Finance & Treasury | Frameworks Assessed: SOX, CCPA, FCPA
+Review Lead: Jonathan Djordjevic | External Auditor: Quantum Data Systems (Engagement: PC932248)
+
+COMPLIANCE SCORECARD
+──────────────────────────────────────────────────────
+Overall Compliance Score:            35.42%  (Prior Period: 11.63%)
+Total Estimated Fine Exposure:       USD     20,438,828
+──────────────────────────────────────────────────────
+
+GAP REGISTER
+Priority    Gap ID        Description                                 Fine Exposure
+CRITICAL    GAP-7661    Segregation of duties violation in AP processing cycle  USD 731,598
+HIGH        GAP-0603    Incomplete KYC documentation for 7322 counterparties  USD 15,735,132
+HIGH        GAP-3065    Data retention policy breach — 555 records overdue for deletion  USD 108,499
+MEDIUM      GAP-7924    Missing dual-authorization on 3685 high-value transactions  USD 3,566,381
+MEDIUM      GAP-2135    Vendor onboarding controls not applied to 1977 suppliers  USD 297,218
+
+CRITICAL FINDING DETAIL (GAP-7661)
+9.84% of transactions processed through system EX306837 between February 20, 2026 and February 25, 2026 lacked required dual-authorization controls (SOX Section 8367.4583). Affected volume: 5,771 transactions totalling USD 3,099,034. Voluntary disclosure submitted February 27, 2026 (Internal Ref: XET-8084-QZGT8).
+
+REMEDIATION PLAN
+  ACT-3685  Cormac Patel          Due: April 19, 2026  Budget: DX329722
+  ACT-7322  Raymond Achterberg    Due: May 10, 2026  Budget: KT706184
+  ACT-0555  Lionel Patel          Due: April 19, 2026  Budget: UZ083254
+  ACT-1977  Constance Szymanski   Due: April 07, 2026  Budget: QK273618
+
+REGULATORY ENGAGEMENT SCHEDULE
+  Regulator meeting (SOX):   May 20, 2026
+  Internal Audit follow-up:         May 13, 2026
+  Board Audit Committee session:    April 16, 2026
+
+REFERENCED ATTACHMENTS
+  • Compliance_Gap_Report_FCM-3634-OTC87_RESTRICTED.pdf
+  • Transaction_Sample_Analysis_RM862141.xlsx
+  • Voluntary_Disclosure_Letter_XET-8084-QZGT8.pdf
+
+Report must not be shared with operational line management until remediation ownership is formally assigned.
+
+Jonathan Djordjevic
+Director of Procurement | Finance & Treasury | Meridian Capital Group
+Compliance Hotline: +1 (800) 7661-0603  |  Badge: JX744672
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Patel's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+Handling Protocol: REF-UNF-9984-WBTE2 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_20],
+
+Following the internal [PERSON_5] review (February 18, 2026 – February 28, 2026), I am forwarding the Regulatory [PERSON_5] Gap Report for the Audit & Risk Committee. [PERSON_10]: KBK-2459-PML5I.
+
+[PERSON_31]: [PERSON_22] & Treasury | Frameworks Assessed: SOX, [PERSON_36], [PERSON_37]
+Review Lead: [PERSON_1] | External Auditor: Quantum Data Systems (Engagement: PC932248)
+
+[PERSON_5] SCORECARD
+──────────────────────────────────────────────────────
+Overall [PERSON_5] [PERSON_32]:            [URL_1]%  (Prior Period: [URL_2]%)
+Total Estimated [PERSON_39] [PERSON_15]:       [AMOUNT_1]
+──────────────────────────────────────────────────────
+
+GAP [FINANCIAL_1]
+Priority    Gap [IDNUMBER_1]                                 [PERSON_39] [PERSON_15]
+[FINANCIAL_2]    GAP-7661    Segregation of duties violation in AP processing cycle  [AMOUNT_2]
+HIGH        GAP-0603    [PERSON_6] KYC documentation for 7322 counterparties  [AMOUNT_3]
+HIGH        GAP-3065    Data retention policy breach — 555 records overdue for deletion  [AMOUNT_4]
+MEDIUM      GAP-7924    Missing dual-authorization on 3685 high-value transactions  [AMOUNT_5]
+MEDIUM      GAP-2135    Vendor onboarding controls not applied to 1977 suppliers  [AMOUNT_6]
+
+[FINANCIAL_2] FINDING DETAIL (GAP-7661)
+[URL_3]% of transactions processed through system EX306837 between February 20, 2026 and February 25, 2026 lacked required dual-authorization controls (SOX Section [URL_4]). Affected volume: 5,771 transactions totalling [AMOUNT_7]. Voluntary disclosure submitted February 27, 2026 (Internal Ref: XET-8084-QZGT8).
+
+[FINANCIAL_3] PLAN
+  ACT-3685  Cormac [PERSON_30]          Due: April 19, 2026  Budget: DX329722
+  ACT-7322  [PERSON_21] Achterberg    Due: May 10, 2026  Budget: KT706184
+  ACT-0555  [PERSON_4]          Due: April 19, 2026  Budget: UZ083254
+  ACT-1977  [PERSON_7] [PERSON_11]   Due: April 07, 2026  Budget: QK273618
+
+REGULATORY ENGAGEMENT [PERSON_19]
+  Regulator meeting (SOX):   May 20, 2026
+  Internal Audit follow-up:         May 13, 2026
+  Board Audit [PERSON_9] session:    April 16, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Compliance_Gap_Report_FCM-3634-OTC87_[URL_5]
+  • Transaction_Sample_Analysis_[URL_6]
+  • Voluntary_Disclosure_Letter_[URL_7]
+
+Report must not be shared with operational line management until [FINANCIAL_3] ownership is formally assigned.
+
+[PERSON_1]
+Director of Procurement | [PERSON_22] & Treasury | Meridian Capital Group
+[PERSON_5] [PERSON_25]: [PHONE_2]  |  [PERSON_33]: JX744672
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_30]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK [PERSON_9] ONLY
+Handling Protocol: [CONTRACT_1]-WBTE2 | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

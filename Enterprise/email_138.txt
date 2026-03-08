@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #138  |  RESTRICTED – CRISIS MANAGEMENT TEAM ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Barnabas Whitmore <bwhitmore@clearwatermi.com>
+TO:          Cormac Blankenship <cblankenship@clearwatermi.com>
+SUBJECT:     CONFIDENTIAL: Supply Chain Disruption – Incident LH488273
+REFERENCE:   FZS-0283-HPEEM
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Yolanda,
+
+This communication is issued under Business Continuity Protocol BCP-7710 following a Tier-1 supply chain disruption (Incident ID: LH488273). Immediate escalation is required.
+
+Incident Declared: February 12, 2026 | Affected Supplier: Granite Peak Resources (Vendor ID: WJ468458)
+Incident Classification: TIER-1 | Crisis Management Team: ACTIVATED
+
+INCIDENT SCOPE
+──────────────────────────────────────────────────────
+Affected SKUs:                       AU075592, OR549136, RG199329
+Estimated Supply Gap:                9,143 units over 9732 weeks
+Revenue at Risk:                     USD         68,583
+Gross Margin at Risk:                USD      1,363,236  (29.87% margin)
+Customers Impacted:                  3273 accounts (Total Value: USD 3,166,811)
+──────────────────────────────────────────────────────
+
+ROOT CAUSE (PRELIMINARY — NOT FOR EXTERNAL RELEASE)
+Granite Peak Resources's primary facility (Code: UM066298) sustained a critical equipment failure on primary production line. Capacity reduced by 18.55%; normalization expected May 01, 2026.
+
+CUSTOMER IMPACT BY TIER
+  Tier-1 (560 customers, USD 7,385,874/yr):  Delay 258 weeks
+  Tier-2 (9663 customers, USD 102,071/yr):  Delay 5713 weeks
+  Tier-3 (1178 customers, USD 1,436,675/yr):  Discretionary reallocation
+
+MITIGATION ACTIONS
+  MA-7710  Activate secondary supplier Silveroak Capital Markets           Felicia Ferrante      Scheduled        May 31, 2026
+  MA-9143  Air-freight buffer stock from Los Angeles    Lavinia Okafor        Initiated        March 24, 2026
+  MA-9732  Draft customer communication plan           Jonathan Djordjevic   On Hold          May 01, 2026
+  MA-3273  Force majeure review (Ref: KDJ-1513-HIHLC)         Renata Drummond       Pending Approval  April 03, 2026
+  MA-0560  Inventory reallocation model               Alistair Volkov       Initiated        March 30, 2026
+
+FINANCIAL EXPOSURE
+  Direct Costs (Expediting, Air Freight):  USD 126,111
+  Customer Penalty Clauses (max):          USD 120,491 (Contract Refs: OUX-8576-A7RTB)
+  Insurance Claim (BI Policy KK519457):      USD 123,469 (Claim submitted: March 01, 2026)
+
+Crisis Management Team call: April 25, 2026 at 08:00 EST — Dial-in: 258-9663-5713, PIN: 001178.
+
+REFERENCED ATTACHMENTS
+  • BCP_Incident_Report_LH488273_RESTRICTED.pdf
+  • Supply_Gap_Analysis_AU075592_OR549136.xlsx
+  • Customer_Impact_Matrix_OUX-8576-A7RTB.xlsx
+
+Tanya Montclair
+VP of Operations | Operations | Clearwater Mining Corp
+Crisis Hotline: +1 (800) 7916-3693  |  Incident Badge: HH025121
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Whitmore's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CRISIS MANAGEMENT TEAM ONLY
+Handling Protocol: REF-FZS-0283-HPEEM | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+This communication is issued under Business Continuity Protocol BCP-7710 following a Tier-1 supply chain disruption ([FINANCIAL_1] ID: LH488273). [PERSON_6] escalation is required.
+
+[FINANCIAL_1] Declared: February 12, 2026 | Affected Supplier: [PERSON_15] Peak Resources (Vendor ID: WJ468458)
+[FINANCIAL_1] Classification: TIER-1 | Crisis Management [CALLSIGN_1]
+
+[FINANCIAL_1] [PERSON_34]
+──────────────────────────────────────────────────────
+Affected SKUs:                       AU075592, OR549136, RG199329
+Estimated Supply Gap:                9,143 units over 9732 weeks
+[PERSON_16] at Risk:                     [AMOUNT_1]
+Gross Margin at Risk:                [AMOUNT_2]  ([URL_1]% margin)
+[FINANCIAL_3]s Impacted:                  3273 accounts (Total Value: [AMOUNT_3])
+──────────────────────────────────────────────────────
+
+ROOT [PERSON_35] ([FINANCIAL_2] — NOT FOR EXTERNAL [PERSON_17])
+[PERSON_15] Peak Resources's primary facility (Code: UM066298) sustained a critical equipment failure on primary production line. Capacity reduced by [URL_2]%; normalization expected May 01, 2026.
+
+[FINANCIAL_3] IMPACT BY TIER
+  Tier-1 (560 [FINANCIAL_3]s, [AMOUNT_4]/yr):  Delay 258 weeks
+  Tier-2 (9663 [FINANCIAL_3]s, [AMOUNT_5]/yr):  Delay 5713 weeks
+  Tier-3 (1178 [FINANCIAL_3]s, [AMOUNT_6]/yr):  Discretionary reallocation
+
+MITIGATION ACTIONS
+  MA-7710  [PERSON_8] secondary supplier Silveroak Capital Markets           [PERSON_1]        May 31, 2026
+  MA-9143  Air-freight buffer stock from Los Angeles    [PERSON_2]        March 24, 2026
+  MA-9732  Draft [FINANCIAL_3] communication plan           [PERSON_4] Hold          May 01, 2026
+  MA-3273  [PERSON_36] majeure review (Ref: KDJ-1513-HIHLC)         [PERSON_23] Drummond       Pending Approval  April 03, 2026
+  MA-0560  Inventory reallocation model               [PERSON_3]        March 30, 2026
+
+FINANCIAL [PERSON_10]
+  Direct Costs (Expediting, Air Freight):  [AMOUNT_7]
+  [FINANCIAL_3] Penalty Clauses (max):          [AMOUNT_8] (Contract Refs: OUX-8576-A7RTB)
+  [PERSON_7] Claim (BI Policy KK519457):      [AMOUNT_9] (Claim submitted: March 01, 2026)
+
+Crisis Management [CALLSIGN_2]: April 25, 2026 at 08:00 EST — Dial-in: [PHONE_1], PIN: 001178.
+
+REFERENCED [FINANCIAL_5]
+  • BCP_[FINANCIAL_1]_Report_LH488273_[URL_3]
+  • Supply_Gap_Analysis_AU075592_[URL_4]
+  • [FINANCIAL_3]_Impact_Matrix_[URL_5]
+
+[PERSON_5]
+VP of Operations | Operations | [COMPANY_1]
+Crisis [PERSON_21]: [PHONE_2]  |  [FINANCIAL_1] [PERSON_38]: HH025121
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_12]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CRISIS MANAGEMENT [CALLSIGN_3]
+Handling Protocol: [CONTRACT_1]-HPEEM | Encrypted In-Transit: TLS [URL_6] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_31] Deletion
+================================================================================

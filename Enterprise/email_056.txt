@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #056  |  RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Sebastian Ellison <sellison@meridiancapi.com>
+TO:          Vanessa Kowalski <vkowalski@meridiancapi.com>
+SUBJECT:     CONFIDENTIAL: ERP Migration Cost Estimate – Project EI296417
+REFERENCE:   FWG-9136-OPPLC
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Patrick,
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: EI296417). This is classified RESTRICTED and shared solely with the Technology Steering Committee and Finance leadership.
+
+Project Summary – Ref: FKF-3580-1L6CH
+Platform: Infor CloudSuite | Implementation Partner: Granite Peak Resources
+Target Go-Live: May 29, 2026 | Legacy Decommission: April 26, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+Infrastructure & Licensing:          USD        836,590  (35.72%)
+Implementation Services:             USD     16,719,412  (14.99%)
+Data Migration & Validation:         USD     14,354,661  (24.21%)
+Training & Change Management:        USD         62,039  (5.9%)
+Post-Go-Live Support (Year 1):       USD        728,963  (26.55%)
+Contingency Reserve (12.79%):       USD        285,107
+──────────────────────────────────────────────────────
+Total Project Budget:                USD     32,986,772
+
+PHASE SCOPE
+  Phase 1 Modules:  Inventory Management, HR & Payroll, Procurement
+  Phase 2 Modules:  Accounts Payable, Cash Management
+  Data Migration Window: May 28, 2026 – March 18, 2026
+
+RISK REGISTER (TOP ITEMS)
+  Risk R-3505 [HIGH]:    Data integrity failure during migration — Probability: 15.41%
+  Risk R-5809 [MEDIUM]:  Vendor delivery delay (Granite Peak Resources) — Probability: 4.55%
+  Risk R-5637 [HIGH]:    Integration failure with legacy system KN173777 — Probability: 3.28%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request PV864258 by April 07, 2026
+  – IT Security review completion (Ticket: SEC-6436) by April 09, 2026
+  – Paragon Life Sciences API certification for module Inventory Management (Cert: OZ350856)
+
+REFERENCED ATTACHMENTS
+  • ERP_Migration_CostModel_XT912611_v8958.xlsx   [password-protected]
+  • Project_Charter_EYB-3357-95NRD_RESTRICTED.pdf
+  • Vendor_Assessment_KN321512.docx
+
+Written approval required from cost center owners CC-6057 and CC-4348 by April 13, 2026.
+
+Patrick Caldwell
+Chief Technology Officer | Human Capital | Falcon Ridge Asset Management
+Internal Ext: 5265  |  Direct: +1 (408) 7433-9683  |  Badge: MQ240076
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+Handling Protocol: REF-FWG-9136-OPPLC | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_10],
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: EI296417). This is classified RESTRICTED and shared solely with the Technology [FINANCIAL_3] [PERSON_7] and [PERSON_11] leadership.
+
+Project Summary – Ref: FKF-3580-1L6CH
+Platform: Infor [PERSON_6] | Implementation Partner: [PERSON_12] Peak Resources
+Target [PERSON_13]: May 29, 2026 | Legacy Decommission: April 26, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+[PERSON_2] & Licensing:          [AMOUNT_1]  ([URL_1]%)
+Implementation Services:             [AMOUNT_2]  ([URL_2]%)
+Data Migration & Validation:         [AMOUNT_3]  ([URL_3]%)
+Training & [PERSON_19] Management:        [AMOUNT_4]  ([URL_4]%)
+[PERSON_4] Support (Year 1):       [AMOUNT_5]  ([URL_5]%)
+Contingency [PERSON_14] ([URL_6]%):       [AMOUNT_6]
+──────────────────────────────────────────────────────
+Total Project Budget:                [AMOUNT_7]
+
+[PERSON_25] [PERSON_26]
+  [PERSON_25] 1 Modules:  Inventory Management, HR & Payroll, Procurement
+  [PERSON_25] 2 Modules:  Accounts [PERSON_15], Cash Management
+  Data Migration Window: May 28, 2026 – March 18, 2026
+
+RISK [FINANCIAL_1] (TOP ITEMS)
+  Risk R-3505 [HIGH]:    Data integrity failure during migration — Probability: [URL_7]%
+  Risk R-5809 [MEDIUM]:  Vendor delivery delay ([PERSON_12] Peak Resources) — Probability: [URL_8]%
+  Risk R-5637 [HIGH]:    Integration failure with legacy system KN173777 — Probability: [URL_9]%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request PV864258 by April 07, 2026
+  – IT Security review completion (Ticket: SEC-6436) by April 09, 2026
+  – Paragon [PERSON_32] Sciences API certification for module Inventory Management (Cert: OZ350856)
+
+REFERENCED [FINANCIAL_2]
+  • ERP_Migration_CostModel_XT912611_[URL_10]   [password-protected]
+  • Project_Charter_EYB-3357-95NRD_[URL_11]
+  • Vendor_Assessment_[URL_12]
+
+[PERSON_16] approval required from cost center owners CC-6057 and CC-4348 by April 13, 2026.
+
+[PERSON_1]
+[APPROVAL_CODE_2] | Falcon [PERSON_27] Asset Management
+Internal Ext: 5265  |  Direct: [PHONE_1]  |  [PERSON_28]: MQ240076
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY [FINANCIAL_3] [PERSON_7]
+Handling Protocol: [CONTRACT_1]-OPPLC | Encrypted In-Transit: TLS [URL_13] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

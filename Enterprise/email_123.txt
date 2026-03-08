@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #123  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Yolanda Montclair <ymontclair@polariswealt.com>
+TO:          Tanya Drummond <tdrummond@polariswealt.com>
+SUBJECT:     CONFIDENTIAL: FY2023 Annual Budget & Capital Allocation Proposal
+REFERENCE:   XJH-5393-EKQXP
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Stephanie,
+
+I am distributing the preliminary FY2023 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on May 24, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: LTM-0524-9E2XT | CFO Sponsor: Elise Zalewski | Prior Year Lock Date: February 07, 2026
+
+FY2023 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2023 Budget        FY2022 Actual      Variance
+Total Revenue           USD     15,829,710   USD     13,948,996    +13.5%
+Gross Profit            USD      6,381,174   USD      6,877,695     +0.0%
+EBITDA                  USD      2,866,567   USD      2,850,213     -2.6%
+EBIT                    USD      2,352,449   USD      2,507,590     -0.5%
+Net Income              USD      1,834,017   USD      1,764,482    +11.0%
+Capital Expenditure     USD        217,268   USD        174,239     +9.8%
+Free Cash Flow          USD      1,719,940   USD      1,762,441     +5.2%
+Net Debt (Year-End)     USD     28,102,520   USD     27,878,230     +6.6%
+──────────────────────────────────────────────────────
+EBITDA Margin: 13.63%  |  Gross Margin: 30.86%  |  FCF Conversion: 37.05%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 1)  USD 3,855,815  Low  FT790254
+  New Manufacturing Line — Plant RV49       USD 662,346  Medium  LP111281
+  ERP Enhancement — Module NY35             USD 3,378,502  Medium  QR694897
+  Logistics Hub Expansion — Atlanta         USD 111,195  Medium  CF647218
+  Contingency Reserve (25.35%)              USD 55,077  N/A    MY823511
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 3.94% assumes 7774 new customer wins (Pipeline: YV013339) and 16.11% retention.
+  Headcount: net +7615 FTEs (4113 hires, 6951 attrition) — Ref: HC-8499.
+  Inflation: 25.24% on COGS, 3.25% on SG&A.
+  FX: USD/EUR 1.0985 | USD/GBP 0.8456 | USD/JPY 145.6 (Treasury Ref: FX147967).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Industrial Services             Revenue: USD 15,876,576   EBITDA: USD 3,588,475   HC Cap: 403
+  EMEA Operations                 Revenue: USD 15,458,440   EBITDA: USD 2,082,750   HC Cap: 1060
+  Consumer Products               Revenue: USD 6,911,174   EBITDA: USD 1,582,025   HC Cap: 1679
+  Asia-Pacific Growth             Revenue: USD 657,338   EBITDA: USD 147,662   HC Cap: 614
+
+REFERENCED ATTACHMENTS
+  • FY2023_Budget_Model_UWM-0559-LR66O_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_QG686703_CONFIDENTIAL.pdf
+  • Division_Targets_ZF262842_RESTRICTED.xlsx
+
+Provide comments to Elise Zalewski only by March 27, 2026. Budget Committee approval required by March 17, 2026.
+
+Warren Achterberg
+Chief Risk Officer | Risk Management | Irongate Private Equity
+Budget Portal: ZK680983  |  Direct: +1 (646) 8299-1866
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-XJH-5393-EKQXP | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_6],
+
+I am distributing the preliminary FY2023 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_7] review on May 24, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_40] with [FINANCIAL_3]al finance teams or [PERSON_44] management at this stage.
+
+Budget [PERSON_8]: LTM-0524-9E2XT | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 07, 2026
+
+FY2023 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_44] Item               FY2023 Budget        FY2022 Actual      [PERSON_14]
+Total [PERSON_20]           [AMOUNT_1]   [AMOUNT_2]    +[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_28]                  [AMOUNT_5]   [AMOUNT_6]     -[URL_3]%
+[PERSON_45]                    [AMOUNT_7]   [AMOUNT_8]     -[URL_4]%
+Net [PERSON_29]              [AMOUNT_9]   [AMOUNT_10]    +[URL_5]%
+Capital [PERSON_4]     [AMOUNT_11]   [AMOUNT_12]     +[URL_6]%
+[PERSON_46] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     +[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     +[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_28] Margin: [URL_9]%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_4] ALLOCATION
+  Digital [PERSON_2] [PERSON_21] ([PERSON_37] 1)  [AMOUNT_17]  Low  FT790254
+  New Manufacturing [PERSON_44] — Plant RV49       [AMOUNT_18]  Medium  LP111281
+  ERP Enhancement — [PERSON_30] NY35             [AMOUNT_19]  Medium  QR694897
+  Logistics Hub Expansion — [PERSON_22]         [AMOUNT_20]  Medium  CF647218
+  Contingency [PERSON_23] ([URL_12]%)              [AMOUNT_21]  N/A    MY823511
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_20] growth [URL_13]% assumes 7774 new customer wins ([PERSON_15]: YV013339) and [URL_14]% retention.
+  Headcount: net +7615 FTEs (4113 hires, 6951 attrition) — Ref: HC-8499.
+  Inflation: 2[URL_7]4% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: FX147967).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_9] — DO NOT [PERSON_40] PRE-ALIGNMENT)
+  Industrial Services             [PERSON_20]: [AMOUNT_24]   [PERSON_28]: [AMOUNT_25]   HC Cap: 403
+  [PERSON_50] Operations                 [PERSON_20]: [AMOUNT_26]   [PERSON_28]: [AMOUNT_27]   HC Cap: 1060
+  Consumer Products               [PERSON_20]: [AMOUNT_28]   [PERSON_28]: [AMOUNT_29]   HC Cap: 1679
+  Asia-Pacific Growth             [PERSON_20]: [AMOUNT_30]   [PERSON_28]: [AMOUNT_31]   HC Cap: 614
+
+REFERENCED [FINANCIAL_4]
+  • FY2023_Budget_Model_UWM-0559-LR66O_BOARD_[URL_20]
+  • CapEx_Project_Briefs_QG686703_[URL_21]
+  • [FINANCIAL_3]_Targets_ZF262842_[URL_20]
+
+[PERSON_25] comments to [PERSON_1] only by March 27, 2026. Budget [PERSON_7] approval required by March 17, 2026.
+
+[PERSON_26] Achterberg
+[APPROVAL_CODE_2] | [PERSON_17] Private Equity
+Budget Portal: ZK680983  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_9], and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-EKQXP | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_33] Deletion
+================================================================================

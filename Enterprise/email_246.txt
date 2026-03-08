@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #246  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, February 22, 2026 at 07:39 PM
+FROM:        Celestine Ihejirika <cihejirika@emberanalyti.com>
+TO:          Gregory Zalewski <gzalewski@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2025
+REFERENCE:   JPV-2859-EYOAW
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Priya,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: TXH-0736-ZSYX8). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External Assurance: Aurora Semiconductor (Ref: VB449341) | Target Publication: June 01, 2026 | Filing Deadline: June 06, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+Scope 1 Emissions (tCO2e)          37,908        35,878         30,326
+Scope 2 Emissions (tCO2e)          43,318        45,483         34,654
+Scope 3 Emissions (tCO2e)         211,435       211,435        179,719
+Total Energy (MWh)                136,781       143,620        123,102
+Water Withdrawal (m³)           1,895,022     1,989,773      1,705,519
+Waste Diverted (%)                 15.82%       13.29%         12.71%
+Gender Pay Gap (%)                  4.43%        30.5%         22.02%
+TRIR (injuries/200k hrs)             2.48           2.6           1.98
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-9678: Scope 3 emissions 26.99% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: AE486967).
+  Issue ESG-5405: Gender pay gap of 4.43% exceeds 22.02% target. Board must decide voluntary vs. mandatory cohort disclosure by April 05, 2026.
+  Issue ESG-5971: Tier-1 supplier Blackridge Logistics (Spend: USD 56,362) failed human rights assessment (Score: 32/100, Threshold: 77/100). Disclosure may trigger customer contract reviews (Ref: XJM-6421-D6WGE).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2025):  7,686 tCO2e (Registry: American Carbon Registry, Ref: GL224865)
+  Credits Retired:              419 tCO2e
+  Average Price:                USD 60/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          9.06% absolute reduction vs. 2019 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline May 27, 2026 (Ref: IY710872)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref WB725597
+  TCFD Alignment Score:         16.49% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2025_ASL-8479-Y7X1W_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_LD333748.xlsx
+  • Supplier_Assessment_CL308668.pdf
+
+Board sign-off required by March 31, 2026. Route comments to Rebecca Yamamoto only.
+
+Stephanie Ellison
+Director of Business Intelligence | Business Development | Sunridge Energy Partners
+ESG Committee Code: PT795529  |  Direct: +1 (415) 1126-1267
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ihejirika's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-JPV-2859-EYOAW | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_32],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: TXH-0736-ZSYX8). This is classified RESTRICTED – BOARD & AUDIT [PERSON_10] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External [PERSON_11]: [PERSON_28] Semiconductor (Ref: VB449341) | Target Publication: [PERSON_42] 01, 2026 | Filing [PERSON_19]: [PERSON_42] 06, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+[PERSON_34] 1 Emissions (tCO2e)          37,908        35,878         30,326
+[PERSON_34] 2 Emissions (tCO2e)          43,318        45,483         34,654
+[PERSON_34] 3 Emissions (tCO2e)         211,435       211,435        179,719
+Total Energy (MWh)                136,781       143,620        123,102
+Water Withdrawal (m³)           1,895,022     1,989,773      1,705,519
+[PERSON_35] Diverted (%)                 [URL_1]%       [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                  [URL_4]%        [URL_5]%         [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]           [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_7] ISSUES (PRE-DECISIONAL)
+  [PERSON_36] ESG-9678: [PERSON_34] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_7] language re: forward guidance implications (Ref: AE486967).
+  [PERSON_36] ESG-5405: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_7] by April 05, 2026.
+  [PERSON_36] ESG-5971: Tier-1 supplier [PERSON_8] Logistics (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_37]: 32/100, Threshold: 77/100). [PERSON_7] may trigger customer contract reviews (Ref: [PERSON_3]).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2025):  7,686 tCO2e (Registry: American Carbon Registry, Ref: GL224865)
+  Credits Retired:              419 tCO2e
+  [PERSON_24] [PERSON_38]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2019 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_25] [PERSON_7] [PERSON_47]:  [PERSON_9] [PERSON_19] May 27, 2026 (Ref: IY710872)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref WB725597
+  TCFD Alignment [PERSON_37]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2025_ASL-8479-Y7X1W_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by March 31, 2026. [PERSON_40] comments to [PERSON_2] only.
+
+[PERSON_1]
+Director of Business [PERSON_5] | Business Development | [PERSON_21] Energy Partners
+ESG [PERSON_10] Code: PT795529  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_16]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_7] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-EYOAW | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_31] Deletion
+================================================================================

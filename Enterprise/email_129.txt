@@ -1,0 +1,118 @@
+================================================================================
+EMAIL #129  |  CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Derek Rasmussen <drasmussen@irongatepriv.com>
+TO:          Howard Okonkwo <hokonkwo@irongatepriv.com>
+SUBJECT:     CONFIDENTIAL: Key Account Renewal Terms – Redwood Asset Management (Account IC482008)
+REFERENCE:   PNB-9067-FV3QC
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Dmitri,
+
+I am writing in strict confidence regarding the Key Account renewal with Felicia Mbeki at Redwood Asset Management (Account ID: IC482008). This is classified at Commercial Sensitivity Level 3.
+
+Account Renewal Summary – Ref: ZDC-7638-BU9YT
+Account Tier: Platinum | Contract Expiry: May 10, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     USD        109,834
+Proposed Renewal Value:              USD        114,482
+Year-on-Year Growth:                 +19.32%
+Volume Commitment (Units):           1,660
+Proposed Price Adjustment:           +20.32% effective March 17, 2026
+Rebate on Volumes > 707 units:  8.9%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Redwood Asset Management represents 19.14% of total divisional revenue and has been a strategic partner since February 21, 2026. Their procurement lead, Lavinia Brennan, has informally indicated willingness to expand volume commitment by up to 10.37% subject to:
+  (a) Preferred pricing on Product Line QU612967 (list price: USD 2,262/unit)
+  (b) Dedicated account support team (minimum 7373 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-7563)
+
+COMPETITIVE INTELLIGENCE (SOURCE: CI-GE583672 — STRICTLY CONFIDENTIAL)
+Crestview Hospitality Group has approached Redwood Asset Management with a competing bid estimated at USD 3,881,366 annually — approximately 11.38% below our current pricing.
+
+INTERNAL APPROVALS REQUIRED
+  ☐  VP Finance — Budget code: FI151038
+  ☐  Chief Revenue Officer — Exception Ref: GMO-9575-TKQ5H
+  ☐  Legal Counsel — Contract template: MSA-IK366390
+
+REFERENCED ATTACHMENTS
+  • Account_Renewal_Proposal_MC389605.pdf            [CONFIDENTIAL]
+  • Competitive_Intel_Brief_GE583672_RESTRICTED.docx
+  • Pricing_Exception_Form_UTB-5106-MJRLR.xlsx
+
+Internal sign-off deadline: April 05, 2026. Reply with authorization code via secure channel only.
+
+Piers Thistlethwaite
+Chief Risk Officer | Supply Chain Management | Citadel Fintech Group
+Direct: +1 (312) 8245-6417  |  Secure ID: LC329835
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+Handling Protocol: REF-PNB-9067-FV3QC | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+I am writing in strict confidence regarding the Key Account renewal with [PERSON_3] at Redwood Asset Management (Account ID: IC482008). This is classified at Commercial [FINANCIAL_5] Level 3.
+
+Account Renewal Summary – Ref: ZDC-7638-BU9YT
+Account Tier: Platinum | Contract Expiry: May 10, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     [AMOUNT_1]
+Proposed Renewal Value:              [AMOUNT_2]
+Year-on-Year Growth:                 +[URL_1]%
+[PERSON_15] Commitment (Units):           1,660
+Proposed [PERSON_25] Adjustment:           +[URL_2]% effective March 17, 2026
+[PERSON_16] on Volumes > 707 units:  [URL_3]%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Redwood Asset Management represents [URL_4]% of total divisional [PERSON_12] and has been a strategic partner since February 21, 2026. Their procurement lead, [PERSON_1], has informally indicated willingness to expand [PERSON_15] commitment by up to [URL_5]% subject to:
+  (a) Preferred pricing on Product [PERSON_31] QU612967 (list [PERSON_25]: [AMOUNT_3]/unit)
+  (b) Dedicated account support team (minimum 7373 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-7563)
+
+[PERSON_6] [PERSON_4] ([PERSON_18]: CI-GE583672 — [FINANCIAL_2] CONFIDENTIAL)
+Crestview Hospitality Group has approached Redwood Asset Management with a competing bid estimated at [AMOUNT_4] annually — approximately [URL_6]% below our current pricing.
+
+INTERNAL APPROVALS [FINANCIAL_3]
+  ☐  VP [PERSON_11] — Budget code: FI151038
+  ☐  Chief [PERSON_12] Officer — Exception Ref: GMO-9575-TKQ5H
+  ☐  Legal Counsel — Contract template: MSA-IK366390
+
+REFERENCED [FINANCIAL_4]
+  • Account_Renewal_Proposal_[URL_7]            [CONFIDENTIAL]
+  • [FINANCIAL_1]_Intel_Brief_GE583672_[URL_8]
+  • Pricing_Exception_Form_[URL_9]
+
+Internal sign-off deadline: April 05, 2026. Reply with authorization code via [PERSON_21] channel only.
+
+Piers [PERSON_2]
+[APPROVAL_CODE_3] | Citadel Fintech Group
+Direct: [PHONE_1]  |  [PERSON_21] ID: LC329835
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL [FINANCIAL_5] LEVEL 3
+Handling Protocol: [CONTRACT_1]-FV3QC | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_21] Deletion
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #145  |  STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Ingrid Okafor <iokafor@bluepeakagro.com>
+TO:          Rebecca Abioye <rabioye@bluepeakagro.com>
+SUBJECT:     CONFIDENTIAL: Product Quality Incident – SKU CM865630 / Ref GIE-1818-MET38
+REFERENCE:   NHO-7107-BI1DN
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Natalie,
+
+I am issuing this communication under Quality Crisis Protocol QCP-1669. A potential product quality issue has been identified that may necessitate a voluntary recall. This is STRICTLY CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+Incident Reference: GIE-1818-MET38
+Product: BioActive Diagnostic Reagent Kit (SKU: CM865630, Batch: NJ428488)
+Issue Identified: February 27, 2026 | Regulatory Authority: Health Canada
+External Counsel: Redwood Asset Management (Ref: WP368218) | PR Advisor: Sterling Automotive (Ref: VJ913974)
+
+INCIDENT SCOPE
+──────────────────────────────────────────────────────
+Nature of Defect:            foreign particle (metal fragment) detected in production batch
+Affected Batches:            NJ428488 through JN158979 (Production: February 25, 2026 – February 13, 2026)
+Units Distributed:           3,046
+Units in Field (est.):       3,405
+Geographic Markets:          Germany, Netherlands, Japan
+Adverse Events Reported:     7772 (Severity: Serious — hospitalisations under investigation)
+──────────────────────────────────────────────────────
+
+FINANCIAL EXPOSURE (BOARD ONLY)
+  Direct Recall Costs (est.):        USD         61,714
+  Customer Compensation Reserve:     USD        305,184
+  Lost Revenue (2184 weeks):       USD        834,194
+  Litigation Reserve (Ref: TXU-9016-OJB81):   USD        123,329
+  Insurance Recovery (Policy PT655387): USD        814,765
+  Net Exposure:                       USD        509,656
+
+REGULATORY STRATEGY OPTIONS (ATTORNEY-CLIENT PRIVILEGED)
+  Option R-1: Voluntary recall — notify regulator by April 19, 2026 (Counsel: Gregory Nguyen)
+  Option R-2: Targeted market withdrawal — batches NJ428488/JN158979 in Germany only
+  Option R-3: Corrective action without recall — enhanced monitoring 158 months
+  Recommended: Option R-2 (pending Board approval — Ref: GNQ-2498-FA7TI)
+
+OPERATIONAL ACTIONS
+  OA-4771  Production halt on Line 2724      Thomas Petrossian     Complete      March 25, 2026
+  OA-3444  Quarantine inventory at DC RJ854273     Constance Nakamura    On Hold       April 23, 2026
+  OA-0898  Root cause investigation              Ingrid Strauss        Escalated     May 23, 2026
+  OA-5431 Customer hold notifications           Kevin Achterberg      Complete      April 18, 2026
+
+REFERENCED ATTACHMENTS
+  • Quality_Incident_Report_GIE-1818-MET38_QCP-1669.pdf
+  • Batch_Distribution_Analysis_NJ428488_JN158979.xlsx
+  • Recall_Cost_Model_JR727143_CONFIDENTIAL.xlsx
+
+Board emergency call: March 19, 2026 at 07:00 EST. No action prior to Board alignment.
+
+Derek Okafor
+Head of Treasury | Corporate Development | Aurora Semiconductor
+Quality Crisis Hotline: +1 (800) 497-1669  |  Incident ID: CM865630
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: REF-NHO-7107-BI1DN | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_27],
+
+I am issuing this communication under Quality Crisis Protocol QCP-1669. A potential product quality [PERSON_45] has been identified that may necessitate a voluntary recall. This is [FINANCIAL_1] CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+[FINANCIAL_2] [PERSON_12]: GIE-1818-MET38
+Product: [PERSON_13] Diagnostic Reagent Kit (SKU: CM865630, Batch: NJ428488)
+[PERSON_45] Identified: February 27, 2026 | Regulatory Authority: Health [PERSON_36]
+External Counsel: Redwood Asset Management (Ref: WP368218) | PR Advisor: Sterling [PERSON_9] (Ref: VJ913974)
+
+[FINANCIAL_2] [PERSON_46]
+──────────────────────────────────────────────────────
+[PERSON_37] of Defect:            foreign particle (metal fragment) detected in production batch
+Affected Batches:            NJ428488 through JN158979 (Production: February 25, 2026 – February 13, 2026)
+Units Distributed:           3,046
+Units in Field (est.):       3,405
+Geographic Markets:          Germany, Netherlands, Japan
+[PERSON_28] Events Reported:     7772 (Severity: Serious — hospitalisations under investigation)
+──────────────────────────────────────────────────────
+
+FINANCIAL [PERSON_22] (BOARD ONLY)
+  Direct Recall Costs (est.):        [AMOUNT_1]
+  Customer Compensation [PERSON_30]:     [AMOUNT_2]
+  Lost [PERSON_31] (2184 weeks):       [AMOUNT_3]
+  Litigation [PERSON_30] (Ref: TXU-9016-OJB81):   [AMOUNT_4]
+  [PERSON_15] Recovery (Policy PT655387): [AMOUNT_5]
+  Net [PERSON_22]:                       [AMOUNT_6]
+
+REGULATORY [FINANCIAL_4] OPTIONS ([FINANCIAL_5]-CLIENT PRIVILEGED)
+  Option [MIL_PLATFORM_1]: Voluntary recall — notify regulator by April 19, 2026 (Counsel: [PERSON_5])
+  Option [MIL_PLATFORM_2]: Targeted market withdrawal — batches NJ428488/JN158979 in Germany only
+  Option [MIL_PLATFORM_3]: [PERSON_10] action without recall — enhanced monitoring 158 months
+  Recommended: Option [MIL_PLATFORM_2] (pending Board approval — Ref: [PERSON_6])
+
+[FINANCIAL_6] ACTIONS
+  OA-4771  Production halt on [PERSON_53] 2724      [PERSON_2]      March 25, 2026
+  OA-3444  [PERSON_11] inventory at DC RJ854273     [PERSON_4] Hold       April 23, 2026
+  OA-0898  Root cause investigation              [PERSON_1]     May 23, 2026
+  OA-5431 Customer hold notifications           [PERSON_3]      April 18, 2026
+
+REFERENCED [FINANCIAL_7]
+  • Quality_[FINANCIAL_2]_Report_GIE-1818-MET38_[URL_1]
+  • Batch_Distribution_Analysis_NJ428488_[URL_2]
+  • Recall_Cost_Model_JR727143_[URL_3]
+
+Board emergency call: March 19, 2026 at 07:00 EST. No action prior to Board alignment.
+
+[PERSON_8]
+Head of Treasury | [PERSON_19] Development | [PERSON_42] Semiconductor
+Quality Crisis [PERSON_34]: [PHONE_1]  |  [FINANCIAL_2] ID: CM865630
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: [CONTRACT_1]-BI1DN | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_4] Policy: 7 Years | Destruction Method: Certified [PERSON_44] Deletion
+================================================================================

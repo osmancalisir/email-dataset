@@ -1,0 +1,132 @@
+================================================================================
+EMAIL #074  |  STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Stephanie Fischer <sfischer@cobaltventur.com>
+TO:          Felicia Okafor <fokafor@cobaltventur.com>
+SUBJECT:     CONFIDENTIAL: Internal Investigation – Ref QNU-4722-OEQ1U
+REFERENCE:   MHD-3517-UCS5Y
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Oswald,
+
+This communication is issued under Investigations Protocol INV-4035 and is classified STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation Reference: QNU-4722-OEQ1U
+Complaint Received: February 13, 2026 | Channel: Anonymous Ethics Hotline (Ref: ETH-DJ232071)
+Allegation Category: Financial Statement Manipulation
+Investigation Lead: Thaddeus Haakonsen | External Counsel: Ironclad Supply Chain (Ref: XD279403)
+Forensic Accountant: Ember Analytics Inc (Ref: XE972066) | Audit Committee Notified: February 20, 2026
+
+ALLEGATION SUMMARY (ATTORNEY-CLIENT PRIVILEGED)
+The complaint alleges that between February 18, 2026 and February 28, 2026, expense reimbursements totalling USD 15,737,578 may have been submitted fraudulently by personnel in the Human Capital department using falsified vendor invoices. Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  USD 12,940,101 – USD 136,507
+Transactions Flagged:            9922 (Period: February 18, 2026 – February 28, 2026)
+Systems Under Review:            Expense Management System (VM3007), Procurement Platform (KM0562)
+Geographic Scope:                United Kingdom, Canada
+
+INVESTIGATION WORKPLAN
+  INV-192  Document preservation order issued    Lionel Djordjevic     Complete         May 30, 2026
+  INV-876  Email & comms forensic imaging        Warren Ferrante       Scheduled        May 30, 2026
+  INV-969  Financial transaction analysis        Ember Analytics Inc   On Hold          April 15, 2026
+  INV-880  Subject A interview (counsel present) Thaddeus Haakonsen    On Hold          May 29, 2026
+  INV-407  Subject B & C interviews              Thaddeus Haakonsen    Initiated        April 05, 2026
+  INV-595  Preliminary findings to Audit Cmte   Philippa Nakamura     Initiated        March 15, 2026
+
+REGULATORY DISCLOSURE ASSESSMENT (PRIVILEGED)
+  Counsel advises: no current obligation — monitor developments
+  External Auditor (Cascadia Real Estate Trust): Notification required — materiality threshold likely met
+  Potential Restatement: High — CFO and auditors placed on notice
+  D&O Insurance Notification: Filed February 27, 2026 (Policy Ref: WQ969645)
+
+PRESERVATION & CONFIDENTIALITY CONTROLS
+  ✓  Legal hold — 1533 custodians (Hold Ref: FP843714)
+  ✓  System access suspended for Subject A and B (IT Ticket: GO305447)
+  ✓  Document vault created — Vault ID: XE969063 (IR Team only)
+  ✗  PENDING: External hard drive imaging — 2917 devices (ETA: April 02, 2026)
+
+REFERENCED ATTACHMENTS
+  • Investigation_Plan_QNU-4722-OEQ1U_INV-4035.pdf
+  • Financial_Transactions_Sample_GY730111.xlsx
+  • Legal_Hold_Notice_FP843714.pdf
+
+All communications must be routed through external counsel Ironclad Supply Chain. Do not discuss with HR or line management.
+
+Sandra Quintero
+Chief Financial Officer | Human Capital | Delphi Semiconductor
+Encrypted Investigation Line: +1 (800) 8739-9249  |  Badge: KZ813302
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-MHD-3517-UCS5Y | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+This communication is issued under Investigations Protocol INV-4035 and is classified [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_11] ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation [PERSON_12]: [PERSON_8]
+Complaint Received: February 13, 2026 | Channel: Anonymous Ethics [PERSON_23] (Ref: ETH-DJ232071)
+Allegation Category: Financial Statement Manipulation
+Investigation Lead: [PERSON_5] | External Counsel: Ironclad Supply Chain (Ref: XD279403)
+Forensic Accountant: [COMPANY_1] (Ref: XE972066) | Audit [PERSON_11] Notified: February 20, 2026
+
+ALLEGATION SUMMARY ([FINANCIAL_2]-CLIENT PRIVILEGED)
+The complaint alleges that between February 18, 2026 and February 28, 2026, [PERSON_24] reimbursements totalling [AMOUNT_1] may have been submitted fraudulently by personnel in the Human Capital department using falsified vendor invoices. Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  [AMOUNT_2] – [AMOUNT_3]
+Transactions Flagged:            9922 (Period: February 18, 2026 – February 28, 2026)
+Systems Under Review:            [PERSON_24] Management System (VM3007), Procurement Platform (KM0562)
+Geographic [PERSON_38]:                United Kingdom, [PERSON_31]
+
+INVESTIGATION [FINANCIAL_3]
+  [MIL_PLATFORM_1] preservation order issued    [PERSON_3]         May 30, 2026
+  [MIL_PLATFORM_2] & comms forensic imaging        [PERSON_1]        May 30, 2026
+  [MIL_PLATFORM_3] transaction analysis        [COMPANY_1]   On Hold          April 15, 2026
+  [MIL_PLATFORM_4] A interview (counsel present) [PERSON_4] Hold          May 29, 2026
+  [MIL_PLATFORM_5] B & C interviews              [PERSON_2]        April 05, 2026
+  [MIL_PLATFORM_6] findings to Audit [PERSON_45]   [PERSON_6]     Initiated        March 15, 2026
+
+REGULATORY [PERSON_10] ASSESSMENT (PRIVILEGED)
+  Counsel advises: no current obligation — monitor developments
+  External Auditor ([PERSON_21] Real [PERSON_34] Trust): Notification required — materiality threshold likely met
+  Potential Restatement: High — CFO and auditors placed on notice
+  D&O [PERSON_14] Notification: Filed February 27, 2026 (Policy Ref: WQ969645)
+
+PRESERVATION & CONFIDENTIALITY [FINANCIAL_4]
+  ✓  Legal hold — 1533 custodians (Hold Ref: FP843714)
+  ✓  System access suspended for Subject A and B (IT Ticket: GO305447)
+  ✓  Document vault created — Vault ID: XE969063 (IR [CALLSIGN_1])
+  ✗  PENDING: External hard drive imaging — 2917 devices (ETA: April 02, 2026)
+
+REFERENCED [FINANCIAL_5]
+  • Investigation_Plan_QNU-4722-OEQ1U_[URL_1]
+  • Financial_Transactions_Sample_[URL_2]
+  • Legal_Hold_Notice_[URL_3]
+
+All communications must be routed through external counsel Ironclad Supply Chain. Do not discuss with HR or [PERSON_47] management.
+
+[PERSON_7]
+[APPROVAL_CODE_2] | [PERSON_36] Semiconductor
+Encrypted Investigation [PERSON_47]: [PHONE_1]  |  [PERSON_41]: KZ813302
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_10] may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_11] ONLY
+Handling Protocol: [CONTRACT_1]-UCS5Y | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_7] Policy: 7 Years | Destruction Method: Certified [PERSON_37] Deletion
+================================================================================

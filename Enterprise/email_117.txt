@@ -1,0 +1,140 @@
+================================================================================
+EMAIL #117  |  BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Philippa Yamamoto <pyamamoto@blackridgelo.com>
+TO:          Dmitri Quintero <dquintero@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: Pension & Benefits Liability Review – FY2024
+REFERENCE:   FMO-4749-H9770
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Odessa,
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: BKO-0062-1H8IT) under strict confidentiality per Employee Benefits Policy EBP-2251. Do not share with the Trustee Board or employee representatives until Board approval is obtained.
+
+Actuarial Firm: Stratos Energy Corp (Lead Actuary: Patrick Espinoza) | Measurement Date: March 07, 2026
+Next Trustee Meeting: April 21, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+Scheme                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Prism Healthcare Group_Main Scheme                262,120           222,179               -39,941
+Prism Healthcare Group_Legacy Scheme              200,127           199,773                  -354
+Prism Healthcare Group_Executive SERP           3,796,142         3,201,024              -595,118
+──────────────────────────────────────────────────────
+TOTAL                          4,258,389         3,622,976              -635,413
+Funded Ratio:               85.1%
+
+KEY ACTUARIAL ASSUMPTIONS
+  Discount Rate:               6.61%  (Prior Year: 11.36%)
+  Expected Return on Assets:   32.37%
+  CPI Inflation:               34.42%
+  Salary Growth Rate:          5.14%
+  Mortality Table:             RP-2014 (US)
+  Assumed Retirement Age:      65
+
+SENSITIVITY ANALYSIS (100bps impact)
+  Discount Rate +100bps:    USD -2,212,753 on PBO
+  Discount Rate -100bps:    USD +4,027,574 on PBO
+  Inflation +100bps:        USD -644,327 on PBO
+
+PROPOSED CONTRIBUTION SCHEDULE (PENDING TRUSTEE AGREEMENT)
+  FY2024:    USD 13,081,402
+  FY2025:  USD 111,379
+  FY2026:  USD 766,806
+  Annual Expenses & Levy:   USD 297,663
+  Total 3-Year Commitment:  USD 14,257,250
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-2352: Bulk annuity buy-in with Mosaic Digital Solutions — indicative premium USD 845,961 (Ref: SH743720)
+  Option LM-0017: Longevity swap — notional USD 1,458,851 (Counterparty: Meridian Capital Group)
+  Option LM-8692: Enhanced transfer value exercise — budget USD 660,332, targeting 8059 members
+
+REFERENCED ATTACHMENTS
+  • Actuarial_Valuation_VVS-6854-O7U5V_BOARD_RESTRICTED.pdf
+  • Funded_Status_Model_PH673463.xlsx
+  • Buy-In_Quotation_BV506306_CONFIDENTIAL.pdf
+
+All queries to Patrick Espinoza only. Do not discuss with HR or line management until Board has approved communication strategy.
+
+Thaddeus Quintero
+Director of Corporate Finance | Legal & Compliance | Prism Healthcare Group
+Secure Line: +1 (212) 5637-7714  |  Benefits ID: BF149386
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Yamamoto's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+Handling Protocol: REF-FMO-4749-H9770 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: BKO-0062-1H8IT) under strict confidentiality per [PERSON_11] [FINANCIAL_7] Policy EBP-2251. Do not share with the [PERSON_16] Board or [PERSON_11] representatives until Board approval is obtained.
+
+Actuarial Firm: [COMPANY_1] (Lead Actuary: [PERSON_2]) | Measurement Date: March 07, 2026
+Next [PERSON_16] Meeting: April 21, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_23]                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Prism [PERSON_5] Group_Main [PERSON_23]                262,120           222,179               -39,941
+Prism [PERSON_5] Group_Legacy [PERSON_23]              200,127           199,773                  -354
+Prism [PERSON_5] [PERSON_3] SERP           3,796,142         3,201,024              -595,118
+──────────────────────────────────────────────────────
+TOTAL                          4,258,389         3,622,976              -635,413
+Funded Ratio:               [URL_1]%
+
+KEY ACTUARIAL [FINANCIAL_1]
+  Discount [PERSON_30]:               [URL_2]%  (Prior Year: [URL_3]%)
+  Expected Return on Assets:   [URL_4]%
+  CPI Inflation:               [URL_5]%
+  Salary Growth [PERSON_30]:          [URL_6]%
+  Mortality [PERSON_28]:             RP-2014 (US)
+  Assumed Retirement Age:      65
+
+[FINANCIAL_2] [FINANCIAL_3] (100bps impact)
+  Discount [PERSON_30] +100bps:    USD -2,212,753 on PBO
+  Discount [PERSON_30] -100bps:    USD +4,027,574 on PBO
+  Inflation +100bps:        USD -644,327 on PBO
+
+[FINANCIAL_4] CONTRIBUTION [PERSON_13] (PENDING [PERSON_16] AGREEMENT)
+  FY2024:    [AMOUNT_1]
+  FY2025:  [AMOUNT_2]
+  FY2026:  [AMOUNT_3]
+  Annual Expenses & Levy:   [AMOUNT_4]
+  Total 3-Year Commitment:  [AMOUNT_5]
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-2352: Bulk annuity buy-in with Mosaic Digital Solutions — indicative premium [AMOUNT_6] (Ref: SH743720)
+  Option LM-0017: Longevity swap — notional [AMOUNT_7] (Counterparty: Meridian Capital Group)
+  Option LM-8692: Enhanced transfer value exercise — budget [AMOUNT_8], targeting 8059 members
+
+REFERENCED [FINANCIAL_6]
+  • Actuarial_Valuation_VVS-6854-O7U5V_BOARD_[URL_7]
+  • Funded_Status_Model_[URL_8]
+  • Buy-In_Quotation_BV506306_[URL_9]
+
+All queries to [PERSON_2] only. Do not discuss with HR or [PERSON_32] management until Board has approved communication strategy.
+
+[PERSON_1]
+Director of [PERSON_8] [PERSON_20] | Legal & [PERSON_6] | Prism [PERSON_5] Group
+[PERSON_25] [PERSON_32]: [PHONE_1]  |  [FINANCIAL_7] ID: BF149386
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Yamamoto's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & [FINANCIAL_7] [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-H9770 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_25] Deletion
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #110  |  COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+================================================================================
+DATE:        Sunday, February 22, 2026 at 07:39 PM
+FROM:        Lavinia Tremblay <ltremblay@stratosenerg.com>
+TO:          Howard Fischer <hfischer@stratosenerg.com>
+SUBJECT:     CONFIDENTIAL: Capital Investment Committee Memo – Project CORTEX
+REFERENCE:   BTG-1141-FQKS1
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Yolanda,
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 1250 Harbor Blvd, Houston TX 77002 (Asset ID: AI747336), internally referred to as Project CORTEX. This is classified Commercial Sensitivity Level 4 for Investment Committee members only.
+
+Transaction Reference: DDG-8694-HY9T1 | IC Presentation: April 03, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+Purchase Price (Agreed):             USD         67,161
+Estimated Total CapEx:               USD     15,471,269
+Projected Stabilized NOI:            USD      4,000,363
+Going-In Cap Rate:                   4.27%
+Stabilized Cap Rate:                 8.45%
+Levered IRR (Base Case):             30.97%
+Equity Multiple (5-Year Hold):       2.69x
+Loan-to-Value:                       8.42%
+Senior Debt Amount:                  USD        762,041
+Lender:                              Evergreen Real Estate Fund (Term Sheet: CY110680)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING ASSUMPTIONS
+  Rent Growth (Years 1–3):    9.91% p.a.
+  Vacancy Allowance:          29.28%
+  Exit Cap Rate:              6.58%
+  Hold Period:                8424 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Evergreen Real Estate Fund      Lease Expiry: May 31, 2026   Annual Rent: USD 128,931   (15.34% of NOI)
+  Ember Analytics Inc             Lease Expiry: June 05, 2026   Annual Rent: USD 6,724,443   (36.5% of NOI)
+  Polaris Wealth Advisors         Lease Expiry: March 29, 2026   Annual Rent: USD 7,700,453   (48.2% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending (Case: SJ267002, Hearing: March 30, 2026)
+  – Environmental Phase II in progress (Consultant: Ember Analytics Inc, Ref: MO315927)
+  – Anchor tenant Evergreen Real Estate Fund has unexercised break option effective May 09, 2026
+
+REFERENCED ATTACHMENTS
+  • IC_Memo_ProjectCORTEX_FVO-1967-1EL4S_CONFIDENTIAL.pdf
+  • Financial_Model_RO681166_v837.xlsx
+  • Phase1_Environmental_SW651725.pdf
+  • Lease_Abstracts_RLB-5036-HBYM6_RESTRICTED.pdf
+
+Submit IC vote via secure portal QI731733 by March 22, 2026.
+
+Barnabas Drummond
+Director of Supply Chain | Strategic Partnerships | Sunridge Energy Partners
+IC Member Code: QD710914  |  Direct: +1 (310) 702-5929
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Tremblay's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+Handling Protocol: REF-BTG-1141-FQKS1 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_12],
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 1250 Harbor Blvd, [PERSON_13] TX 77002 (Asset ID: AI747336), internally referred to as Project CORTEX. This is classified Commercial [FINANCIAL_3] Level 4 for Investment [PERSON_3] members only.
+
+Transaction [PERSON_4]: DDG-8694-HY9T1 | IC Presentation: April 03, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+[PERSON_8] [PERSON_20] (Agreed):             [AMOUNT_1]
+Estimated Total CapEx:               [AMOUNT_2]
+Projected Stabilized NOI:            [AMOUNT_3]
+Going-In Cap [PERSON_25]:                   [URL_1]%
+Stabilized Cap [PERSON_25]:                 [URL_2]%
+Levered IRR ([PERSON_26] [PERSON_27]):             [URL_3]%
+Equity [PERSON_9] (5-Year Hold):       [URL_4]
+[PERSON_1]:                       [URL_5]%
+Senior Debt Amount:                  [AMOUNT_4]
+Lender:                              Evergreen Real [PERSON_17] Fund (Term Sheet: CY110680)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING [FINANCIAL_1]
+  Rent Growth (Years 1–3):    [URL_6]% [URL_7].
+  Vacancy [PERSON_5]:          [URL_8]%
+  Exit Cap [PERSON_25]:              [URL_9]%
+  Hold Period:                8424 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Evergreen Real [PERSON_17] Fund      [PERSON_21] Expiry: May 31, 2026   Annual Rent: [AMOUNT_5]   ([URL_10]% of NOI)
+  [COMPANY_1]             [PERSON_21] Expiry: [PERSON_30] 05, 2026   Annual Rent: [AMOUNT_6]   ([URL_11]% of NOI)
+  Polaris Wealth Advisors         [PERSON_21] Expiry: March 29, 2026   Annual Rent: [AMOUNT_7]   ([URL_12]% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending ([PERSON_27]: SJ267002, Hearing: March 30, 2026)
+  – Environmental [PERSON_22] II in progress (Consultant: [COMPANY_1], Ref: MO315927)
+  – Anchor tenant Evergreen Real [PERSON_17] Fund has unexercised break option effective May 09, 2026
+
+REFERENCED [FINANCIAL_2]
+  • IC_Memo_ProjectCORTEX_FVO-1967-1EL4S_[URL_13]
+  • Financial_Model_RO681166_[URL_14]
+  • Phase1_Environmental_[URL_15]
+  • Lease_Abstracts_RLB-5036-HBYM6_[URL_16]
+
+Submit IC vote via [PERSON_18] portal QI731733 by March 22, 2026.
+
+Barnabas Drummond
+Director of Supply Chain | Strategic Partnerships | [PERSON_11] Energy Partners
+IC Member Code: QD710914  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Tremblay's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL [FINANCIAL_3] LEVEL 4 – IC EYES ONLY
+Handling Protocol: [CONTRACT_1]-FQKS1 | Encrypted In-Transit: TLS [URL_17] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_18] Deletion
+================================================================================

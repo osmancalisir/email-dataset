@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #036  |  RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Raymond Kowalski <rkowalski@evergreenrea.com>
+TO:          Stephanie Nakamura <snakamura@evergreenrea.com>
+SUBJECT:     CONFIDENTIAL: Insurance Program Renewal Strategy – Internal Assessment
+REFERENCE:   QNP-0824-LW9PW
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alicia,
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: MHW-0270-N4JCW) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal Cycle: February 19, 2026 – May 31, 2026
+Broker: Luminary Media Corp (Code: ZT579245) | Lead Underwriter: Delphi Semiconductor (Syndicate: PO905482)
+
+COVERAGE RENEWAL TERMS
+──────────────────────────────────────────────────────
+Line of Coverage         Expiring Premium     Indicated Premium    Change
+Property (All Risk)      USD       14,850   USD       41,853   +2.74%
+General Liability        USD    1,767,537   USD       35,226   +13.81%
+D&O Liability            USD       13,340   USD      102,811   +29.33%
+Cyber & Privacy          USD    1,783,171   USD      101,335   +28.72%
+Trade Credit             USD        7,281   USD      170,336   -25.28%
+──────────────────────────────────────────────────────
+Total (Expiring):        USD    3,586,179
+Total (Indicated):       USD      451,561
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+Issue U-5700: Cyber underwriters requesting updated NIST CSF self-assessment by May 01, 2026. Non-completion may reduce sublimit from USD 327,665 to USD 8,021,457 (Policy PU937394).
+Issue U-1392: Property TIV revaluation required — last appraisal February 24, 2026, exceeding 36-month threshold. Cost: USD 656,199 (Vendor: Halcyon Wealth Partners, Ref: JO439009).
+Issue U-0339: D&O market hardening due to shareholder action (Case: LK684859). Retention may increase from USD 662,277 to USD 306,777.
+
+CAPTIVE UTILIZATION (CONFIDENTIAL)
+  Current Captive Retention:   USD 7,037,511
+  Proposed Captive Retention:  USD 1,674,772
+  Projected Captive Dividend:  USD 1,530,805 (Board approval Ref: RLM-5419-OTKL1)
+  Captive Domicile:            Luxembourg
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 27, 2026 (Budget Line: INS-CR768232)
+2. Risk Engineering site visit to Facility AX542345 before April 02, 2026
+3. NIST CSF submission to Luminary Media Corp — deadline May 01, 2026
+4. Legal review of D&O Side-A DIC terms (Counsel: Miriam Caldwell)
+
+REFERENCED ATTACHMENTS
+  • Insurance_Renewal_Strategy_QMK-8165-PBC2U_RESTRICTED.pdf
+  • TIV_Schedule_Draft_EG781796.xlsx
+  • Captive_Dividend_Analysis_RLM-5419-OTKL1.pdf
+
+Howard Nguyen
+Director of Supply Chain | Finance & Treasury | Redwood Asset Management
+Risk ID: BU888244  |  Direct: +1 (713) 9938-5780
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Kowalski's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+Handling Protocol: REF-QNP-0824-LW9PW | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_15],
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: MHW-0270-N4JCW) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal [PERSON_23]: February 19, 2026 – May 31, 2026
+Broker: Luminary [PERSON_24] Corp (Code: ZT579245) | Lead Underwriter: [PERSON_16] Semiconductor ([PERSON_3]: PO905482)
+
+[PERSON_5] RENEWAL TERMS
+──────────────────────────────────────────────────────
+[PERSON_33] of [PERSON_5]         Expiring Premium     Indicated Premium    [PERSON_17]
+Property (All Risk)      [AMOUNT_1]   [AMOUNT_2]   +[URL_1]%
+General Liability        [AMOUNT_3]   [AMOUNT_4]   +[URL_2]%
+D&O Liability            [AMOUNT_5]   [AMOUNT_6]   +[URL_3]%
+Cyber & Privacy          [AMOUNT_7]   [AMOUNT_8]   +[URL_4]%
+[PERSON_27] Credit             [AMOUNT_9]   [AMOUNT_10]   -[URL_5]%
+──────────────────────────────────────────────────────
+Total (Expiring):        [AMOUNT_11]
+Total (Indicated):       [AMOUNT_12]
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+[PERSON_28] U-5700: Cyber underwriters requesting updated NIST CSF self-assessment by May 01, 2026. Non-completion may reduce sublimit from [AMOUNT_13] to [AMOUNT_14] (Policy PU937394).
+[PERSON_28] U-1392: Property TIV revaluation required — last appraisal February 24, 2026, exceeding 36-month threshold. Cost: [AMOUNT_15] (Vendor: Halcyon Wealth Partners, Ref: JO439009).
+[PERSON_28] U-0339: D&O market hardening due to shareholder action ([PERSON_35]: LK684859). Retention may increase from [AMOUNT_16] to [AMOUNT_17].
+
+[PERSON_11] [FINANCIAL_2] (CONFIDENTIAL)
+  Current [PERSON_11] Retention:   [AMOUNT_18]
+  Proposed [PERSON_11] Retention:  [AMOUNT_19]
+  Projected [PERSON_11] Dividend:  [AMOUNT_20] (Board approval Ref: RLM-5419-OTKL1)
+  [PERSON_11] [PERSON_6]:            Luxembourg
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 27, 2026 (Budget [PERSON_33]: INS-CR768232)
+2. Risk Engineering site visit to Facility AX542345 before April 02, 2026
+3. NIST CSF submission to Luminary [PERSON_24] Corp — deadline May 01, 2026
+4. Legal review of D&O [PERSON_19] DIC terms (Counsel: [PERSON_1])
+
+REFERENCED [FINANCIAL_3]
+  • Insurance_Renewal_Strategy_QMK-8165-PBC2U_[URL_6]
+  • TIV_Schedule_Draft_[URL_7]
+  • Captive_Dividend_Analysis_[URL_8]
+
+[PERSON_2]
+Director of Supply Chain | [PERSON_13] & Treasury | Redwood Asset Management
+Risk ID: BU888244  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_7]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT [PERSON_4] ONLY
+Handling Protocol: [CONTRACT_1]-LW9PW | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_21] Deletion
+================================================================================

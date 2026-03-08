@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #194  |  RESTRICTED – CREDIT RISK COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Cormac Drummond <cdrummond@vortextechin.com>
+TO:          Elise Ihejirika <eihejirika@vortextechin.com>
+SUBJECT:     CONFIDENTIAL: Counterparty Credit Exposure Review – Q2
+REFERENCE:   BWH-6710-4D4PV
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Natalie,
+
+I am forwarding the quarterly counterparty credit exposure review for the period ending February 17, 2026. This is classified RESTRICTED and requires review by the Credit Risk Committee before the March 24, 2026 board presentation.
+
+Review Reference: QLR-5688-P2YS0 | Rating Agency: S&P Global Ratings | Credit Committee: April 14, 2026
+
+TOP-10 COUNTERPARTY EXPOSURES (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  Exposure (USD)    Limit (USD)    Utilisation
+   1  Halcyon Wealth Partners  BBB+       1,585,807      1,448,452   109.5%
+   2  Pinnacle Financial Services B+         1,538,669      1,627,812   94.5%
+   3  Tidal Basin Ventures     BB           313,405        264,089   118.7%
+   4  Clearwater Mining Corp   AA           329,304        280,648   117.3%
+   5  Sunridge Energy Partners A-         1,559,105      1,386,912   112.4%
+   6  Wavecrest Biotechnology  AA-           55,723         68,331   81.5%
+   7  Evergreen Real Estate Fund BBB+       3,444,700      3,568,163   96.5%
+   8  Quantum Data Systems     B          7,291,500      7,698,726   94.7%
+   9  Fortis Insurance Partners AA        15,203,927     18,749,982   81.1%
+  10  Paragon Life Sciences    BBB+         106,583        128,323   83.1%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO EXPOSURE:   USD 31,428,723   |   LIMIT BREACHES: 4
+
+LIMIT BREACH ESCALATION (REQUIRED)
+  Breach B-1214: Halcyon Wealth Partners — 9.5% over limit. Reduce by May 01, 2026 or seek Credit Committee waiver (Ref: PT871090).
+  Breach B-4904: Tidal Basin Ventures — rating downgrade on February 10, 2026 from BB- to BB. Limit review recommended.
+
+WATCH LIST (CREDIT COMMITTEE ONLY)
+  Pinnacle Financial Services: Negative outlook February 24, 2026. CDS spread widened 2169bps to 6607bps. Recommend limit reduction by April 19, 2026.
+  Quantum Data Systems: Covenant breach Q2 — Leverage 3.2x vs. covenant 2.8x. Exposure USD 7,291,500. Legal reviewing cross-default (Ref: DND-5165-FTV89).
+
+EXPECTED CREDIT LOSS (ECL) PROVISIONING
+  Stage 1 (12-month ECL):     USD 340,663
+  Stage 2 (Lifetime ECL):     USD 1,373,345
+  Stage 3 (Credit-Impaired):  USD 103,986
+  Total ECL Provision:        USD 1,817,994  (Coverage: 17.01%)
+
+REFERENCED ATTACHMENTS
+  • Counterparty_Exposure_Report_KCP-8143-ZSQ0U_RESTRICTED.pdf
+  • ECL_Model_Q2_GB113905.xlsx
+  • Watch_List_Detail_RB735785_CONFIDENTIAL.pdf
+
+Submit limit waiver votes via portal CRP-3037 by April 26, 2026.
+
+Fitzroy Mbeki
+Director of Business Intelligence | Operations | Helix Biomedical Inc
+Credit Risk Hotline: +1 (800) 2414-5278  |  Badge: FT814149
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK COMMITTEE ONLY
+Handling Protocol: REF-BWH-6710-4D4PV | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_16],
+
+I am forwarding the quarterly counterparty credit [PERSON_8] review for the period ending February 17, 2026. This is classified RESTRICTED and requires review by the Credit Risk [PERSON_3] before the March 24, 2026 board presentation.
+
+Review [PERSON_4]: QLR-5688-P2YS0 | Rating Agency: S&P Global Ratings | Credit [PERSON_3]: April 14, 2026
+
+[MIL_PLATFORM_1] COUNTERPARTY [FINANCIAL_1]S (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  [PERSON_8] (USD)    Limit (USD)    Utilisation
+   1  Halcyon Wealth Partners  BBB+       1,585,807      1,448,452   [URL_1]%
+   2  [PERSON_9] Financial Services B+         1,538,669      1,627,812   [URL_2]%
+   3  Tidal Basin Ventures     BB           313,405        264,089   [URL_3]%
+   4  [COMPANY_1]   AA           329,304        280,648   [URL_4]%
+   5  [PERSON_10] Energy Partners A-         1,559,105      1,386,912   [URL_5]%
+   6  Wavecrest Biotechnology  AA-           55,723         68,331   [URL_6]%
+   7  Evergreen Real [PERSON_26] Fund BBB+       3,444,700      3,568,163   [URL_7]%
+   8  Quantum Data Systems     B          7,291,500      7,698,726   [URL_8]%
+   9  Fortis [PERSON_5] Partners AA        15,203,927     18,749,982   [URL_9]%
+  10  Paragon [PERSON_36] Sciences    BBB+         106,583        128,323   [URL_10]%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO [PERSON_8]:   [AMOUNT_1]   |   LIMIT [FINANCIAL_2]: 4
+
+LIMIT BREACH ESCALATION ([FINANCIAL_3])
+  Breach B-1214: Halcyon Wealth Partners — [URL_11]% over limit. [PERSON_27] by May 01, 2026 or seek Credit [PERSON_3] waiver (Ref: PT871090).
+  Breach B-4904: Tidal Basin Ventures — rating downgrade on February 10, 2026 from BB- to BB. Limit review recommended.
+
+WATCH LIST (CREDIT [PERSON_3] ONLY)
+  [PERSON_9] Financial Services: [PERSON_12] outlook February 24, 2026. CDS spread widened 2169bps to 6607bps. Recommend limit reduction by April 19, 2026.
+  Quantum Data Systems: Covenant breach Q2 — [PERSON_13] [URL_12] vs. covenant [URL_13]. [PERSON_8] [AMOUNT_2]. Legal reviewing cross-default (Ref: DND-5165-FTV89).
+
+[FINANCIAL_4] CREDIT LOSS (ECL) PROVISIONING
+  [PERSON_31] 1 (12-month ECL):     [AMOUNT_3]
+  [PERSON_31] 2 ([PERSON_14] ECL):     [AMOUNT_4]
+  [PERSON_31] 3 (Credit-Impaired):  [AMOUNT_5]
+  Total ECL Provision:        [AMOUNT_6]  ([PERSON_15]: [URL_14]%)
+
+REFERENCED [FINANCIAL_5]
+  • Counterparty_[FINANCIAL_1]_Report_KCP-8143-ZSQ0U_[URL_15]
+  • ECL_Model_Q2_[URL_16]
+  • Watch_List_Detail_RB735785_[URL_17]
+
+Submit limit waiver votes via portal CRP-3037 by April 26, 2026.
+
+Fitzroy [PERSON_32]
+Director of Business [PERSON_1] | Operations | [COMPANY_2]
+Credit Risk [PERSON_24]: [PHONE_1]  |  [PERSON_33]: FT814149
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK [PERSON_3] ONLY
+Handling Protocol: [CONTRACT_1]-4D4PV | Encrypted In-Transit: TLS [URL_18] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

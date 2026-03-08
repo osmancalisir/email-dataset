@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #061  |  RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, March 07, 2026 at 07:39 PM
+FROM:        Cormac Strauss <cstrauss@sterlingauto.com>
+TO:          Ingrid Lindqvist <ilindqvist@sterlingauto.com>
+SUBJECT:     CONFIDENTIAL: Insurance Program Renewal Strategy – Internal Assessment
+REFERENCE:   MQJ-1278-OORYP
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Gregory,
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: NML-1046-RMWW6) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal Cycle: February 17, 2026 – June 06, 2026
+Broker: Northstar Pharmaceuticals (Code: CE180685) | Lead Underwriter: Clearwater Mining Corp (Syndicate: HB746375)
+
+COVERAGE RENEWAL TERMS
+──────────────────────────────────────────────────────
+Line of Coverage         Expiring Premium     Indicated Premium    Change
+Property (All Risk)      USD      968,484   USD      168,379   +12.09%
+General Liability        USD      162,697   USD       38,097   +30.24%
+D&O Liability            USD      982,291   USD       15,479   +34.13%
+Cyber & Privacy          USD       39,645   USD       41,373   +13.24%
+Trade Credit             USD      422,442   USD       79,791   -9.4%
+──────────────────────────────────────────────────────
+Total (Expiring):        USD    2,575,559
+Total (Indicated):       USD      343,119
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+Issue U-2286: Cyber underwriters requesting updated NIST CSF self-assessment by April 22, 2026. Non-completion may reduce sublimit from USD 7,461,722 to USD 15,442,035 (Policy RZ551009).
+Issue U-2178: Property TIV revaluation required — last appraisal February 14, 2026, exceeding 36-month threshold. Cost: USD 339,933 (Vendor: Polaris Wealth Advisors, Ref: ZP668545).
+Issue U-0329: D&O market hardening due to shareholder action (Case: SL451787). Retention may increase from USD 53,459 to USD 1,695,543.
+
+CAPTIVE UTILIZATION (CONFIDENTIAL)
+  Current Captive Retention:   USD 7,598,896
+  Proposed Captive Retention:  USD 122,853
+  Projected Captive Dividend:  USD 859,737 (Board approval Ref: WNC-9909-BOWPP)
+  Captive Domicile:            Vermont, USA
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by June 04, 2026 (Budget Line: INS-WY695662)
+2. Risk Engineering site visit to Facility MY594092 before May 24, 2026
+3. NIST CSF submission to Northstar Pharmaceuticals — deadline April 22, 2026
+4. Legal review of D&O Side-A DIC terms (Counsel: Philippa Szymanski)
+
+REFERENCED ATTACHMENTS
+  • Insurance_Renewal_Strategy_RPV-7407-TIUUX_RESTRICTED.pdf
+  • TIV_Schedule_Draft_BH148416.xlsx
+  • Captive_Dividend_Analysis_WNC-9909-BOWPP.pdf
+
+Yolanda Tremblay
+VP of Compliance | Operations | Irongate Private Equity
+Risk ID: UI994760  |  Direct: +1 (713) 8244-7455
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+Handling Protocol: REF-MQJ-1278-OORYP | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: NML-1046-RMWW6) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal [PERSON_25]: February 17, 2026 – [PERSON_33] 06, 2026
+Broker: Northstar Pharmaceuticals (Code: CE180685) | Lead Underwriter: [COMPANY_1] ([PERSON_3]: HB746375)
+
+[PERSON_7] RENEWAL TERMS
+──────────────────────────────────────────────────────
+[PERSON_34] of [PERSON_7]         Expiring Premium     Indicated Premium    [PERSON_20]
+Property (All Risk)      [AMOUNT_1]   [AMOUNT_2]   +[URL_1]%
+General Liability        [AMOUNT_3]   [AMOUNT_4]   +[URL_2]%
+D&O Liability            [AMOUNT_5]   [AMOUNT_6]   +[URL_3]%
+Cyber & Privacy          [AMOUNT_7]   [AMOUNT_8]   +[URL_4]%
+[PERSON_27] Credit             [AMOUNT_9]   [AMOUNT_10]   -[URL_5]%
+──────────────────────────────────────────────────────
+Total (Expiring):        [AMOUNT_11]
+Total (Indicated):       [AMOUNT_12]
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+[PERSON_28] U-2286: Cyber underwriters requesting updated NIST CSF self-assessment by April 22, 2026. Non-completion may reduce sublimit from [AMOUNT_13] to [AMOUNT_14] (Policy RZ551009).
+[PERSON_28] U-2178: Property TIV revaluation required — last appraisal February 14, 2026, exceeding 36-month threshold. Cost: [AMOUNT_15] (Vendor: Polaris Wealth Advisors, Ref: ZP668545).
+[PERSON_28] U-0329: D&O market hardening due to shareholder action ([PERSON_36]: SL451787). Retention may increase from [AMOUNT_16] to [AMOUNT_17].
+
+[PERSON_16] [FINANCIAL_2] (CONFIDENTIAL)
+  Current [PERSON_16] Retention:   [AMOUNT_18]
+  Proposed [PERSON_16] Retention:  [AMOUNT_19]
+  Projected [PERSON_16] Dividend:  [AMOUNT_20] (Board approval Ref: WNC-9909-BOWPP)
+  [PERSON_16] [PERSON_8]:            Vermont, USA
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by [PERSON_33] 04, 2026 (Budget [PERSON_34]: INS-WY695662)
+2. Risk Engineering site visit to Facility MY594092 before May 24, 2026
+3. NIST CSF submission to Northstar Pharmaceuticals — deadline April 22, 2026
+4. Legal review of D&O [PERSON_22] DIC terms (Counsel: [PERSON_9] [PERSON_4])
+
+REFERENCED [FINANCIAL_3]
+  • Insurance_Renewal_Strategy_RPV-7407-TIUUX_[URL_6]
+  • TIV_Schedule_Draft_[URL_7]
+  • Captive_Dividend_Analysis_[URL_8]
+
+[PERSON_1]
+VP of [PERSON_2] | Operations | [PERSON_11] Private Equity
+Risk ID: UI994760  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-OORYP | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_24] Deletion
+================================================================================

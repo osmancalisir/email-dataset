@@ -1,0 +1,116 @@
+================================================================================
+EMAIL #158  |  COMPENSATION COMMITTEE – EYES ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Felicia Abioye <fabioye@falconridgea.com>
+TO:          Derek Volkov <dvolkov@falconridgea.com>
+SUBJECT:     CONFIDENTIAL: Executive Compensation Benchmarking – Annual Review
+REFERENCE:   FED-0117-3EOJ0
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Cormac,
+
+This communication is designated COMPENSATION COMMITTEE – EYES ONLY under Human Capital Policy HCP-1356. The attached executive compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking Reference: GGS-8538-RGM2U
+External Advisor: Bridgeway Consumer Finance (Engagement Ref: FJ482967) | Effective Date: May 02, 2026
+Committee Session: April 30, 2026 | Peer Group Size: 601 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+Role                      Current TDC         Market P50      Gap
+Chief Executive Officer   USD    3,768,471   USD    2,071,250     -1,697,221
+Chief Financial Officer   USD    1,290,508   USD    3,368,760     +2,078,252
+Chief Operating Officer   USD    1,014,525   USD    1,946,477       +931,952
+Chief Technology Officer  USD    2,549,569   USD    1,337,369     -1,212,200
+SVP, Sales                USD    1,951,121   USD    3,421,912     +1,470,791
+──────────────────────────────────────────────────────
+
+PROPOSED ADJUSTMENTS (PRE-DECISIONAL)
+  CEO base salary increase:   +4.32% effective March 29, 2026 (new base: USD 3,931,268)
+  CFO LTI grant:              4,505 RSUs at USD 2,848/share (Ref: LTI-XD222422)
+  COO retention bonus:        USD 272,753 — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      USD 1,658,460 one-time (Payroll code: PC-5556)
+  SVP Sales STI modifier:     +19.6% kicker above 15.31% quota attainment
+
+REGULATORY CONSIDERATIONS
+  CD&A disclosure threshold:  USD 14,238,777 (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled April 18, 2026
+  Clawback policy update due:  April 25, 2026 (Ref: SOX-MH695987)
+
+REFERENCED ATTACHMENTS
+  • ExecComp_Benchmarking_XDU-1462-3IXFK_COMMITTEE_ONLY.pdf  [password-protected]
+  • LTI_Grant_Schedule_AJ934987_CONFIDENTIAL.xlsx
+  • Peer_Group_Analysis_DV926567.docx
+
+Do not store on shared drives. Delete after the Committee session. Direct all queries to Stephanie Thornton only.
+
+Jonathan Haakonsen
+Director of Business Intelligence | Supply Chain Management | Nexpoint Data Centers
+Secure Line: +1 (202) 7656-4698  |  PGP Key: RW779666
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abioye's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION COMMITTEE – EYES ONLY
+Handling Protocol: REF-FED-0117-3EOJ0 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_18],
+
+This communication is designated COMPENSATION [PERSON_7] – EYES ONLY under Human Capital Policy HCP-1356. The attached [PERSON_10] compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking [PERSON_8]: [PERSON_3]
+External Advisor: Bridgeway Consumer [PERSON_17] (Engagement Ref: FJ482967) | [PERSON_9] Date: May 02, 2026
+[PERSON_7] Session: April 30, 2026 | Peer Group Size: 601 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+[PERSON_25]                      Current TDC         Market P50      Gap
+Chief [PERSON_10] Officer   [AMOUNT_1]   [AMOUNT_2]     -1,697,221
+[APPROVAL_CODE_3]   [AMOUNT_3]   [AMOUNT_4]     +2,078,252
+[APPROVAL_CODE_4]   [AMOUNT_5]   [AMOUNT_6]       +931,952
+[APPROVAL_CODE_5]  [AMOUNT_7]   [AMOUNT_8]     -1,212,200
+SVP, Sales                [AMOUNT_9]   [AMOUNT_10]     +1,470,791
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2] (PRE-DECISIONAL)
+  CEO base salary increase:   +[URL_1]% [PERSON_9] March 29, 2026 (new base: [AMOUNT_11])
+  CFO LTI [PERSON_23]:              4,505 RSUs at [AMOUNT_12]/share (Ref: LTI-XD222422)
+  COO retention bonus:        [AMOUNT_13] — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      [AMOUNT_14] one-time (Payroll code: PC-5556)
+  SVP Sales STI modifier:     +[URL_2]% kicker above [URL_3]% quota attainment
+
+REGULATORY CONSIDERATIONS
+  [PERSON_26] disclosure threshold:  [AMOUNT_15] (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled April 18, 2026
+  Clawback policy update due:  April 25, 2026 (Ref: SOX-MH695987)
+
+REFERENCED [FINANCIAL_3]
+  • ExecComp_Benchmarking_XDU-1462-3IXFK_COMMITTEE_[URL_4]  [password-protected]
+  • LTI_Grant_Schedule_AJ934987_[URL_5]
+  • Peer_Group_Analysis_[URL_6]
+
+Do not store on shared drives. [PERSON_20] after the [PERSON_7] session. Direct all queries to [PERSON_1] only.
+
+[PERSON_2]
+Director of Business [PERSON_5] | Supply Chain Management | Nexpoint Data Centers
+[PERSON_21] [PERSON_28]: [PHONE_1]  |  PGP Key: RW779666
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_22]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION [PERSON_7] – EYES ONLY
+Handling Protocol: [CONTRACT_1]-3EOJ0 | Encrypted In-Transit: TLS [URL_7] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_21] Deletion
+================================================================================

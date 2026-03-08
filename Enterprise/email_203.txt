@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #203  |  RESTRICTED – PROCUREMENT COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Sandra Nkrumah <snkrumah@harborviewsh.com>
+TO:          Kevin Wainwright <kwainwright@harborviewsh.com>
+SUBJECT:     CONFIDENTIAL: Supplier Audit Findings – Polaris Wealth Advisors (Vendor RU396507)
+REFERENCE:   HMZ-7381-2HETB
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Monique,
+
+This update is issued under Information Security Policy ISP-2397. The supplier audit findings for Polaris Wealth Advisors (Vendor ID: RU396507) have been finalised and require your immediate attention.
+
+Audit Reference: MEN-0796-HMDL0
+Audit Period: February 19, 2026 through April 11, 2026
+Lead Auditor: Howard Brennan | External Reviewer: Odessa Beaumont
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+Compliance Score:                    19.21% (Threshold: 29.55%)
+Financial Discrepancy Identified:    USD      3,746,317
+Disputed Invoices (Count):           5053
+Disputed Invoices (Value):           USD      7,934,315
+Potential Overcharges on SKU YC898125: USD      1,587,160
+──────────────────────────────────────────────────────
+
+DETAILED FINDINGS
+
+Finding F-001 [CRITICAL]: Unauthorized subcontracting to Amberfield Consumer Goods without written consent (Clause 14.6(b), Ref LIP-0398-V50EY). Estimated value: USD 67,518.
+
+Finding F-002 [HIGH]: Payment terms breached — 7356 invoices settled 3212 days beyond agreed net-9071 schedule. Late-payment exposure: USD 13,925,514.
+
+Finding F-003 [MEDIUM]: QC documentation for Batches UC010944–TG409837 incomplete. Non-conformance rate: 20.32%.
+
+Finding F-004 [MEDIUM]: SLA breach on Account UY699901 — on-time delivery 31.09% vs. contracted 20.97%.
+
+REMEDIATION ACTIONS
+1. Issue formal cure notice to Polaris Wealth Advisors within 5 business days (Template: CURE-9355).
+2. Withhold payment on Invoice Batch KQ701331 (Value: USD 117,617) pending resolution.
+3. Initiate contract termination review if no remediation by April 12, 2026.
+4. Escalate F-001 to Legal (Kwame Vance) and Risk Management (Fletcher Volkov).
+
+REFERENCED ATTACHMENTS
+  • Supplier_Audit_Report_WZK-1695-S7C7G_CONFIDENTIAL.pdf  [DO NOT DISTRIBUTE]
+  • Discrepancy_Workbook_JZ623445.xlsx
+  • Cure_Notice_Template_9497.docx
+
+This report must not be shared with Polaris Wealth Advisors representatives without prior written approval from the Chief Procurement Officer.
+
+Yolanda Lindqvist
+VP of Operations | Risk Management | Ironshore Capital
+Ext: 3761  |  Secure Fax: +1 (888) 3254-2201  |  Badge: LS068133
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – PROCUREMENT COMMITTEE ONLY
+Handling Protocol: REF-HMZ-7381-2HETB | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_19],
+
+This update is issued under Information Security Policy ISP-2397. The supplier audit [FINANCIAL_2] for Polaris Wealth Advisors (Vendor ID: RU396507) have been finalised and require your immediate attention.
+
+Audit [PERSON_8]: MEN-0796-HMDL0
+Audit Period: February 19, 2026 through April 11, 2026
+Lead Auditor: [PERSON_22] Brennan | External Reviewer: [PERSON_24] Beaumont
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+[PERSON_6] [PERSON_32]:                    [URL_1]% (Threshold: [URL_2]%)
+Financial Discrepancy Identified:    [AMOUNT_1]
+Disputed Invoices (Count):           5053
+Disputed Invoices (Value):           [AMOUNT_2]
+Potential Overcharges on SKU YC898125: [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2]
+
+Finding [MIL_PLATFORM_1] [[FINANCIAL_3]]: Unauthorized subcontracting to Amberfield Consumer Goods without written consent ([PERSON_25] [URL_3](b), Ref LIP-0398-V50EY). Estimated value: [AMOUNT_4].
+
+Finding [MIL_PLATFORM_2] [HIGH]: Payment terms breached — 7356 invoices settled 3212 days beyond agreed net-9071 schedule. Late-payment exposure: [AMOUNT_5].
+
+Finding [MIL_PLATFORM_3] [MEDIUM]: QC documentation for Batches UC010944–TG409837 incomplete. [PERSON_3] rate: [URL_4]%.
+
+Finding [MIL_PLATFORM_4] [MEDIUM]: SLA breach on [API_KEY_1] — on-time delivery [URL_5]% vs. contracted [URL_6]%.
+
+[FINANCIAL_4] ACTIONS
+1. [PERSON_34] formal cure notice to Polaris Wealth Advisors within 5 business days ([PERSON_13]: CURE-9355).
+2. Withhold payment on [PERSON_20] Batch KQ701331 (Value: [AMOUNT_6]) pending resolution.
+3. [PERSON_14] contract termination review if no [FINANCIAL_4] by April 12, 2026.
+4. [PERSON_15] [MIL_PLATFORM_1] to Legal ([PERSON_5]) and Risk Management ([PERSON_2]).
+
+REFERENCED [FINANCIAL_5]
+  • Supplier_Audit_Report_WZK-1695-S7C7G_[URL_7]  [DO NOT [PERSON_7]]
+  • Discrepancy_Workbook_[URL_8]
+  • Cure_Notice_Template_[URL_9]
+
+This report must not be shared with Polaris Wealth Advisors representatives without prior written approval from the Chief [FINANCIAL_6] Officer.
+
+[PERSON_1]
+VP of Operations | Risk Management | [PERSON_10] Capital
+Ext: 3761  |  [PERSON_30] Fax: [PHONE_1]  |  [PERSON_39]: LS068133
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or [PERSON_7] its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_6] [PERSON_11] ONLY
+Handling Protocol: [CONTRACT_1]-2HETB | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_5] Policy: 7 Years | Destruction Method: Certified [PERSON_30] Deletion
+================================================================================

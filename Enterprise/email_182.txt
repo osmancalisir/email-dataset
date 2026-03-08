@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #182  |  BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Stephanie Patel <spatel@luminarymedi.com>
+TO:          Patrick Morozova <pmorozova@luminarymedi.com>
+SUBJECT:     CONFIDENTIAL: M&A Due Diligence Update – Project APEX
+REFERENCE:   QWC-6481-GCKAU
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Sandra,
+
+This update pertains to the ongoing due diligence for the potential acquisition of Granite Peak Resources (codename: Project APEX). All materials fall under NDA Ref: FKH-4673-F45F1, executed February 20, 2026.
+
+Transaction Reference: VQQ-9181-DV6ML
+Buy-Side Advisor: Prism Healthcare Group | Legal Counsel: Gregory Abioye
+Process Stage: Round 2 | Final Bid Deadline: May 10, 2026
+
+DUE DILIGENCE WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Complete            Fitzroy Djordjevic  9773
+Legal & Regulatory DD    Complete            Simone Haakonsen  9234
+Commercial DD            Under Review        Marcus Petrossian  4294
+IT & Cybersecurity DD    Not Started         Priya Haakonsen  9532
+HR & People DD           Escalated           Alicia Strauss   8307
+Tax Structuring          Complete            Renata Fischer   8920
+──────────────────────────────────────────────────────
+
+CRITICAL OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-9503: Unresolved litigation — Granite Peak Resources vs. Gregory Abioye (Case Ref: UZ220354). Contingent liability: USD 724,282. Adverse outcome probability: 36.9%.
+
+OI-790: Revenue concentration — top 3703 customers = 37.88% of Granite Peak Resources revenue. Key account Fitzroy Djordjevic (Acct: IM134129) renews May 09, 2026 with no confirmation yet.
+
+OI-1549: Pension deficit of USD 13,944,776 not disclosed in management accounts (Actuarial Ref: IB577850).
+
+OI-4031: 36.73% of server estate running end-of-life OS (Ref: SEC-MB429145). Remediation cost: USD 6,893,044.
+
+VALUATION SENSITIVITY
+  Base Case Offer:          USD 7,625,251   (EV/EBITDA: 6.9x)
+  Bear Case (risks priced): USD 298,523   (EV/EBITDA: 7.4x)
+  Walk-Away Price:          USD 1,651,599   (EV/EBITDA: 3.5x)
+
+NEXT STEPS
+  Management presentation:    April 25, 2026 — New York
+  Final bid submission:        April 29, 2026
+  Exclusivity request:         May 06, 2026
+
+REFERENCED ATTACHMENTS
+  • DD_Issues_Log_ProjectAPEX_Wk8265_KUI-1629-DHNHV.xlsx
+  • Financial_Model_v9773_FV997582_CONFIDENTIAL.xlsx
+  • Legal_Summary_RZ160217_PRIVILEGED.pdf
+
+No information herein may be shared with Granite Peak Resources management without Deal Committee consent.
+
+Marcus Petrossian
+Director of Corporate Finance | Corporate Development | Trident Marine Holdings
+Deal Room Access: YD664538  |  Direct: +1 (212) 9234-4294
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Patel's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+Handling Protocol: REF-QWC-6481-GCKAU | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_29],
+
+This update pertains to the ongoing due [PERSON_12] for the potential acquisition of [PERSON_22] Peak Resources (codename: Project APEX). All materials fall under NDA Ref: FKH-4673-F45F1, executed February 20, 2026.
+
+Transaction [PERSON_10]: VQQ-9181-DV6ML
+[PERSON_17] Advisor: Prism [PERSON_8] Group | Legal Counsel: [PERSON_6]
+Process [PERSON_45]: Round 2 | Final Bid [PERSON_18]: May 10, 2026
+
+DUE [PERSON_12] WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             [PERSON_20]            Fitzroy Djordjevic  9773
+Legal & Regulatory DD    [PERSON_20]            [PERSON_5]  9234
+Commercial DD            Under Review        [PERSON_3]  4294
+IT & Cybersecurity DD    Not Started         [PERSON_47] [PERSON_9]  9532
+HR & [PERSON_36] DD           Escalated           [PERSON_31] Strauss   8307
+Tax Structuring          [PERSON_20]            [PERSON_7]   8920
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-9503: Unresolved litigation — [PERSON_22] Peak Resources vs. [PERSON_1] Ref: UZ220354). Contingent liability: [AMOUNT_1]. [PERSON_24] outcome probability: [URL_1]%.
+
+[MIL_PLATFORM_1]: [PERSON_25] concentration — top 3703 customers = [URL_2]% of [PERSON_22] Peak Resources revenue. Key account Fitzroy Djordjevic (Acct: IM134129) renews May 09, 2026 with no confirmation yet.
+
+OI-1549: Pension deficit of [AMOUNT_2] not disclosed in management accounts (Actuarial Ref: IB577850).
+
+OI-4031: [URL_3]% of server estate running end-of-life OS (Ref: SEC-MB429145). Remediation cost: [AMOUNT_3].
+
+VALUATION [FINANCIAL_2]
+  [PERSON_57] [PERSON_56] Offer:          [AMOUNT_4]   ([PERSON_13]: [URL_4])
+  Bear [PERSON_56] (risks priced): [AMOUNT_5]   ([PERSON_13]: [URL_5])
+  Walk-Away [PERSON_50]:          [AMOUNT_6]   ([PERSON_13]: [URL_6])
+
+NEXT STEPS
+  Management presentation:    April 25, 2026 — New York
+  Final bid submission:        April 29, 2026
+  Exclusivity request:         May 06, 2026
+
+REFERENCED [FINANCIAL_3]
+  • DD_Issues_Log_ProjectAPEX_Wk8265_[URL_7]
+  • Financial_Model_v9773_FV997582_[URL_8]
+  • Legal_Summary_RZ160217_[URL_9]
+
+No information herein may be shared with [PERSON_22] Peak Resources management without Deal [PERSON_14] consent.
+
+[PERSON_3]
+Director of [PERSON_15] [PERSON_28] | [PERSON_15] Development | Trident [PERSON_41] Holdings
+Deal Room Access: YD664538  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Patel's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL [CALLSIGN_1]
+Handling Protocol: [PERSON_2] | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_42] Deletion
+================================================================================

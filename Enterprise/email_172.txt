@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #172  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Marcus Nguyen <mnguyen@crestviewhos.com>
+TO:          Adrienne Rosenberg <arosenberg@crestviewhos.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Obsidian Telecom Group
+REFERENCE:   TUS-6055-MUR98
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Desmond,
+
+I am updating you on the franchise and distribution agreement negotiations with Obsidian Telecom Group (ID: ZZ872017). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: NNV-8762-Y6TQ2 | Territory: Middle East & North Africa
+Agreement Type: Exclusive Distribution Agreement | External Counsel: Goldstone Infrastructure (Matter: KB146973)
+Heads of Terms Signed: February 22, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v3216)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD         61,948
+Annual Renewal Fee:                    USD        103,087
+Royalty / Margin Rate:                 27.08% of Net Sales
+Minimum Annual Purchase Commitment:    USD     17,138,241  (Year 1); +36.63% p.a.
+Marketing Contribution:                36.91% of Net Sales (Co-op Fund: EF432442)
+Exclusivity Period:                    7580 months
+Performance Milestone (Year 3):        USD      7,546,916 cumulative revenue
+Breach Penalty / Clawback:             USD        121,913 or 15.21% of initial fee
+Term:                                  8860 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Obsidian Telecom Group Credit Rating:       A-
+  Last Filed Revenue (FY2023): USD 16,119,924
+  Net Worth (est.):            USD 3,721,429
+  Bank Reference (Evergreen Real Estate Fund):      Satisfactory
+  Director Background Check:   Clear (Ref: WI146310)
+  Litigation Search:           Matches found — below materiality threshold
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH OBSIDIAN TELECOM GROUP)
+  CP-1937: Obsidian Telecom Group seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for Evergreen Real Estate Fund expansion.
+  CP-5010: Sub-franchising rights — accept affiliates-only with 8.88% override royalty (Clause: AZ026890).
+  CP-3100: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by March 23, 2026 (Ref: CC-5949)
+  ☐  Legal final review — by June 03, 2026 (Counsel: Goldstone Infrastructure)
+  ☐  Brand & IP Committee — territory approval (Ref: FC395728)
+  ☐  CFO — minimum royalty exception if required (Ref: ZI771403)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v3216_NNV-8762-Y6TQ2_CONFIDENTIAL.pdf
+  • Obsidian Telecom Group_Financial_Assessment_OK221382.pdf
+  • Territory_Map_RT497782.pdf
+
+Negotiation session scheduled: May 18, 2026 — Venue details via secure channel.
+
+Yolanda Harrington
+Chief Operating Officer | Legal & Compliance | Blackridge Logistics
+Commercial Committee ID: ZZ872017  |  Direct: +1 (312) 4856-0326
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nguyen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-TUS-6055-MUR98 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_24],
+
+I am updating you on the [PERSON_12] and distribution agreement [FINANCIAL_2]s with [FINANCIAL_3] Telecom Group (ID: ZZ872017). This is classified RESTRICTED – COMMERCIAL [PERSON_8] ONLY. Do not [PERSON_38] with regional operations until terms are finalised.
+
+[FINANCIAL_2] [PERSON_9]: NNV-8762-Y6TQ2 | Territory: [PERSON_29] East & North [PERSON_30]
+Agreement Type: [PERSON_10] Distribution Agreement | External Counsel: [PERSON_11] [PERSON_2] (Matter: KB146973)
+Heads of Terms Signed: February 22, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v3216)
+──────────────────────────────────────────────────────
+Initial [PERSON_12] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_43]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_22] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: EF432442)
+Exclusivity Period:                    7580 months
+[PERSON_4] [PERSON_13] (Year 3):        [AMOUNT_4] cumulative [PERSON_26]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  8860 years, renewable on [PERSON_4]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  [FINANCIAL_3] Telecom Group Credit Rating:       A-
+  Last Filed [PERSON_26] (FY2023): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_9] (Evergreen Real [PERSON_32] Fund):      Satisfactory
+  Director Background Check:   Clear (Ref: WI146310)
+  Litigation Search:           Matches found — below materiality threshold
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_38] WITH [FINANCIAL_3] TELECOM GROUP)
+  CP-1937: [FINANCIAL_3] Telecom Group seeks right of first refusal on adjacent territory. Position: [PERSON_27] — reserved for Evergreen Real [PERSON_32] Fund expansion.
+  CP-5010: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_34]: AZ026890).
+  CP-3100: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_4] APPROVALS
+  ☐  Commercial [PERSON_8] sign-off — by March 23, 2026 (Ref: CC-5949)
+  ☐  Legal final review — by [PERSON_46] 03, 2026 (Counsel: [PERSON_11] [PERSON_2])
+  ☐  Brand & IP [PERSON_8] — territory approval (Ref: FC395728)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_4] (Ref: ZI771403)
+
+REFERENCED [FINANCIAL_5]
+  • Franchise_Agreement_Draft_v3216_NNV-8762-Y6TQ2_[URL_7]
+  • [FINANCIAL_3] Telecom Group_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: May 18, 2026 — [PERSON_40] details via [PERSON_35] channel.
+
+[PERSON_1]
+[APPROVAL_CODE_2] & [PERSON_6] | [PERSON_7] Logistics
+Commercial [PERSON_8] ID: ZZ872017  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_16] organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_8] ONLY
+Handling Protocol: [CONTRACT_1]-MUR98 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_35] Deletion
+================================================================================

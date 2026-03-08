@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #220  |  STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Derek Westergaard <dwestergaard@apexlogistic.com>
+TO:          Lavinia Chen <lchen@apexlogistic.com>
+SUBJECT:     CONFIDENTIAL: Product Quality Incident – SKU NK764393 / Ref JEP-8241-DLMO9
+REFERENCE:   IVQ-6011-FXOP7
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Lionel,
+
+I am issuing this communication under Quality Crisis Protocol QCP-2405. A potential product quality issue has been identified that may necessitate a voluntary recall. This is STRICTLY CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+Incident Reference: JEP-8241-DLMO9
+Product: BioActive Diagnostic Reagent Kit (SKU: NK764393, Batch: YB626599)
+Issue Identified: March 01, 2026 | Regulatory Authority: Health Canada
+External Counsel: Aurora Semiconductor (Ref: YF945173) | PR Advisor: Cobalt Ventures LLC (Ref: YO186922)
+
+INCIDENT SCOPE
+──────────────────────────────────────────────────────
+Nature of Defect:            seal integrity failure in accelerated stability study
+Affected Batches:            YB626599 through IG711364 (Production: February 12, 2026 – February 24, 2026)
+Units Distributed:           2,552
+Units in Field (est.):       8,583
+Geographic Markets:          Canada, United Kingdom, Netherlands
+Adverse Events Reported:     9310 (Severity: Mild — no serious AEs)
+──────────────────────────────────────────────────────
+
+FINANCIAL EXPOSURE (BOARD ONLY)
+  Direct Recall Costs (est.):        USD      3,914,612
+  Customer Compensation Reserve:     USD      1,717,999
+  Lost Revenue (9731 weeks):       USD        687,471
+  Litigation Reserve (Ref: CKU-3408-QUL9C):   USD         52,446
+  Insurance Recovery (Policy TX353003): USD      1,525,979
+  Net Exposure:                       USD      4,846,549
+
+REGULATORY STRATEGY OPTIONS (ATTORNEY-CLIENT PRIVILEGED)
+  Option R-1: Voluntary recall — notify regulator by April 08, 2026 (Counsel: Monique Harrington)
+  Option R-2: Targeted market withdrawal — batches YB626599/IG711364 in Canada only
+  Option R-3: Corrective action without recall — enhanced monitoring 394 months
+  Recommended: Option R-1 (pending Board approval — Ref: AVU-9677-KW5GJ)
+
+OPERATIONAL ACTIONS
+  OA-1469  Production halt on Line 8851      Odessa Thistlethwaite  Escalated     March 23, 2026
+  OA-3419  Quarantine inventory at DC PN444714     Patrick Achterberg    In Progress   April 26, 2026
+  OA-2331  Root cause investigation              Alistair Achterberg   Escalated     May 05, 2026
+  OA-1478 Customer hold notifications           Natalie Haakonsen     In Progress   May 27, 2026
+
+REFERENCED ATTACHMENTS
+  • Quality_Incident_Report_JEP-8241-DLMO9_QCP-2405.pdf
+  • Batch_Distribution_Analysis_YB626599_IG711364.xlsx
+  • Recall_Cost_Model_MF447610_CONFIDENTIAL.xlsx
+
+Board emergency call: May 12, 2026 at 07:00 EST. No action prior to Board alignment.
+
+Marcus Beaumont
+Head of Mergers & Acquisitions | Operations | Cascadia Real Estate Trust
+Quality Crisis Hotline: +1 (800) 954-2405  |  Incident ID: NK764393
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: REF-IVQ-6011-FXOP7 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+I am issuing this communication under Quality Crisis Protocol QCP-2405. A potential product quality [PERSON_41] has been identified that may necessitate a voluntary recall. This is [FINANCIAL_1] CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+[FINANCIAL_2] [PERSON_10]: JEP-8241-DLMO9
+Product: [PERSON_11] Diagnostic Reagent Kit (SKU: NK764393, Batch: YB626599)
+[PERSON_41] Identified: March 01, 2026 | Regulatory Authority: Health [PERSON_29]
+External Counsel: [PERSON_30] Semiconductor (Ref: YF945173) | PR Advisor: [COMPANY_1] (Ref: YO186922)
+
+[FINANCIAL_2] [PERSON_43]
+──────────────────────────────────────────────────────
+[PERSON_31] of Defect:            seal integrity failure in accelerated stability study
+Affected Batches:            YB626599 through IG711364 (Production: February 12, 2026 – February 24, 2026)
+Units Distributed:           2,552
+Units in Field (est.):       8,583
+Geographic Markets:          [PERSON_29], United Kingdom, Netherlands
+[PERSON_20] Events Reported:     9310 (Severity: Mild — no serious AEs)
+──────────────────────────────────────────────────────
+
+FINANCIAL [PERSON_17] (BOARD ONLY)
+  Direct Recall Costs (est.):        [AMOUNT_1]
+  Customer Compensation [PERSON_22]:     [AMOUNT_2]
+  Lost [PERSON_23] (9731 weeks):       [AMOUNT_3]
+  Litigation [PERSON_22] (Ref: CKU-3408-QUL9C):   [AMOUNT_4]
+  [PERSON_12] Recovery (Policy TX353003): [AMOUNT_5]
+  Net [PERSON_17]:                       [AMOUNT_6]
+
+REGULATORY [FINANCIAL_4] OPTIONS ([FINANCIAL_5]-CLIENT PRIVILEGED)
+  Option [MIL_PLATFORM_1]: Voluntary recall — notify regulator by April 08, 2026 (Counsel: [PERSON_4])
+  Option [MIL_PLATFORM_2]: Targeted market withdrawal — batches YB626599/IG711364 in [PERSON_29] only
+  Option [MIL_PLATFORM_3]: [PERSON_8] action without recall — enhanced monitoring 394 months
+  Recommended: Option [MIL_PLATFORM_1] (pending Board approval — Ref: AVU-9677-KW5GJ)
+
+[FINANCIAL_6] ACTIONS
+  OA-1469  Production halt on [PERSON_50] 8851      [PERSON_36] [PERSON_6]  Escalated     March 23, 2026
+  OA-3419  [PERSON_9] inventory at DC PN444714     [PERSON_2] Progress   April 26, 2026
+  OA-2331  Root cause investigation              [PERSON_1]     May 05, 2026
+  OA-1478 Customer hold notifications           [PERSON_3] Progress   May 27, 2026
+
+REFERENCED [FINANCIAL_7]
+  • Quality_[FINANCIAL_2]_Report_JEP-8241-DLMO9_[URL_1]
+  • Batch_Distribution_Analysis_YB626599_[URL_2]
+  • Recall_Cost_Model_MF447610_[URL_3]
+
+Board emergency call: May 12, 2026 at 07:00 EST. No action prior to Board alignment.
+
+[PERSON_5]
+Head of Mergers & Acquisitions | Operations | [PERSON_19] Real [PERSON_38] Trust
+Quality Crisis [PERSON_27]: [PHONE_1]  |  [FINANCIAL_2] ID: NK764393
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: [CONTRACT_1]-FXOP7 | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_4] Policy: 7 Years | Destruction Method: Certified [PERSON_40] Deletion
+================================================================================

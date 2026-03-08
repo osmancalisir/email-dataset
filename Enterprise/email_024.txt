@@ -1,0 +1,132 @@
+================================================================================
+EMAIL #024  |  STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, March 07, 2026 at 07:39 PM
+FROM:        Tanya Okafor <tokafor@meridiancapi.com>
+TO:          Claudia Mwangi <cmwangi@meridiancapi.com>
+SUBJECT:     CONFIDENTIAL: Internal Investigation – Ref MLT-2416-K155E
+REFERENCE:   GWL-9841-GI458
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Desmond,
+
+This communication is issued under Investigations Protocol INV-0164 and is classified STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation Reference: MLT-2416-K155E
+Complaint Received: February 22, 2026 | Channel: Anonymous Ethics Hotline (Ref: ETH-ZV119782)
+Allegation Category: Financial Statement Manipulation
+Investigation Lead: Gregory Chen | External Counsel: Cascadia Real Estate Trust (Ref: NG505568)
+Forensic Accountant: Titan Manufacturing Co (Ref: UE309902) | Audit Committee Notified: February 25, 2026
+
+ALLEGATION SUMMARY (ATTORNEY-CLIENT PRIVILEGED)
+The complaint alleges that between March 06, 2026 and February 18, 2026, a procurement officer may have accepted payments from Cascadia Real Estate Trust in exchange for contract awards valued at USD 6,553,657 (Refs: IC115518, QI140806). Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  USD 1,496,353 – USD 3,730,217
+Transactions Flagged:            9742 (Period: March 06, 2026 – February 18, 2026)
+Systems Under Review:            Procurement Platform (CW1063), Payroll System (IA1698)
+Geographic Scope:                United Kingdom, Netherlands
+
+INVESTIGATION WORKPLAN
+  INV-463  Document preservation order issued    Miriam Petrossian     Complete         May 05, 2026
+  INV-343  Email & comms forensic imaging        Charles Mwangi        Escalated        June 01, 2026
+  INV-341  Financial transaction analysis        Titan Manufacturing Co  Escalated        April 13, 2026
+  INV-704  Subject A interview (counsel present) Gregory Chen          Escalated        May 30, 2026
+  INV-804  Subject B & C interviews              Gregory Chen          On Hold          April 21, 2026
+  INV-166  Preliminary findings to Audit Cmte   Alistair Abramowitz   Pending Approval  March 27, 2026
+
+REGULATORY DISCLOSURE ASSESSMENT (PRIVILEGED)
+  Counsel advises: recommend 60-day investigation before external disclosure
+  External Auditor (Clearwater Mining Corp): Notification required — materiality threshold likely met
+  Potential Restatement: Low — below materiality threshold
+  D&O Insurance Notification: Filed February 13, 2026 (Policy Ref: QO269767)
+
+PRESERVATION & CONFIDENTIALITY CONTROLS
+  ✓  Legal hold — 6158 custodians (Hold Ref: UQ067420)
+  ✓  System access suspended for Subject A and B (IT Ticket: WV426635)
+  ✓  Document vault created — Vault ID: NA738713 (IR Team only)
+  ✗  PENDING: External hard drive imaging — 6186 devices (ETA: April 01, 2026)
+
+REFERENCED ATTACHMENTS
+  • Investigation_Plan_MLT-2416-K155E_INV-0164.pdf
+  • Financial_Transactions_Sample_EK304275.xlsx
+  • Legal_Hold_Notice_UQ067420.pdf
+
+All communications must be routed through external counsel Cascadia Real Estate Trust. Do not discuss with HR or line management.
+
+Priya Ihejirika
+Chief Revenue Officer | Information Technology | Bridgeway Consumer Finance
+Encrypted Investigation Line: +1 (800) 2447-2818  |  Badge: LW721607
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-GWL-9841-GI458 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+This communication is issued under Investigations Protocol INV-0164 and is classified [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_10] ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation [PERSON_11]: [PERSON_6]
+Complaint Received: February 22, 2026 | Channel: Anonymous Ethics [PERSON_22] (Ref: ETH-ZV119782)
+Allegation Category: Financial Statement Manipulation
+Investigation Lead: [PERSON_8] | External Counsel: [PERSON_17] Real [PERSON_27] Trust (Ref: NG505568)
+Forensic Accountant: [COMPANY_1] (Ref: UE309902) | Audit [PERSON_10] Notified: February 25, 2026
+
+ALLEGATION SUMMARY ([FINANCIAL_2]-CLIENT PRIVILEGED)
+The complaint alleges that between March 06, 2026 and February 18, 2026, a procurement officer may have accepted payments from [PERSON_17] Real [PERSON_27] Trust in exchange for contract awards valued at [AMOUNT_1] (Refs: IC115518, QI140806). Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  [AMOUNT_2] – [AMOUNT_3]
+Transactions Flagged:            9742 (Period: March 06, 2026 – February 18, 2026)
+Systems Under Review:            Procurement Platform (CW1063), Payroll System (IA1698)
+Geographic [PERSON_33]:                United Kingdom, Netherlands
+
+INVESTIGATION [FINANCIAL_3]
+  [MIL_PLATFORM_1] preservation order issued    [PERSON_4]         May 05, 2026
+  [MIL_PLATFORM_2] & comms forensic imaging        [PERSON_2]        [PERSON_40] 01, 2026
+  [MIL_PLATFORM_3] transaction analysis        [COMPANY_1]  Escalated        April 13, 2026
+  [MIL_PLATFORM_4] A interview (counsel present) [PERSON_3]        May 30, 2026
+  [MIL_PLATFORM_5] B & C interviews              [PERSON_5] Hold          April 21, 2026
+  [MIL_PLATFORM_6] findings to Audit [PERSON_1] Approval  March 27, 2026
+
+REGULATORY [PERSON_9] ASSESSMENT (PRIVILEGED)
+  Counsel advises: recommend 60-day investigation before external [PERSON_9]
+  External Auditor ([COMPANY_2]): Notification required — materiality threshold likely met
+  Potential Restatement: Low — below materiality threshold
+  D&O [PERSON_13] Notification: Filed February 13, 2026 (Policy Ref: QO269767)
+
+PRESERVATION & CONFIDENTIALITY [FINANCIAL_4]
+  ✓  Legal hold — 6158 custodians (Hold Ref: UQ067420)
+  ✓  System access suspended for Subject A and B (IT Ticket: WV426635)
+  ✓  Document vault created — Vault ID: NA738713 (IR [CALLSIGN_1])
+  ✗  PENDING: External hard drive imaging — 6186 devices (ETA: April 01, 2026)
+
+REFERENCED [FINANCIAL_5]
+  • Investigation_Plan_MLT-2416-K155E_[URL_1]
+  • Financial_Transactions_Sample_[URL_2]
+  • Legal_Hold_Notice_[URL_3]
+
+All communications must be routed through external counsel [PERSON_17] Real [PERSON_27] Trust. Do not discuss with HR or [PERSON_42] management.
+
+[PERSON_35] [PERSON_14]
+Chief [PERSON_24] Officer | Information Technology | Bridgeway Consumer [PERSON_25]
+Encrypted Investigation [PERSON_42]: [PHONE_1]  |  [PERSON_36]: LW721607
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_9] may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-GI458 | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_7] Policy: 7 Years | Destruction Method: Certified [PERSON_32] Deletion
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #148  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Natalie Ihejirika <nihejirika@luminarymedi.com>
+TO:          Kwame Mbeki <kmbeki@luminarymedi.com>
+SUBJECT:     CONFIDENTIAL: FY2024 Annual Budget & Capital Allocation Proposal
+REFERENCE:   ART-7035-DGW2T
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Yolanda,
+
+I am distributing the preliminary FY2024 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on March 15, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: PBA-3082-MX6EI | CFO Sponsor: Constance Achterberg | Prior Year Lock Date: February 19, 2026
+
+FY2024 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2024 Budget        FY2023 Actual      Variance
+Total Revenue           USD        647,940   USD        574,202    +12.8%
+Gross Profit            USD        284,491   USD        309,676     +0.0%
+EBITDA                  USD        125,947   USD        117,199    +11.8%
+EBIT                    USD         93,128   USD         91,852     +6.0%
+Net Income              USD         69,885   USD         65,103     +5.6%
+Capital Expenditure     USD        137,576   USD        159,861     +1.7%
+Free Cash Flow          USD         75,568   USD         76,346    +14.4%
+Net Debt (Year-End)     USD     15,099,356   USD     16,396,657     +4.8%
+──────────────────────────────────────────────────────
+EBITDA Margin: 34.52%  |  Gross Margin: 31.3%  |  FCF Conversion: 7.18%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 1)  USD 1,552,172  Medium  MM711427
+  New Manufacturing Line — Plant JA59       USD 305,401  Low  TI073349
+  ERP Enhancement — Module TN00             USD 328,190  Low  QU136478
+  Logistics Hub Expansion — Atlanta         USD 809,956  Critical  TD515054
+  Contingency Reserve (14.15%)              USD 19,467  N/A    XU696464
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 35.99% assumes 3603 new customer wins (Pipeline: IX260448) and 3.42% retention.
+  Headcount: net +8487 FTEs (8465 hires, 3740 attrition) — Ref: HC-6855.
+  Inflation: 37.63% on COGS, 20.22% on SG&A.
+  FX: USD/EUR 0.91 | USD/GBP 0.8026 | USD/JPY 144.2 (Treasury Ref: DN888432).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Global Supply Chain             Revenue: USD 28,287,180   EBITDA: USD 4,852,263   HC Cap: 1529
+  Industrial Services             Revenue: USD 1,665,560   EBITDA: USD 414,669   HC Cap: 763
+  Asia-Pacific Growth             Revenue: USD 217,742   EBITDA: USD 45,145   HC Cap: 1988
+  Healthcare Solutions            Revenue: USD 1,507,906   EBITDA: USD 152,237   HC Cap: 1818
+
+REFERENCED ATTACHMENTS
+  • FY2024_Budget_Model_AGT-1612-KD0DL_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_QV454427_CONFIDENTIAL.pdf
+  • Division_Targets_LT162583_RESTRICTED.xlsx
+
+Provide comments to Constance Achterberg only by April 20, 2026. Budget Committee approval required by April 22, 2026.
+
+Constance Okonkwo
+Director of Supply Chain | Operations | Stratos Energy Corp
+Budget Portal: LV151715  |  Direct: +1 (646) 8748-9529
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ihejirika's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-ART-7035-DGW2T | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_23],
+
+I am distributing the preliminary FY2024 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_11] review on March 15, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_43] with [FINANCIAL_3]al finance teams or [PERSON_46] management at this stage.
+
+Budget [PERSON_12]: [PERSON_3] | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 19, 2026
+
+FY2024 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_46] Item               FY2024 Budget        FY2023 Actual      [PERSON_19]
+Total [PERSON_25]           [AMOUNT_1]   [AMOUNT_2]    +[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_32]                  [AMOUNT_5]   [AMOUNT_6]    +[URL_3]%
+[PERSON_47]                    [AMOUNT_7]   [AMOUNT_8]     +[URL_4]%
+Net [PERSON_33]              [AMOUNT_9]   [AMOUNT_10]     +[URL_5]%
+Capital [PERSON_7]     [AMOUNT_11]   [AMOUNT_12]     +[URL_6]%
+[PERSON_48] Cash Flow          [AMOUNT_13]   [AMOUNT_14]    +[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     +[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_32] Margin: [URL_9]%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_7] ALLOCATION
+  Digital [PERSON_4] [PERSON_26] ([PERSON_40] 1)  [AMOUNT_17]  Medium  MM711427
+  New Manufacturing [PERSON_46] — Plant JA59       [AMOUNT_18]  Low  TI073349
+  ERP Enhancement — [PERSON_34] TN00             [AMOUNT_19]  Low  QU136478
+  Logistics Hub Expansion — [PERSON_27]         [AMOUNT_20]  Critical  TD515054
+  Contingency [PERSON_28] ([URL_12]%)              [AMOUNT_21]  N/A    XU696464
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_25] growth [URL_13]% assumes 3603 new customer wins ([PERSON_20]: IX260448) and [URL_14]% retention.
+  Headcount: net +8487 FTEs (8465 hires, 3740 attrition) — Ref: HC-6855.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: DN888432).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_13] — DO NOT [PERSON_43] PRE-ALIGNMENT)
+  Global Supply Chain             [PERSON_25]: [AMOUNT_24]   [PERSON_32]: [AMOUNT_25]   HC Cap: 1529
+  Industrial Services             [PERSON_25]: [AMOUNT_26]   [PERSON_32]: [AMOUNT_27]   HC Cap: 763
+  Asia-Pacific Growth             [PERSON_25]: [AMOUNT_28]   [PERSON_32]: [AMOUNT_29]   HC Cap: 1988
+  [PERSON_9] Solutions            [PERSON_25]: [AMOUNT_30]   [PERSON_32]: [AMOUNT_31]   HC Cap: 1818
+
+REFERENCED [FINANCIAL_4]
+  • FY2024_Budget_Model_AGT-1612-KD0DL_BOARD_[URL_20]
+  • CapEx_Project_Briefs_QV454427_[URL_21]
+  • [FINANCIAL_3]_Targets_LT162583_[URL_20]
+
+[PERSON_30] comments to [PERSON_1] only by April 20, 2026. Budget [PERSON_11] approval required by April 22, 2026.
+
+[PERSON_2]
+Director of Supply Chain | Operations | [COMPANY_1]
+Budget Portal: LV151715  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_13], and/or proprietary to [PERSON_15]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_11] ONLY
+Handling Protocol: [CONTRACT_1]-DGW2T | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_36] Deletion
+================================================================================

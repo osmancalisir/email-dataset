@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #127  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Alistair Vance <avance@clearwatermi.com>
+TO:          Yolanda Caruso <ycaruso@clearwatermi.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – SilverBridge Consulting / Stratos Energy Corp
+REFERENCE:   ZGV-0966-80SUE
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Marguerite,
+
+Following our call on February 09, 2026, I am forwarding the updated term sheet for the proposed joint venture between SilverBridge Consulting and Stratos Energy Corp. This supersedes all prior drafts and is shared exclusively under NDA Ref: IDS-7557-DKV51.
+
+Transaction Summary – Project Code: EE692750
+NDA Reference: IDS-7557-DKV51 | Executed: March 02, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Merger of Equals
+Enterprise Valuation (Pre-Money):    USD        287,066
+Proposed Equity Split:               26.31% / 73.69%
+Anticipated Close Date:              April 05, 2026
+Escrow Agent:                        Vortex Tech Industries
+Governing Law:                       Republic of Singapore
+Minimum EBITDA Covenant:             USD      3,271,773
+Maximum Leverage Ratio:              2.8x
+Interest Coverage Floor:             19.95%
+Year-1 CapEx Cap:                    USD      3,360,476
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           March 20, 2026
+  Antitrust Clearance Expected:      May 05, 2026
+  Required Licenses:                 TF372374, OS646220, YY726219
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO STRATOS ENERGY CORP)
+(a) Management carve-out provisions — Exhibit F, Ref JQC-6424-6T1J9
+(b) Earn-out KPI metrics KO773398 and IB774515 — valuation impact USD 302,434
+(c) Exclusivity breach penalty: 19.64% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v4592_AW771329.pdf              [AES-256 encrypted]
+  • Valuation_Model_LMN-2773-BFOZG_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_TT815804.docx
+
+Legal sign-off required from both parties no later than June 04, 2026. Coordinate follow-up with Constance Rosenberg and the Stratos Energy Corp legal team for April 26, 2026.
+
+Kevin Szymanski
+Head of Mergers & Acquisitions | Investor Relations | SilverBridge Consulting
+Direct: +1 (415) 299-6474  |  Mobile: +1 (650) 9387-2883  |  Token: KY814323
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Vance's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-ZGV-0966-80SUE | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_7],
+
+Following our call on February 09, 2026, I am forwarding the updated term sheet for the proposed joint venture between [PERSON_5] Consulting and Stratos Energy Corp. This supersedes all prior drafts and is shared exclusively under NDA Ref: IDS-7557-DKV51.
+
+[FINANCIAL_1] Summary – Project Code: EE692750
+NDA [PERSON_11]: IDS-7557-DKV51 | Executed: March 02, 2026
+
+[PERSON_8] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_13]:                      Merger of Equals
+[PERSON_9] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_41] Date:              April 05, 2026
+Escrow Agent:                        Vortex Tech Industries
+Governing Law:                       Republic of [PERSON_15]
+Minimum [PERSON_38] Covenant:             [AMOUNT_2]
+Maximum [PERSON_23] Ratio:              [URL_3]
+Interest [PERSON_24] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_25]
+  HSR Act Filing [PERSON_26]:           March 20, 2026
+  Antitrust [PERSON_16] Expected:      May 05, 2026
+  Required Licenses:                 TF372374, OS646220, YY726219
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_28] TO [COMPANY_1])
+(a) Management carve-out provisions — Exhibit F, Ref JQC-6424-6T1J9
+(b) Earn-out KPI metrics KO773398 and IB774515 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_9] value
+
+REFERENCED [FINANCIAL_5]
+  • JV_TermSheet_v4592_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_LMN-2773-BFOZG_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than [PERSON_47] 04, 2026. [PERSON_10] follow-up with [PERSON_1] and the [COMPANY_1] legal [CALLSIGN_1], 2026.
+
+[PERSON_4]
+Head of Mergers & Acquisitions | Investor Relations | [PERSON_5] Consulting
+Direct: [PHONE_1]  |  [PERSON_39]: [PHONE_2]  |  Token: KY814323
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_32] organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_28], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_6] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [PERSON_2] | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_40] Deletion
+================================================================================

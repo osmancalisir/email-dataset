@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #046  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Constance Mwangi <cmwangi@aurorasemico.com>
+TO:          Odessa Nkrumah <onkrumah@aurorasemico.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2025
+REFERENCE:   ONR-8716-AADAR
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Cormac,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: GRY-8436-GH6M8). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External Assurance: Polaris Wealth Advisors (Ref: AI338727) | Target Publication: June 06, 2026 | Filing Deadline: May 15, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+Scope 1 Emissions (tCO2e)          84,749        85,192         67,799
+Scope 2 Emissions (tCO2e)          26,024        27,325         20,819
+Scope 3 Emissions (tCO2e)         389,745       389,745        331,283
+Total Energy (MWh)                123,560       129,738        111,204
+Water Withdrawal (m³)           1,053,422     1,106,093        948,079
+Waste Diverted (%)                 17.46%       30.71%         29.99%
+Gender Pay Gap (%)                 31.83%       22.03%         28.27%
+TRIR (injuries/200k hrs)             0.23          0.24           0.18
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-6213: Scope 3 emissions 29.03% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: PP816380).
+  Issue ESG-4783: Gender pay gap of 31.83% exceeds 28.27% target. Board must decide voluntary vs. mandatory cohort disclosure by March 19, 2026.
+  Issue ESG-7056: Tier-1 supplier Irongate Private Equity (Spend: USD 1,561,588) failed human rights assessment (Score: 40/100, Threshold: 74/100). Disclosure may trigger customer contract reviews (Ref: AJO-2793-EVS1V).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2025):  5,664 tCO2e (Registry: Gold Standard, Ref: JC497007)
+  Credits Retired:              3,060 tCO2e
+  Average Price:                USD 36/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          7.1% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline April 28, 2026 (Ref: AA274824)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref WP095629
+  TCFD Alignment Score:         3.8% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2025_FMY-8629-SO0CK_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_CG567939.xlsx
+  • Supplier_Assessment_LJ818314.pdf
+
+Board sign-off required by March 18, 2026. Route comments to Kevin Espinoza only.
+
+Simone Caldwell
+Director of Internal Audit | Internal Audit | Clearwater Mining Corp
+ESG Committee Code: YH359059  |  Direct: +1 (415) 9243-0969
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Mwangi's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-ONR-8716-AADAR | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_18],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: GRY-8436-GH6M8). This is classified RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External [PERSON_6]: Polaris Wealth Advisors (Ref: AI338727) | Target Publication: [PERSON_34] 06, 2026 | Filing [PERSON_11]: May 15, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+[PERSON_24] 1 Emissions (tCO2e)          84,749        85,192         67,799
+[PERSON_24] 2 Emissions (tCO2e)          26,024        27,325         20,819
+[PERSON_24] 3 Emissions (tCO2e)         389,745       389,745        331,283
+Total Energy (MWh)                123,560       129,738        111,204
+Water Withdrawal (m³)           1,053,422     1,106,093        948,079
+[PERSON_25] Diverted (%)                 [URL_1]%       [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                 [URL_4]%       [URL_5]%         [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]          [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_3] ISSUES (PRE-DECISIONAL)
+  [PERSON_26] ESG-6213: [PERSON_24] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_3] language re: forward guidance implications (Ref: PP816380).
+  [PERSON_26] ESG-4783: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_3] by March 19, 2026.
+  [PERSON_26] ESG-7056: Tier-1 supplier [PERSON_12] Private Equity (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_27]: 40/100, Threshold: 74/100). [PERSON_3] may trigger customer contract reviews (Ref: AJO-2793-EVS1V).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2025):  5,664 tCO2e (Registry: Gold Standard, Ref: JC497007)
+  Credits Retired:              3,060 tCO2e
+  [PERSON_15] [PERSON_28]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_16] [PERSON_3] [PERSON_39]:  [PERSON_4] [PERSON_11] April 28, 2026 (Ref: AA274824)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref WP095629
+  TCFD Alignment [PERSON_27]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2025_FMY-8629-SO0CK_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by March 18, 2026. [PERSON_30] comments to [PERSON_2] only.
+
+[PERSON_1]
+Director of Internal Audit | Internal Audit | [COMPANY_1]
+ESG [PERSON_5] Code: YH359059  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_22]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_3] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY
+Handling Protocol: [CONTRACT_1]-AADAR | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_23] Deletion
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #146  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Natalie Espinoza <nespinoza@halcyonwealt.com>
+TO:          Vanessa Ellison <vellison@halcyonwealt.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2025
+REFERENCE:   QDR-0906-MIDBD
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Oswald,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: YRN-9367-ZHG0G). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External Assurance: Quantum Data Systems (Ref: YR108695) | Target Publication: May 25, 2026 | Filing Deadline: May 10, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+Scope 1 Emissions (tCO2e)          21,364        19,594         17,091
+Scope 2 Emissions (tCO2e)          27,910        29,305         22,328
+Scope 3 Emissions (tCO2e)         377,671       377,671        321,020
+Total Energy (MWh)                250,431       262,952        225,387
+Water Withdrawal (m³)             160,938       168,984        144,844
+Waste Diverted (%)                 20.39%       12.89%         18.89%
+Gender Pay Gap (%)                 16.24%       28.77%          8.81%
+TRIR (injuries/200k hrs)             1.65          1.73           1.32
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-1464: Scope 3 emissions 4.76% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: AN740002).
+  Issue ESG-0109: Gender pay gap of 16.24% exceeds 8.81% target. Board must decide voluntary vs. mandatory cohort disclosure by May 01, 2026.
+  Issue ESG-1974: Tier-1 supplier Redwood Asset Management (Spend: USD 6,847,783) failed human rights assessment (Score: 49/100, Threshold: 75/100). Disclosure may trigger customer contract reviews (Ref: UQV-2071-2Y0UW).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2025):  8,607 tCO2e (Registry: American Carbon Registry, Ref: IB759536)
+  Credits Retired:              7,117 tCO2e
+  Average Price:                USD 45/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          11.47% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline March 23, 2026 (Ref: GO374528)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref NM213088
+  TCFD Alignment Score:         37.48% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2025_OSJ-1530-BY3WO_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_CI577024.xlsx
+  • Supplier_Assessment_VU801263.pdf
+
+Board sign-off required by March 22, 2026. Route comments to Charles Tremblay only.
+
+Gregory Castleberry
+Head of Strategic Partnerships | Tax & Regulatory | Meridian Capital Group
+ESG Committee Code: NO600133  |  Direct: +1 (415) 5588-8119
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Espinoza's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-QDR-0906-MIDBD | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_17],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: YRN-9367-ZHG0G). This is classified RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External [PERSON_6]: Quantum Data Systems (Ref: YR108695) | Target Publication: May 25, 2026 | Filing [PERSON_11]: May 10, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+[PERSON_20] 1 Emissions (tCO2e)          21,364        19,594         17,091
+[PERSON_20] 2 Emissions (tCO2e)          27,910        29,305         22,328
+[PERSON_20] 3 Emissions (tCO2e)         377,671       377,671        321,020
+Total Energy (MWh)                250,431       262,952        225,387
+Water Withdrawal (m³)             160,938       168,984        144,844
+[PERSON_21] Diverted (%)                 [URL_1]%       [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                 [URL_4]%       [URL_5]%          [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]          [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_3] ISSUES (PRE-DECISIONAL)
+  [PERSON_22] ESG-1464: [PERSON_20] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_3] language re: forward guidance implications (Ref: AN740002).
+  [PERSON_22] ESG-0109: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_3] by May 01, 2026.
+  [PERSON_22] ESG-1974: Tier-1 supplier Redwood Asset Management (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_23]: 49/100, Threshold: 75/100). [PERSON_3] may trigger customer contract reviews (Ref: UQV-2071-2Y0UW).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2025):  8,607 tCO2e (Registry: American Carbon Registry, Ref: IB759536)
+  Credits Retired:              7,117 tCO2e
+  [PERSON_14] [PERSON_24]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_15] [PERSON_3] [PERSON_32]:  [PERSON_4] [PERSON_11] March 23, 2026 (Ref: GO374528)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref NM213088
+  TCFD Alignment [PERSON_23]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2025_OSJ-1530-BY3WO_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by March 22, 2026. [PERSON_26] comments to [PERSON_2] only.
+
+[PERSON_1]
+Head of Strategic Partnerships | Tax & Regulatory | Meridian Capital Group
+ESG [PERSON_5] Code: NO600133  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_12]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_3] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY
+Handling Protocol: [CONTRACT_1]-MIDBD | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_19] Deletion
+================================================================================

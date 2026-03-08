@@ -1,0 +1,126 @@
+================================================================================
+EMAIL #009  |  RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Odessa Oduya <ooduya@granitepeakr.com>
+TO:          Jonathan Drummond <jdrummond@granitepeakr.com>
+SUBJECT:     CONFIDENTIAL: Regulatory Compliance Gap Report – Legal & Compliance
+REFERENCE:   QYX-6254-DV45M
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Fitzroy,
+
+Following the internal compliance review (February 18, 2026 – February 12, 2026), I am forwarding the Regulatory Compliance Gap Report for the Audit & Risk Committee. Reference: MGD-7608-TMW5Z.
+
+Scope: Legal & Compliance | Frameworks Assessed: GDPR, MiFID II, SOX
+Review Lead: Marcus Vance | External Auditor: Solaris Renewable Energy (Engagement: FE436108)
+
+COMPLIANCE SCORECARD
+──────────────────────────────────────────────────────
+Overall Compliance Score:            17.06%  (Prior Period: 6.87%)
+Total Estimated Fine Exposure:       USD     14,679,730
+──────────────────────────────────────────────────────
+
+GAP REGISTER
+Priority    Gap ID        Description                                 Fine Exposure
+CRITICAL    GAP-9233    Incomplete KYC documentation for 8411 counterparties  USD 315,755
+HIGH        GAP-1742    Vendor onboarding controls not applied to 2944 suppliers  USD 103,888
+HIGH        GAP-5789    Missing dual-authorization on 7467 high-value transactions  USD 310,333
+MEDIUM      GAP-5768    Data retention policy breach — 4839 records overdue for deletion  USD 53,593
+MEDIUM      GAP-7242    Segregation of duties violation in AP processing cycle  USD 13,896,161
+
+CRITICAL FINDING DETAIL (GAP-9233)
+4.49% of transactions processed through system EU643114 between February 19, 2026 and March 06, 2026 lacked required dual-authorization controls (GDPR Section 5216.3289). Affected volume: 7,898 transactions totalling USD 1,402,749. Voluntary disclosure submitted March 03, 2026 (Internal Ref: SYK-7639-3J1EV).
+
+REMEDIATION PLAN
+  ACT-7467  Warren Rasmussen      Due: May 04, 2026  Budget: JD401823
+  ACT-8411  Priya Fischer         Due: April 04, 2026  Budget: YM323721
+  ACT-4839  Vanessa Nakamura      Due: May 30, 2026  Budget: UL325982
+  ACT-2944  Lavinia Delacroix     Due: April 08, 2026  Budget: RA409851
+
+REGULATORY ENGAGEMENT SCHEDULE
+  Regulator meeting (GDPR):   May 08, 2026
+  Internal Audit follow-up:         May 03, 2026
+  Board Audit Committee session:    May 01, 2026
+
+REFERENCED ATTACHMENTS
+  • Compliance_Gap_Report_HUB-8769-T5J8Z_RESTRICTED.pdf
+  • Transaction_Sample_Analysis_WQ555075.xlsx
+  • Voluntary_Disclosure_Letter_SYK-7639-3J1EV.pdf
+
+Report must not be shared with operational line management until remediation ownership is formally assigned.
+
+Marcus Vance
+Director of Internal Audit | Legal & Compliance | Cedarwood Pharmaceuticals
+Compliance Hotline: +1 (800) 9233-1742  |  Badge: XT261475
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Oduya's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+Handling Protocol: REF-QYX-6254-DV45M | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_20],
+
+Following the internal [PERSON_5] review (February 18, 2026 – February 12, 2026), I am forwarding the Regulatory [PERSON_5] Gap Report for the Audit & Risk Committee. [PERSON_9]: MGD-7608-TMW5Z.
+
+[PERSON_30]: Legal & [PERSON_5] | Frameworks Assessed: GDPR, MiFID II, SOX
+Review Lead: [PERSON_3] External Auditor: Solaris [PERSON_10] Energy (Engagement: FE436108)
+
+[PERSON_5] SCORECARD
+──────────────────────────────────────────────────────
+Overall [PERSON_5] [PERSON_32]:            [URL_1]%  (Prior Period: [URL_2]%)
+Total Estimated [PERSON_40] [PERSON_14]:       [AMOUNT_1]
+──────────────────────────────────────────────────────
+
+GAP [FINANCIAL_1]
+Priority    Gap [IDNUMBER_1]                                 [PERSON_40] [PERSON_14]
+[FINANCIAL_2]    GAP-9233    [PERSON_6] KYC documentation for 8411 counterparties  [AMOUNT_2]
+HIGH        GAP-1742    Vendor onboarding controls not applied to 2944 suppliers  [AMOUNT_3]
+HIGH        GAP-5789    Missing dual-authorization on 7467 high-value transactions  [AMOUNT_4]
+MEDIUM      GAP-5768    Data retention policy breach — 4839 records overdue for deletion  [AMOUNT_5]
+MEDIUM      GAP-7242    Segregation of duties violation in AP processing cycle  [AMOUNT_6]
+
+[FINANCIAL_2] FINDING DETAIL (GAP-9233)
+[URL_3]% of transactions processed through system EU643114 between February 19, 2026 and March 06, 2026 lacked required dual-authorization controls (GDPR Section [URL_4]). Affected volume: 7,898 transactions totalling [AMOUNT_7]. Voluntary disclosure submitted March 03, 2026 (Internal Ref: SYK-7639-3J1EV).
+
+[FINANCIAL_3] PLAN
+  ACT-7467  [PERSON_1]      Due: May 04, 2026  Budget: JD401823
+  ACT-8411  [PERSON_33] [PERSON_18]         Due: April 04, 2026  Budget: YM323721
+  ACT-4839  [PERSON_2]      Due: May 30, 2026  Budget: UL325982
+  ACT-2944  [PERSON_19] Delacroix     Due: April 08, 2026  Budget: RA409851
+
+REGULATORY ENGAGEMENT [PERSON_17]
+  Regulator meeting (GDPR):   May 08, 2026
+  Internal Audit follow-up:         May 03, 2026
+  Board Audit [PERSON_8] session:    May 01, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Compliance_Gap_Report_HUB-8769-T5J8Z_[URL_5]
+  • Transaction_Sample_Analysis_[URL_6]
+  • Voluntary_Disclosure_Letter_[URL_7]
+
+Report must not be shared with operational line management until [FINANCIAL_3] ownership is formally assigned.
+
+[PERSON_4]
+Director of Internal Audit | Legal & [PERSON_5] | Cedarwood Pharmaceuticals
+[PERSON_5] [PERSON_25]: [PHONE_2]  |  [PERSON_34]: XT261475
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_35]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK [PERSON_8] ONLY
+Handling Protocol: [CONTRACT_1]-DV45M | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

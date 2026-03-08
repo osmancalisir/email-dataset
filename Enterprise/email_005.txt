@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #005  |  BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+================================================================================
+DATE:        Wednesday, March 04, 2026 at 07:39 PM
+FROM:        Natalie Montclair <nmontclair@mosaicdigita.com>
+TO:          Piers Whitmore <pwhitmore@mosaicdigita.com>
+SUBJECT:     CONFIDENTIAL: Currency Exposure Hedging Strategy – Q1
+REFERENCE:   YAY-0437-5FHS2
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Priya,
+
+Please find below the Q1 currency hedging strategy summary, developed in response to elevated FX volatility since February 25, 2026. This is classified BOARD-RESTRICTED and shared only with the Treasury Oversight Committee.
+
+Hedging Strategy Reference: XOS-7442-5P7WA
+Portfolio Exposure Date: April 20, 2026 | Risk Classification: HIGH
+
+CURRENCY EXPOSURE & HEDGE RATIOS
+──────────────────────────────────────────────────────
+Currency Pair    Notional Exposure      Spot Rate    Hedge Ratio
+USD/EUR          USD      122,549       1.0294        33.62%
+USD/GBP          USD      329,878       0.7984        33.32%
+USD/JPY          USD    3,411,621       131.85       20.67%
+USD/CNH          USD    1,600,849       7.0423        2.26%
+──────────────────────────────────────────────────────
+
+RECOMMENDED INSTRUMENTS
+1. Forward Contracts (USD/EUR): Lock rate 0.9084 for settlement March 29, 2026 — notional USD 15,882,454 (Desk: FX-JT394888).
+2. Vanilla Options (USD/GBP): Put strike 0.7467, premium USD 1,704,234, expiry April 06, 2026 (Ref: OPT-ZH219367).
+3. Cross-Currency Swap (USD/JPY): Fixed 28.26%, SOFR + 15.16bps, tenor 1325 months (ISDA Ref: QAL-1877-4L1M7).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Solaris Renewable Energy (Code: AN984224)
+  Backup Dealer:     Titan Manufacturing Co (Code: ZH922808)
+  Credit Limit Used: 3.52% of approved limit (USD 743,776 remaining)
+
+SCENARIO ANALYSIS
+  Base Case   (31.23% probability):   Net FX P&L = USD 743,537
+  Adverse     (12.19% probability):   Net FX P&L = USD -1,294,295
+  Stress      (56.6% probability): Net FX P&L = USD -15,759,748
+
+REFERENCED ATTACHMENTS
+  • FX_Hedging_Strategy_Q1_ZQE-6570-VMGXQ.xlsx           [AES-256 encrypted]
+  • Counterparty_Credit_Assessment_LK907600_RESTRICTED.pdf
+  • ISDA_Schedule_Amendment_NQ813097.pdf
+
+Confirm approval via Treasury Portal TP-3526 by April 19, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+Fletcher Castleberry
+Chief Risk Officer | Procurement | Obsidian Telecom Group
+Bloomberg Terminal: ZB899962  |  Direct: +1 (646) 6111-1445
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+Handling Protocol: REF-YAY-0437-5FHS2 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_18],
+
+[PERSON_14] find below the Q1 [FINANCIAL_1] hedging strategy summary, developed in response to elevated FX volatility since February 25, 2026. This is classified BOARD-RESTRICTED and shared only with the [FINANCIAL_8] Oversight Committee.
+
+Hedging Strategy [PERSON_5]: [PERSON_2]
+Portfolio [PERSON_9] Date: April 20, 2026 | Risk Classification: HIGH
+
+[FINANCIAL_1] [PERSON_9] & [PERSON_20] RATIOS
+──────────────────────────────────────────────────────
+[FINANCIAL_1] Pair    Notional [PERSON_9]      Spot [PERSON_23]    [PERSON_20] Ratio
+USD/EUR          [AMOUNT_1]       [URL_1]        [URL_2]%
+USD/GBP          [AMOUNT_2]       [URL_3]        [URL_4]%
+USD/JPY          [AMOUNT_3]       [URL_5]       [URL_6]%
+USD/CNH          [AMOUNT_4]       [URL_7]        [URL_8]%
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] [FINANCIAL_4]
+1. Forward Contracts (USD/EUR): Lock [PERSON_23] [URL_9] for settlement March 29, 2026 — notional [AMOUNT_5] (Desk: FX-JT394888).
+2. [PERSON_12] Options (USD/GBP): Put strike [URL_10], premium [AMOUNT_6], expiry April 06, 2026 (Ref: OPT-ZH219367).
+3. Cross-[FINANCIAL_1] Swap (USD/JPY): Fixed [URL_11]%, SOFR + [URL_12], tenor 1325 months ([PERSON_24] Ref: QAL-1877-4L1M7).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Solaris [PERSON_6] Energy (Code: AN984224)
+  Backup Dealer:     [COMPANY_1] (Code: ZH922808)
+  Credit Limit Used: [URL_13]% of approved limit ([AMOUNT_7] remaining)
+
+[FINANCIAL_5] [FINANCIAL_6]
+  [PERSON_25] [PERSON_26]   ([URL_14]% probability):   Net FX P&L = [AMOUNT_8]
+  [PERSON_13]     ([URL_15]% probability):   Net FX P&L = USD -1,294,295
+  Stress      ([URL_16]% probability): Net FX P&L = USD -15,759,748
+
+REFERENCED [FINANCIAL_7]
+  • FX_Hedging_Strategy_Q1_[URL_17]           [[MIL_PLATFORM_1] encrypted]
+  • Counterparty_Credit_Assessment_LK907600_[URL_18]
+  • ISDA_Schedule_Amendment_[URL_19]
+
+Confirm approval via [FINANCIAL_8] Portal TP-3526 by April 19, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+[PERSON_1]
+[APPROVAL_CODE_2] | Obsidian Telecom Group
+Bloomberg Terminal: ZB899962  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [FINANCIAL_8] OVERSIGHT [PERSON_4]
+Handling Protocol: [CONTRACT_1]-5FHS2 | Encrypted In-Transit: TLS [URL_20] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_17] Deletion
+================================================================================

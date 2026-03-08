@@ -1,0 +1,138 @@
+================================================================================
+EMAIL #065  |  STRICTLY CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Constance Castleberry <ccastleberry@irongatepriv.com>
+TO:          Stephanie Chen <schen@irongatepriv.com>
+SUBJECT:     CONFIDENTIAL: Cybersecurity Incident – Ref PEH-9923-3185R
+REFERENCE:   LHO-2425-6GNMF
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Celestine,
+
+This communication is issued under Information Security Incident Protocol ISIP-1035 and is STRICTLY CONFIDENTIAL. A potential data security incident has been identified in the Risk Management environment.
+
+Incident Reference: PEH-9923-3185R | Severity: CRITICAL – SEV-1
+Date/Time Detected: February 10, 2026 at 12:22 UTC | External IR Firm: Cascadia Real Estate Trust (Ref: CE860962)
+
+INCIDENT SUMMARY
+──────────────────────────────────────────────────────
+Affected Systems:         Payment Gateway (XI3341), CRM Platform (SF-QD2823), HR System (GA0163)
+Data Types Exposed:       Intellectual Property (Source Code), Financial Reporting Data
+Records Potentially Affected: 3,974
+Attack Vector:            SQL injection via public-facing web application
+Threat Actor (Suspected): Unknown APT (TTPs consistent with FIN7)
+Dwell Time (Estimated):   4197 days | Data Exfiltration: 9970 GB
+C2 Server IP (masked):    79.126.200.63
+──────────────────────────────────────────────────────
+
+CONTAINMENT ACTIONS TAKEN (February 10, 2026)
+  ✓  Isolated network segment WP888436 at 12:22 UTC
+  ✓  Revoked credentials for 5149 potentially compromised accounts (Ref: ZP533887)
+  ✓  Forensic imaging of hosts FK279547 and GW439957
+  ✓  Backup authentication activated on Payment Gateway (XI3341) and CRM Platform (SF-QD2823)
+  ✗  PENDING: Full eradication of persistence mechanism (ETA: March 26, 2026)
+
+REGULATORY NOTIFICATION ASSESSMENT (PRIVILEGED)
+  GDPR Article 33 (72-hr):          Deadline March 25, 2026 — Decision PENDING
+  CCPA Breach Notification:          Counsel reviewing — Ref GK315435
+  SEC 8-K Disclosure:                CFO + Legal assessment by April 17, 2026
+  Cyber Insurance (Goldstone Infrastructure):           Filed February 19, 2026 — Policy Ref CM122437
+  Estimated Notification Cost:       USD 1,464,190
+  Estimated Remediation Cost:        USD 1,673,843
+  Business Interruption Loss (est.): USD 773,264
+
+KEY INCIDENT RESPONSE CONTACTS
+  Legal Lead:        Marcus Harrington  |  Ext 7083
+  PR / Comms Lead:   Raymond Fischer  |  Ext 1324
+  Forensics Lead:    Warren Djordjevic (Cascadia Real Estate Trust)
+  Regulator Liaison: Gregory Wainwright  |  Ext 7284
+
+IR Team call: April 07, 2026 at 06:00 EST — Bridge: 2473-8679-6183, PIN: 007656.
+
+REFERENCED ATTACHMENTS
+  • Incident_Report_PEH-9923-3185R_RESTRICTED.pdf
+  • IOC_List_GIZ-8067-Z7TIM_CONFIDENTIAL.csv
+  • Forensic_Timeline_OX888216.pdf
+  • Insurance_Claim_CM122437.pdf
+
+Simone Caldwell
+Head of Mergers & Acquisitions | Risk Management | Halcyon Wealth Partners
+IR Hotline: +1 (888) 1035-3974  |  Incident Badge: VM698145
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+Handling Protocol: REF-LHO-2425-6GNMF | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_6],
+
+This communication is issued under Information Security [FINANCIAL_3] Protocol ISIP-1035 and is [FINANCIAL_1] CONFIDENTIAL. A potential data security [FINANCIAL_3] has been identified in the Risk Management environment.
+
+[FINANCIAL_3] [PERSON_7]: PEH-[PHONE_1]R | Severity: [FINANCIAL_2] – SEV-1
+[PERSON_8] Detected: February 10, 2026 at 12:22 UTC | External IR Firm: [PERSON_15] Real [PERSON_26] Trust (Ref: CE860962)
+
+[FINANCIAL_3] SUMMARY
+──────────────────────────────────────────────────────
+Affected Systems:         Payment Gateway (XI3341), CRM Platform (SF-QD2823), HR System (GA0163)
+Data Types Exposed:       Intellectual Property ([PERSON_27] Code), Financial Reporting Data
+Records Potentially Affected: 3,974
+Attack Vector:            SQL injection via public-facing web application
+Threat Actor (Suspected): Unknown APT (TTPs consistent with FIN7)
+Dwell [PERSON_39] (Estimated):   4197 days | Data Exfiltration: 9970 GB
+C2 Server IP (masked):    [URL_1]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_4] ACTIONS TAKEN (February 10, 2026)
+  ✓  Isolated network segment WP888436 at 12:22 UTC
+  ✓  Revoked credentials for 5149 potentially compromised accounts (Ref: ZP533887)
+  ✓  Forensic imaging of hosts FK279547 and GW439957
+  ✓  Backup authentication activated on Payment Gateway (XI3341) and CRM Platform (SF-QD2823)
+  ✗  PENDING: Full eradication of persistence mechanism (ETA: March 26, 2026)
+
+REGULATORY NOTIFICATION ASSESSMENT (PRIVILEGED)
+  GDPR [PERSON_21] 33 (72-hr):          [PERSON_16] March 25, 2026 — Decision PENDING
+  [PERSON_40] Breach Notification:          Counsel reviewing — Ref GK315435
+  SEC 8-K [PERSON_5]:                CFO + Legal assessment by April 17, 2026
+  Cyber [PERSON_10] ([PERSON_11] [PERSON_3]):           Filed February 19, 2026 — Policy Ref CM122437
+  Estimated Notification Cost:       [AMOUNT_1]
+  Estimated Remediation Cost:        [AMOUNT_2]
+  Business Interruption Loss (est.): [AMOUNT_3]
+
+KEY [FINANCIAL_3] RESPONSE [FINANCIAL_5]
+  Legal Lead:        [PERSON_24] Harrington  |  Ext 7083
+  PR / Comms Lead:   [PERSON_1]  |  Ext 1324
+  Forensics Lead:    [PERSON_25] Djordjevic ([PERSON_15] Real [PERSON_26] Trust)
+  Regulator Liaison: [PERSON_19] Wainwright  |  Ext 7284
+
+IR [CALLSIGN_1]: April 07, 2026 at 06:00 EST — [PERSON_29]: [PHONE_3], PIN: 007656.
+
+REFERENCED [FINANCIAL_6]
+  • [FINANCIAL_3]_Report_PEH-[PHONE_1]R_[URL_2]
+  • IOC_List_GIZ-8067-Z7TIM_[URL_3]
+  • Forensic_Timeline_[URL_4]
+  • Insurance_Claim_[URL_5]
+
+[PERSON_2]
+Head of Mergers & Acquisitions | Risk Management | Halcyon Wealth Partners
+IR [PERSON_23]: [PHONE_4]  |  [FINANCIAL_3] [PERSON_36]: VM698145
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_5] may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+Handling Protocol: [CONTRACT_1]-6GNMF | Encrypted In-Transit: TLS [URL_6] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_32] Deletion
+================================================================================

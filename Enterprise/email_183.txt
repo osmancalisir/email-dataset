@@ -1,0 +1,116 @@
+================================================================================
+EMAIL #183  |  COMPENSATION COMMITTEE – EYES ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Yolanda Nkrumah <ynkrumah@silveroakcap.com>
+TO:          Piers Yamamoto <pyamamoto@silveroakcap.com>
+SUBJECT:     CONFIDENTIAL: Executive Compensation Benchmarking – Annual Review
+REFERENCE:   IUF-3045-J6NNI
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Piers,
+
+This communication is designated COMPENSATION COMMITTEE – EYES ONLY under Human Capital Policy HCP-7269. The attached executive compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking Reference: YXW-7601-KDX8T
+External Advisor: Quantum Data Systems (Engagement Ref: DI004512) | Effective Date: April 12, 2026
+Committee Session: March 27, 2026 | Peer Group Size: 5388 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+Role                      Current TDC         Market P50      Gap
+Chief Executive Officer   USD    3,131,494   USD    2,243,849       -887,645
+Chief Financial Officer   USD    2,893,673   USD      827,102     -2,066,571
+Chief Operating Officer   USD    3,520,132   USD    1,033,561     -2,486,571
+Chief Technology Officer  USD    3,233,087   USD    2,073,148     -1,159,939
+SVP, Sales                USD    3,579,593   USD    1,715,604     -1,863,989
+──────────────────────────────────────────────────────
+
+PROPOSED ADJUSTMENTS (PRE-DECISIONAL)
+  CEO base salary increase:   +29.35% effective May 22, 2026 (new base: USD 4,050,587)
+  CFO LTI grant:              9,019 RSUs at USD 9,961/share (Ref: LTI-QC194227)
+  COO retention bonus:        USD 7,214,358 — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      USD 16,009,838 one-time (Payroll code: PC-6094)
+  SVP Sales STI modifier:     +5.55% kicker above 36.09% quota attainment
+
+REGULATORY CONSIDERATIONS
+  CD&A disclosure threshold:  USD 15,206,126 (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled March 27, 2026
+  Clawback policy update due:  May 04, 2026 (Ref: SOX-MF979571)
+
+REFERENCED ATTACHMENTS
+  • ExecComp_Benchmarking_UVW-7307-3GTGG_COMMITTEE_ONLY.pdf  [password-protected]
+  • LTI_Grant_Schedule_BN494898_CONFIDENTIAL.xlsx
+  • Peer_Group_Analysis_JP052665.docx
+
+Do not store on shared drives. Delete after the Committee session. Direct all queries to Jonathan Djordjevic only.
+
+Sebastian Mwangi
+VP of Business Development | Strategic Partnerships | Nexus Retail Holdings
+Secure Line: +1 (202) 6327-5050  |  PGP Key: GG273254
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION COMMITTEE – EYES ONLY
+Handling Protocol: REF-IUF-3045-J6NNI | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_17],
+
+This communication is designated COMPENSATION [PERSON_5] – EYES ONLY under Human Capital Policy HCP-7269. The attached [PERSON_8] compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking [PERSON_6]: YXW-7601-KDX8T
+External Advisor: Quantum Data Systems (Engagement Ref: DI004512) | [PERSON_7] Date: April 12, 2026
+[PERSON_5] Session: March 27, 2026 | Peer Group Size: 5388 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+[PERSON_20]                      Current TDC         Market P50      Gap
+Chief [PERSON_8] Officer   [AMOUNT_1]   [AMOUNT_2]       -887,645
+[APPROVAL_CODE_3]   [AMOUNT_3]   [AMOUNT_4]     -2,066,571
+[APPROVAL_CODE_4]   [AMOUNT_5]   [AMOUNT_6]     -2,486,571
+[APPROVAL_CODE_5]  [AMOUNT_7]   [AMOUNT_8]     -1,159,939
+SVP, Sales                [AMOUNT_9]   [AMOUNT_10]     -1,863,989
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2] (PRE-DECISIONAL)
+  CEO base salary increase:   +[URL_1]% [PERSON_7] May 22, 2026 (new base: [AMOUNT_11])
+  CFO LTI [PERSON_16]:              9,019 RSUs at [AMOUNT_12]/share (Ref: LTI-QC194227)
+  COO retention bonus:        [AMOUNT_13] — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      [AMOUNT_14] one-time (Payroll code: PC-6094)
+  SVP Sales STI modifier:     +[URL_2]% kicker above [URL_3]% quota attainment
+
+REGULATORY CONSIDERATIONS
+  [PERSON_21] disclosure threshold:  [AMOUNT_15] (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled March 27, 2026
+  Clawback policy update due:  May 04, 2026 (Ref: SOX-MF979571)
+
+REFERENCED [FINANCIAL_3]
+  • ExecComp_Benchmarking_UVW-7307-3GTGG_COMMITTEE_[URL_4]  [password-protected]
+  • LTI_Grant_Schedule_BN494898_[URL_5]
+  • Peer_Group_Analysis_[URL_6]
+
+Do not store on shared drives. [PERSON_13] after the [PERSON_5] session. Direct all queries to [PERSON_1] only.
+
+[PERSON_4]
+VP of Business Development | Strategic Partnerships | Nexus Retail Holdings
+[PERSON_15] [PERSON_23]: [PHONE_1]  |  PGP Key: GG273254
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION [PERSON_5] – EYES ONLY
+Handling Protocol: [PERSON_2] | Encrypted In-Transit: TLS [URL_7] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_15] Deletion
+================================================================================

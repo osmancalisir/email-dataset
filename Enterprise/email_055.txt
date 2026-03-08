@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #055  |  BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+================================================================================
+DATE:        Sunday, March 01, 2026 at 07:39 PM
+FROM:        Renata Castleberry <rcastleberry@paragonlifes.com>
+TO:          Broderick Lindqvist <blindqvist@paragonlifes.com>
+SUBJECT:     CONFIDENTIAL: Currency Exposure Hedging Strategy – Q2
+REFERENCE:   NFI-3904-Q0U5Q
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Stephanie,
+
+Please find below the Q2 currency hedging strategy summary, developed in response to elevated FX volatility since February 13, 2026. This is classified BOARD-RESTRICTED and shared only with the Treasury Oversight Committee.
+
+Hedging Strategy Reference: LFM-0682-TVD9S
+Portfolio Exposure Date: April 10, 2026 | Risk Classification: HIGH
+
+CURRENCY EXPOSURE & HEDGE RATIOS
+──────────────────────────────────────────────────────
+Currency Pair    Notional Exposure      Spot Rate    Hedge Ratio
+USD/EUR          USD    1,559,980       0.8974        31.17%
+USD/GBP          USD      122,312       0.7852        34.55%
+USD/JPY          USD    7,568,572       147.36       15.79%
+USD/CNH          USD      125,312       7.2171        24.57%
+──────────────────────────────────────────────────────
+
+RECOMMENDED INSTRUMENTS
+1. Forward Contracts (USD/EUR): Lock rate 0.9222 for settlement May 14, 2026 — notional USD 4,019,705 (Desk: FX-FQ981098).
+2. Vanilla Options (USD/GBP): Put strike 0.7347, premium USD 301,833, expiry March 27, 2026 (Ref: OPT-CF205530).
+3. Cross-Currency Swap (USD/JPY): Fixed 30.33%, SOFR + 5.69bps, tenor 5542 months (ISDA Ref: HAQ-3371-LB6RA).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Aurora Semiconductor (Code: QR286400)
+  Backup Dealer:     Citadel Fintech Group (Code: TC220793)
+  Credit Limit Used: 2.84% of approved limit (USD 68,581 remaining)
+
+SCENARIO ANALYSIS
+  Base Case   (6.56% probability):   Net FX P&L = USD 3,337,954
+  Adverse     (19.18% probability):   Net FX P&L = USD -15,862,897
+  Stress      (74.3% probability): Net FX P&L = USD -668,280
+
+REFERENCED ATTACHMENTS
+  • FX_Hedging_Strategy_Q2_CBG-7153-4FXVY.xlsx           [AES-256 encrypted]
+  • Counterparty_Credit_Assessment_XJ863537_RESTRICTED.pdf
+  • ISDA_Schedule_Amendment_IY290821.pdf
+
+Confirm approval via Treasury Portal TP-2936 by April 26, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+Howard Espinoza
+Director of Supply Chain | Legal & Compliance | Nexpoint Data Centers
+Bloomberg Terminal: FX611964  |  Direct: +1 (646) 8251-4169
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+Handling Protocol: REF-NFI-3904-Q0U5Q | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_5],
+
+[PERSON_18] find below the Q2 [FINANCIAL_1] hedging strategy summary, developed in response to elevated FX volatility since February 13, 2026. This is classified BOARD-RESTRICTED and shared only with the [FINANCIAL_8] Oversight Committee.
+
+Hedging Strategy [PERSON_7]: LFM-0682-TVD9S
+Portfolio [PERSON_12] Date: April 10, 2026 | Risk Classification: HIGH
+
+[FINANCIAL_1] [PERSON_12] & [PERSON_24] RATIOS
+──────────────────────────────────────────────────────
+[FINANCIAL_1] Pair    Notional [PERSON_12]      Spot [PERSON_28]    [PERSON_24] Ratio
+USD/EUR          [AMOUNT_1]       [URL_1]        [URL_2]%
+USD/GBP          [AMOUNT_2]       [URL_3]        [URL_4]%
+USD/JPY          [AMOUNT_3]       [URL_5]       [URL_6]%
+USD/CNH          [AMOUNT_4]       [URL_7]        [URL_8]%
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] [FINANCIAL_4]
+1. Forward Contracts (USD/EUR): Lock [PERSON_28] [URL_9] for settlement May 14, 2026 — notional [AMOUNT_5] (Desk: FX-FQ981098).
+2. [PERSON_15] Options (USD/GBP): Put strike [URL_10], premium [AMOUNT_6], expiry March 27, 2026 (Ref: OPT-CF205530).
+3. Cross-[FINANCIAL_1] Swap (USD/JPY): Fixed [URL_11]%, SOFR + [URL_12], tenor 5542 months ([PERSON_29] Ref: [PERSON_2]).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    [PERSON_20] Semiconductor (Code: QR286400)
+  Backup Dealer:     Citadel Fintech Group (Code: TC220793)
+  Credit Limit Used: [URL_13]% of approved limit ([AMOUNT_7] remaining)
+
+[FINANCIAL_5] [FINANCIAL_6]
+  [PERSON_30] [PERSON_31]   ([URL_14]% probability):   Net FX P&L = [AMOUNT_8]
+  [PERSON_16]     ([URL_15]% probability):   Net FX P&L = USD -15,862,897
+  Stress      ([URL_16]% probability): Net FX P&L = USD -668,280
+
+REFERENCED [FINANCIAL_7]
+  • FX_Hedging_Strategy_Q2_[URL_17]           [[MIL_PLATFORM_1] encrypted]
+  • Counterparty_Credit_Assessment_XJ863537_[URL_18]
+  • ISDA_Schedule_Amendment_[URL_19]
+
+Confirm approval via [FINANCIAL_8] Portal TP-2936 by April 26, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+[PERSON_1]
+Director of Supply Chain | Legal & [PERSON_4] | Nexpoint Data Centers
+Bloomberg Terminal: FX611964  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [FINANCIAL_8] OVERSIGHT [PERSON_6]
+Handling Protocol: [CONTRACT_1]-Q0U5Q | Encrypted In-Transit: TLS [URL_20] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #227  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Gregory Harrington <gharrington@amberfieldco.com>
+TO:          Alicia Drummond <adrummond@amberfieldco.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – Goldstone Infrastructure / Verdant Food & Beverage
+REFERENCE:   RMK-0429-6ETT3
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thaddeus,
+
+Following our call on February 25, 2026, I am forwarding the updated term sheet for the proposed joint venture between Goldstone Infrastructure and Verdant Food & Beverage. This supersedes all prior drafts and is shared exclusively under NDA Ref: HYT-1824-7CG0M.
+
+Transaction Summary – Project Code: ZR737558
+NDA Reference: HYT-1824-7CG0M | Executed: February 15, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Licensing Agreement
+Enterprise Valuation (Pre-Money):    USD     14,209,492
+Proposed Equity Split:               9.56% / 90.44%
+Anticipated Close Date:              April 20, 2026
+Escrow Agent:                        Wavecrest Biotechnology
+Governing Law:                       State of New York, USA
+Minimum EBITDA Covenant:             USD        277,240
+Maximum Leverage Ratio:              3.1x
+Interest Coverage Floor:             18.08%
+Year-1 CapEx Cap:                    USD      6,011,398
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           March 27, 2026
+  Antitrust Clearance Expected:      May 29, 2026
+  Required Licenses:                 NV265959, EG456969, CU722452
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO VERDANT FOOD & BEVERAGE)
+(a) Management carve-out provisions — Exhibit F, Ref WZG-3447-IOHTU
+(b) Earn-out KPI metrics SR915975 and GY207494 — valuation impact USD 3,044,526
+(c) Exclusivity breach penalty: 20.26% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v4746_JN802749.pdf              [AES-256 encrypted]
+  • Valuation_Model_QUO-5708-PLUZX_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_XA417825.docx
+
+Legal sign-off required from both parties no later than April 30, 2026. Coordinate follow-up with Philippa Tremblay and the Verdant Food & Beverage legal team for June 03, 2026.
+
+Sandra Rasmussen
+Director of Internal Audit | Corporate Development | Goldstone Infrastructure
+Direct: +1 (415) 2357-9616  |  Mobile: +1 (650) 425-1282  |  Token: US819232
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-RMK-0429-6ETT3 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_17],
+
+Following our call on February 25, 2026, I am forwarding the updated term sheet for the proposed joint venture between [PERSON_10] [PERSON_3] and Verdant Food & [FINANCIAL_5]. This supersedes all prior drafts and is shared exclusively under NDA Ref: HYT-1824-7CG0M.
+
+[FINANCIAL_1] Summary – Project Code: ZR737558
+NDA [PERSON_11]: HYT-1824-7CG0M | Executed: February 15, 2026
+
+[PERSON_7] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_13]:                      Licensing Agreement
+[PERSON_8] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_42] Date:              April 20, 2026
+Escrow Agent:                        Wavecrest Biotechnology
+Governing Law:                       [PERSON_43] of New York, USA
+Minimum [PERSON_38] Covenant:             [AMOUNT_2]
+Maximum [PERSON_22] Ratio:              [URL_3]
+Interest [PERSON_23] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_24]
+  HSR Act Filing [PERSON_25]:           March 27, 2026
+  Antitrust [PERSON_15] Expected:      May 29, 2026
+  Required Licenses:                 NV265959, EG456969, CU722452
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_27] TO VERDANT FOOD & [PERSON_19])
+(a) Management carve-out provisions — Exhibit F, Ref [PERSON_4]
+(b) Earn-out KPI metrics SR915975 and GY207494 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_8] value
+
+REFERENCED [FINANCIAL_6]
+  • JV_TermSheet_v4746_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_QUO-5708-PLUZX_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than April 30, 2026. [PERSON_9] follow-up with [PERSON_1] and the Verdant Food & [PERSON_19] legal team for [PERSON_49] 03, 2026.
+
+[PERSON_2]
+Director of Internal Audit | [PERSON_16] Development | [PERSON_10] [PERSON_3]
+Direct: [PHONE_1]  |  [PERSON_40]: [PHONE_2]  |  Token: US819232
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_27], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_7] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [CONTRACT_1]-6ETT3 | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_41] Deletion
+================================================================================

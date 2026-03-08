@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #171  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Claudia Okonkwo <cokonkwo@blackridgelo.com>
+TO:          Natalie Djordjevic <ndjordjevic@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2023
+REFERENCE:   KIG-3349-YJBGQ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Piers,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2023 (Ref: UQS-7482-RA464). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: ISSB IFRS S1/S2 (Voluntary Early Adoption)
+External Assurance: Cobalt Ventures LLC (Ref: RQ582352) | Target Publication: April 19, 2026 | Filing Deadline: May 08, 2026
+
+KEY ESG METRICS (FY2023 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2023 Actual   FY2022 Actual    Target
+Scope 1 Emissions (tCO2e)         106,953       115,808         85,562
+Scope 2 Emissions (tCO2e)          28,794        30,233         23,035
+Scope 3 Emissions (tCO2e)         130,441       130,441        110,874
+Total Energy (MWh)                151,300       158,865        136,170
+Water Withdrawal (m³)             802,787       842,926        722,508
+Waste Diverted (%)                  36.7%        8.16%         20.05%
+Gender Pay Gap (%)                 13.47%       33.28%         12.48%
+TRIR (injuries/200k hrs)             2.38           2.5            1.9
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-1126: Scope 3 emissions 30.25% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: XH803692).
+  Issue ESG-2463: Gender pay gap of 13.47% exceeds 12.48% target. Board must decide voluntary vs. mandatory cohort disclosure by April 07, 2026.
+  Issue ESG-0153: Tier-1 supplier Redwood Asset Management (Spend: USD 1,505,437) failed human rights assessment (Score: 60/100, Threshold: 78/100). Disclosure may trigger customer contract reviews (Ref: QVS-0350-HLWM4).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2023):  7,937 tCO2e (Registry: Gold Standard, Ref: DA756728)
+  Credits Retired:              595 tCO2e
+  Average Price:                USD 41/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          9.32% absolute reduction vs. 2019 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline March 16, 2026 (Ref: KM231342)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref XQ222830
+  TCFD Alignment Score:         36.96% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2023_QOJ-8405-BZ9S5_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_IC443740.xlsx
+  • Supplier_Assessment_WV162121.pdf
+
+Board sign-off required by April 26, 2026. Route comments to Natalie Djordjevic only.
+
+Yolanda Okonkwo
+Chief Technology Officer | Supply Chain Management | Amberfield Consumer Goods
+ESG Committee Code: OD789997  |  Direct: +1 (415) 7811-5261
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-KIG-3349-YJBGQ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_20],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2023 (Ref: UQS-7482-RA464). This is classified RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: ISSB IFRS S1/S2 (Voluntary Early Adoption)
+External [PERSON_6]: [COMPANY_1] (Ref: RQ582352) | Target Publication: April 19, 2026 | Filing [PERSON_11]: May 08, 2026
+
+KEY ESG METRICS (FY2023 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2023 Actual   FY2022 Actual    Target
+[PERSON_21] 1 Emissions (tCO2e)         106,953       115,808         85,562
+[PERSON_21] 2 Emissions (tCO2e)          28,794        30,233         23,035
+[PERSON_21] 3 Emissions (tCO2e)         130,441       130,441        110,874
+Total Energy (MWh)                151,300       158,865        136,170
+Water Withdrawal (m³)             802,787       842,926        722,508
+[PERSON_22] Diverted (%)                  [URL_1]%        [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                 [URL_4]%       [URL_5]%         [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]           [URL_8]            [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_3] ISSUES (PRE-DECISIONAL)
+  [PERSON_23] ESG-1126: [PERSON_21] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_3] language re: forward guidance implications (Ref: XH803692).
+  [PERSON_23] ESG-2463: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_3] by April 07, 2026.
+  [PERSON_23] ESG-0153: Tier-1 supplier Redwood Asset Management (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_24]: 60/100, Threshold: 78/100). [PERSON_3] may trigger customer contract reviews (Ref: QVS-0350-HLWM4).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2023):  7,937 tCO2e (Registry: Gold Standard, Ref: DA756728)
+  Credits Retired:              595 tCO2e
+  [PERSON_13] [PERSON_25]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2019 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_14] [PERSON_3] [PERSON_34]:  [PERSON_4] [PERSON_11] March 16, 2026 (Ref: KM231342)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref XQ222830
+  TCFD Alignment [PERSON_24]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2023_QOJ-8405-BZ9S5_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by April 26, 2026. [PERSON_27] comments to [PERSON_1] only.
+
+[PERSON_2]
+[APPROVAL_CODE_2] | Amberfield Consumer Goods
+ESG [PERSON_5] Code: OD789997  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_3] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY
+Handling Protocol: [CONTRACT_1]-YJBGQ | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_19] Deletion
+================================================================================

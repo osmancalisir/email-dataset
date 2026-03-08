@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #191  |  RESTRICTED – IP COMMITTEE EYES ONLY
+================================================================================
+DATE:        Wednesday, March 04, 2026 at 07:39 PM
+FROM:        Monique Nkrumah <mnkrumah@silverbridge.com>
+TO:          Sebastian Mbeki <smbeki@silverbridge.com>
+SUBJECT:     CONFIDENTIAL: IP Licensing Negotiation Update – Redwood Asset Management
+REFERENCE:   FQL-2667-OLVJM
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Elise,
+
+I am updating you on the IP licensing negotiation with Redwood Asset Management (Counterparty ID: XY831996). This is designated RESTRICTED – IP COMMITTEE EYES ONLY.
+
+Portfolio: Core Manufacturing Process Patents (Portfolio A)
+Negotiation Reference: UEI-3283-UAC61 | NDA Effective: February 22, 2026 | External Counsel: Orion Petrochemicals (Ref: GS666429)
+
+PROPOSED LICENSE TERMS (DRAFT)
+──────────────────────────────────────────────────────
+License Type:                        Exclusive Field-of-Use License
+Territory:                           European Union member states
+Field of Use:                        Research & Development
+Term:                                8233 years (renewable)
+Upfront License Fee:                 USD        707,651
+Running Royalty Rate:                5.32% of Net Sales
+Minimum Annual Royalty (Year 1):     USD        306,955  (escalating 13.95% p.a.)
+Sublicensing Rights:                 Affiliates only
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  USD 126,582 (Appraiser: Silveroak Capital Markets, Ref: UW293684)
+  NPV of Royalty Stream (Base):  USD 6,305,661
+  NPV of Royalty Stream (Bear):  USD 1,280,747
+  Walk-Away Minimum:             USD 726,758 upfront + 3.95% royalty
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO REDWOOD ASSET MANAGEMENT)
+  LP-8596: Redwood Asset Management seeks carve-out for adjacent territory — firm rejection. Value of concession: USD 5,986,931.
+  LP-3158: Sublicensing clause — Redwood Asset Management requests unrestricted rights; accept affiliates-only with field-of-use restriction.
+  LP-1260: Grant-back on improvements — accept with field-of-use limitation (Ref: MPF-4980-OEUPN).
+
+PATENT PORTFOLIO STATUS
+  Patent EO330308  |  USA      |  Expiry: April 10, 2026  |  Granted
+  Patent PK709832  |  EU       |  Expiry: April 23, 2026  |  Granted
+  Patent BU309091  |  China    |  Expiry: April 25, 2026  |  Pending
+  Patent BP702806  |  Japan    |  Expiry: April 29, 2026  |  Granted
+
+ACTION REQUIRED
+  ☐  IP Committee approval of walk-away terms by May 03, 2026 (Portal: IP-6512)
+  ☐  External counsel to finalize draft by April 07, 2026 (Matter: GS666429)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: SWT-1290-P5TQM)
+
+REFERENCED ATTACHMENTS
+  • IP_License_Draft_v8233_UEI-3283-UAC61_CONFIDENTIAL.pdf
+  • Royalty_NPV_Model_LH466508.xlsx
+  • Patent_Portfolio_Summary_XC929155_RESTRICTED.pdf
+
+Simone Rasmussen
+VP of Legal Affairs | Corporate Development | Evergreen Real Estate Fund
+IP Committee Code: XY831996  |  Direct: +1 (650) 8287-3231
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP COMMITTEE EYES ONLY
+Handling Protocol: REF-FQL-2667-OLVJM | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_22],
+
+I am updating you on the IP licensing [FINANCIAL_2] with Redwood Asset Management (Counterparty ID: XY831996). This is designated RESTRICTED – IP [PERSON_4] EYES ONLY.
+
+Portfolio: [PERSON_27] Manufacturing Process Patents (Portfolio A)
+[FINANCIAL_2] [PERSON_5]: UEI-3283-UAC61 | NDA [PERSON_6]: February 22, 2026 | External Counsel: Orion Petrochemicals (Ref: GS666429)
+
+[FINANCIAL_1] [PERSON_14] TERMS (DRAFT)
+──────────────────────────────────────────────────────
+[PERSON_14] Type:                        [PERSON_7] [PERSON_2] [PERSON_14]
+Territory:                           European Union member states
+Field of Use:                        Research & Development
+Term:                                8233 years (renewable)
+Upfront [PERSON_14] Fee:                 [AMOUNT_1]
+Running Royalty [PERSON_28]:                [URL_1]% of Net Sales
+Minimum Annual Royalty (Year 1):     [AMOUNT_2]  (escalating [URL_2]% [URL_3].)
+Sublicensing Rights:                 Affiliates only
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  [AMOUNT_3] (Appraiser: Silveroak Capital Markets, Ref: UW293684)
+  NPV of Royalty Stream ([PERSON_29]):  [AMOUNT_4]
+  NPV of Royalty Stream (Bear):  [AMOUNT_5]
+  Walk-Away Minimum:             [AMOUNT_6] upfront + [URL_4]% royalty
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_13] TO REDWOOD ASSET MANAGEMENT)
+  LP-8596: Redwood Asset Management seeks carve-out for adjacent territory — firm rejection. Value of concession: [AMOUNT_7].
+  LP-3158: Sublicensing clause — Redwood Asset Management requests unrestricted rights; accept affiliates-only with [PERSON_2] restriction.
+  LP-1260: Grant-back on improvements — accept with [PERSON_2] limitation (Ref: MPF-4980-OEUPN).
+
+PATENT PORTFOLIO STATUS
+  Patent EO330308  |  USA      |  Expiry: April 10, 2026  |  Granted
+  Patent PK709832  |  EU       |  Expiry: April 23, 2026  |  Granted
+  Patent BU309091  |  [PERSON_23]    |  Expiry: April 25, 2026  |  Pending
+  Patent BP702806  |  Japan    |  Expiry: April 29, 2026  |  Granted
+
+ACTION [FINANCIAL_4]
+  ☐  IP [PERSON_4] approval of walk-away terms by May 03, 2026 (Portal: IP-6512)
+  ☐  External counsel to finalize draft by April 07, 2026 (Matter: GS666429)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: SWT-1290-P5TQM)
+
+REFERENCED [FINANCIAL_5]
+  • IP_License_Draft_v8233_UEI-3283-UAC61_[URL_5]
+  • Royalty_NPV_Model_[URL_6]
+  • Patent_Portfolio_Summary_XC929155_[URL_7]
+
+[PERSON_1]
+VP of Legal Affairs | [PERSON_8] Development | Evergreen Real [PERSON_20] Fund
+IP [PERSON_4] Code: XY831996  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nkrumah's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_13], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP [PERSON_4] EYES ONLY
+Handling Protocol: [CONTRACT_1]-OLVJM | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_21] Deletion
+================================================================================

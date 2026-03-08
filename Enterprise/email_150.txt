@@ -1,0 +1,142 @@
+================================================================================
+EMAIL #150  |  RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Brian Okonkwo <bokonkwo@quantumdatas.com>
+TO:          Howard Abioye <habioye@quantumdatas.com>
+SUBJECT:     CONFIDENTIAL: Trade Finance Facility Review – Amberfield Consumer Goods
+REFERENCE:   BLU-2517-PSRNJ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Sebastian,
+
+I am writing in strict confidence regarding the trade finance facility supporting our transactions with Amberfield Consumer Goods (Counterparty ID: WN142700) under Master Trade Agreement Ref: YHZ-1913-ORVDM. This is classified RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY.
+
+Issuing Bank: Delphi Semiconductor (Code: VB497972) | Confirming Bank: Clearwater Mining Corp (Code: SB667386)
+Facility Review Date: April 09, 2026 | Trade Finance Committee: April 26, 2026
+
+ACTIVE INSTRUMENTS SUMMARY
+──────────────────────────────────────────────────────
+Type          Reference    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    GI401925        Amberfield Consumer Goods     6,547,555   April 30, 2026  Active — Discrepancy Pending
+LC (Usance)   BL248719        Delphi Semiconductor       315,891   May 08, 2026  Active — Discrepancy Pending
+BG (Perf.)    VH758533        Clearwater Mining Corp       290,020   March 30, 2026  Active — Discrepancy Pending
+BG (Adv. Pmt) PA204646        Natalie Morozova       340,550   April 30, 2026  Active — In Order
+SBLC          AH004116      Amberfield Consumer Goods    16,064,155   April 21, 2026  Active — Awaiting Confirmation
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  USD 23,558,171
+FACILITY LIMIT:              USD 27,081,663
+UTILISATION:                 87.0%
+
+OUTSTANDING DISCREPANCY NOTICES
+  D-9710: LC GI401925 — bill of lading dated after LC expiry. Waiver requested from Amberfield Consumer Goods (Deadline: April 09, 2026). Exposure: USD 6,547,555.
+  D-4242: LC BL248719 — bill of lading dated after LC expiry. Correction letter Ref YV600172, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Refined Petroleum Products
+  Shipment Terms:          DDP — Los Angeles CA to Shanghai
+  Contract Quantity:       9,451 lots (Tolerance: ±23.85%)
+  Invoice Value (Latest):  USD 111,129
+  Open Position:           USD 16,739,908 (9343 shipments outstanding)
+  Hedge Coverage:          16.49% (Hedge Ref: MTS-2519-6VU78, Desk: KM172662)
+
+BANK COVENANT & COMPLIANCE
+  Net Leverage Covenant:   3.4x (Current: 3.4x) — COMPLIANT
+  Annual Review Due:        June 03, 2026
+  AML/KYC Re-certification: Amberfield Consumer Goods — Due April 09, 2026 (Ref: XX973885)
+  OFAC Sanctions Screening: Last run February 25, 2026 — No matches — Clear
+
+ACTION ITEMS
+1. Resolve D-9710 with Amberfield Consumer Goods before LC expiry April 30, 2026 — escalate to Celestine Rasmussen if no waiver received.
+2. Renew BG VH758533 prior to expiry March 30, 2026 — instruct Delphi Semiconductor by April 09, 2026 (Lead time: 7478 business days).
+3. Submit AML/KYC docs for Amberfield Consumer Goods re-certification (Contact: Raymond Djordjevic, Ref: XX973885).
+4. CFO approval for facility limit increase of USD 14,192,587 by April 26, 2026 (Form: TF-4780).
+
+REFERENCED ATTACHMENTS
+  • Trade_Finance_Status_Report_YHZ-1913-ORVDM_RESTRICTED.pdf
+  • LC_Document_Set_GI401925_TY996882.pdf
+  • Discrepancy_Notice_9710_YV600172.pdf
+  • Commodity_Position_Summary_JHZ-1764-ZQSTU.xlsx
+
+Brian Nakamura
+Director of Internal Audit | Finance & Treasury | Pinnacle Financial Services
+Treasury Direct: +1 (212) 971-4874  |  SWIFT: BCMGWUDC  |  Badge: EW194308
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+Handling Protocol: REF-BLU-2517-PSRNJ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_5],
+
+I am writing in strict confidence regarding the [PERSON_44] [PERSON_25] [FINANCIAL_3] supporting our transactions with Amberfield Consumer Goods (Counterparty ID: WN142700) under Master [PERSON_44] Agreement Ref: YHZ-1913-ORVDM. This is classified RESTRICTED – [FINANCIAL_1] & [PERSON_44] [PERSON_25] [PERSON_6] ONLY.
+
+Issuing Bank: [PERSON_37] Semiconductor (Code: VB497972) | Confirming Bank: [COMPANY_2] (Code: SB667386)
+[FINANCIAL_3] Review Date: April 09, 2026 | [PERSON_44] [PERSON_25] [PERSON_6]: April 26, 2026
+
+[PERSON_38] [FINANCIAL_2] SUMMARY
+──────────────────────────────────────────────────────
+Type          [PERSON_7]    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    GI401925        Amberfield Consumer Goods     6,547,555   April 30, 2026  [PERSON_38] — [FINANCIAL_6] Pending
+LC ([PERSON_39])   BL248719        [PERSON_37] Semiconductor       315,891   May 08, 2026  [PERSON_38] — [FINANCIAL_6] Pending
+BG (Perf.)    [COMPANY_1]       290,020   March 30, 2026  [PERSON_38] — [FINANCIAL_6] Pending
+BG ([PERSON_11]) PA204646        [PERSON_24] [PERSON_14]       340,550   April 30, 2026  [PERSON_38] — In Order
+SBLC          AH004116      Amberfield Consumer Goods    16,064,155   April 21, 2026  [PERSON_38] — Awaiting Confirmation
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  [AMOUNT_1]
+[FINANCIAL_3] LIMIT:              [AMOUNT_2]
+[FINANCIAL_4]:                 [URL_1]%
+
+[FINANCIAL_5] [FINANCIAL_6] NOTICES
+  D-9710: LC GI401925 — bill of lading dated after LC expiry. Waiver requested from Amberfield Consumer Goods ([PERSON_15]: April 09, 2026). [PERSON_16]: [AMOUNT_3].
+  D-4242: LC BL248719 — bill of lading dated after LC expiry. Correction letter Ref YV600172, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Refined Petroleum Products
+  Shipment Terms:          DDP — Los Angeles CA to [PERSON_17]
+  Contract Quantity:       9,451 lots ([PERSON_8]: ±[URL_2]%)
+  [PERSON_30] Value (Latest):  [AMOUNT_4]
+  Open Position:           [AMOUNT_5] (9343 shipments [FINANCIAL_5])
+  [PERSON_48] [PERSON_19]:          [URL_3]% ([PERSON_48] Ref: MTS-2519-6VU78, Desk: KM172662)
+
+BANK [FINANCIAL_7] & [PERSON_4]
+  Net [PERSON_20] [FINANCIAL_7]:   [URL_4] (Current: [URL_4]) — COMPLIANT
+  Annual Review Due:        [PERSON_52] 03, 2026
+  AML/KYC Re-certification: Amberfield Consumer Goods — Due April 09, 2026 (Ref: XX973885)
+  OFAC Sanctions Screening: Last run February 25, 2026 — No matches — Clear
+
+ACTION ITEMS
+1. [PERSON_33] D-9710 with Amberfield Consumer Goods before LC expiry April 30, 2026 — escalate to [PERSON_1] if no waiver received.
+2. Renew BG VH758533 prior to expiry March 30, 2026 — instruct [PERSON_37] Semiconductor by April 09, 2026 (Lead time: 7478 business days).
+3. Submit AML/KYC docs for Amberfield Consumer Goods re-certification (Contact: [PERSON_2], Ref: XX973885).
+4. CFO approval for [FINANCIAL_3] limit increase of [AMOUNT_6] by April 26, 2026 (Form: TF-4780).
+
+REFERENCED [FINANCIAL_8]
+  • Trade_Finance_Status_Report_YHZ-1913-ORVDM_[URL_5]
+  • LC_Document_Set_GI401925_[URL_6]
+  • [FINANCIAL_6]_Notice_9710_[URL_7]
+  • Commodity_Position_Summary_[URL_8]
+
+[PERSON_3]
+Director of Internal Audit | [PERSON_25] & [FINANCIAL_1] | [PERSON_23] Financial Services
+[FINANCIAL_1] Direct: [PHONE_1]  |  SWIFT: [FINANCIAL_9]  |  [PERSON_49]: EW194308
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_8] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okonkwo's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_1] & [PERSON_44] [PERSON_25] [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-PSRNJ | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_43] Deletion
+================================================================================

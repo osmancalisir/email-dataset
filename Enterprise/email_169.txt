@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #169  |  RESTRICTED – CREDIT RISK COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Patrick Rasmussen <prasmussen@blackridgelo.com>
+TO:          Jonathan Mwangi <jmwangi@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: Counterparty Credit Exposure Review – Q2
+REFERENCE:   LMF-6181-TP3YN
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kwame,
+
+I am forwarding the quarterly counterparty credit exposure review for the period ending February 10, 2026. This is classified RESTRICTED and requires review by the Credit Risk Committee before the May 30, 2026 board presentation.
+
+Review Reference: RJC-1105-Q0YE4 | Rating Agency: Fitch Ratings | Credit Committee: April 03, 2026
+
+TOP-10 COUNTERPARTY EXPOSURES (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  Exposure (USD)    Limit (USD)    Utilisation
+   1  Ironshore Capital        BB+        6,987,188      8,982,443   77.8%
+   2  Irongate Private Equity  B+           110,024        104,649   105.1%
+   3  Clearwater Mining Corp   BBB-      15,811,473     18,208,041   86.8%
+   4  Ironclad Supply Chain    BB-        1,397,686      1,789,939   78.1%
+   5  Blackridge Logistics     B+        16,144,134     16,812,943   96.0%
+   6  Vanguard Cybersecurity Inc A            131,382        156,947   83.7%
+   7  Luminary Media Corp      B          1,594,975      1,757,199   90.8%
+   8  Pinnacle Financial Services BB         6,174,479      6,235,903   99.0%
+   9  Verdant Food & Beverage  AA+          667,135        737,064   90.5%
+  10  Citadel Fintech Group    A          7,556,313      7,137,937   105.9%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO EXPOSURE:   USD 56,574,789   |   LIMIT BREACHES: 2
+
+LIMIT BREACH ESCALATION (REQUIRED)
+  Breach B-9149: Ironshore Capital — -22.2% over limit. Reduce by May 08, 2026 or seek Credit Committee waiver (Ref: CJ928375).
+  Breach B-5938: Clearwater Mining Corp — rating downgrade on February 08, 2026 from AA to BBB-. Limit review recommended.
+
+WATCH LIST (CREDIT COMMITTEE ONLY)
+  Irongate Private Equity: Negative outlook February 24, 2026. CDS spread widened 6114bps to 7800bps. Recommend limit reduction by May 02, 2026.
+  Pinnacle Financial Services: Covenant breach Q2 — Leverage 3.1x vs. covenant 2.9x. Exposure USD 6,174,479. Legal reviewing cross-default (Ref: NZQ-7100-F7786).
+
+EXPECTED CREDIT LOSS (ECL) PROVISIONING
+  Stage 1 (12-month ECL):     USD 761,305
+  Stage 2 (Lifetime ECL):     USD 329,560
+  Stage 3 (Credit-Impaired):  USD 1,593,864
+  Total ECL Provision:        USD 2,684,729  (Coverage: 15.96%)
+
+REFERENCED ATTACHMENTS
+  • Counterparty_Exposure_Report_XFK-1004-E7MYP_RESTRICTED.pdf
+  • ECL_Model_Q2_OG031263.xlsx
+  • Watch_List_Detail_ZH090092_CONFIDENTIAL.pdf
+
+Submit limit waiver votes via portal CRP-1221 by April 30, 2026.
+
+Derek Abramowitz
+VP of Legal Affairs | Operations | Fortis Insurance Partners
+Credit Risk Hotline: +1 (800) 2576-6024  |  Badge: LM328615
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK COMMITTEE ONLY
+Handling Protocol: REF-LMF-6181-TP3YN | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_32],
+
+I am forwarding the quarterly counterparty credit [PERSON_10] review for the period ending February 10, 2026. This is classified RESTRICTED and requires review by the Credit Risk [PERSON_3] before the May 30, 2026 board presentation.
+
+Review [PERSON_4]: RJC-1105-Q0YE4 | Rating Agency: Fitch Ratings | Credit [PERSON_3]: April 03, 2026
+
+[MIL_PLATFORM_1] COUNTERPARTY [FINANCIAL_1]S (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  [PERSON_10] (USD)    Limit (USD)    Utilisation
+   1  [PERSON_5] Capital        BB+        6,987,188      8,982,443   [URL_1]%
+   2  [PERSON_12] Private Equity  B+           110,024        104,649   [URL_2]%
+   3  [COMPANY_2]   BBB-      15,811,473     18,208,041   [URL_3]%
+   4  Ironclad Supply Chain    BB-        1,397,686      1,789,939   [URL_4]%
+   5  [PERSON_2] Logistics     B+        16,144,134     16,812,943   [URL_5]%
+   6  [COMPANY_1] A            131,382        156,947   [URL_6]%
+   7  Luminary [PERSON_33] Corp      B          1,594,975      1,757,199   [URL_7]%
+   8  [PERSON_13] Financial Services BB         6,174,479      6,235,903   [URL_8]%
+   9  Verdant Food & [PERSON_14]  AA+          667,135        737,064   [URL_9]%
+  10  Citadel Fintech Group    A          7,556,313      7,137,937   [URL_10]%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO [PERSON_10]:   [AMOUNT_1]   |   LIMIT [FINANCIAL_2]: 2
+
+LIMIT BREACH ESCALATION ([FINANCIAL_3])
+  Breach B-9149: [PERSON_5] Capital — -[URL_11]% over limit. [PERSON_29] by May 08, 2026 or seek Credit [PERSON_3] waiver (Ref: CJ928375).
+  Breach B-5938: [COMPANY_2] — rating downgrade on February 08, 2026 from AA to BBB-. Limit review recommended.
+
+WATCH LIST (CREDIT [PERSON_3] ONLY)
+  [PERSON_12] Private Equity: [PERSON_15] outlook February 24, 2026. CDS spread widened 6114bps to 7800bps. Recommend limit reduction by May 02, 2026.
+  [PERSON_13] Financial Services: Covenant breach Q2 — [PERSON_16] [URL_12] vs. covenant [URL_13]. [PERSON_10] [AMOUNT_2]. Legal reviewing cross-default (Ref: NZQ-7100-F7786).
+
+[FINANCIAL_4] CREDIT LOSS (ECL) PROVISIONING
+  [PERSON_35] 1 (12-month ECL):     [AMOUNT_3]
+  [PERSON_35] 2 ([PERSON_17] ECL):     [AMOUNT_4]
+  [PERSON_35] 3 (Credit-Impaired):  [AMOUNT_5]
+  Total ECL Provision:        [AMOUNT_6]  ([PERSON_18]: [URL_14]%)
+
+REFERENCED [FINANCIAL_5]
+  • Counterparty_[FINANCIAL_1]_Report_XFK-1004-E7MYP_[URL_15]
+  • ECL_Model_Q2_[URL_16]
+  • Watch_List_Detail_ZH090092_[URL_17]
+
+Submit limit waiver votes via portal CRP-1221 by April 30, 2026.
+
+[PERSON_1]
+VP of Legal Affairs | Operations | Fortis [PERSON_7] Partners
+Credit Risk [PERSON_27]: [PHONE_1]  |  [PERSON_36]: LM328615
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK [PERSON_3] ONLY
+Handling Protocol: [CONTRACT_1]-TP3YN | Encrypted In-Transit: TLS [URL_18] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_31] Deletion
+================================================================================

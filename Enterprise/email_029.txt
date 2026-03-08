@@ -1,0 +1,118 @@
+================================================================================
+EMAIL #029  |  CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Sandra Fischer <sfischer@obsidiantele.com>
+TO:          Odessa Nakamura <onakamura@obsidiantele.com>
+SUBJECT:     CONFIDENTIAL: Key Account Renewal Terms – Pinnacle Financial Services (Account PC791109)
+REFERENCE:   IVC-7734-PV780
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Jonathan,
+
+I am writing in strict confidence regarding the Key Account renewal with Fletcher Volkov at Pinnacle Financial Services (Account ID: PC791109). This is classified at Commercial Sensitivity Level 3.
+
+Account Renewal Summary – Ref: JTR-0790-3MLH1
+Account Tier: Platinum | Contract Expiry: May 15, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     USD     15,189,874
+Proposed Renewal Value:              USD         60,104
+Year-on-Year Growth:                 +10.8%
+Volume Commitment (Units):           6,885
+Proposed Price Adjustment:           +18.69% effective April 01, 2026
+Rebate on Volumes > 5,626 units:  26.32%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Pinnacle Financial Services represents 36.57% of total divisional revenue and has been a strategic partner since March 06, 2026. Their procurement lead, Warren Lindqvist, has informally indicated willingness to expand volume commitment by up to 25.04% subject to:
+  (a) Preferred pricing on Product Line KC410641 (list price: USD 3,452/unit)
+  (b) Dedicated account support team (minimum 2213 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-2562)
+
+COMPETITIVE INTELLIGENCE (SOURCE: CI-TN387140 — STRICTLY CONFIDENTIAL)
+Nexus Retail Holdings has approached Pinnacle Financial Services with a competing bid estimated at USD 122,796 annually — approximately 33.35% below our current pricing.
+
+INTERNAL APPROVALS REQUIRED
+  ☐  VP Finance — Budget code: GB640303
+  ☐  Chief Revenue Officer — Exception Ref: XXG-5228-17W5E
+  ☐  Legal Counsel — Contract template: MSA-HD853247
+
+REFERENCED ATTACHMENTS
+  • Account_Renewal_Proposal_EJ985072.pdf            [CONFIDENTIAL]
+  • Competitive_Intel_Brief_TN387140_RESTRICTED.docx
+  • Pricing_Exception_Form_DWR-0827-D0TVI.xlsx
+
+Internal sign-off deadline: March 27, 2026. Reply with authorization code via secure channel only.
+
+Thaddeus Thistlethwaite
+Head of Strategic Partnerships | Supply Chain Management | Falcon Ridge Asset Management
+Direct: +1 (312) 8861-4081  |  Secure ID: ZD696983
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+Handling Protocol: REF-IVC-7734-PV780 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I am writing in strict confidence regarding the Key Account renewal with [PERSON_2] at [PERSON_12] Financial Services (Account ID: PC791109). This is classified at Commercial [FINANCIAL_5] Level 3.
+
+Account Renewal Summary – Ref: JTR-0790-3MLH1
+Account Tier: Platinum | Contract Expiry: May 15, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     [AMOUNT_1]
+Proposed Renewal Value:              [AMOUNT_2]
+Year-on-Year Growth:                 +[URL_1]%
+[PERSON_17] Commitment (Units):           6,885
+Proposed [PERSON_24] Adjustment:           +[URL_2]% effective April 01, 2026
+[PERSON_18] on Volumes > 5,626 units:  [URL_3]%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+[PERSON_12] Financial Services represents [URL_4]% of total divisional [PERSON_15] and has been a strategic partner since March 06, 2026. Their procurement lead, [PERSON_16] Lindqvist, has informally indicated willingness to expand [PERSON_17] commitment by up to [URL_5]% subject to:
+  (a) Preferred pricing on Product [PERSON_30] KC410641 (list [PERSON_24]: [AMOUNT_3]/unit)
+  (b) Dedicated account support team (minimum 2213 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-2562)
+
+[PERSON_8] [PERSON_6] ([PERSON_19]: CI-TN387140 — [FINANCIAL_2] CONFIDENTIAL)
+Nexus Retail Holdings has approached [PERSON_12] Financial Services with a competing bid estimated at [AMOUNT_4] annually — approximately [URL_6]% below our current pricing.
+
+INTERNAL APPROVALS [FINANCIAL_3]
+  ☐  VP [PERSON_14] — Budget code: GB640303
+  ☐  Chief [PERSON_15] Officer — Exception Ref: [PERSON_3]
+  ☐  Legal Counsel — Contract template: MSA-HD853247
+
+REFERENCED [FINANCIAL_4]
+  • Account_Renewal_Proposal_[URL_7]            [CONFIDENTIAL]
+  • [FINANCIAL_1]_Intel_Brief_TN387140_[URL_8]
+  • Pricing_Exception_Form_[URL_9]
+
+Internal sign-off deadline: March 27, 2026. Reply with authorization code via [PERSON_22] channel only.
+
+[PERSON_1]
+Head of Strategic Partnerships | Supply Chain Management | Falcon [PERSON_26] Asset Management
+Direct: [PHONE_1]  |  [PERSON_22] ID: ZD696983
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL [FINANCIAL_5] LEVEL 3
+Handling Protocol: [CONTRACT_1]-PV780 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

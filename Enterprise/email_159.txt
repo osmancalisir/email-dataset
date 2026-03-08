@@ -1,0 +1,126 @@
+================================================================================
+EMAIL #159  |  RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Dmitri Vance <dvance@aurorasemico.com>
+TO:          Sandra Okafor <sokafor@aurorasemico.com>
+SUBJECT:     CONFIDENTIAL: Regulatory Compliance Gap Report – Risk Management
+REFERENCE:   PIM-2862-3P3P4
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Fletcher,
+
+Following the internal compliance review (February 16, 2026 – February 14, 2026), I am forwarding the Regulatory Compliance Gap Report for the Audit & Risk Committee. Reference: CXF-6103-LJT6M.
+
+Scope: Risk Management | Frameworks Assessed: PCI-DSS, IFRS 9, Dodd-Frank
+Review Lead: Yolanda Patel | External Auditor: Polaris Wealth Advisors (Engagement: YR586256)
+
+COMPLIANCE SCORECARD
+──────────────────────────────────────────────────────
+Overall Compliance Score:            34.7%  (Prior Period: 37.27%)
+Total Estimated Fine Exposure:       USD      7,818,697
+──────────────────────────────────────────────────────
+
+GAP REGISTER
+Priority    Gap ID        Description                                 Fine Exposure
+CRITICAL    GAP-6194    Data retention policy breach — 9840 records overdue for deletion  USD 7,071,198
+HIGH        GAP-7206    Missing dual-authorization on 8925 high-value transactions  USD 67,577
+HIGH        GAP-4239    Vendor onboarding controls not applied to 9702 suppliers  USD 300,553
+MEDIUM      GAP-9377    Segregation of duties violation in AP processing cycle  USD 102,871
+MEDIUM      GAP-2366    Incomplete KYC documentation for 120 counterparties  USD 276,498
+
+CRITICAL FINDING DETAIL (GAP-6194)
+31.14% of transactions processed through system OS173161 between February 07, 2026 and February 15, 2026 lacked required dual-authorization controls (PCI-DSS Section 9500.3499). Affected volume: 537 transactions totalling USD 63,217. Voluntary disclosure submitted February 25, 2026 (Internal Ref: YYB-8554-YBJS1).
+
+REMEDIATION PLAN
+  ACT-8925  Jonathan Espinoza     Due: May 10, 2026  Budget: DU390383
+  ACT-0120  Jonathan Petrossian   Due: March 24, 2026  Budget: PO415111
+  ACT-9840  Oswald Montclair      Due: June 03, 2026  Budget: SG132402
+  ACT-9702  Alicia Mbeki          Due: March 16, 2026  Budget: TJ165892
+
+REGULATORY ENGAGEMENT SCHEDULE
+  Regulator meeting (PCI-DSS):   May 31, 2026
+  Internal Audit follow-up:         April 24, 2026
+  Board Audit Committee session:    May 06, 2026
+
+REFERENCED ATTACHMENTS
+  • Compliance_Gap_Report_BWV-0560-T6DUB_RESTRICTED.pdf
+  • Transaction_Sample_Analysis_OW173017.xlsx
+  • Voluntary_Disclosure_Letter_YYB-8554-YBJS1.pdf
+
+Report must not be shared with operational line management until remediation ownership is formally assigned.
+
+Yolanda Patel
+VP of Legal Affairs | Risk Management | Meridian Capital Group
+Compliance Hotline: +1 (800) 6194-7206  |  Badge: AE383248
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Vance's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+Handling Protocol: REF-PIM-2862-3P3P4 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_8],
+
+Following the internal [PERSON_3] review (February 16, 2026 – February 14, 2026), I am forwarding the Regulatory [PERSON_3] Gap Report for the Audit & Risk Committee. [PERSON_7]: CXF-6103-LJT6M.
+
+[PERSON_27]: Risk Management | Frameworks Assessed: PCI-DSS, IFRS 9, Dodd-Frank
+Review Lead: [PERSON_2] | External Auditor: Polaris Wealth Advisors (Engagement: YR586256)
+
+[PERSON_3] SCORECARD
+──────────────────────────────────────────────────────
+Overall [PERSON_3] [PERSON_29]:            [URL_1]%  (Prior Period: [URL_2]%)
+Total Estimated [PERSON_37] [PERSON_12]:       [AMOUNT_1]
+──────────────────────────────────────────────────────
+
+GAP [FINANCIAL_1]
+Priority    Gap [IDNUMBER_1]                                 [PERSON_37] [PERSON_12]
+[FINANCIAL_2]    GAP-6194    Data retention policy breach — 9840 records overdue for deletion  [AMOUNT_2]
+HIGH        GAP-7206    Missing dual-authorization on 8925 high-value transactions  [AMOUNT_3]
+HIGH        GAP-4239    Vendor onboarding controls not applied to 9702 suppliers  [AMOUNT_4]
+MEDIUM      GAP-9377    Segregation of duties violation in AP processing cycle  [AMOUNT_5]
+MEDIUM      GAP-2366    [PERSON_4] KYC documentation for 120 counterparties  [AMOUNT_6]
+
+[FINANCIAL_2] FINDING DETAIL (GAP-6194)
+[URL_3]% of transactions processed through system OS173161 between February 07, 2026 and February 15, 2026 lacked required dual-authorization controls (PCI-DSS Section [URL_4]). Affected volume: 537 transactions totalling [AMOUNT_7]. Voluntary disclosure submitted February 25, 2026 (Internal Ref: YYB-8554-YBJS1).
+
+[FINANCIAL_3] PLAN
+  ACT-8925  [PERSON_1]     Due: May 10, 2026  Budget: DU390383
+  ACT-0120  [PERSON_9] Petrossian   Due: March 24, 2026  Budget: PO415111
+  ACT-9840  [PERSON_22] Montclair      Due: [PERSON_38] 03, 2026  Budget: SG132402
+  ACT-9702  [PERSON_23] [PERSON_31]          Due: March 16, 2026  Budget: TJ165892
+
+REGULATORY ENGAGEMENT [PERSON_15]
+  Regulator meeting (PCI-DSS):   May 31, 2026
+  Internal Audit follow-up:         April 24, 2026
+  Board Audit [PERSON_6] session:    May 06, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Compliance_Gap_Report_BWV-0560-T6DUB_[URL_5]
+  • Transaction_Sample_Analysis_[URL_6]
+  • Voluntary_Disclosure_Letter_[URL_7]
+
+Report must not be shared with operational line management until [FINANCIAL_3] ownership is formally assigned.
+
+[PERSON_2]
+VP of Legal Affairs | Risk Management | Meridian Capital Group
+[PERSON_3] [PERSON_21]: [PHONE_2]  |  [PERSON_32]: AE383248
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_16] organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-3P3P4 | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_25] Deletion
+================================================================================

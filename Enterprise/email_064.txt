@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #064  |  ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Felicia Petrossian <fpetrossian@orionpetroch.com>
+TO:          Lavinia Drummond <ldrummond@orionpetroch.com>
+SUBJECT:     CONFIDENTIAL: Transfer Pricing Restructuring – Project NIMBUS (FY2025)
+REFERENCE:   ENO-3443-NQ33P
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Howard,
+
+I write in strict confidence regarding the proposed intercompany transfer pricing restructuring for FY2025 (Project NIMBUS, Ref: CJM-4314-JW8F4). This is classified ATTORNEY-CLIENT PRIVILEGED and shared solely with the Tax Steering Group.
+
+External Tax Advisor: SilverBridge Consulting (Partner: Kwame Nguyen) | Legal Counsel: Stratos Energy Corp (Ref: BX922105)
+Filing Jurisdictions: Germany, Ireland, France
+
+CURRENT VS. PROPOSED STRUCTURE
+──────────────────────────────────────────────────────
+Entity                    Current Policy       Proposed Policy     P&L Impact (USD)
+Zenith Aerospace Ltd_HoldCo              Cost Plus 9.4%    Cost Plus 27.83%       +2,280,018
+Zenith Aerospace Ltd_IP_SubCo            Residual Profit      TNMM 23.95%            +1,762,342
+Zenith Aerospace Ltd_Sales_Entity        CUT Method           RPSM                       +46,193
+Zenith Aerospace Ltd_Mfg_Entity          Cost Plus 12.09%    Cost Plus 5.58%       +4,526,049
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    USD 122,545   (Effective Rate: 13.39% → 4.38%)
+One-Time Restructuring Cost:    USD 643,641
+Net Present Value (5-Year):     USD 14,522,879
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5545: OECD Pillar Two GloBE top-up exposure — USD 1,296,024 p.a. if challenged (Ref: TK339953).
+  Risk TP-9093: Germany thin-cap rules — debt/equity 3.0x vs. permitted 2.5x. Disallowed interest: USD 3,950,249.
+  Risk TP-4773: PE risk in Ireland — 5513 sales personnel exceeding agency threshold (SL624844).
+  Risk TP-5513: CbCR 11.46% effective rate in France may attract audit attention (Ref: YZ410935).
+
+ADVANCE PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ Ireland (Filed: February 16, 2026, Ref: TPV-2454-5QG9K)
+  Expected Conclusion: March 17, 2026 | Rollback Period: 288 years
+  APA Fee Provision: USD 305,551
+
+APPROVAL SCHEDULE
+  ☐  Tax Steering Group — by May 28, 2026 (Ref: TSG-3105)
+  ☐  Board resolution BR-XM421632 — by April 08, 2026
+  ☐  Intercompany agreements executed (ICA-IM029609) — by March 15, 2026
+  ☐  Master File / Local File updates — by March 25, 2026 (Ref: XT880764)
+
+REFERENCED ATTACHMENTS
+  • TP_Restructuring_Memo_ProjectNIMBUS_KCI-7565-XPJE7.pdf
+  • Financial_Model_TaxImpact_YU854099_v6196.xlsx
+  • APA_Filing_TPV-2454-5QG9K_PRIVILEGED.pdf
+
+All queries directed to Kwame Nguyen only. Do not share with local finance teams prior to Board approval.
+
+Kevin Okafor
+Director of Business Intelligence | Procurement | Zenith Aerospace Ltd
+Secure Line: +1 (202) 1384-2198  |  Tax Group ID: OD037231
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Petrossian's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+Handling Protocol: REF-ENO-3443-NQ33P | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_19],
+
+I write in strict confidence regarding the [FINANCIAL_2] intercompany transfer pricing restructuring for FY2025 (Project NIMBUS, Ref: CJM-4314-JW8F4). This is classified [FINANCIAL_1]-CLIENT PRIVILEGED and shared solely with the Tax [FINANCIAL_6] Group.
+
+External Tax Advisor: [PERSON_3] Consulting (Partner: [PERSON_1]) | Legal Counsel: [COMPANY_2] (Ref: BX922105)
+Filing Jurisdictions: Germany, Ireland, [PERSON_20]
+
+CURRENT VS. [FINANCIAL_2] [PERSON_8]
+──────────────────────────────────────────────────────
+Entity                    Current Policy       [FINANCIAL_2] Policy     P&L Impact (USD)
+Zenith [PERSON_9] Ltd_HoldCo              Cost Plus [URL_1]%    Cost Plus [URL_2]%       +2,280,018
+Zenith [PERSON_9] Ltd_IP_SubCo            Residual Profit      TNMM [URL_3]%            +1,762,342
+Zenith [PERSON_9] Ltd_Sales_Entity        CUT Method           RPSM                       +46,193
+Zenith [PERSON_9] Ltd_Mfg_Entity          Cost Plus [URL_4]%    Cost Plus [URL_5]%       +4,526,049
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    [AMOUNT_1]   ([PERSON_10] [PERSON_28]: [URL_6]% → [URL_7]%)
+[PERSON_14] Restructuring Cost:    [AMOUNT_2]
+Net Present Value (5-Year):     [AMOUNT_3]
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5545: OECD Pillar Two [PERSON_25] top-up exposure — [AMOUNT_4] [URL_8]. if challenged (Ref: TK339953).
+  Risk TP-9093: Germany thin-cap rules — debt/equity [URL_9] vs. permitted [URL_10]. Disallowed interest: [AMOUNT_5].
+  Risk TP-4773: PE risk in Ireland — 5513 sales personnel exceeding agency threshold (SL624844).
+  Risk TP-5513: CbCR [URL_11]% [PERSON_10] [PERSON_28] in [PERSON_20] may attract audit attention (Ref: YZ410935).
+
+[PERSON_17] PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ Ireland (Filed: February 16, 2026, Ref: TPV-2454-5QG9K)
+  Expected Conclusion: March 17, 2026 | Rollback Period: 288 years
+  APA Fee Provision: [AMOUNT_6]
+
+[FINANCIAL_3] [PERSON_15]
+  ☐  Tax [FINANCIAL_6] Group — by May 28, 2026 (Ref: TSG-3105)
+  ☐  Board resolution BR-XM421632 — by April 08, 2026
+  ☐  Intercompany agreements executed (ICA-IM029609) — by March 15, 2026
+  ☐  Master File / Local File updates — by March 25, 2026 (Ref: XT880764)
+
+REFERENCED [FINANCIAL_5]
+  • TP_Restructuring_Memo_ProjectNIMBUS_[URL_12]
+  • Financial_Model_TaxImpact_YU854099_[URL_13]
+  • APA_Filing_TPV-2454-5QG9K_[URL_14]
+
+All queries directed to [PERSON_1] only. Do not share with local finance teams prior to Board [FINANCIAL_3].
+
+[PERSON_2]
+Director of Business [PERSON_4] | Procurement | Zenith [PERSON_9] Ltd
+[PERSON_22] [PERSON_30]: [PHONE_1]  |  Tax Group ID: OD037231
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Petrossian's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1]-CLIENT PRIVILEGED – TAX [FINANCIAL_6] GROUP ONLY
+Handling Protocol: [CONTRACT_1]-NQ33P | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

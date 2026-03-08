@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #070  |  STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Dmitri Harrington <dharrington@verdantfood&.com>
+TO:          Constance Tremblay <ctremblay@verdantfood&.com>
+SUBJECT:     CONFIDENTIAL: Product Quality Incident – SKU OR969778 / Ref ZIJ-1317-288RS
+REFERENCE:   DDV-3124-J3LE4
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Stephanie,
+
+I am issuing this communication under Quality Crisis Protocol QCP-3066. A potential product quality issue has been identified that may necessitate a voluntary recall. This is STRICTLY CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+Incident Reference: ZIJ-1317-288RS
+Product: ThermalShield Protective Coating (SKU: OR969778, Batch: FT828040)
+Issue Identified: February 21, 2026 | Regulatory Authority: U.S. Food & Drug Administration (FDA)
+External Counsel: Polaris Wealth Advisors (Ref: RG015649) | PR Advisor: Fortis Insurance Partners (Ref: OZ120155)
+
+INCIDENT SCOPE
+──────────────────────────────────────────────────────
+Nature of Defect:            labelling error — incorrect dosage instructions
+Affected Batches:            FT828040 through DJ533752 (Production: February 27, 2026 – February 24, 2026)
+Units Distributed:           9,879
+Units in Field (est.):       2,709
+Geographic Markets:          Canada, Australia, Germany
+Adverse Events Reported:     8174 (Severity: Moderate — medical consultations reported)
+──────────────────────────────────────────────────────
+
+FINANCIAL EXPOSURE (BOARD ONLY)
+  Direct Recall Costs (est.):        USD     15,162,975
+  Customer Compensation Reserve:     USD         54,826
+  Lost Revenue (3272 weeks):       USD     15,444,539
+  Litigation Reserve (Ref: CNU-3484-MVQVT):   USD        283,946
+  Insurance Recovery (Policy BZ895021): USD        327,762
+  Net Exposure:                       USD     30,618,524
+
+REGULATORY STRATEGY OPTIONS (ATTORNEY-CLIENT PRIVILEGED)
+  Option R-1: Voluntary recall — notify regulator by May 25, 2026 (Counsel: Charles Thistlethwaite)
+  Option R-2: Targeted market withdrawal — batches FT828040/DJ533752 in Canada only
+  Option R-3: Corrective action without recall — enhanced monitoring 4027 months
+  Recommended: Option R-2 (pending Board approval — Ref: JAG-1206-QEV3F)
+
+OPERATIONAL ACTIONS
+  OA-2909  Production halt on Line 9130      Renata Thornton       On Hold       June 01, 2026
+  OA-0292  Quarantine inventory at DC RM154266     Lionel Vance          Pending Approval  May 06, 2026
+  OA-8027  Root cause investigation              Warren Szymanski      On Hold       April 19, 2026
+  OA-8375 Customer hold notifications           Kwame Szymanski       Initiated     May 05, 2026
+
+REFERENCED ATTACHMENTS
+  • Quality_Incident_Report_ZIJ-1317-288RS_QCP-3066.pdf
+  • Batch_Distribution_Analysis_FT828040_DJ533752.xlsx
+  • Recall_Cost_Model_UM862266_CONFIDENTIAL.xlsx
+
+Board emergency call: May 25, 2026 at 07:00 EST. No action prior to Board alignment.
+
+Lionel Okonkwo
+VP of Business Development | Finance & Treasury | Verdant Food & Beverage
+Quality Crisis Hotline: +1 (800) 6662-3066  |  Incident ID: OR969778
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: REF-DDV-3124-J3LE4 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I am issuing this communication under Quality Crisis Protocol QCP-3066. A potential product quality [PERSON_44] has been identified that may necessitate a voluntary recall. This is [FINANCIAL_1] CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+[FINANCIAL_2] [PERSON_12]: ZIJ-[PHONE_1]RS
+Product: ThermalShield [PERSON_8] Coating (SKU: OR969778, Batch: FT828040)
+[PERSON_44] Identified: February 21, 2026 | Regulatory Authority: [URL_1]. Food & Drug Administration (FDA)
+External Counsel: Polaris Wealth Advisors (Ref: RG015649) | PR Advisor: Fortis [PERSON_14] Partners (Ref: OZ120155)
+
+[FINANCIAL_2] [PERSON_45]
+──────────────────────────────────────────────────────
+[PERSON_34] of Defect:            labelling error — incorrect dosage instructions
+Affected Batches:            FT828040 through DJ533752 (Production: February 27, 2026 – February 24, 2026)
+Units Distributed:           9,879
+Units in Field (est.):       2,709
+Geographic Markets:          [PERSON_35], [PERSON_15], Germany
+[PERSON_27] Events Reported:     8174 (Severity: [PERSON_23] — medical consultations reported)
+──────────────────────────────────────────────────────
+
+FINANCIAL [PERSON_24] (BOARD ONLY)
+  Direct Recall Costs (est.):        [AMOUNT_1]
+  Customer Compensation [PERSON_29]:     [AMOUNT_2]
+  Lost [PERSON_30] (3272 weeks):       [AMOUNT_3]
+  Litigation [PERSON_29] (Ref: CNU-3484-MVQVT):   [AMOUNT_4]
+  [PERSON_14] Recovery (Policy BZ895021): [AMOUNT_5]
+  Net [PERSON_24]:                       [AMOUNT_6]
+
+REGULATORY [FINANCIAL_4] OPTIONS ([FINANCIAL_5]-CLIENT PRIVILEGED)
+  Option [MIL_PLATFORM_1]: Voluntary recall — notify regulator by May 25, 2026 (Counsel: [PERSON_4])
+  Option [MIL_PLATFORM_2]: Targeted market withdrawal — batches FT828040/DJ533752 in [PERSON_35] only
+  Option [MIL_PLATFORM_3]: [PERSON_9] action without recall — enhanced monitoring 4027 months
+  Recommended: Option [MIL_PLATFORM_2] (pending Board approval — Ref: JAG-1206-QEV3F)
+
+[FINANCIAL_6] ACTIONS
+  OA-2909  Production halt on [PERSON_53] 9130      [PERSON_2] Hold       [PERSON_55] 01, 2026
+  OA-0292  [PERSON_10] inventory at DC RM154266     [PERSON_1] Approval  May 06, 2026
+  OA-8027  Root cause investigation              [PERSON_3] Hold       April 19, 2026
+  OA-8375 Customer hold notifications           [PERSON_48] [PERSON_18]       Initiated     May 05, 2026
+
+REFERENCED [FINANCIAL_7]
+  • Quality_[FINANCIAL_2]_Report_ZIJ-[PHONE_1]RS_[URL_2]
+  • Batch_Distribution_Analysis_FT828040_[URL_3]
+  • Recall_Cost_Model_UM862266_[URL_4]
+
+Board emergency call: May 25, 2026 at 07:00 EST. No action prior to Board alignment.
+
+[PERSON_5]
+VP of Business Development | [PERSON_31] & Treasury | Verdant Food & [PERSON_26]
+Quality Crisis [PERSON_33]: [PHONE_2]  |  [FINANCIAL_2] ID: OR969778
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: [CONTRACT_1]-J3LE4 | Encrypted In-Transit: TLS [URL_5] | At-Rest: [MIL_PLATFORM_4] Policy: 7 Years | Destruction Method: Certified [PERSON_43] Deletion
+================================================================================

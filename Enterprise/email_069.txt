@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #069  |  RESTRICTED – CREDIT RISK COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Marcus Djordjevic <mdjordjevic@cobaltventur.com>
+TO:          Vanessa Fischer <vfischer@cobaltventur.com>
+SUBJECT:     CONFIDENTIAL: Counterparty Credit Exposure Review – Q2
+REFERENCE:   UUN-0967-2HLRT
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Patrick,
+
+I am forwarding the quarterly counterparty credit exposure review for the period ending March 04, 2026. This is classified RESTRICTED and requires review by the Credit Risk Committee before the May 30, 2026 board presentation.
+
+Review Reference: RGO-2135-3RSV9 | Rating Agency: Fitch Ratings | Credit Committee: April 25, 2026
+
+TOP-10 COUNTERPARTY EXPOSURES (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  Exposure (USD)    Limit (USD)    Utilisation
+   1  Ironclad Supply Chain    A          3,267,857      3,707,459   88.1%
+   2  Redwood Asset Management A+           788,803        873,220   90.3%
+   3  Polaris Wealth Advisors  AA-        3,201,258      2,751,663   116.3%
+   4  Silveroak Capital Markets A+         3,190,410      3,963,822   80.5%
+   5  Cedarwood Pharmaceuticals AA+          311,214        283,633   109.7%
+   6  Meridian Capital Group   BBB+         135,516        112,540   120.4%
+   7  Luminary Media Corp      BB+          111,947        140,385   79.7%
+   8  Falcon Ridge Asset Management A-           107,223         99,249   108.0%
+   9  Citadel Fintech Group    AA-          130,919        143,676   91.1%
+  10  Evergreen Real Estate Fund BB+        1,491,951      1,476,138   101.1%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO EXPOSURE:   USD 12,737,098   |   LIMIT BREACHES: 5
+
+LIMIT BREACH ESCALATION (REQUIRED)
+  Breach B-2962: Ironclad Supply Chain — -11.9% over limit. Reduce by March 29, 2026 or seek Credit Committee waiver (Ref: HY979614).
+  Breach B-5910: Polaris Wealth Advisors — rating downgrade on February 15, 2026 from AA- to AA-. Limit review recommended.
+
+WATCH LIST (CREDIT COMMITTEE ONLY)
+  Redwood Asset Management: Negative outlook February 21, 2026. CDS spread widened 1012bps to 9988bps. Recommend limit reduction by May 23, 2026.
+  Falcon Ridge Asset Management: Covenant breach Q2 — Leverage 1.8x vs. covenant 1.3x. Exposure USD 107,223. Legal reviewing cross-default (Ref: OQU-0917-USEL1).
+
+EXPECTED CREDIT LOSS (ECL) PROVISIONING
+  Stage 1 (12-month ECL):     USD 326,304
+  Stage 2 (Lifetime ECL):     USD 7,371,541
+  Stage 3 (Credit-Impaired):  USD 7,215,160
+  Total ECL Provision:        USD 14,913,005  (Coverage: 18.48%)
+
+REFERENCED ATTACHMENTS
+  • Counterparty_Exposure_Report_HNT-3451-WF2QK_RESTRICTED.pdf
+  • ECL_Model_Q2_HB097670.xlsx
+  • Watch_List_Detail_EW999769_CONFIDENTIAL.pdf
+
+Submit limit waiver votes via portal CRP-7891 by May 06, 2026.
+
+Alistair Ellison
+Chief Operating Officer | Corporate Development | Harborview Shipping
+Credit Risk Hotline: +1 (800) 2759-2319  |  Badge: FP164239
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Djordjevic's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK COMMITTEE ONLY
+Handling Protocol: REF-UUN-0967-2HLRT | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_12],
+
+I am forwarding the quarterly counterparty credit [PERSON_7] review for the period ending March 04, 2026. This is classified RESTRICTED and requires review by the Credit Risk [PERSON_2] before the May 30, 2026 board presentation.
+
+Review [PERSON_3]: RGO-2135-3RSV9 | Rating Agency: Fitch Ratings | Credit [PERSON_2]: April 25, 2026
+
+[MIL_PLATFORM_1] COUNTERPARTY [FINANCIAL_1]S (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  [PERSON_7] (USD)    Limit (USD)    Utilisation
+   1  Ironclad Supply Chain    A          3,267,857      3,707,459   [URL_1]%
+   2  Redwood Asset Management A+           788,803        873,220   [URL_2]%
+   3  Polaris Wealth Advisors  AA-        3,201,258      2,751,663   [URL_3]%
+   4  Silveroak Capital Markets A+         3,190,410      3,963,822   [URL_4]%
+   5  Cedarwood Pharmaceuticals AA+          311,214        283,633   [URL_5]%
+   6  Meridian Capital Group   BBB+         135,516        112,540   [URL_6]%
+   7  Luminary [PERSON_24] Corp      BB+          111,947        140,385   [URL_7]%
+   8  Falcon [PERSON_25] Asset Management A-           107,223         99,249   [URL_8]%
+   9  Citadel Fintech Group    AA-          130,919        143,676   [URL_9]%
+  10  Evergreen Real [PERSON_20] Fund BB+        1,491,951      1,476,138   [URL_10]%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO [PERSON_7]:   [AMOUNT_1]   |   LIMIT [FINANCIAL_2]: 5
+
+LIMIT BREACH ESCALATION ([FINANCIAL_3])
+  Breach B-2962: Ironclad Supply Chain — -[URL_11]% over limit. [PERSON_21] by March 29, 2026 or seek Credit [PERSON_2] waiver (Ref: HY979614).
+  Breach B-5910: Polaris Wealth Advisors — rating downgrade on February 15, 2026 from AA- to AA-. Limit review recommended.
+
+WATCH LIST (CREDIT [PERSON_2] ONLY)
+  Redwood Asset Management: [PERSON_8] outlook February 21, 2026. CDS spread widened 1012bps to 9988bps. Recommend limit reduction by May 23, 2026.
+  Falcon [PERSON_25] Asset Management: Covenant breach Q2 — [PERSON_9] [URL_12] vs. covenant [URL_13]. [PERSON_7] [AMOUNT_2]. Legal reviewing cross-default (Ref: OQU-0917-USEL1).
+
+[FINANCIAL_4] CREDIT LOSS (ECL) PROVISIONING
+  [PERSON_27] 1 (12-month ECL):     [AMOUNT_3]
+  [PERSON_27] 2 ([PERSON_10] ECL):     [AMOUNT_4]
+  [PERSON_27] 3 (Credit-Impaired):  [AMOUNT_5]
+  Total ECL Provision:        [AMOUNT_6]  ([PERSON_11]: [URL_14]%)
+
+REFERENCED [FINANCIAL_5]
+  • Counterparty_[FINANCIAL_1]_Report_HNT-3451-WF2QK_[URL_15]
+  • ECL_Model_Q2_[URL_16]
+  • Watch_List_Detail_EW999769_[URL_17]
+
+Submit limit waiver votes via portal CRP-7891 by May 06, 2026.
+
+[PERSON_1]
+Chief Operating Officer | [PERSON_4] Development | Harborview Shipping
+Credit Risk [PERSON_19]: [PHONE_1]  |  [PERSON_28]: FP164239
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Djordjevic's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK [PERSON_2] ONLY
+Handling Protocol: [CONTRACT_1]-2HLRT | Encrypted In-Transit: TLS [URL_18] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_23] Deletion
+================================================================================

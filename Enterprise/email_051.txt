@@ -1,0 +1,107 @@
+================================================================================
+EMAIL #051  |  RESTRICTED – FINANCE COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Rebecca Yamamoto <ryamamoto@stratosenerg.com>
+TO:          Warren Chen <wchen@stratosenerg.com>
+SUBJECT:     CONFIDENTIAL: Q1 Revenue Projection Revision – Internal Use Only
+REFERENCE:   WYG-2269-9X79X
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Cormac,
+
+I am writing to share the revised Q1 revenue projections for Delphi Semiconductor, updated following our internal review on March 03, 2026. Please treat this with the utmost discretion — these figures have not yet been disclosed externally.
+
+Projection Reference: UIT-5549-TRQNU
+Review Date: March 03, 2026 | Next Board Presentation: March 23, 2026
+
+REVISED FINANCIAL METRICS
+──────────────────────────────────────────────────────
+Adjusted Net Revenue Target:         USD        281,999
+Variance from Prior Forecast:        30.55% (unfavorable)
+EBITDA Margin Revision:              27.44% (down from 5.56%)
+Operating Cash Flow Estimate:        USD     16,924,370
+Working Capital Shortfall:           USD     17,186,675
+Outstanding Receivables (Acct AW234933): USD        137,336
+──────────────────────────────────────────────────────
+
+Primary variance drivers: delayed receivables from Account GS694160 (balance: USD 689,500), elevated raw material costs on SKUs CQ190902–QU747827, and a regulatory hold on distribution license VL398600 in the Eastern territory.
+
+RECOMMENDED ACTIONS
+1. Freeze discretionary spend in cost centers CC-0588 through CC-1272 immediately.
+2. Accelerate collections on overdue accounts — priority: Philippa Oduya and Jonathan Nakamura.
+3. Initiate emergency vendor payment review with Vortex Tech Industries (Contract Ref: WKE-2677-MB27K).
+4. Escalate license matter to external counsel by April 05, 2026.
+
+REFERENCED ATTACHMENTS
+  • Q1_Revenue_Model_REVISED_LP732921.xlsx        [AES-256 encrypted]
+  • Cost_Center_Freeze_Authorization_FBO-5165-ZRPAT.pdf
+  • Receivables_Aging_Report_QK296731.csv
+
+Please confirm receipt by replying with your employee verification code. Do not forward outside authorized distribution list ADL-1753.
+
+Brian Harrington
+VP of Compliance | Tax & Regulatory | Delphi Semiconductor
+Direct: +1 (212) 6747-1025  |  Ext: 8732  |  Badge: JL723405
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Yamamoto's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – FINANCE COMMITTEE ONLY
+Handling Protocol: REF-WYG-2269-9X79X | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_24],
+
+I am writing to share the revised Q1 [PERSON_19] projections for [PERSON_25] Semiconductor, updated following our internal review on March 03, 2026. [PERSON_26] treat this with the utmost discretion — these figures have not yet been disclosed externally.
+
+Projection [PERSON_7]: [PERSON_3]
+Review Date: March 03, 2026 | Next Board Presentation: March 23, 2026
+
+REVISED FINANCIAL METRICS
+──────────────────────────────────────────────────────
+Adjusted Net [PERSON_19] Target:         [AMOUNT_1]
+[PERSON_11] from Prior Forecast:        [URL_1]% (unfavorable)
+[PERSON_28] Margin Revision:              [URL_2]% (down from [URL_3]%)
+Operating Cash Flow [PERSON_12]:        [AMOUNT_2]
+Working Capital Shortfall:           [AMOUNT_3]
+Outstanding Receivables (Acct AW234933): [AMOUNT_4]
+──────────────────────────────────────────────────────
+
+Primary [PERSON_11] drivers: delayed receivables from [API_KEY_1] (balance: [AMOUNT_5]), elevated raw material costs on SKUs CQ190902–QU747827, and a regulatory hold on distribution license VL398600 in the Eastern territory.
+
+[FINANCIAL_1] ACTIONS
+1. [PERSON_30] discretionary spend in cost centers CC-0588 through CC-1272 immediately.
+2. [PERSON_5] collections on overdue accounts — priority: [PERSON_14] [PERSON_38] and Jonathan Nakamura.
+3. [PERSON_16] emergency vendor payment review with Vortex Tech Industries (Contract Ref: WKE-2677-MB27K).
+4. [PERSON_17] license matter to external counsel by April 05, 2026.
+
+REFERENCED [FINANCIAL_2]
+  • Q1_Revenue_Model_REVISED_[URL_4]        [[MIL_PLATFORM_1] encrypted]
+  • Cost_Center_Freeze_Authorization_[URL_5]
+  • Receivables_Aging_Report_[URL_6]
+
+[PERSON_26] confirm receipt by replying with your employee verification code. Do not forward outside authorized distribution list ADL-1753.
+
+[PERSON_2]
+VP of [PERSON_6] | Tax & Regulatory | [PERSON_25] Semiconductor
+Direct: [PHONE_1]  |  Ext: 8732  |  [PERSON_39]: JL723405
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Yamamoto's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [PERSON_23] [PERSON_9] ONLY
+Handling Protocol: [CONTRACT_1]-9X79X | Encrypted In-Transit: TLS [URL_7] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

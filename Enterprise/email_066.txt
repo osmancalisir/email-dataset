@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #066  |  RESTRICTED – IP COMMITTEE EYES ONLY
+================================================================================
+DATE:        Wednesday, March 04, 2026 at 07:39 PM
+FROM:        Warren Abramowitz <wabramowitz@northstarpha.com>
+TO:          Thomas Wainwright <twainwright@northstarpha.com>
+SUBJECT:     CONFIDENTIAL: IP Licensing Negotiation Update – Delphi Semiconductor
+REFERENCE:   LZK-0722-UUMK8
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Charles,
+
+I am updating you on the IP licensing negotiation with Delphi Semiconductor (Counterparty ID: PI590104). This is designated RESTRICTED – IP COMMITTEE EYES ONLY.
+
+Portfolio: Core Manufacturing Process Patents (Portfolio A)
+Negotiation Reference: WAE-0561-WGU2J | NDA Effective: March 07, 2026 | External Counsel: Silveroak Capital Markets (Ref: SY454637)
+
+PROPOSED LICENSE TERMS (DRAFT)
+──────────────────────────────────────────────────────
+License Type:                        Co-Exclusive Territory License
+Territory:                           Asia-Pacific only
+Field of Use:                        Consumer Retail Distribution
+Term:                                5383 years (renewable)
+Upfront License Fee:                 USD     14,161,841
+Running Royalty Rate:                3.42% of Net Sales
+Minimum Annual Royalty (Year 1):     USD      3,029,851  (escalating 17.73% p.a.)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  USD 3,082,284 (Appraiser: Evergreen Real Estate Fund, Ref: TR684429)
+  NPV of Royalty Stream (Base):  USD 116,116
+  NPV of Royalty Stream (Bear):  USD 862,105
+  Walk-Away Minimum:             USD 3,383,665 upfront + 14.72% royalty
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO DELPHI SEMICONDUCTOR)
+  LP-6490: Delphi Semiconductor seeks carve-out for adjacent territory — firm rejection. Value of concession: USD 277,198.
+  LP-5065: Sublicensing clause — Delphi Semiconductor requests unrestricted rights; accept affiliates-only with field-of-use restriction.
+  LP-5919: Grant-back on improvements — accept with field-of-use limitation (Ref: ISS-6302-N8XRP).
+
+PATENT PORTFOLIO STATUS
+  Patent LM921342  |  USA      |  Expiry: April 08, 2026  |  Granted
+  Patent PD058624  |  EU       |  Expiry: April 22, 2026  |  Granted
+  Patent JI385025  |  China    |  Expiry: March 15, 2026  |  Pending
+  Patent LZ495591  |  Japan    |  Expiry: March 19, 2026  |  Granted
+
+ACTION REQUIRED
+  ☐  IP Committee approval of walk-away terms by March 21, 2026 (Portal: IP-3370)
+  ☐  External counsel to finalize draft by April 10, 2026 (Matter: SY454637)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: EXW-8041-I3WO2)
+
+REFERENCED ATTACHMENTS
+  • IP_License_Draft_v5383_WAE-0561-WGU2J_CONFIDENTIAL.pdf
+  • Royalty_NPV_Model_UR988461.xlsx
+  • Patent_Portfolio_Summary_QQ239184_RESTRICTED.pdf
+
+Celestine Drummond
+Controller | Human Capital | Pinnacle Financial Services
+IP Committee Code: PI590104  |  Direct: +1 (650) 4206-1763
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abramowitz's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP COMMITTEE EYES ONLY
+Handling Protocol: REF-LZK-0722-UUMK8 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+I am updating you on the IP licensing [FINANCIAL_2] with [PERSON_18] Semiconductor (Counterparty ID: PI590104). This is designated RESTRICTED – IP [PERSON_3] EYES ONLY.
+
+Portfolio: [PERSON_25] Manufacturing Process Patents (Portfolio A)
+[FINANCIAL_2] [PERSON_4]: WAE-0561-WGU2J | NDA [PERSON_5]: March 07, 2026 | External Counsel: Silveroak Capital Markets (Ref: SY454637)
+
+[FINANCIAL_1] [PERSON_14] TERMS (DRAFT)
+──────────────────────────────────────────────────────
+[PERSON_14] Type:                        [PERSON_1] Territory [PERSON_14]
+Territory:                           Asia-Pacific only
+Field of Use:                        Consumer Retail Distribution
+Term:                                5383 years (renewable)
+Upfront [PERSON_14] Fee:                 [AMOUNT_1]
+Running Royalty [PERSON_26]:                [URL_1]% of Net Sales
+Minimum Annual Royalty (Year 1):     [AMOUNT_2]  (escalating [URL_2]% [URL_3].)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  [AMOUNT_3] (Appraiser: Evergreen Real [PERSON_20] Fund, Ref: TR684429)
+  NPV of Royalty Stream ([PERSON_28]):  [AMOUNT_4]
+  NPV of Royalty Stream (Bear):  [AMOUNT_5]
+  Walk-Away Minimum:             [AMOUNT_6] upfront + [URL_4]% royalty
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_10] TO [PERSON_18] SEMICONDUCTOR)
+  LP-6490: [PERSON_18] Semiconductor seeks carve-out for adjacent territory — firm rejection. Value of concession: [AMOUNT_7].
+  LP-5065: Sublicensing clause — [PERSON_18] Semiconductor requests unrestricted rights; accept affiliates-only with field-of-use restriction.
+  LP-5919: Grant-back on improvements — accept with field-of-use limitation (Ref: ISS-6302-N8XRP).
+
+PATENT PORTFOLIO STATUS
+  Patent LM921342  |  USA      |  Expiry: April 08, 2026  |  Granted
+  Patent PD058624  |  EU       |  Expiry: April 22, 2026  |  Granted
+  Patent JI385025  |  [PERSON_23]    |  Expiry: March 15, 2026  |  Pending
+  Patent LZ495591  |  Japan    |  Expiry: March 19, 2026  |  Granted
+
+ACTION [FINANCIAL_4]
+  ☐  IP [PERSON_3] approval of walk-away terms by March 21, 2026 (Portal: IP-3370)
+  ☐  External counsel to finalize draft by April 10, 2026 (Matter: SY454637)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: EXW-8041-I3WO2)
+
+REFERENCED [FINANCIAL_5]
+  • IP_License_Draft_v5383_WAE-0561-WGU2J_[URL_5]
+  • Royalty_NPV_Model_[URL_6]
+  • Patent_Portfolio_Summary_QQ239184_[URL_7]
+
+[PERSON_6] Drummond
+Controller | Human Capital | [PERSON_12] Financial Services
+IP [PERSON_3] Code: PI590104  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abramowitz's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_10], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP [PERSON_3] EYES ONLY
+Handling Protocol: [CONTRACT_1]-UUMK8 | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_21] Deletion
+================================================================================

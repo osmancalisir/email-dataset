@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #147  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Monique Wainwright <mwainwright@emberanalyti.com>
+TO:          Monique Castleberry <mcastleberry@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Zenith Aerospace Ltd
+REFERENCE:   QJL-5262-FG1DO
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Monique,
+
+I am updating you on the franchise and distribution agreement negotiations with Zenith Aerospace Ltd (ID: BN753921). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: JKM-6557-JY2DC | Territory: Western Europe (excluding UK)
+Agreement Type: Area Development Agreement | External Counsel: Goldstone Infrastructure (Matter: TM075241)
+Heads of Terms Signed: February 19, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v8897)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD         68,617
+Annual Renewal Fee:                    USD      1,402,677
+Royalty / Margin Rate:                 35.05% of Net Sales
+Minimum Annual Purchase Commitment:    USD        126,960  (Year 1); +34.36% p.a.
+Marketing Contribution:                6.24% of Net Sales (Co-op Fund: HO869529)
+Exclusivity Period:                    9368 months
+Performance Milestone (Year 3):        USD         60,781 cumulative revenue
+Breach Penalty / Clawback:             USD        649,044 or 35.46% of initial fee
+Term:                                  6980 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Zenith Aerospace Ltd Credit Rating:       BBB
+  Last Filed Revenue (FY2024): USD 7,867,432
+  Net Worth (est.):            USD 3,573,135
+  Bank Reference (Northstar Pharmaceuticals):      Satisfactory
+  Director Background Check:   Clear (Ref: DN913089)
+  Litigation Search:           Clear
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH ZENITH AEROSPACE LTD)
+  CP-4981: Zenith Aerospace Ltd seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for Northstar Pharmaceuticals expansion.
+  CP-5673: Sub-franchising rights — accept affiliates-only with 5.35% override royalty (Clause: TZ089149).
+  CP-7121: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by April 18, 2026 (Ref: CC-4019)
+  ☐  Legal final review — by May 17, 2026 (Counsel: Goldstone Infrastructure)
+  ☐  Brand & IP Committee — territory approval (Ref: XE475144)
+  ☐  CFO — minimum royalty exception if required (Ref: ZN270861)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v8897_JKM-6557-JY2DC_CONFIDENTIAL.pdf
+  • Zenith Aerospace Ltd_Financial_Assessment_UT040717.pdf
+  • Territory_Map_KN613097.pdf
+
+Negotiation session scheduled: May 10, 2026 — Venue details via secure channel.
+
+Elise Wainwright
+Head of Strategic Partnerships | Corporate Development | Crestview Hospitality Group
+Commercial Committee ID: BN753921  |  Direct: +1 (312) 2076-7151
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Wainwright's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-QJL-5262-FG1DO | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_20],
+
+I am updating you on the [PERSON_10] and distribution agreement [FINANCIAL_2]s with Zenith [PERSON_6] Ltd (ID: BN753921). This is classified RESTRICTED – COMMERCIAL [PERSON_7] ONLY. Do not [PERSON_32] with regional operations until terms [PERSON_42] finalised.
+
+[FINANCIAL_2] [PERSON_8]: JKM-6557-JY2DC | Territory: Western [PERSON_26] (excluding UK)
+Agreement Type: [PERSON_37] Development Agreement | External Counsel: [PERSON_9] [PERSON_2] (Matter: TM075241)
+Heads of Terms Signed: February 19, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v8897)
+──────────────────────────────────────────────────────
+Initial [PERSON_10] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_38]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_18] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: HO869529)
+Exclusivity Period:                    9368 months
+[PERSON_4] [PERSON_11] (Year 3):        [AMOUNT_4] cumulative [PERSON_22]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  6980 years, renewable on [PERSON_4]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Zenith [PERSON_6] Ltd Credit Rating:       BBB
+  Last Filed [PERSON_22] (FY2024): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_8] (Northstar Pharmaceuticals):      Satisfactory
+  Director Background Check:   Clear (Ref: DN913089)
+  Litigation Search:           Clear
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_32] WITH ZENITH [PERSON_6] LTD)
+  CP-4981: Zenith [PERSON_6] Ltd seeks right of first refusal on adjacent territory. Position: [PERSON_23] — reserved for Northstar Pharmaceuticals expansion.
+  CP-5673: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_29]: TZ089149).
+  CP-7121: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_3] APPROVALS
+  ☐  Commercial [PERSON_7] sign-off — by April 18, 2026 (Ref: CC-4019)
+  ☐  Legal final review — by May 17, 2026 (Counsel: [PERSON_9] [PERSON_2])
+  ☐  Brand & IP [PERSON_7] — territory approval (Ref: XE475144)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_3] (Ref: ZN270861)
+
+REFERENCED [FINANCIAL_4]
+  • Franchise_Agreement_Draft_v8897_JKM-6557-JY2DC_[URL_7]
+  • Zenith [PERSON_6] Ltd_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: May 10, 2026 — [PERSON_34] details via [PERSON_30] channel.
+
+[PERSON_1]
+Head of Strategic Partnerships | [PERSON_12] Development | Crestview Hospitality Group
+Commercial [PERSON_7] ID: BN753921  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] [PERSON_42] intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Wainwright's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-FG1DO | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_30] Deletion
+================================================================================

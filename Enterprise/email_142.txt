@@ -1,0 +1,140 @@
+================================================================================
+EMAIL #142  |  BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Dmitri Drummond <ddrummond@titanmanufac.com>
+TO:          Vanessa Rasmussen <vrasmussen@titanmanufac.com>
+SUBJECT:     CONFIDENTIAL: Pension & Benefits Liability Review – FY2023
+REFERENCE:   GYT-7674-1ICBK
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Adrienne,
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: EOS-7269-HZYRS) under strict confidentiality per Employee Benefits Policy EBP-6810. Do not share with the Trustee Board or employee representatives until Board approval is obtained.
+
+Actuarial Firm: Cascadia Real Estate Trust (Lead Actuary: Oswald Morozova) | Measurement Date: March 06, 2026
+Next Trustee Meeting: April 22, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+Scheme                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Redwood Asset Management_Main Scheme              8,314,855         8,548,856              +234,001
+Redwood Asset Management_Legacy Scheme           38,795,589        31,091,525            -7,704,064
+Redwood Asset Management_Executive SERP             294,762           202,060               -92,702
+──────────────────────────────────────────────────────
+TOTAL                         47,405,206        39,842,441            -7,562,765
+Funded Ratio:               84.0%
+
+KEY ACTUARIAL ASSUMPTIONS
+  Discount Rate:               13.19%  (Prior Year: 14.77%)
+  Expected Return on Assets:   7.42%
+  CPI Inflation:               17.58%
+  Salary Growth Rate:          23.23%
+  Mortality Table:             S3PA (UK)
+  Assumed Retirement Age:      65
+
+SENSITIVITY ANALYSIS (100bps impact)
+  Discount Rate +100bps:    USD -1,361,634 on PBO
+  Discount Rate -100bps:    USD +800,525 on PBO
+  Inflation +100bps:        USD -1,516,441 on PBO
+
+PROPOSED CONTRIBUTION SCHEDULE (PENDING TRUSTEE AGREEMENT)
+  FY2023:    USD 1,385,777
+  FY2024:  USD 294,964
+  FY2025:  USD 6,307,879
+  Annual Expenses & Levy:   USD 1,649,729
+  Total 3-Year Commitment:  USD 9,638,349
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-6769: Bulk annuity buy-in with Citadel Fintech Group — indicative premium USD 1,295,344 (Ref: KK022007)
+  Option LM-4587: Longevity swap — notional USD 1,608,467 (Counterparty: SilverBridge Consulting)
+  Option LM-0053: Enhanced transfer value exercise — budget USD 3,463,612, targeting 9861 members
+
+REFERENCED ATTACHMENTS
+  • Actuarial_Valuation_GXM-9502-F0WYG_BOARD_RESTRICTED.pdf
+  • Funded_Status_Model_XS958427.xlsx
+  • Buy-In_Quotation_MV237401_CONFIDENTIAL.pdf
+
+All queries to Oswald Morozova only. Do not discuss with HR or line management until Board has approved communication strategy.
+
+Priya Yamamoto
+Head of Mergers & Acquisitions | Investor Relations | Redwood Asset Management
+Secure Line: +1 (212) 4310-1218  |  Benefits ID: QK585318
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+Handling Protocol: REF-GYT-7674-1ICBK | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_7],
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: EOS-7269-HZYRS) under strict confidentiality per [PERSON_9] [FINANCIAL_7] Policy EBP-6810. Do not share with the [PERSON_16] Board or [PERSON_9] representatives until Board approval is obtained.
+
+Actuarial Firm: [PERSON_10] Real [PERSON_22] Trust (Lead Actuary: [PERSON_3]) | Measurement Date: March 06, 2026
+Next [PERSON_16] Meeting: April 22, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_23]                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Redwood Asset Management_Main [PERSON_23]              8,314,855         8,548,856              +234,001
+Redwood Asset Management_Legacy [PERSON_23]           38,795,589        31,091,525            -7,704,064
+Redwood Asset [PERSON_1] SERP             294,762           202,060               -92,702
+──────────────────────────────────────────────────────
+TOTAL                         47,405,206        39,842,441            -7,562,765
+Funded Ratio:               [URL_1]%
+
+KEY ACTUARIAL [FINANCIAL_1]
+  Discount [PERSON_30]:               [URL_2]%  (Prior Year: [URL_3]%)
+  Expected Return on Assets:   [URL_4]%
+  CPI Inflation:               [URL_5]%
+  Salary Growth [PERSON_30]:          [URL_6]%
+  Mortality [PERSON_26]:             [PERSON_32] (UK)
+  Assumed Retirement Age:      65
+
+[FINANCIAL_2] [FINANCIAL_3] (100bps impact)
+  Discount [PERSON_30] +100bps:    USD -1,361,634 on PBO
+  Discount [PERSON_30] -100bps:    USD +800,525 on PBO
+  Inflation +100bps:        USD -1,516,441 on PBO
+
+[FINANCIAL_4] CONTRIBUTION [PERSON_12] (PENDING [PERSON_16] AGREEMENT)
+  FY2023:    [AMOUNT_1]
+  FY2024:  [AMOUNT_2]
+  FY2025:  [AMOUNT_3]
+  Annual Expenses & Levy:   [AMOUNT_4]
+  Total 3-Year Commitment:  [AMOUNT_5]
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-6769: Bulk annuity buy-in with Citadel Fintech Group — indicative premium [AMOUNT_6] (Ref: KK022007)
+  Option LM-4587: Longevity swap — notional [AMOUNT_7] (Counterparty: [PERSON_4] Consulting)
+  Option LM-0053: Enhanced transfer value exercise — budget [AMOUNT_8], targeting 9861 members
+
+REFERENCED [FINANCIAL_6]
+  • Actuarial_Valuation_GXM-9502-F0WYG_BOARD_[URL_7]
+  • Funded_Status_Model_[URL_8]
+  • Buy-In_Quotation_MV237401_[URL_9]
+
+All queries to [PERSON_3] only. Do not discuss with HR or [PERSON_33] management until Board has approved communication strategy.
+
+[PERSON_27] [PERSON_8]
+Head of Mergers & Acquisitions | Investor Relations | Redwood Asset Management
+[PERSON_24] [PERSON_33]: [PHONE_1]  |  [FINANCIAL_7] ID: QK585318
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & [FINANCIAL_7] [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-1ICBK | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_24] Deletion
+================================================================================

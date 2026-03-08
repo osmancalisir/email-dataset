@@ -1,0 +1,140 @@
+================================================================================
+EMAIL #017  |  BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Broderick Espinoza <bespinoza@harborviewsh.com>
+TO:          Gregory Nkrumah <gnkrumah@harborviewsh.com>
+SUBJECT:     CONFIDENTIAL: Pension & Benefits Liability Review – FY2025
+REFERENCE:   JLA-3513-E80W7
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Oswald,
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: USD-7479-IL0VN) under strict confidentiality per Employee Benefits Policy EBP-0537. Do not share with the Trustee Board or employee representatives until Board approval is obtained.
+
+Actuarial Firm: Vanguard Cybersecurity Inc (Lead Actuary: Alicia Castleberry) | Measurement Date: February 10, 2026
+Next Trustee Meeting: March 19, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+Scheme                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+SilverBridge Consulting_Main Scheme              1,343,835         1,234,366              -109,469
+SilverBridge Consulting_Legacy Scheme           50,842,968        45,931,368            -4,911,600
+SilverBridge Consulting_Executive SERP              64,777            42,678               -22,099
+──────────────────────────────────────────────────────
+TOTAL                         52,251,580        47,208,412            -5,043,168
+Funded Ratio:               90.3%
+
+KEY ACTUARIAL ASSUMPTIONS
+  Discount Rate:               36.91%  (Prior Year: 2.66%)
+  Expected Return on Assets:   20.65%
+  CPI Inflation:               5.26%
+  Salary Growth Rate:          37.35%
+  Mortality Table:             RP-2014 (US)
+  Assumed Retirement Age:      67
+
+SENSITIVITY ANALYSIS (100bps impact)
+  Discount Rate +100bps:    USD -748,977 on PBO
+  Discount Rate -100bps:    USD +1,801,248 on PBO
+  Inflation +100bps:        USD -1,502,993 on PBO
+
+PROPOSED CONTRIBUTION SCHEDULE (PENDING TRUSTEE AGREEMENT)
+  FY2025:    USD 6,184,282
+  FY2026:  USD 1,552,022
+  FY2027:  USD 14,699,623
+  Annual Expenses & Levy:   USD 258,930
+  Total 3-Year Commitment:  USD 22,694,857
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-7963: Bulk annuity buy-in with Wavecrest Biotechnology — indicative premium USD 16,569,167 (Ref: VR724325)
+  Option LM-2551: Longevity swap — notional USD 107,472 (Counterparty: Blackridge Logistics)
+  Option LM-1614: Enhanced transfer value exercise — budget USD 306,952, targeting 9551 members
+
+REFERENCED ATTACHMENTS
+  • Actuarial_Valuation_ZEG-3482-KPYK3_BOARD_RESTRICTED.pdf
+  • Funded_Status_Model_QK396540.xlsx
+  • Buy-In_Quotation_PQ483195_CONFIDENTIAL.pdf
+
+All queries to Alicia Castleberry only. Do not discuss with HR or line management until Board has approved communication strategy.
+
+Tanya Ihejirika
+Director of Corporate Finance | Legal & Compliance | SilverBridge Consulting
+Secure Line: +1 (212) 5425-6536  |  Benefits ID: TF254311
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Espinoza's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+Handling Protocol: REF-JLA-3513-E80W7 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_25],
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: USD-7479-IL0VN) under strict confidentiality per [PERSON_14] [FINANCIAL_7] Policy EBP-0537. Do not share with the [PERSON_20] Board or [PERSON_14] representatives until Board approval is obtained.
+
+Actuarial Firm: [COMPANY_1] (Lead Actuary: [PERSON_3]) | Measurement Date: February 10, 2026
+Next [PERSON_20] Meeting: March 19, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_28]                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+[PERSON_5] Consulting_Main [PERSON_28]              1,343,835         1,234,366              -109,469
+[PERSON_5] Consulting_Legacy [PERSON_28]           50,842,968        45,931,368            -4,911,600
+[PERSON_5] [PERSON_1] SERP              64,777            42,678               -22,099
+──────────────────────────────────────────────────────
+TOTAL                         52,251,580        47,208,412            -5,043,168
+Funded Ratio:               [URL_1]%
+
+KEY ACTUARIAL [FINANCIAL_1]
+  Discount [PERSON_36]:               [URL_2]%  (Prior Year: [URL_3]%)
+  Expected Return on Assets:   [URL_4]%
+  CPI Inflation:               [URL_5]%
+  Salary Growth [PERSON_36]:          [URL_6]%
+  Mortality [PERSON_33]:             RP-2014 (US)
+  Assumed Retirement Age:      67
+
+[FINANCIAL_2] [FINANCIAL_3] (100bps impact)
+  Discount [PERSON_36] +100bps:    USD -748,977 on PBO
+  Discount [PERSON_36] -100bps:    USD +1,801,248 on PBO
+  Inflation +100bps:        USD -1,502,993 on PBO
+
+[FINANCIAL_4] CONTRIBUTION [PERSON_15] (PENDING [PERSON_20] AGREEMENT)
+  FY2025:    [AMOUNT_1]
+  FY2026:  [AMOUNT_2]
+  FY2027:  [AMOUNT_3]
+  Annual Expenses & Levy:   [AMOUNT_4]
+  Total 3-Year Commitment:  [AMOUNT_5]
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-7963: Bulk annuity buy-in with Wavecrest Biotechnology — indicative premium [AMOUNT_6] (Ref: VR724325)
+  Option LM-2551: Longevity swap — notional [AMOUNT_7] (Counterparty: [PERSON_7] Logistics)
+  Option LM-1614: Enhanced transfer value exercise — budget [AMOUNT_8], targeting 9551 members
+
+REFERENCED [FINANCIAL_6]
+  • Actuarial_Valuation_ZEG-3482-KPYK3_BOARD_[URL_7]
+  • Funded_Status_Model_[URL_8]
+  • Buy-In_Quotation_PQ483195_[URL_9]
+
+All queries to [PERSON_3] only. Do not discuss with HR or [PERSON_38] management until Board has approved communication strategy.
+
+[PERSON_4]
+Director of [PERSON_11] [PERSON_23] | Legal & [PERSON_8] | [PERSON_5] Consulting
+[PERSON_30] [PERSON_38]: [PHONE_1]  |  [FINANCIAL_7] ID: TF254311
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_17]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & [FINANCIAL_7] [PERSON_13] ONLY
+Handling Protocol: [CONTRACT_1]-E80W7 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_30] Deletion
+================================================================================

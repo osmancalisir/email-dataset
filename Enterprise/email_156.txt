@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #156  |  RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Marguerite Beaumont <mbeaumont@clearwatermi.com>
+TO:          Patrick Delacroix <pdelacroix@clearwatermi.com>
+SUBJECT:     CONFIDENTIAL: ERP Migration Cost Estimate – Project NF025968
+REFERENCE:   VYB-4086-PTL30
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Adrienne,
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: NF025968). This is classified RESTRICTED and shared solely with the Technology Steering Committee and Finance leadership.
+
+Project Summary – Ref: GNI-3989-Y933R
+Platform: SAP S/4HANA | Implementation Partner: Cedarwood Pharmaceuticals
+Target Go-Live: April 07, 2026 | Legacy Decommission: April 08, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+Infrastructure & Licensing:          USD      6,476,146  (25.45%)
+Implementation Services:             USD     12,861,695  (11.89%)
+Data Migration & Validation:         USD         51,222  (13.02%)
+Training & Change Management:        USD      1,302,347  (30.38%)
+Post-Go-Live Support (Year 1):       USD         55,320  (15.5%)
+Contingency Reserve (13.67%):       USD        108,230
+──────────────────────────────────────────────────────
+Total Project Budget:                USD     20,854,960
+
+PHASE SCOPE
+  Phase 1 Modules:  HR & Payroll, Business Intelligence, Accounts Payable
+  Phase 2 Modules:  Procurement, Accounts Receivable
+  Data Migration Window: March 17, 2026 – May 31, 2026
+
+RISK REGISTER (TOP ITEMS)
+  Risk R-8279 [HIGH]:    Data integrity failure during migration — Probability: 15.04%
+  Risk R-7976 [MEDIUM]:  Vendor delivery delay (Cedarwood Pharmaceuticals) — Probability: 35.46%
+  Risk R-7925 [HIGH]:    Integration failure with legacy system UO308029 — Probability: 18.8%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request RR126228 by May 03, 2026
+  – IT Security review completion (Ticket: SEC-1246) by March 29, 2026
+  – Pinnacle Financial Services API certification for module HR & Payroll (Cert: NB011973)
+
+REFERENCED ATTACHMENTS
+  • ERP_Migration_CostModel_ZU301310_v2719.xlsx   [password-protected]
+  • Project_Charter_HSK-2091-G7MXB_RESTRICTED.pdf
+  • Vendor_Assessment_XP365120.docx
+
+Written approval required from cost center owners CC-4902 and CC-4195 by March 15, 2026.
+
+Sebastian Ihejirika
+Chief Revenue Officer | Supply Chain Management | Irongate Private Equity
+Internal Ext: 3307  |  Direct: +1 (408) 3681-9001  |  Badge: UR741956
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Beaumont's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+Handling Protocol: REF-VYB-4086-PTL30 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_12],
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: NF025968). This is classified RESTRICTED and shared solely with the Technology [FINANCIAL_3] [PERSON_9] and [PERSON_18] leadership.
+
+Project Summary – Ref: GNI-3989-Y933R
+Platform: SAP [PERSON_19] | Implementation Partner: Cedarwood Pharmaceuticals
+Target [PERSON_20]: April 07, 2026 | Legacy Decommission: April 08, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+[PERSON_2] & Licensing:          [AMOUNT_1]  ([URL_1]%)
+Implementation Services:             [AMOUNT_2]  ([URL_2]%)
+Data Migration & Validation:         [AMOUNT_3]  ([URL_3]%)
+Training & [PERSON_29] Management:        [AMOUNT_4]  ([URL_4]%)
+[PERSON_4] Support (Year 1):       [AMOUNT_5]  ([URL_5]%)
+Contingency [PERSON_21] ([URL_6]%):       [AMOUNT_6]
+──────────────────────────────────────────────────────
+Total Project Budget:                [AMOUNT_7]
+
+[PERSON_36] [PERSON_37]
+  [PERSON_36] 1 Modules:  HR & Payroll, Business [PERSON_5], Accounts [PERSON_22]
+  [PERSON_36] 2 Modules:  Procurement, Accounts [PERSON_8]
+  Data Migration Window: March 17, 2026 – May 31, 2026
+
+RISK [FINANCIAL_1] (TOP ITEMS)
+  Risk R-8279 [HIGH]:    Data integrity failure during migration — Probability: [URL_7]%
+  Risk R-7976 [MEDIUM]:  Vendor delivery delay (Cedarwood Pharmaceuticals) — Probability: [URL_8]%
+  Risk R-7925 [HIGH]:    Integration failure with legacy system UO308029 — Probability: [URL_9]%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request RR126228 by May 03, 2026
+  – IT Security review completion (Ticket: SEC-1246) by March 29, 2026
+  – [PERSON_14] Financial Services API certification for module HR & Payroll (Cert: NB011973)
+
+REFERENCED [FINANCIAL_2]
+  • ERP_Migration_CostModel_ZU301310_[URL_10]   [password-protected]
+  • Project_Charter_HSK-2091-G7MXB_[URL_11]
+  • Vendor_Assessment_[URL_12]
+
+[PERSON_24] approval required from cost center owners CC-4902 and CC-4195 by March 15, 2026.
+
+[PERSON_1]
+Chief [PERSON_25] Officer | Supply Chain Management | [PERSON_16] Private Equity
+Internal Ext: 3307  |  Direct: [PHONE_1]  |  [PERSON_38]: UR741956
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Beaumont's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY [FINANCIAL_3] [PERSON_9]
+Handling Protocol: [CONTRACT_1]-PTL30 | Encrypted In-Transit: TLS [URL_13] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

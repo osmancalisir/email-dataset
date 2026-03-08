@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #207  |  BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+================================================================================
+DATE:        Sunday, March 01, 2026 at 07:39 PM
+FROM:        Rebecca Ellison <rellison@emberanalyti.com>
+TO:          Odessa Volkov <ovolkov@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: M&A Due Diligence Update – Project HELIOS
+REFERENCE:   GIQ-8282-C1QJ2
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alistair,
+
+This update pertains to the ongoing due diligence for the potential acquisition of BluePeak Agrochemicals (codename: Project HELIOS). All materials fall under NDA Ref: SYR-5112-PFE83, executed February 08, 2026.
+
+Transaction Reference: SGO-9289-10WZ2
+Buy-Side Advisor: Luminary Media Corp | Legal Counsel: Kwame Petrossian
+Process Stage: Round 1 | Final Bid Deadline: March 19, 2026
+
+DUE DILIGENCE WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Complete            Raymond Castleberry  168
+Legal & Regulatory DD    Complete            Thaddeus Haakonsen  3417
+Commercial DD            Not Started         Dmitri Okonkwo   2859
+IT & Cybersecurity DD    In Progress         Jonathan Okafor  6202
+HR & People DD           Not Started         Alicia Okafor    9818
+Tax Structuring          Escalated           Adrienne Caldwell  399
+──────────────────────────────────────────────────────
+
+CRITICAL OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-1245: Unresolved litigation — BluePeak Agrochemicals vs. Kwame Petrossian (Case Ref: ZA126919). Contingent liability: USD 1,390,150. Adverse outcome probability: 15.51%.
+
+OI-712: Revenue concentration — top 4874 customers = 15.19% of BluePeak Agrochemicals revenue. Key account Raymond Castleberry (Acct: IL331215) renews May 09, 2026 with no confirmation yet.
+
+OI-4832: Pension deficit of USD 686,772 not disclosed in management accounts (Actuarial Ref: RZ349290).
+
+OI-4900: 7.56% of server estate running end-of-life OS (Ref: SEC-TM041108). Remediation cost: USD 279,217.
+
+VALUATION SENSITIVITY
+  Base Case Offer:          USD 114,707   (EV/EBITDA: 9.9x)
+  Bear Case (risks priced): USD 1,487,083   (EV/EBITDA: 5.8x)
+  Walk-Away Price:          USD 16,743,181   (EV/EBITDA: 3.3x)
+
+NEXT STEPS
+  Management presentation:    May 03, 2026 — New York
+  Final bid submission:        May 12, 2026
+  Exclusivity request:         April 30, 2026
+
+REFERENCED ATTACHMENTS
+  • DD_Issues_Log_ProjectHELIOS_Wk3525_YGS-6071-ILWYI.xlsx
+  • Financial_Model_v168_NA811212_CONFIDENTIAL.xlsx
+  • Legal_Summary_EN943661_PRIVILEGED.pdf
+
+No information herein may be shared with BluePeak Agrochemicals management without Deal Committee consent.
+
+Dmitri Okonkwo
+Head of Mergers & Acquisitions | Information Technology | Wavecrest Biotechnology
+Deal Room Access: DG854669  |  Direct: +1 (212) 3417-2859
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+Handling Protocol: REF-GIQ-8282-C1QJ2 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_9],
+
+This update pertains to the ongoing due [PERSON_6] for the potential acquisition of BluePeak Agrochemicals (codename: Project HELIOS). All materials fall under NDA Ref: SYR-5112-PFE83, executed February 08, 2026.
+
+Transaction [PERSON_5]: SGO-9289-10WZ2
+[PERSON_12] Advisor: Luminary [PERSON_32] Corp | Legal Counsel: [PERSON_33] Petrossian
+Process [PERSON_34]: Round 1 | Final Bid [PERSON_13]: March 19, 2026
+
+DUE [PERSON_6] WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             [PERSON_15]            [PERSON_18] Castleberry  168
+Legal & Regulatory DD    [PERSON_15]            [PERSON_2]  3417
+Commercial DD            Not Started         [PERSON_4]   2859
+IT & Cybersecurity DD    In Progress         [PERSON_10] Okafor  6202
+HR & [PERSON_28] DD           Not Started         [PERSON_25] Okafor    9818
+Tax Structuring          Escalated           [PERSON_3]  399
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-1245: Unresolved litigation — BluePeak Agrochemicals vs. [PERSON_33] Petrossian ([PERSON_43] Ref: ZA126919). Contingent liability: [AMOUNT_1]. [PERSON_21] outcome probability: [URL_1]%.
+
+[MIL_PLATFORM_1]: [PERSON_22] concentration — top 4874 customers = [URL_2]% of BluePeak Agrochemicals revenue. Key account [PERSON_1]: IL331215) renews May 09, 2026 with no confirmation yet.
+
+OI-4832: Pension deficit of [AMOUNT_2] not disclosed in management accounts (Actuarial Ref: RZ349290).
+
+OI-4900: [URL_3]% of server estate running end-of-life OS (Ref: SEC-TM041108). Remediation cost: [AMOUNT_3].
+
+VALUATION [FINANCIAL_2]
+  [PERSON_44] [PERSON_43] Offer:          [AMOUNT_4]   ([PERSON_7]: [URL_4])
+  Bear [PERSON_43] (risks priced): [AMOUNT_5]   ([PERSON_7]: [URL_5])
+  Walk-Away [PERSON_38]:          [AMOUNT_6]   ([PERSON_7]: [URL_6])
+
+NEXT STEPS
+  Management presentation:    May 03, 2026 — New York
+  Final bid submission:        May 12, 2026
+  Exclusivity request:         April 30, 2026
+
+REFERENCED [FINANCIAL_3]
+  • DD_Issues_Log_ProjectHELIOS_Wk3525_[URL_7]
+  • Financial_Model_v168_NA811212_[URL_8]
+  • Legal_Summary_EN943661_[URL_9]
+
+No information herein may be shared with BluePeak Agrochemicals management without Deal [PERSON_8] consent.
+
+[PERSON_4]
+Head of Mergers & Acquisitions | Information Technology | Wavecrest Biotechnology
+Deal Room Access: DG854669  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL [CALLSIGN_1]
+Handling Protocol: [CONTRACT_1]-C1QJ2 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_31] Deletion
+================================================================================

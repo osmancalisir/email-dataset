@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #021  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Adrienne Abioye <aabioye@meridiancapi.com>
+TO:          Vanessa Fischer <vfischer@meridiancapi.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2024
+REFERENCE:   QZZ-4590-1CO6B
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Sandra,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2024 (Ref: TPQ-8561-QF1ON). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External Assurance: Evergreen Real Estate Fund (Ref: DZ951040) | Target Publication: April 27, 2026 | Filing Deadline: June 01, 2026
+
+KEY ESG METRICS (FY2024 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2024 Actual   FY2023 Actual    Target
+Scope 1 Emissions (tCO2e)          78,165        80,508         62,532
+Scope 2 Emissions (tCO2e)          66,191        69,500         52,952
+Scope 3 Emissions (tCO2e)         470,923       470,923        400,284
+Total Energy (MWh)                273,520       287,196        246,168
+Water Withdrawal (m³)           1,212,314     1,272,929      1,091,082
+Waste Diverted (%)                  5.72%       21.43%         22.41%
+Gender Pay Gap (%)                  4.95%       11.98%         23.54%
+TRIR (injuries/200k hrs)             1.76          1.85           1.41
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-9192: Scope 3 emissions 18.51% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: ZB191491).
+  Issue ESG-1598: Gender pay gap of 4.95% exceeds 23.54% target. Board must decide voluntary vs. mandatory cohort disclosure by March 28, 2026.
+  Issue ESG-8306: Tier-1 supplier Cobalt Ventures LLC (Spend: USD 268,783) failed human rights assessment (Score: 54/100, Threshold: 74/100). Disclosure may trigger customer contract reviews (Ref: FIR-2943-WRAG6).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2024):  1,993 tCO2e (Registry: American Carbon Registry, Ref: DO349351)
+  Credits Retired:              2,588 tCO2e
+  Average Price:                USD 13/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          7.83% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline April 08, 2026 (Ref: XJ008660)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref AM716603
+  TCFD Alignment Score:         30.84% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2024_KTA-1113-7X3WK_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_GV618271.xlsx
+  • Supplier_Assessment_CQ288552.pdf
+
+Board sign-off required by May 30, 2026. Route comments to Alicia Thistlethwaite only.
+
+Adrienne Rosenberg
+Chief Risk Officer | Internal Audit | Quantum Data Systems
+ESG Committee Code: YI566369  |  Direct: +1 (415) 6392-4367
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abioye's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-QZZ-4590-1CO6B | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_19],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2024 (Ref: TPQ-8561-QF1ON). This is classified RESTRICTED – BOARD & AUDIT [PERSON_7] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External [PERSON_8]: Evergreen Real [PERSON_20] Fund (Ref: DZ951040) | Target Publication: April 27, 2026 | Filing [PERSON_13]: [PERSON_36] 01, 2026
+
+KEY ESG METRICS (FY2024 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2024 Actual   FY2023 Actual    Target
+[PERSON_26] 1 Emissions (tCO2e)          78,165        80,508         62,532
+[PERSON_26] 2 Emissions (tCO2e)          66,191        69,500         52,952
+[PERSON_26] 3 Emissions (tCO2e)         470,923       470,923        400,284
+Total Energy (MWh)                273,520       287,196        246,168
+Water Withdrawal (m³)           1,212,314     1,272,929      1,091,082
+[PERSON_27] Diverted (%)                  [URL_1]%       [URL_2]%         [URL_3]%
+Gender Pay Gap (%)                  [URL_4]%       [URL_5]%         [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]          [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_5] ISSUES (PRE-DECISIONAL)
+  [PERSON_28] ESG-9192: [PERSON_26] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_5] language re: forward guidance implications (Ref: ZB191491).
+  [PERSON_28] ESG-1598: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_5] by March 28, 2026.
+  [PERSON_28] ESG-8306: Tier-1 supplier [COMPANY_1] (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_29]: 54/100, Threshold: 74/100). [PERSON_5] may trigger customer contract reviews (Ref: FIR-2943-WRAG6).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2024):  1,993 tCO2e (Registry: American Carbon Registry, Ref: DO349351)
+  Credits Retired:              2,588 tCO2e
+  [PERSON_16] [PERSON_30]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_17] [PERSON_5] [PERSON_41]:  [PERSON_6] [PERSON_13] April 08, 2026 (Ref: XJ008660)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref AM716603
+  TCFD Alignment [PERSON_29]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2024_KTA-1113-7X3WK_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by May 30, 2026. [PERSON_32] comments to [PERSON_1] only.
+
+[PERSON_2]
+[APPROVAL_CODE_2] | Quantum Data Systems
+ESG [PERSON_7] Code: YI566369  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_23]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_5] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-1CO6B | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_24] Deletion
+================================================================================

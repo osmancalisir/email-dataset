@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #037  |  EMBARGOED – DCM WORKING GROUP ONLY
+================================================================================
+DATE:        Saturday, March 07, 2026 at 07:39 PM
+FROM:        Rebecca Thornton <rthornton@emberanalyti.com>
+TO:          Alistair Petrossian <apetrossian@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: Hybrid Capital Securities Transaction – Pre-Announcement Update
+REFERENCE:   GOU-4515-5RMO4
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Lavinia,
+
+This message is transmitted under strict confidentiality in connection with the proposed Hybrid Capital Securities issuance by Redwood Asset Management (Issuer Rating: BBB+/Baa1). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+Transaction Reference: OXE-0389-VQ3H0
+Joint Lead Managers: Obsidian Telecom Group | Ironshore Capital | Legal Counsel (Issuer): Vanessa Patel
+Expected Pricing: May 27, 2026 | Settlement (T+4): May 06, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Hybrid Capital Securities
+Principal Amount:                    USD      6,946,171
+Tenor:                               12 years
+Coupon Guidance:                     12.78% – 9.27% p.a. (semi-annual, 30/360)
+Issue Price:                         100.078% of par
+Benchmark:                           UST + 178bps
+Use of Proceeds:                     Capital Expenditure
+Listing:                             NYSE
+ISIN (Provisional):                  USC1QWIWKBAY
+CUSIP (Provisional):                 508260642
+──────────────────────────────────────────────────────
+
+INVESTOR DEMAND SNAPSHOT (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               7.6x oversubscribed
+  Geographic Split:    US 12.7%  |  EU 5.4%  |  Asia 16.8%  |  Other 65.1%
+  Investor Type:       Funds 19.8%  |  Insurance 28.6%  |  Banks 10.9%  |  Other 40.7%
+  Largest Single Order: USD 113,389 (Investor: MASKED — Ref TZ083500)
+
+KEY COVENANTS (DRAFT)
+  Negative Pledge:          All material subsidiaries (Ref: SG484222)
+  Change-of-Control Put:    26.16% of par + accrued interest
+  Cross-Default Threshold:  USD 306,300
+  Debt Incurrence Test:     Net Leverage ≤ 4.7x EBITDA
+
+EMBARGOED TIMELINE
+  Roadshow:       March 29, 2026 – June 02, 2026
+  Books Open:     March 23, 2026
+  Pricing:        May 27, 2026
+  Settlement:     May 06, 2026
+
+REFERENCED ATTACHMENTS
+  • Preliminary_Prospectus_PPZ-6486-YPVC7_DRAFT_CONFIDENTIAL.pdf
+  • DCM_Indicative_Terms_CQ214445.pdf
+  • Roadshow_Presentation_JEW-5330-9XJ3E_EMBARGOED.pptx
+
+Route all communications through secure deal room (ID: SV323786).
+
+Lionel Djordjevic
+Director of Business Intelligence | Tax & Regulatory | Redwood Asset Management
+Bloomberg: KA811729  |  Deal Room: GY657013  |  Direct: +1 (212) 6637-0619
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Thornton's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: REF-GOU-4515-5RMO4 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+This message is transmitted under strict confidentiality in connection with the proposed Hybrid Capital Securities issuance by Redwood Asset Management (Issuer Rating: BBB+/Baa1). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+[FINANCIAL_1] [PERSON_9]: OXE-0389-VQ3H0
+Joint Lead Managers: Obsidian Telecom Group | [PERSON_10] Capital | Legal Counsel (Issuer): [PERSON_2]
+Expected Pricing: May 27, 2026 | Settlement (T+4): May 06, 2026
+
+[PERSON_6] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Hybrid Capital Securities
+Principal Amount:                    [AMOUNT_1]
+Tenor:                               12 years
+Coupon [PERSON_16]:                     [URL_1]% – [URL_2]% [URL_3]. (semi-annual, 30/360)
+[PERSON_33] [PERSON_34]:                         [URL_4]% of par
+Benchmark:                           UST + 178bps
+Use of Proceeds:                     Capital [PERSON_4]
+Listing:                             [PERSON_41]
+ISIN (Provisional):                  USC1QWIWKBAY
+CUSIP (Provisional):                 [PHONE_1]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_2] DEMAND [FINANCIAL_3] (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               [URL_5] oversubscribed
+  Geographic Split:    US [URL_6]%  |  EU [URL_7]%  |  [PERSON_42] [URL_8]%  |  Other [URL_9]%
+  [FINANCIAL_2] Type:       Funds [URL_10]%  |  [PERSON_12] [URL_11]%  |  Banks [URL_12]%  |  Other [URL_13]%
+  Largest [PERSON_29] Order: [AMOUNT_2] ([FINANCIAL_2]: MASKED — Ref TZ083500)
+
+KEY COVENANTS (DRAFT)
+  [PERSON_18] [PERSON_30]:          All material subsidiaries (Ref: SG484222)
+  Change-of-Control Put:    [URL_14]% of par + accrued interest
+  Cross-Default Threshold:  [AMOUNT_3]
+  Debt [PERSON_8] Test:     Net [PERSON_19] ≤ [URL_15] [PERSON_31]
+
+EMBARGOED [PERSON_20]
+  Roadshow:       March 29, 2026 – [PERSON_44] 02, 2026
+  Books Open:     March 23, 2026
+  Pricing:        May 27, 2026
+  Settlement:     May 06, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Preliminary_Prospectus_PPZ-6486-YPVC7_DRAFT_[URL_16]
+  • DCM_Indicative_Terms_[URL_17]
+  • Roadshow_Presentation_JEW-5330-9XJ3E_[URL_18]
+
+[PERSON_37] all communications through [PERSON_32] deal room (ID: SV323786).
+
+[PERSON_1]
+Director of Business [PERSON_3] | Tax & Regulatory | Redwood Asset Management
+Bloomberg: KA811729  |  Deal Room: GY657013  |  Direct: [PHONE_2]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Thornton's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: [CONTRACT_1]-5RMO4 | Encrypted In-Transit: TLS [URL_19] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_32] Deletion
+================================================================================

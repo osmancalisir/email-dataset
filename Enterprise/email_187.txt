@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #187  |  EMBARGOED – DCM WORKING GROUP ONLY
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Tanya Ellison <tellison@falconridgea.com>
+TO:          Oswald Quintero <oquintero@falconridgea.com>
+SUBJECT:     CONFIDENTIAL: Senior Unsecured Notes Transaction – Pre-Announcement Update
+REFERENCE:   RNL-6561-0MNQ8
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Lavinia,
+
+This message is transmitted under strict confidentiality in connection with the proposed Senior Unsecured Notes issuance by Polaris Wealth Advisors (Issuer Rating: BBB-/Baa3). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+Transaction Reference: FFJ-0397-3FK61
+Joint Lead Managers: Wavecrest Biotechnology | Redwood Asset Management | Legal Counsel (Issuer): Simone Abioye
+Expected Pricing: May 06, 2026 | Settlement (T+2): March 16, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Senior Unsecured Notes
+Principal Amount:                    USD      1,663,728
+Tenor:                               7 years
+Coupon Guidance:                     18.87% – 34.37% p.a. (semi-annual, 30/360)
+Issue Price:                         100.386% of par
+Benchmark:                           UST + 90bps
+Use of Proceeds:                     Refinancing Existing Debt
+Listing:                             NYSE
+ISIN (Provisional):                  USF39V7E00X0
+CUSIP (Provisional):                 511932307
+──────────────────────────────────────────────────────
+
+INVESTOR DEMAND SNAPSHOT (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               4.0x oversubscribed
+  Geographic Split:    US 27.1%  |  EU 32.8%  |  Asia 36.0%  |  Other 4.1%
+  Investor Type:       Funds 23.8%  |  Insurance 9.4%  |  Banks 13.6%  |  Other 53.2%
+  Largest Single Order: USD 54,446 (Investor: MASKED — Ref TR867193)
+
+KEY COVENANTS (DRAFT)
+  Negative Pledge:          All material subsidiaries (Ref: LF650730)
+  Change-of-Control Put:    28.6% of par + accrued interest
+  Cross-Default Threshold:  USD 16,240,896
+  Debt Incurrence Test:     Net Leverage ≤ 4.6x EBITDA
+
+EMBARGOED TIMELINE
+  Roadshow:       May 08, 2026 – April 11, 2026
+  Books Open:     April 25, 2026
+  Pricing:        May 06, 2026
+  Settlement:     March 16, 2026
+
+REFERENCED ATTACHMENTS
+  • Preliminary_Prospectus_JOK-7304-3O53S_DRAFT_CONFIDENTIAL.pdf
+  • DCM_Indicative_Terms_TR072951.pdf
+  • Roadshow_Presentation_QRF-0188-97TCR_EMBARGOED.pptx
+
+Route all communications through secure deal room (ID: UV257043).
+
+Broderick Thistlethwaite
+Chief Risk Officer | Tax & Regulatory | Polaris Wealth Advisors
+Bloomberg: BI374907  |  Deal Room: ZD536842  |  Direct: +1 (212) 3881-2196
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: REF-RNL-6561-0MNQ8 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_16],
+
+This message is transmitted under strict confidentiality in connection with the proposed [APPROVAL_CODE_2]s (Issuer Rating: BBB-/Baa3). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+[FINANCIAL_1] [PERSON_6]: FFJ-0397-3FK61
+Joint Lead Managers: Wavecrest Biotechnology | Redwood Asset Management | Legal Counsel (Issuer): [PERSON_2]
+Expected Pricing: May 06, 2026 | Settlement (T+2): March 16, 2026
+
+[PERSON_4] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Senior Unsecured Notes
+Principal Amount:                    [AMOUNT_1]
+Tenor:                               7 years
+Coupon [PERSON_11]:                     [URL_1]% – [URL_2]% [URL_3]. (semi-annual, 30/360)
+[PERSON_29] [PERSON_30]:                         [URL_4]% of par
+Benchmark:                           UST + 90bps
+Use of Proceeds:                     Refinancing Existing Debt
+Listing:                             [PERSON_38]
+ISIN (Provisional):                  USF39V7E00X0
+CUSIP (Provisional):                 [PHONE_1]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_2] DEMAND [FINANCIAL_3] (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               [URL_5] oversubscribed
+  Geographic Split:    US [URL_6]%  |  EU [URL_7]%  |  [PERSON_39] [URL_8]%  |  Other [URL_9]%
+  [FINANCIAL_2] Type:       Funds [URL_10]%  |  [PERSON_8] [URL_11]%  |  Banks [URL_12]%  |  Other [URL_13]%
+  Largest [PERSON_24] Order: [AMOUNT_2] ([FINANCIAL_2]: MASKED — Ref TR867193)
+
+KEY COVENANTS (DRAFT)
+  [PERSON_13] [PERSON_25]:          All material subsidiaries (Ref: LF650730)
+  Change-of-Control Put:    [URL_14]% of par + accrued interest
+  Cross-Default Threshold:  [AMOUNT_3]
+  Debt [PERSON_5] Test:     Net [PERSON_14] ≤ [URL_15] [PERSON_26]
+
+EMBARGOED [PERSON_15]
+  Roadshow:       May 08, 2026 – April 11, 2026
+  Books Open:     April 25, 2026
+  Pricing:        May 06, 2026
+  Settlement:     March 16, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Preliminary_Prospectus_JOK-7304-3O53S_DRAFT_[URL_16]
+  • DCM_Indicative_Terms_[URL_17]
+  • Roadshow_Presentation_QRF-0188-97TCR_[URL_18]
+
+[PERSON_33] all communications through [PERSON_27] deal room (ID: UV257043).
+
+Broderick [PERSON_1]
+[APPROVAL_CODE_3] & Regulatory | Polaris Wealth Advisors
+Bloomberg: BI374907  |  Deal Room: ZD536842  |  Direct: [PHONE_2]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: [CONTRACT_1]-0MNQ8 | Encrypted In-Transit: TLS [URL_19] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_27] Deletion
+================================================================================

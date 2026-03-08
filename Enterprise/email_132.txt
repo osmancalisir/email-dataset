@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #132  |  BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+================================================================================
+DATE:        Sunday, February 22, 2026 at 07:39 PM
+FROM:        Odessa Castleberry <ocastleberry@verdantfood&.com>
+TO:          Ingrid Caldwell <icaldwell@verdantfood&.com>
+SUBJECT:     CONFIDENTIAL: M&A Due Diligence Update – Project ATLAS
+REFERENCE:   HDJ-7057-5480Q
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Celestine,
+
+This update pertains to the ongoing due diligence for the potential acquisition of SilverBridge Consulting (codename: Project ATLAS). All materials fall under NDA Ref: CSL-3580-J05AI, executed February 19, 2026.
+
+Transaction Reference: BCN-5258-U20F2
+Buy-Side Advisor: Vortex Tech Industries | Legal Counsel: Stephanie Okafor
+Process Stage: Round Final | Final Bid Deadline: May 31, 2026
+
+DUE DILIGENCE WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Escalated           Constance Thornton  8933
+Legal & Regulatory DD    Not Started         Alistair Delacroix  9609
+Commercial DD            Under Review        Elise Rasmussen  2931
+IT & Cybersecurity DD    Not Started         Sebastian Zalewski  6897
+HR & People DD           Under Review        Patrick Strauss  3537
+Tax Structuring          Not Started         Brian Thornton   2123
+──────────────────────────────────────────────────────
+
+CRITICAL OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-1681: Unresolved litigation — SilverBridge Consulting vs. Stephanie Okafor (Case Ref: LB490599). Contingent liability: USD 125,581. Adverse outcome probability: 10.7%.
+
+OI-7488: Revenue concentration — top 8492 customers = 33.89% of SilverBridge Consulting revenue. Key account Constance Thornton (Acct: MO575338) renews March 18, 2026 with no confirmation yet.
+
+OI-3104: Pension deficit of USD 796,290 not disclosed in management accounts (Actuarial Ref: WX000745).
+
+OI-3027: 2.24% of server estate running end-of-life OS (Ref: SEC-GZ546569). Remediation cost: USD 3,396,495.
+
+VALUATION SENSITIVITY
+  Base Case Offer:          USD 1,697,728   (EV/EBITDA: 6.4x)
+  Bear Case (risks priced): USD 16,218,078   (EV/EBITDA: 6.0x)
+  Walk-Away Price:          USD 135,118   (EV/EBITDA: 4.9x)
+
+NEXT STEPS
+  Management presentation:    March 28, 2026 — Hong Kong
+  Final bid submission:        June 03, 2026
+  Exclusivity request:         April 06, 2026
+
+REFERENCED ATTACHMENTS
+  • DD_Issues_Log_ProjectATLAS_Wk8886_XQH-4695-N51RW.xlsx
+  • Financial_Model_v8933_GM297753_CONFIDENTIAL.xlsx
+  • Legal_Summary_YV386414_PRIVILEGED.pdf
+
+No information herein may be shared with SilverBridge Consulting management without Deal Committee consent.
+
+Elise Rasmussen
+Chief Operating Officer | Finance & Treasury | Tidal Basin Ventures
+Deal Room Access: YU056604  |  Direct: +1 (212) 9609-2931
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+Handling Protocol: REF-HDJ-7057-5480Q | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+This update pertains to the ongoing due [PERSON_14] for the potential acquisition of [PERSON_7] Consulting (codename: Project ATLAS). All materials fall under NDA Ref: [PERSON_5], executed February 19, 2026.
+
+Transaction [PERSON_12]: BCN-5258-U20F2
+[PERSON_20] Advisor: Vortex Tech Industries | Legal Counsel: [PERSON_3]
+Process [PERSON_41]: Round Final | Final Bid [PERSON_22]: May 31, 2026
+
+DUE [PERSON_14] WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Escalated           [PERSON_9] Thornton  8933
+Legal & Regulatory DD    Not Started         [PERSON_17] Delacroix  9609
+Commercial DD            Under Review        [PERSON_4]  2931
+IT & Cybersecurity DD    Not Started         [PERSON_10] [PERSON_25]  6897
+HR & [PERSON_35] DD           Under Review        [PERSON_27] Strauss  3537
+Tax Structuring          Not Started         [PERSON_40] Thornton   2123
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-1681: Unresolved litigation — [PERSON_7] Consulting vs. [PERSON_2] Ref: LB490599). Contingent liability: [AMOUNT_1]. [PERSON_30] outcome probability: [URL_1]%.
+
+OI-7488: [PERSON_31] concentration — top 8492 customers = [URL_2]% of [PERSON_7] Consulting revenue. Key account [PERSON_1]: MO575338) renews March 18, 2026 with no confirmation yet.
+
+OI-3104: Pension deficit of [AMOUNT_2] not disclosed in management accounts (Actuarial Ref: WX000745).
+
+OI-3027: [URL_3]% of server estate running end-of-life OS (Ref: SEC-GZ546569). Remediation cost: [AMOUNT_3].
+
+VALUATION [FINANCIAL_2]
+  [PERSON_49] [PERSON_48] Offer:          [AMOUNT_4]   ([PERSON_15]: [URL_4])
+  Bear [PERSON_48] (risks priced): [AMOUNT_5]   ([PERSON_15]: [URL_5])
+  Walk-Away [PERSON_44]:          [AMOUNT_6]   ([PERSON_15]: [URL_6])
+
+NEXT STEPS
+  Management presentation:    March 28, 2026 — Hong Kong
+  Final bid submission:        [PERSON_51] 03, 2026
+  Exclusivity request:         April 06, 2026
+
+REFERENCED [FINANCIAL_3]
+  • DD_Issues_Log_ProjectATLAS_Wk8886_[URL_7]
+  • Financial_Model_v8933_GM297753_[URL_8]
+  • Legal_Summary_YV386414_[URL_9]
+
+No information herein may be shared with [PERSON_7] Consulting management without Deal [PERSON_16] consent.
+
+[PERSON_4]
+Chief Operating Officer | [PERSON_33] & Treasury | Tidal Basin Ventures
+Deal Room Access: YU056604  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL [CALLSIGN_1]
+Handling Protocol: REF-HDJ-[PHONE_2]Q | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_39] Deletion
+================================================================================

@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #144  |  RESTRICTED – CREDIT RISK COMMITTEE ONLY
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Lionel Nakamura <lnakamura@cascadiareal.com>
+TO:          Tanya Morozova <tmorozova@cascadiareal.com>
+SUBJECT:     CONFIDENTIAL: Counterparty Credit Exposure Review – Q1
+REFERENCE:   QAS-0269-2BPYG
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Monique,
+
+I am forwarding the quarterly counterparty credit exposure review for the period ending February 07, 2026. This is classified RESTRICTED and requires review by the Credit Risk Committee before the May 27, 2026 board presentation.
+
+Review Reference: NQZ-8335-98TY4 | Rating Agency: S&P Global Ratings | Credit Committee: June 05, 2026
+
+TOP-10 COUNTERPARTY EXPOSURES (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  Exposure (USD)    Limit (USD)    Utilisation
+   1  Crestview Hospitality Group B+            58,143         66,354   87.6%
+   2  Titan Manufacturing Co   BB-          313,289        390,447   80.2%
+   3  Wavecrest Biotechnology  B+           102,565        132,501   77.4%
+   4  Granite Peak Resources   A+           123,824        148,371   83.5%
+   5  Clearwater Mining Corp   BB            63,671         81,347   78.3%
+   6  Helix Biomedical Inc     BB           328,835        265,131   124.0%
+   7  Harborview Shipping      AA         6,882,742      8,328,384   82.6%
+   8  Castleton Chemicals      BB            57,308         71,635   80.0%
+   9  Granite Peak Resources   A            113,263        119,884   94.5%
+  10  Ember Analytics Inc      AAA       15,968,045     20,658,138   77.3%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO EXPOSURE:   USD 24,011,685   |   LIMIT BREACHES: 1
+
+LIMIT BREACH ESCALATION (REQUIRED)
+  Breach B-0358: Crestview Hospitality Group — -12.4% over limit. Reduce by April 24, 2026 or seek Credit Committee waiver (Ref: NP131139).
+  Breach B-2987: Wavecrest Biotechnology — rating downgrade on February 06, 2026 from A- to B+. Limit review recommended.
+
+WATCH LIST (CREDIT COMMITTEE ONLY)
+  Titan Manufacturing Co: Negative outlook March 04, 2026. CDS spread widened 1523bps to 10bps. Recommend limit reduction by May 08, 2026.
+  Castleton Chemicals: Covenant breach Q1 — Leverage 1.5x vs. covenant 0.8x. Exposure USD 57,308. Legal reviewing cross-default (Ref: OVR-2282-5F71O).
+
+EXPECTED CREDIT LOSS (ECL) PROVISIONING
+  Stage 1 (12-month ECL):     USD 13,228,029
+  Stage 2 (Lifetime ECL):     USD 106,624
+  Stage 3 (Credit-Impaired):  USD 1,545,292
+  Total ECL Provision:        USD 14,879,945  (Coverage: 6.81%)
+
+REFERENCED ATTACHMENTS
+  • Counterparty_Exposure_Report_SUD-0066-KAT20_RESTRICTED.pdf
+  • ECL_Model_Q1_DA530650.xlsx
+  • Watch_List_Detail_UK247845_CONFIDENTIAL.pdf
+
+Submit limit waiver votes via portal CRP-5414 by March 15, 2026.
+
+Fletcher Rasmussen
+Head of Strategic Partnerships | Supply Chain Management | SilverBridge Consulting
+Credit Risk Hotline: +1 (800) 6372-9881  |  Badge: BU338508
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nakamura's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK COMMITTEE ONLY
+Handling Protocol: REF-QAS-0269-2BPYG | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_14],
+
+I am forwarding the quarterly counterparty credit [PERSON_8] review for the period ending February 07, 2026. This is classified RESTRICTED and requires review by the Credit Risk [PERSON_4] before the May 27, 2026 board presentation.
+
+Review [PERSON_5]: NQZ-8335-98TY4 | Rating Agency: S&P Global Ratings | Credit [PERSON_4]: [PERSON_32] 05, 2026
+
+[MIL_PLATFORM_1] COUNTERPARTY [FINANCIAL_1]S (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  [PERSON_8] (USD)    Limit (USD)    Utilisation
+   1  Crestview Hospitality Group B+            58,143         66,354   [URL_1]%
+   2  [COMPANY_1]   BB-          313,289        390,447   [URL_2]%
+   3  Wavecrest Biotechnology  B+           102,565        132,501   [URL_3]%
+   4  [PERSON_16] Peak Resources   A+           123,824        148,371   [URL_4]%
+   5  [COMPANY_2]   BB            63,671         81,347   [URL_5]%
+   6  [COMPANY_3]     BB           328,835        265,131   [URL_6]%
+   7  Harborview Shipping      AA         6,882,742      8,328,384   [URL_7]%
+   8  Castleton Chemicals      BB            57,308         71,635   [URL_8]%
+   9  [PERSON_16] Peak Resources   A            113,263        119,884   [URL_9]%
+  10  [COMPANY_4]      AAA       15,968,045     20,658,138   [URL_10]%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO [PERSON_8]:   [AMOUNT_1]   |   LIMIT [FINANCIAL_2]: 1
+
+LIMIT BREACH ESCALATION ([FINANCIAL_3])
+  Breach B-0358: Crestview Hospitality Group — -[URL_11]% over limit. [PERSON_24] by April 24, 2026 or seek Credit [PERSON_4] waiver (Ref: NP131139).
+  Breach B-2987: Wavecrest Biotechnology — rating downgrade on February 06, 2026 from A- to B+. Limit review recommended.
+
+WATCH LIST (CREDIT [PERSON_4] ONLY)
+  [COMPANY_1]: [PERSON_9] outlook March 04, 2026. CDS spread widened 1523bps to 10bps. Recommend limit reduction by May 08, 2026.
+  Castleton Chemicals: Covenant breach Q1 — [PERSON_10] [URL_12] vs. covenant [URL_13]. [PERSON_8] [AMOUNT_2]. Legal reviewing cross-default (Ref: OVR-2282-5F71O).
+
+[FINANCIAL_4] CREDIT LOSS (ECL) PROVISIONING
+  [PERSON_29] 1 (12-month ECL):     [AMOUNT_3]
+  [PERSON_29] 2 ([PERSON_11] ECL):     [AMOUNT_4]
+  [PERSON_29] 3 (Credit-Impaired):  [AMOUNT_5]
+  Total ECL Provision:        [AMOUNT_6]  ([PERSON_12]: [URL_14]%)
+
+REFERENCED [FINANCIAL_5]
+  • Counterparty_[FINANCIAL_1]_Report_SUD-0066-KAT20_[URL_15]
+  • ECL_Model_Q1_[URL_16]
+  • Watch_List_Detail_UK247845_[URL_17]
+
+Submit limit waiver votes via portal CRP-5414 by March 15, 2026.
+
+[PERSON_1]
+Head of Strategic Partnerships | Supply Chain Management | [PERSON_2] Consulting
+Credit Risk [PERSON_21]: [PHONE_1]  |  [PERSON_30]: BU338508
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_13]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK [PERSON_4] ONLY
+Handling Protocol: [CONTRACT_1]-2BPYG | Encrypted In-Transit: TLS [URL_18] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_26] Deletion
+================================================================================

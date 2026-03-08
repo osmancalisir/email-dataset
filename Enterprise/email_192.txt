@@ -1,0 +1,140 @@
+================================================================================
+EMAIL #192  |  BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Brian Szymanski <bszymanski@polariswealt.com>
+TO:          Howard Thornton <hthornton@polariswealt.com>
+SUBJECT:     CONFIDENTIAL: Pension & Benefits Liability Review – FY2023
+REFERENCE:   ZLY-2327-PVBGH
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Miriam,
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: VWV-9424-V712H) under strict confidentiality per Employee Benefits Policy EBP-8227. Do not share with the Trustee Board or employee representatives until Board approval is obtained.
+
+Actuarial Firm: Goldstone Infrastructure (Lead Actuary: Philippa Nguyen) | Measurement Date: February 16, 2026
+Next Trustee Meeting: May 18, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+Scheme                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Sterling Automotive_Main Scheme              6,609,750         5,376,014            -1,233,736
+Sterling Automotive_Legacy Scheme              403,551           333,428               -70,123
+Sterling Automotive_Executive SERP           7,853,817         4,896,074            -2,957,743
+──────────────────────────────────────────────────────
+TOTAL                         14,867,118        10,605,516            -4,261,602
+Funded Ratio:               71.3%
+
+KEY ACTUARIAL ASSUMPTIONS
+  Discount Rate:               16.94%  (Prior Year: 3.6%)
+  Expected Return on Assets:   36.77%
+  CPI Inflation:               29.03%
+  Salary Growth Rate:          24.77%
+  Mortality Table:             DAV 2018T (Germany)
+  Assumed Retirement Age:      62
+
+SENSITIVITY ANALYSIS (100bps impact)
+  Discount Rate +100bps:    USD -2,223,455 on PBO
+  Discount Rate -100bps:    USD +1,924,367 on PBO
+  Inflation +100bps:        USD -664,253 on PBO
+
+PROPOSED CONTRIBUTION SCHEDULE (PENDING TRUSTEE AGREEMENT)
+  FY2023:    USD 63,541
+  FY2024:  USD 262,924
+  FY2025:  USD 113,451
+  Annual Expenses & Levy:   USD 779,754
+  Total 3-Year Commitment:  USD 1,219,670
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-0787: Bulk annuity buy-in with Evergreen Real Estate Fund — indicative premium USD 14,739,981 (Ref: DV704542)
+  Option LM-9841: Longevity swap — notional USD 1,439,948 (Counterparty: Solaris Renewable Energy)
+  Option LM-1323: Enhanced transfer value exercise — budget USD 106,689, targeting 2963 members
+
+REFERENCED ATTACHMENTS
+  • Actuarial_Valuation_RMD-3706-0SYY1_BOARD_RESTRICTED.pdf
+  • Funded_Status_Model_DH427530.xlsx
+  • Buy-In_Quotation_NC217349_CONFIDENTIAL.pdf
+
+All queries to Philippa Nguyen only. Do not discuss with HR or line management until Board has approved communication strategy.
+
+Yolanda Caldwell
+Chief Technology Officer | Human Capital | Sterling Automotive
+Secure Line: +1 (212) 4338-8107  |  Benefits ID: XE036289
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Szymanski's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+Handling Protocol: REF-ZLY-2327-PVBGH | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_26],
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: VWV-9424-V712H) under strict confidentiality per [PERSON_14] [FINANCIAL_7] Policy EBP-8227. Do not share with the [PERSON_22] Board or [PERSON_14] representatives until Board approval is obtained.
+
+Actuarial Firm: [PERSON_9] [PERSON_5] (Lead Actuary: [PERSON_4]) | Measurement Date: February 16, 2026
+Next [PERSON_22] Meeting: May 18, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_28]                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Sterling Automotive_Main [PERSON_28]              6,609,750         5,376,014            -1,233,736
+Sterling Automotive_Legacy [PERSON_28]              403,551           333,428               -70,123
+Sterling [PERSON_1] SERP           7,853,817         4,896,074            -2,957,743
+──────────────────────────────────────────────────────
+TOTAL                         14,867,118        10,605,516            -4,261,602
+Funded Ratio:               [URL_1]%
+
+KEY ACTUARIAL [FINANCIAL_1]
+  Discount [PERSON_35]:               [URL_2]%  (Prior Year: [URL_3]%)
+  Expected Return on Assets:   [URL_4]%
+  CPI Inflation:               [URL_5]%
+  Salary Growth [PERSON_35]:          [URL_6]%
+  Mortality [PERSON_32]:             DAV 2018T (Germany)
+  Assumed Retirement Age:      62
+
+[FINANCIAL_2] [FINANCIAL_3] (100bps impact)
+  Discount [PERSON_35] +100bps:    USD -2,223,455 on PBO
+  Discount [PERSON_35] -100bps:    USD +1,924,367 on PBO
+  Inflation +100bps:        USD -664,253 on PBO
+
+[FINANCIAL_4] CONTRIBUTION [PERSON_17] (PENDING [PERSON_22] AGREEMENT)
+  FY2023:    [AMOUNT_1]
+  FY2024:  [AMOUNT_2]
+  FY2025:  [AMOUNT_3]
+  Annual Expenses & Levy:   [AMOUNT_4]
+  Total 3-Year Commitment:  [AMOUNT_5]
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-0787: Bulk annuity buy-in with Evergreen Real [PERSON_29] Fund — indicative premium [AMOUNT_6] (Ref: DV704542)
+  Option LM-9841: Longevity swap — notional [AMOUNT_7] (Counterparty: Solaris [PERSON_10] Energy)
+  Option LM-1323: Enhanced transfer value exercise — budget [AMOUNT_8], targeting 2963 members
+
+REFERENCED [FINANCIAL_6]
+  • Actuarial_Valuation_RMD-3706-0SYY1_BOARD_[URL_7]
+  • Funded_Status_Model_[URL_8]
+  • Buy-In_Quotation_NC217349_[URL_9]
+
+All queries to [PERSON_4] only. Do not discuss with HR or [PERSON_38] management until Board has approved communication strategy.
+
+[PERSON_3]
+[APPROVAL_CODE_2] | Sterling [PERSON_7]
+[PERSON_30] [PERSON_38]: [PHONE_1]  |  [FINANCIAL_7] ID: XE036289
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_12]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & [FINANCIAL_7] [PERSON_13] ONLY
+Handling Protocol: [CONTRACT_1]-PVBGH | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_30] Deletion
+================================================================================

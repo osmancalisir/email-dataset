@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #095  |  STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+================================================================================
+DATE:        Sunday, February 22, 2026 at 07:39 PM
+FROM:        Stephanie Patel <spatel@emberanalyti.com>
+TO:          Gregory Delacroix <gdelacroix@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: Product Quality Incident – SKU KS229320 / Ref CPS-7748-HGZLH
+REFERENCE:   CUK-1480-KZMFZ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Raymond,
+
+I am issuing this communication under Quality Crisis Protocol QCP-3776. A potential product quality issue has been identified that may necessitate a voluntary recall. This is STRICTLY CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+Incident Reference: CPS-7748-HGZLH
+Product: ClearFlow Water Treatment Module (SKU: KS229320, Batch: KV449204)
+Issue Identified: February 20, 2026 | Regulatory Authority: Health Canada
+External Counsel: Amberfield Consumer Goods (Ref: OF472455) | PR Advisor: Meridian Capital Group (Ref: GD664013)
+
+INCIDENT SCOPE
+──────────────────────────────────────────────────────
+Nature of Defect:            labelling error — incorrect dosage instructions
+Affected Batches:            KV449204 through TY401436 (Production: February 13, 2026 – February 27, 2026)
+Units Distributed:           7,493
+Units in Field (est.):       3,883
+Geographic Markets:          France, Australia, Japan
+Adverse Events Reported:     2806 (Severity: Mild — no serious AEs)
+──────────────────────────────────────────────────────
+
+FINANCIAL EXPOSURE (BOARD ONLY)
+  Direct Recall Costs (est.):        USD      3,202,465
+  Customer Compensation Reserve:     USD      3,298,302
+  Lost Revenue (3101 weeks):       USD         66,273
+  Litigation Reserve (Ref: CEK-3712-EFIX8):   USD     14,079,209
+  Insurance Recovery (Policy NW571000): USD      3,740,609
+  Net Exposure:                       USD     16,905,640
+
+REGULATORY STRATEGY OPTIONS (ATTORNEY-CLIENT PRIVILEGED)
+  Option R-1: Voluntary recall — notify regulator by May 11, 2026 (Counsel: Sebastian Blankenship)
+  Option R-2: Targeted market withdrawal — batches KV449204/TY401436 in France only
+  Option R-3: Corrective action without recall — enhanced monitoring 9576 months
+  Recommended: Option R-3 (pending Board approval — Ref: EQI-3943-GO12J)
+
+OPERATIONAL ACTIONS
+  OA-5423  Production halt on Line 4549      Monique Mwangi        Initiated     April 28, 2026
+  OA-2505  Quarantine inventory at DC CF515006     Philippa Okonkwo      Escalated     April 04, 2026
+  OA-3801  Root cause investigation              Kwame Nkrumah         Complete      March 31, 2026
+  OA-8846 Customer hold notifications           Natalie Ellison       In Progress   June 05, 2026
+
+REFERENCED ATTACHMENTS
+  • Quality_Incident_Report_CPS-7748-HGZLH_QCP-3776.pdf
+  • Batch_Distribution_Analysis_KV449204_TY401436.xlsx
+  • Recall_Cost_Model_TU874207_CONFIDENTIAL.xlsx
+
+Board emergency call: April 15, 2026 at 07:00 EST. No action prior to Board alignment.
+
+Yolanda Yamamoto
+Director of Corporate Finance | Tax & Regulatory | Solaris Renewable Energy
+Quality Crisis Hotline: +1 (800) 1737-3776  |  Incident ID: KS229320
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Patel's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: REF-CUK-1480-KZMFZ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+I am issuing this communication under Quality Crisis Protocol QCP-3776. A potential product quality [PERSON_48] has been identified that may necessitate a voluntary recall. This is [FINANCIAL_1] CONFIDENTIAL until legal, regulatory, and communications strategies are finalised.
+
+[FINANCIAL_2] [PERSON_7]: CPS-7748-HGZLH
+Product: ClearFlow Water Treatment [PERSON_33] (SKU: KS229320, Batch: KV449204)
+[PERSON_48] Identified: February 20, 2026 | Regulatory Authority: Health [PERSON_34]
+External Counsel: Amberfield Consumer Goods (Ref: OF472455) | PR Advisor: Meridian Capital Group (Ref: GD664013)
+
+[FINANCIAL_2] [PERSON_49]
+──────────────────────────────────────────────────────
+[PERSON_35] of Defect:            labelling error — incorrect dosage instructions
+Affected Batches:            KV449204 through TY401436 (Production: February 13, 2026 – February 27, 2026)
+Units Distributed:           7,493
+Units in Field (est.):       3,883
+Geographic Markets:          [PERSON_36], [PERSON_8], Japan
+[PERSON_22] Events Reported:     2806 (Severity: Mild — no serious AEs)
+──────────────────────────────────────────────────────
+
+FINANCIAL [PERSON_16] (BOARD ONLY)
+  Direct Recall Costs (est.):        [AMOUNT_1]
+  Customer Compensation [PERSON_24]:     [AMOUNT_2]
+  Lost [PERSON_25] (3101 weeks):       [AMOUNT_3]
+  Litigation [PERSON_24] (Ref: CEK-3712-EFIX8):   [AMOUNT_4]
+  [PERSON_9] Recovery (Policy NW571000): [AMOUNT_5]
+  Net [PERSON_16]:                       [AMOUNT_6]
+
+REGULATORY [FINANCIAL_4] OPTIONS ([FINANCIAL_5]-CLIENT PRIVILEGED)
+  Option [MIL_PLATFORM_1]: Voluntary recall — notify regulator by May 11, 2026 (Counsel: [PERSON_3])
+  Option [MIL_PLATFORM_2]: Targeted market withdrawal — batches KV449204/TY401436 in [PERSON_36] only
+  Option [MIL_PLATFORM_3]: [PERSON_5] action without recall — enhanced monitoring 9576 months
+  Recommended: Option [MIL_PLATFORM_3] (pending Board approval — Ref: EQI-3943-GO12J)
+
+[FINANCIAL_6] ACTIONS
+  OA-5423  Production halt on [PERSON_59] 4549      [PERSON_1]     April 28, 2026
+  OA-2505  [PERSON_6] inventory at DC CF515006     [PERSON_18] Okonkwo      Escalated     April 04, 2026
+  OA-3801  Root cause investigation              [PERSON_53] Nkrumah         [PERSON_19]      March 31, 2026
+  OA-8846 Customer hold notifications           [PERSON_2] Progress   [PERSON_61] 05, 2026
+
+REFERENCED [FINANCIAL_7]
+  • Quality_[FINANCIAL_2]_Report_CPS-7748-HGZLH_[URL_1]
+  • Batch_Distribution_Analysis_KV449204_[URL_2]
+  • Recall_Cost_Model_TU874207_[URL_3]
+
+Board emergency call: April 15, 2026 at 07:00 EST. No action prior to Board alignment.
+
+[PERSON_4]
+Director of [PERSON_12] [PERSON_31] | Tax & Regulatory | Solaris [PERSON_13] Energy
+Quality Crisis [PERSON_32]: [PHONE_1]  |  [FINANCIAL_2] ID: KS229320
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Patel's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – BOARD & LEGAL COUNSEL ONLY
+Handling Protocol: [CONTRACT_1]-KZMFZ | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_4] Policy: 7 Years | Destruction Method: Certified [PERSON_46] Deletion
+================================================================================

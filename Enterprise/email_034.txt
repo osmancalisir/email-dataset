@@ -1,0 +1,126 @@
+================================================================================
+EMAIL #034  |  RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Alicia Oduya <aoduya@wavecrestbio.com>
+TO:          Derek Beaumont <dbeaumont@wavecrestbio.com>
+SUBJECT:     CONFIDENTIAL: Regulatory Compliance Gap Report – Risk Management
+REFERENCE:   IWH-7994-WGQ4U
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Sandra,
+
+Following the internal compliance review (March 04, 2026 – March 03, 2026), I am forwarding the Regulatory Compliance Gap Report for the Audit & Risk Committee. Reference: GIX-5207-0K9OX.
+
+Scope: Risk Management | Frameworks Assessed: GDPR, HIPAA, FCPA
+Review Lead: Sandra Patel | External Auditor: Paragon Life Sciences (Engagement: JW540364)
+
+COMPLIANCE SCORECARD
+──────────────────────────────────────────────────────
+Overall Compliance Score:            24.1%  (Prior Period: 2.68%)
+Total Estimated Fine Exposure:       USD      5,736,426
+──────────────────────────────────────────────────────
+
+GAP REGISTER
+Priority    Gap ID        Description                                 Fine Exposure
+CRITICAL    GAP-4223    Data retention policy breach — 6139 records overdue for deletion  USD 103,858
+HIGH        GAP-7607    Vendor onboarding controls not applied to 9912 suppliers  USD 116,711
+HIGH        GAP-7172    Incomplete KYC documentation for 8226 counterparties  USD 714,591
+MEDIUM      GAP-7161    Segregation of duties violation in AP processing cycle  USD 3,953,212
+MEDIUM      GAP-9643    Missing dual-authorization on 9540 high-value transactions  USD 848,054
+
+CRITICAL FINDING DETAIL (GAP-4223)
+33.08% of transactions processed through system RU768407 between March 05, 2026 and February 16, 2026 lacked required dual-authorization controls (GDPR Section 9870.160). Affected volume: 8,638 transactions totalling USD 16,413,177. Voluntary disclosure submitted February 25, 2026 (Internal Ref: RTH-9081-SW28Y).
+
+REMEDIATION PLAN
+  ACT-9540  Fletcher Beaumont     Due: March 19, 2026  Budget: IU975132
+  ACT-8226  Yolanda Ellison       Due: March 25, 2026  Budget: QM125375
+  ACT-6139  Constance Chen        Due: April 09, 2026  Budget: BR007769
+  ACT-9912  Sandra Whitmore       Due: April 25, 2026  Budget: IQ010121
+
+REGULATORY ENGAGEMENT SCHEDULE
+  Regulator meeting (GDPR):   May 04, 2026
+  Internal Audit follow-up:         May 12, 2026
+  Board Audit Committee session:    April 18, 2026
+
+REFERENCED ATTACHMENTS
+  • Compliance_Gap_Report_NLJ-6505-4CJH7_RESTRICTED.pdf
+  • Transaction_Sample_Analysis_QK114995.xlsx
+  • Voluntary_Disclosure_Letter_RTH-9081-SW28Y.pdf
+
+Report must not be shared with operational line management until remediation ownership is formally assigned.
+
+Sandra Patel
+Chief Financial Officer | Risk Management | Polaris Wealth Advisors
+Compliance Hotline: +1 (800) 4223-7607  |  Badge: GA212979
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Oduya's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK COMMITTEE ONLY
+Handling Protocol: REF-IWH-7994-WGQ4U | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_24],
+
+Following the internal [PERSON_5] review (March 04, 2026 – March 03, 2026), I am forwarding the Regulatory [PERSON_5] Gap Report for the Audit & Risk Committee. [PERSON_9]: GIX-5207-0K9OX.
+
+[PERSON_28]: Risk Management | Frameworks Assessed: GDPR, [PERSON_29], [PERSON_37]
+Review Lead: [PERSON_4] | External Auditor: Paragon [PERSON_38] Sciences (Engagement: JW540364)
+
+[PERSON_5] SCORECARD
+──────────────────────────────────────────────────────
+Overall [PERSON_5] [PERSON_30]:            [URL_1]%  (Prior Period: [URL_2]%)
+Total Estimated [PERSON_40] [PERSON_14]:       [AMOUNT_1]
+──────────────────────────────────────────────────────
+
+GAP [FINANCIAL_1]
+Priority    Gap [IDNUMBER_1]                                 [PERSON_40] [PERSON_14]
+[FINANCIAL_2]    GAP-4223    Data retention policy breach — 6139 records overdue for deletion  [AMOUNT_2]
+HIGH        GAP-7607    Vendor onboarding controls not applied to 9912 suppliers  [AMOUNT_3]
+HIGH        GAP-7172    [PERSON_6] KYC documentation for 8226 counterparties  [AMOUNT_4]
+MEDIUM      GAP-7161    Segregation of duties violation in AP processing cycle  [AMOUNT_5]
+MEDIUM      GAP-9643    Missing dual-authorization on 9540 high-value transactions  [AMOUNT_6]
+
+[FINANCIAL_2] FINDING DETAIL (GAP-4223)
+[URL_3]% of transactions processed through system RU768407 between March 05, 2026 and February 16, 2026 lacked required dual-authorization controls (GDPR Section [URL_4]). Affected volume: 8,638 transactions totalling [AMOUNT_7]. Voluntary disclosure submitted February 25, 2026 (Internal Ref: RTH-9081-SW28Y).
+
+[FINANCIAL_3] PLAN
+  ACT-9540  [PERSON_11] Beaumont     Due: March 19, 2026  Budget: IU975132
+  ACT-8226  [PERSON_19] Ellison       Due: March 25, 2026  Budget: QM125375
+  ACT-6139  [PERSON_3]        Due: April 09, 2026  Budget: BR007769
+  ACT-9912  [PERSON_24] [PERSON_17]       Due: April 25, 2026  Budget: IQ010121
+
+REGULATORY ENGAGEMENT [PERSON_18]
+  Regulator meeting (GDPR):   May 04, 2026
+  Internal Audit follow-up:         May 12, 2026
+  Board Audit [PERSON_8] session:    April 18, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Compliance_Gap_Report_NLJ-6505-4CJH7_[URL_5]
+  • Transaction_Sample_Analysis_[URL_6]
+  • Voluntary_Disclosure_Letter_[URL_7]
+
+Report must not be shared with operational line management until [FINANCIAL_3] ownership is formally assigned.
+
+[PERSON_4]
+[APPROVAL_CODE_2] | Polaris Wealth Advisors
+[PERSON_5] [PERSON_23]: [PHONE_2]  |  [PERSON_32]: GA212979
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_33]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – AUDIT & RISK [PERSON_8] ONLY
+Handling Protocol: [PERSON_1] | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_26] Deletion
+================================================================================

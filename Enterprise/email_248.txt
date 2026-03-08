@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #248  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Brian Drummond <bdrummond@aurorasemico.com>
+TO:          Natalie Delacroix <ndelacroix@aurorasemico.com>
+SUBJECT:     CONFIDENTIAL: FY2023 Annual Budget & Capital Allocation Proposal
+REFERENCE:   VZU-3448-82R6B
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Adrienne,
+
+I am distributing the preliminary FY2023 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on May 07, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: ZAK-2630-45ILL | CFO Sponsor: Marcus Nkrumah | Prior Year Lock Date: March 05, 2026
+
+FY2023 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2023 Budget        FY2022 Actual      Variance
+Total Revenue           USD      6,574,950   USD      6,602,343     -0.4%
+Gross Profit            USD      3,538,288   USD      3,236,333     +0.0%
+EBITDA                  USD      1,738,821   USD      1,743,583    +13.4%
+EBIT                    USD      1,473,722   USD      1,543,616     +4.9%
+Net Income              USD        957,900   USD        963,772     +6.8%
+Capital Expenditure     USD        239,868   USD        229,500     +3.4%
+Free Cash Flow          USD      1,043,292   USD      1,067,141     -2.3%
+Net Debt (Year-End)     USD     13,178,916   USD     12,774,218     -5.3%
+──────────────────────────────────────────────────────
+EBITDA Margin: 27.72%  |  Gross Margin: 16.15%  |  FCF Conversion: 29.46%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 2)  USD 121,447  Medium  JR668847
+  New Manufacturing Line — Plant TR61       USD 6,204,735  Critical  FJ110626
+  ERP Enhancement — Module CX66             USD 3,342,457  High  GJ192739
+  Logistics Hub Expansion — Atlanta         USD 3,661,439  High  IW998544
+  Contingency Reserve (35.15%)              USD 84,313  N/A    IS469139
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 13.82% assumes 2927 new customer wins (Pipeline: VN751511) and 7.23% retention.
+  Headcount: net +7231 FTEs (8099 hires, 2897 attrition) — Ref: HC-0927.
+  Inflation: 6.49% on COGS, 37.48% on SG&A.
+  FX: USD/EUR 1.0706 | USD/GBP 0.7272 | USD/JPY 153.3 (Treasury Ref: NC073902).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Asia-Pacific Growth             Revenue: USD 223,514   EBITDA: USD 23,669   HC Cap: 1243
+  Technology & Digital            Revenue: USD 6,500,756   EBITDA: USD 1,332,173   HC Cap: 1854
+  EMEA Operations                 Revenue: USD 1,347,250   EBITDA: USD 258,008   HC Cap: 804
+  North America Commercial        Revenue: USD 15,632,154   EBITDA: USD 3,003,364   HC Cap: 927
+
+REFERENCED ATTACHMENTS
+  • FY2023_Budget_Model_NYS-9783-PY9RO_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_RZ870345_CONFIDENTIAL.pdf
+  • Division_Targets_HF243815_RESTRICTED.xlsx
+
+Provide comments to Marcus Nkrumah only by April 12, 2026. Budget Committee approval required by May 31, 2026.
+
+Vanessa Thistlethwaite
+Head of Strategic Partnerships | Legal & Compliance | Crestview Hospitality Group
+Budget Portal: EO124901  |  Direct: +1 (646) 5905-0413
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-VZU-3448-82R6B | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_14],
+
+I am distributing the preliminary FY2023 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_10] review on May 07, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_44] with [FINANCIAL_3]al finance teams or [PERSON_47] management at this stage.
+
+Budget [PERSON_11]: ZAK-2630-45ILL | CFO Sponsor: [PERSON_2] | Prior Year Lock Date: March 05, 2026
+
+FY2023 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_47] Item               FY2023 Budget        FY2022 Actual      [PERSON_17]
+Total [PERSON_22]           [AMOUNT_1]   [AMOUNT_2]     -[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_32]                  [AMOUNT_5]   [AMOUNT_6]    +[URL_3]%
+[PERSON_48]                    [AMOUNT_7]   [AMOUNT_8]     +[URL_4]%
+Net [PERSON_33]              [AMOUNT_9]   [AMOUNT_10]     +[URL_5]%
+Capital [PERSON_7]     [AMOUNT_11]   [AMOUNT_12]     +[URL_6]%
+[PERSON_49] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     -[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     -[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_32] Margin: [URL_9]%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_7] ALLOCATION
+  Digital [PERSON_3] [PERSON_23] ([PERSON_41] 2)  [AMOUNT_17]  Medium  JR668847
+  New Manufacturing [PERSON_47] — Plant TR61       [AMOUNT_18]  Critical  FJ110626
+  ERP Enhancement — [PERSON_34] CX66             [AMOUNT_19]  High  GJ192739
+  Logistics Hub Expansion — [PERSON_24]         [AMOUNT_20]  High  IW998544
+  Contingency [PERSON_25] ([URL_12]%)              [AMOUNT_21]  N/A    IS469139
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_22] growth [URL_13]% assumes 2927 new customer wins ([PERSON_18]: VN751511) and [URL_14]% retention.
+  Headcount: net +7231 FTEs (8099 hires, 2897 attrition) — Ref: HC-0927.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: NC073902).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_12] — DO NOT [PERSON_44] PRE-ALIGNMENT)
+  Asia-Pacific Growth             [PERSON_22]: [AMOUNT_24]   [PERSON_32]: [AMOUNT_25]   HC Cap: 1243
+  Technology & Digital            [PERSON_22]: [AMOUNT_26]   [PERSON_32]: [AMOUNT_27]   HC Cap: 1854
+  [PERSON_53] Operations                 [PERSON_22]: [AMOUNT_28]   [PERSON_32]: [AMOUNT_29]   HC Cap: 804
+  North [PERSON_27] Commercial        [PERSON_22]: [AMOUNT_30]   [PERSON_32]: [AMOUNT_31]   HC Cap: 927
+
+REFERENCED [FINANCIAL_4]
+  • FY2023_Budget_Model_NYS-9783-PY9RO_BOARD_[URL_20]
+  • CapEx_Project_Briefs_RZ870345_[URL_21]
+  • [FINANCIAL_3]_Targets_HF243815_[URL_20]
+
+[PERSON_28] comments to [PERSON_2] only by April 12, 2026. Budget [PERSON_10] approval required by May 31, 2026.
+
+[PERSON_1]
+Head of Strategic Partnerships | Legal & [PERSON_9] | Crestview Hospitality Group
+Budget Portal: EO124901  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_12], and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-82R6B | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_38] Deletion
+================================================================================

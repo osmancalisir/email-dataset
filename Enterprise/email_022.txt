@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #022  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Charles Thistlethwaite <cthistlethwaite@titanmanufac.com>
+TO:          Desmond Thornton <dthornton@titanmanufac.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Harborview Shipping
+REFERENCE:   TXQ-0635-EGTIF
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Dmitri,
+
+I am updating you on the franchise and distribution agreement negotiations with Harborview Shipping (ID: PX902586). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: IYJ-5864-G7152 | Territory: Eastern Europe
+Agreement Type: Master Franchise Agreement | External Counsel: Pinnacle Financial Services (Matter: UZ812993)
+Heads of Terms Signed: February 25, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v4558)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD      1,722,985
+Annual Renewal Fee:                    USD        342,276
+Royalty / Margin Rate:                 17.66% of Net Sales
+Minimum Annual Purchase Commitment:    USD      7,915,279  (Year 1); +15.06% p.a.
+Marketing Contribution:                22.76% of Net Sales (Co-op Fund: PQ911892)
+Exclusivity Period:                    6622 months
+Performance Milestone (Year 3):        USD        129,203 cumulative revenue
+Breach Penalty / Clawback:             USD        131,199 or 11.13% of initial fee
+Term:                                  5379 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Harborview Shipping Credit Rating:       BBB+
+  Last Filed Revenue (FY2024): USD 13,663,089
+  Net Worth (est.):            USD 1,320,504
+  Bank Reference (Vortex Tech Industries):      Satisfactory with comments
+  Director Background Check:   Clear (Ref: CE079694)
+  Litigation Search:           Clear
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH HARBORVIEW SHIPPING)
+  CP-2965: Harborview Shipping seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for Vortex Tech Industries expansion.
+  CP-9804: Sub-franchising rights — accept affiliates-only with 26.61% override royalty (Clause: QG036717).
+  CP-2498: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by June 01, 2026 (Ref: CC-8255)
+  ☐  Legal final review — by April 05, 2026 (Counsel: Pinnacle Financial Services)
+  ☐  Brand & IP Committee — territory approval (Ref: FK512548)
+  ☐  CFO — minimum royalty exception if required (Ref: SM779523)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v4558_IYJ-5864-G7152_CONFIDENTIAL.pdf
+  • Harborview Shipping_Financial_Assessment_KC569092.pdf
+  • Territory_Map_QN658885.pdf
+
+Negotiation session scheduled: June 01, 2026 — Venue details via secure channel.
+
+Stephanie Nkrumah
+Chief Technology Officer | Procurement | Mosaic Digital Solutions
+Commercial Committee ID: PX902586  |  Direct: +1 (312) 9003-4537
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Thistlethwaite's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-TXQ-0635-EGTIF | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_22],
+
+I am updating you on the [PERSON_8] and distribution agreement [FINANCIAL_2]s with Harborview [FINANCIAL_3] (ID: PX902586). This is classified RESTRICTED – COMMERCIAL [PERSON_6] ONLY. Do not [PERSON_30] with regional operations until terms are finalised.
+
+[FINANCIAL_2] [PERSON_7]: IYJ-5864-G7152 | Territory: Eastern [PERSON_23]
+Agreement Type: Master [PERSON_8] Agreement | External Counsel: [PERSON_14] Financial Services (Matter: UZ812993)
+Heads of Terms Signed: February 25, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v4558)
+──────────────────────────────────────────────────────
+Initial [PERSON_8] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_34]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_15] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: PQ911892)
+Exclusivity Period:                    6622 months
+[PERSON_4] [PERSON_9] (Year 3):        [AMOUNT_4] cumulative [PERSON_20]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  5379 years, renewable on [PERSON_4]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Harborview [FINANCIAL_3] Credit Rating:       BBB+
+  Last Filed [PERSON_20] (FY2024): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_7] (Vortex Tech Industries):      Satisfactory with comments
+  Director Background Check:   Clear (Ref: CE079694)
+  Litigation Search:           Clear
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_30] WITH HARBORVIEW [FINANCIAL_3])
+  CP-2965: Harborview [FINANCIAL_3] seeks right of first refusal on adjacent territory. Position: [PERSON_21] — reserved for Vortex Tech Industries expansion.
+  CP-9804: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_26]: QG036717).
+  CP-2498: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_4] APPROVALS
+  ☐  Commercial [PERSON_6] sign-off — by [PERSON_36] 01, 2026 (Ref: CC-8255)
+  ☐  Legal final review — by April 05, 2026 (Counsel: [PERSON_14] Financial Services)
+  ☐  Brand & IP [PERSON_6] — territory approval (Ref: FK512548)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_4] (Ref: SM779523)
+
+REFERENCED [FINANCIAL_5]
+  • Franchise_Agreement_Draft_v4558_IYJ-5864-G7152_[URL_7]
+  • Harborview [FINANCIAL_3]_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: [PERSON_36] 01, 2026 — [PERSON_32] details via [PERSON_27] channel.
+
+[PERSON_1]
+[APPROVAL_CODE_2] | Mosaic Digital Solutions
+Commercial [PERSON_6] ID: PX902586  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_2]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-EGTIF | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_27] Deletion
+================================================================================

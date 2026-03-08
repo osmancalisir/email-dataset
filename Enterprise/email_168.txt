@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #168  |  BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, March 04, 2026 at 07:39 PM
+FROM:        Philippa Caldwell <pcaldwell@blackridgelo.com>
+TO:          Piers Lindqvist <plindqvist@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: Strategic Divestiture Update – Project DELPHI
+REFERENCE:   GRI-1965-4OUSZ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alicia,
+
+This update pertains to the proposed divestiture of the Procurement division (Project DELPHI, Ref: VXA-8636-7IM8O). This is classified BOARD-RESTRICTED and shared exclusively with the Divestiture Steering Committee.
+
+Process Advisor: Sunridge Energy Partners (Partner: Lavinia Blankenship) | Legal Counsel: Luminary Media Corp (Ref: QD493002)
+Process Stage: Second Round — Final Bids Received | LOI Deadline: April 08, 2026 | Expected Close: March 19, 2026
+
+BUSINESS UNIT SNAPSHOT (FY2023 ACTUALS)
+──────────────────────────────────────────────────────
+Revenue:                             USD      1,350,122
+EBITDA:                              USD      7,486,283  (33.71% margin)
+Net Assets:                          USD      3,848,968
+Headcount:                           3,100 FTEs
+Key Customers (9.72% of Revenue):  Sebastian Okafor, Oswald Strauss
+Key Contract Expiry:                 March 23, 2026 (Value: USD 56,530)
+──────────────────────────────────────────────────────
+
+BUYER UNIVERSE & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      Indicative Bid
+  Sunridge Energy Partners  Strategic    Signed        Round 2    USD 402,561
+  Luminary Media Corp     Financial    Signed        Round 2    USD 2,354,811
+  Vortex Tech Industries  Strategic    Signed        Round 1    USD 7,692,574
+  Nexpoint Data Centers   Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation Range:  USD 402,561 – USD 7,692,574  (EV/EBITDA: 5.3x – 9.3x)
+Board Minimum (RESTRICTED): USD 362,304
+
+KEY DIVESTITURE RISKS
+  Risk D-6117: Change-of-control clauses in 3945 contracts (Value: USD 14,835,954) — waivers required before close.
+  Risk D-4792: Pension segregation — employer debt on separation: USD 1,385,402 (Ref: LS719715).
+  Risk D-7229: IT carve-out — 6327 shared systems, TSA duration 9407 months, cost USD 850,749.
+  Risk D-2128: Key person retention — 1066 critical employees; retention budget USD 6,905,831 (Ref: UJZ-8890-Q2MEQ).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     Thaddeus Caldwell     Escalated        May 09, 2026
+  IT Carve-Out           Monique Castleberry   Scheduled        May 17, 2026
+  HR Separation          Philippa Drummond     On Hold          June 03, 2026
+  Finance Standalone     Lavinia Blankenship   Scheduled        April 02, 2026
+
+REFERENCED ATTACHMENTS
+  • CIM_ProjectDELPHI_UEF-1793-QR2CL_CONFIDENTIAL.pdf
+  • Financial_Model_BU_TY854627_v3771.xlsx
+  • Buyer_Tracking_Log_LZ798095_RESTRICTED.xlsx
+  • Separation_Plan_JS113006.pdf
+
+Next Steering Committee call: May 16, 2026 — Agenda: Round 2 bid analysis & preferred buyer selection.
+
+Patrick Westergaard
+Controller | Procurement | Wavecrest Biotechnology
+VDR Access Code: PQ591110  |  Direct: +1 (415) 5194-4194
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+Handling Protocol: REF-GRI-1965-4OUSZ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_29],
+
+This update pertains to the proposed [PERSON_7] of the Procurement division (Project [PERSON_30], Ref: VXA-8636-7IM8O). This is classified BOARD-RESTRICTED and shared exclusively with the [PERSON_7] [FINANCIAL_6] Committee.
+
+Process Advisor: [PERSON_16] Energy Partners (Partner: [PERSON_2]) | Legal Counsel: Luminary [PERSON_40] Corp (Ref: QD493002)
+Process [PERSON_41]: Second Round — Final Bids Received | LOI [PERSON_17]: April 08, 2026 | Expected [PERSON_42]: March 19, 2026
+
+[FINANCIAL_1] UNIT [FINANCIAL_2] (FY2023 ACTUALS)
+──────────────────────────────────────────────────────
+[PERSON_23]:                             [AMOUNT_1]
+[PERSON_33]:                              [AMOUNT_2]  ([URL_1]% margin)
+Net Assets:                          [AMOUNT_3]
+Headcount:                           3,100 FTEs
+Key Customers ([URL_2]% of [PERSON_23]):  [PERSON_5], [PERSON_6]
+Key Contract Expiry:                 March 23, 2026 (Value: [AMOUNT_4])
+──────────────────────────────────────────────────────
+
+BUYER [PERSON_18] & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      [PERSON_9] Bid
+  [PERSON_16] Energy Partners  Strategic    Signed        Round 2    [AMOUNT_5]
+  Luminary [PERSON_40] Corp     Financial    Signed        Round 2    [AMOUNT_6]
+  Vortex Tech Industries  Strategic    Signed        Round 1    [AMOUNT_7]
+  Nexpoint Data Centers   Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation [PERSON_43]:  [AMOUNT_5] – [AMOUNT_7]  ([PERSON_13]: [URL_3] – [URL_4])
+Board Minimum (RESTRICTED): [AMOUNT_8]
+
+KEY [PERSON_7] RISKS
+  Risk D-6117: Change-of-control clauses in 3945 contracts (Value: [AMOUNT_9]) — waivers required before close.
+  Risk D-4792: Pension segregation — employer debt on separation: [AMOUNT_10] (Ref: LS719715).
+  Risk D-7229: IT carve-out — 6327 shared systems, TSA duration 9407 months, cost [AMOUNT_11].
+  Risk D-2128: Key person retention — 1066 critical employees; retention budget [AMOUNT_12] (Ref: UJZ-8890-Q2MEQ).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     [PERSON_4]     Escalated        May 09, 2026
+  IT Carve-Out           [PERSON_1]   Scheduled        May 17, 2026
+  HR Separation          [PERSON_19] Drummond     On Hold          [PERSON_50] 03, 2026
+  [PERSON_28] [PERSON_10]     [PERSON_2]   Scheduled        April 02, 2026
+
+REFERENCED [FINANCIAL_5]
+  • CIM_ProjectDELPHI_UEF-1793-QR2CL_[URL_5]
+  • Financial_Model_BU_TY854627_[URL_6]
+  • Buyer_Tracking_Log_LZ798095_[URL_7]
+  • Separation_Plan_[URL_8]
+
+Next [FINANCIAL_6] [PERSON_11] call: May 16, 2026 — [PERSON_36]: Round 2 bid analysis & preferred buyer selection.
+
+[PERSON_3]
+Controller | Procurement | Wavecrest Biotechnology
+VDR Access Code: PQ591110  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [PERSON_7] [FINANCIAL_6] [PERSON_11] ONLY
+Handling Protocol: [CONTRACT_1]-4OUSZ | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_37] Deletion
+================================================================================

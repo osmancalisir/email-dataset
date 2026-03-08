@@ -1,0 +1,140 @@
+================================================================================
+EMAIL #217  |  BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Tanya Caruso <tcaruso@stratosenerg.com>
+TO:          Fitzroy Drummond <fdrummond@stratosenerg.com>
+SUBJECT:     CONFIDENTIAL: Pension & Benefits Liability Review – FY2024
+REFERENCE:   FFM-3233-PP4EJ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Priya,
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: MAV-3942-ATD12) under strict confidentiality per Employee Benefits Policy EBP-7664. Do not share with the Trustee Board or employee representatives until Board approval is obtained.
+
+Actuarial Firm: Redwood Asset Management (Lead Actuary: Sebastian Beaumont) | Measurement Date: February 12, 2026
+Next Trustee Meeting: April 29, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+Scheme                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Falcon Ridge Asset Management_Main Scheme              7,569,355         7,768,335              +198,980
+Falcon Ridge Asset Management_Legacy Scheme           20,897,403        19,155,964            -1,741,439
+Falcon Ridge Asset Management_Executive SERP          14,674,340        13,108,260            -1,566,080
+──────────────────────────────────────────────────────
+TOTAL                         43,141,098        40,032,559            -3,108,539
+Funded Ratio:               92.8%
+
+KEY ACTUARIAL ASSUMPTIONS
+  Discount Rate:               6.18%  (Prior Year: 12.42%)
+  Expected Return on Assets:   22.14%
+  CPI Inflation:               18.76%
+  Salary Growth Rate:          20.95%
+  Mortality Table:             DAV 2018T (Germany)
+  Assumed Retirement Age:      65
+
+SENSITIVITY ANALYSIS (100bps impact)
+  Discount Rate +100bps:    USD -4,811,539 on PBO
+  Discount Rate -100bps:    USD +540,701 on PBO
+  Inflation +100bps:        USD -578,799 on PBO
+
+PROPOSED CONTRIBUTION SCHEDULE (PENDING TRUSTEE AGREEMENT)
+  FY2024:    USD 17,095,604
+  FY2025:  USD 285,049
+  FY2026:  USD 3,065,270
+  Annual Expenses & Levy:   USD 106,669
+  Total 3-Year Commitment:  USD 20,552,592
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-2733: Bulk annuity buy-in with Cedarwood Pharmaceuticals — indicative premium USD 3,941,928 (Ref: VA552159)
+  Option LM-1796: Longevity swap — notional USD 59,790 (Counterparty: Wavecrest Biotechnology)
+  Option LM-3640: Enhanced transfer value exercise — budget USD 3,508,762, targeting 9855 members
+
+REFERENCED ATTACHMENTS
+  • Actuarial_Valuation_ACX-4319-RLGQH_BOARD_RESTRICTED.pdf
+  • Funded_Status_Model_ZA553556.xlsx
+  • Buy-In_Quotation_CE988399_CONFIDENTIAL.pdf
+
+All queries to Sebastian Beaumont only. Do not discuss with HR or line management until Board has approved communication strategy.
+
+Lavinia Abramowitz
+VP of Legal Affairs | Procurement | Falcon Ridge Asset Management
+Secure Line: +1 (212) 2984-8683  |  Benefits ID: BR615286
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & BENEFITS COMMITTEE ONLY
+Handling Protocol: REF-FFM-3233-PP4EJ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_18],
+
+I am forwarding the actuarial review findings for our defined benefit pension schemes (Ref: MAV-3942-ATD12) under strict confidentiality per [PERSON_7] [FINANCIAL_7] Policy EBP-7664. Do not share with the [PERSON_11] Board or [PERSON_7] representatives until Board approval is obtained.
+
+Actuarial Firm: Redwood Asset Management (Lead Actuary: [PERSON_3]) | Measurement Date: February 12, 2026
+Next [PERSON_11] Meeting: April 29, 2026 | Classification: BOARD-RESTRICTED – PRE-DECISIONAL
+
+PENSION FUNDED STATUS SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_15]                      PBO (USD)       Fair Value Assets    Surplus/(Deficit)
+Falcon [PERSON_20] Asset Management_Main [PERSON_15]              7,569,355         7,768,335              +198,980
+Falcon [PERSON_20] Asset Management_Legacy [PERSON_15]           20,897,403        19,155,964            -1,741,439
+Falcon [PERSON_20] Asset [PERSON_1] SERP          14,674,340        13,108,260            -1,566,080
+──────────────────────────────────────────────────────
+TOTAL                         43,141,098        40,032,559            -3,108,539
+Funded Ratio:               [URL_1]%
+
+KEY ACTUARIAL [FINANCIAL_1]
+  Discount [PERSON_24]:               [URL_2]%  (Prior Year: [URL_3]%)
+  Expected Return on Assets:   [URL_4]%
+  CPI Inflation:               [URL_5]%
+  Salary Growth [PERSON_24]:          [URL_6]%
+  Mortality [PERSON_21]:             DAV 2018T (Germany)
+  Assumed Retirement Age:      65
+
+[FINANCIAL_2] [FINANCIAL_3] (100bps impact)
+  Discount [PERSON_24] +100bps:    USD -4,811,539 on PBO
+  Discount [PERSON_24] -100bps:    USD +540,701 on PBO
+  Inflation +100bps:        USD -578,799 on PBO
+
+[FINANCIAL_4] CONTRIBUTION [PERSON_8] (PENDING [PERSON_11] AGREEMENT)
+  FY2024:    [AMOUNT_1]
+  FY2025:  [AMOUNT_2]
+  FY2026:  [AMOUNT_3]
+  Annual Expenses & Levy:   [AMOUNT_4]
+  Total 3-Year Commitment:  [AMOUNT_5]
+
+LIABILITY MANAGEMENT OPTIONS (BOARD ONLY)
+  Option LM-2733: Bulk annuity buy-in with Cedarwood Pharmaceuticals — indicative premium [AMOUNT_6] (Ref: VA552159)
+  Option LM-1796: Longevity swap — notional [AMOUNT_7] (Counterparty: Wavecrest Biotechnology)
+  Option LM-3640: Enhanced transfer value exercise — budget [AMOUNT_8], targeting 9855 members
+
+REFERENCED [FINANCIAL_6]
+  • Actuarial_Valuation_ACX-4319-RLGQH_BOARD_[URL_7]
+  • Funded_Status_Model_[URL_8]
+  • Buy-In_Quotation_CE988399_[URL_9]
+
+All queries to [PERSON_3] only. Do not discuss with HR or [PERSON_26] management until Board has approved communication strategy.
+
+[PERSON_4]
+VP of Legal Affairs | Procurement | Falcon [PERSON_20] Asset Management
+[PERSON_17] [PERSON_26]: [PHONE_1]  |  [FINANCIAL_7] ID: BR615286
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – ACTUARIAL & [FINANCIAL_7] [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-PP4EJ | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_17] Deletion
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #121  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Charles Castleberry <ccastleberry@blackridgelo.com>
+TO:          Vanessa Volkov <vvolkov@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2025
+REFERENCE:   BJQ-9150-PL00D
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kevin,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: JWO-6156-IHESM). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: GRI Standards (Universal + Topic-Specific)
+External Assurance: Polaris Wealth Advisors (Ref: ML699719) | Target Publication: April 07, 2026 | Filing Deadline: March 29, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+Scope 1 Emissions (tCO2e)          58,144        62,726         46,515
+Scope 2 Emissions (tCO2e)          11,148        11,705          8,918
+Scope 3 Emissions (tCO2e)         128,355       128,355        109,101
+Total Energy (MWh)                239,664       251,647        215,697
+Water Withdrawal (m³)           1,699,834     1,784,825      1,529,850
+Waste Diverted (%)                 21.24%       16.03%          19.0%
+Gender Pay Gap (%)                 34.72%       26.25%         34.77%
+TRIR (injuries/200k hrs)             2.34          2.46           1.87
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-6885: Scope 3 emissions 35.79% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: JV317266).
+  Issue ESG-2700: Gender pay gap of 34.72% exceeds 34.77% target. Board must decide voluntary vs. mandatory cohort disclosure by April 15, 2026.
+  Issue ESG-8149: Tier-1 supplier Solaris Renewable Energy (Spend: USD 14,888,617) failed human rights assessment (Score: 31/100, Threshold: 76/100). Disclosure may trigger customer contract reviews (Ref: KHE-3585-QGXHZ).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2025):  5,204 tCO2e (Registry: American Carbon Registry, Ref: XM289115)
+  Credits Retired:              8,208 tCO2e
+  Average Price:                USD 37/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          5.31% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline May 24, 2026 (Ref: FR218905)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref LY744389
+  TCFD Alignment Score:         15.13% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2025_XVL-7891-EXJMS_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_MD672959.xlsx
+  • Supplier_Assessment_ER672465.pdf
+
+Board sign-off required by March 19, 2026. Route comments to Thomas Westergaard only.
+
+Vanessa Haakonsen
+Head of Mergers & Acquisitions | Procurement | Obsidian Telecom Group
+ESG Committee Code: AT982380  |  Direct: +1 (415) 6728-1085
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-BJQ-9150-PL00D | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: JWO-6156-IHESM). This is classified RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: GRI Standards (Universal + Topic-Specific)
+External [PERSON_6]: Polaris Wealth Advisors (Ref: ML699719) | Target Publication: April 07, 2026 | Filing [PERSON_12]: March 29, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+[PERSON_22] 1 Emissions (tCO2e)          58,144        62,726         46,515
+[PERSON_22] 2 Emissions (tCO2e)          11,148        11,705          8,918
+[PERSON_22] 3 Emissions (tCO2e)         128,355       128,355        109,101
+Total Energy (MWh)                239,664       251,647        215,697
+Water Withdrawal (m³)           1,699,834     1,784,825      1,529,850
+[PERSON_23] Diverted (%)                 [URL_1]%       [URL_2]%          [URL_3]%
+Gender Pay Gap (%)                 [URL_4]%       [URL_5]%         [URL_6]%
+TRIR (injuries/200k hrs)             [URL_7]          [URL_8]           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_3] ISSUES (PRE-DECISIONAL)
+  [PERSON_24] ESG-6885: [PERSON_22] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_3] language re: forward guidance implications (Ref: JV317266).
+  [PERSON_24] ESG-2700: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_3] by April 15, 2026.
+  [PERSON_24] ESG-8149: Tier-1 supplier Solaris [PERSON_8] Energy (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_25]: 31/100, Threshold: 76/100). [PERSON_3] may trigger customer contract reviews (Ref: KHE-3585-QGXHZ).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2025):  5,204 tCO2e (Registry: American Carbon Registry, Ref: XM289115)
+  Credits Retired:              8,208 tCO2e
+  [PERSON_15] [PERSON_26]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_16] [PERSON_3] [PERSON_34]:  [PERSON_4] [PERSON_12] May 24, 2026 (Ref: FR218905)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref LY744389
+  TCFD Alignment [PERSON_25]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2025_XVL-7891-EXJMS_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by March 19, 2026. [PERSON_28] comments to [PERSON_1] only.
+
+[PERSON_2]
+Head of Mergers & Acquisitions | Procurement | Obsidian Telecom Group
+ESG [PERSON_5] Code: AT982380  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_3] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_5] ONLY
+Handling Protocol: [CONTRACT_1]-PL00D | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_20] Deletion
+================================================================================

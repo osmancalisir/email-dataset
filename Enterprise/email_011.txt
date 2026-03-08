@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #011  |  RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Felicia Achterberg <fachterberg@falconridgea.com>
+TO:          Simone Rosenberg <srosenberg@falconridgea.com>
+SUBJECT:     CONFIDENTIAL: Insurance Program Renewal Strategy – Internal Assessment
+REFERENCE:   RKC-0699-777GI
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Gregory,
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: SAL-8342-OPL6R) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal Cycle: February 18, 2026 – May 10, 2026
+Broker: Trident Marine Holdings (Code: NH706302) | Lead Underwriter: Orion Petrochemicals (Syndicate: CO511949)
+
+COVERAGE RENEWAL TERMS
+──────────────────────────────────────────────────────
+Line of Coverage         Expiring Premium     Indicated Premium    Change
+Property (All Risk)      USD    1,813,269   USD      826,871   +13.83%
+General Liability        USD        7,711   USD    1,733,186   +33.51%
+D&O Liability            USD      194,257   USD      427,563   +12.64%
+Cyber & Privacy          USD       16,999   USD      919,588   +34.72%
+Trade Credit             USD      105,815   USD      213,376   -15.79%
+──────────────────────────────────────────────────────
+Total (Expiring):        USD    2,138,051
+Total (Indicated):       USD    4,120,584
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+Issue U-8515: Cyber underwriters requesting updated NIST CSF self-assessment by April 23, 2026. Non-completion may reduce sublimit from USD 17,028,664 to USD 6,633,299 (Policy NJ253190).
+Issue U-2558: Property TIV revaluation required — last appraisal February 25, 2026, exceeding 36-month threshold. Cost: USD 307,944 (Vendor: Harborview Shipping, Ref: QI084649).
+Issue U-8446: D&O market hardening due to shareholder action (Case: HS295001). Retention may increase from USD 16,314,311 to USD 3,765,151.
+
+CAPTIVE UTILIZATION (CONFIDENTIAL)
+  Current Captive Retention:   USD 798,031
+  Proposed Captive Retention:  USD 3,074,574
+  Projected Captive Dividend:  USD 55,195 (Board approval Ref: DTD-2513-XQDOV)
+  Captive Domicile:            Luxembourg
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 21, 2026 (Budget Line: INS-HA606987)
+2. Risk Engineering site visit to Facility BE103266 before May 15, 2026
+3. NIST CSF submission to Trident Marine Holdings — deadline April 23, 2026
+4. Legal review of D&O Side-A DIC terms (Counsel: Celestine Strauss)
+
+REFERENCED ATTACHMENTS
+  • Insurance_Renewal_Strategy_GCD-1594-VGZV8_RESTRICTED.pdf
+  • TIV_Schedule_Draft_OR528558.xlsx
+  • Captive_Dividend_Analysis_DTD-2513-XQDOV.pdf
+
+Fitzroy Quintero
+Managing Director | Supply Chain Management | Vanguard Cybersecurity Inc
+Risk ID: ID716675  |  Direct: +1 (713) 6619-8608
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Achterberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+Handling Protocol: REF-RKC-0699-777GI | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_10],
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: SAL-8342-OPL6R) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal [PERSON_20]: February 18, 2026 – May 10, 2026
+Broker: Trident [PERSON_15] Holdings (Code: NH706302) | Lead Underwriter: Orion Petrochemicals ([PERSON_3]: CO511949)
+
+[PERSON_6] RENEWAL TERMS
+──────────────────────────────────────────────────────
+[PERSON_29] of [PERSON_6]         Expiring Premium     Indicated Premium    [PERSON_16]
+Property (All Risk)      [AMOUNT_1]   [AMOUNT_2]   +[URL_1]%
+General Liability        [AMOUNT_3]   [AMOUNT_4]   +[URL_2]%
+D&O Liability            [AMOUNT_5]   [AMOUNT_6]   +[URL_3]%
+Cyber & Privacy          [AMOUNT_7]   [AMOUNT_8]   +[URL_4]%
+[PERSON_23] Credit             [AMOUNT_9]   [AMOUNT_10]   -[URL_5]%
+──────────────────────────────────────────────────────
+Total (Expiring):        [AMOUNT_11]
+Total (Indicated):       [AMOUNT_12]
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+[PERSON_24] U-8515: Cyber underwriters requesting updated NIST CSF self-assessment by April 23, 2026. Non-completion may reduce sublimit from [AMOUNT_13] to [AMOUNT_14] (Policy NJ253190).
+[PERSON_24] U-2558: Property TIV revaluation required — last appraisal February 25, 2026, exceeding 36-month threshold. Cost: [AMOUNT_15] (Vendor: Harborview Shipping, Ref: QI084649).
+[PERSON_24] U-8446: D&O market hardening due to shareholder action ([PERSON_31]: HS295001). Retention may increase from [AMOUNT_16] to [AMOUNT_17].
+
+[PERSON_13] [FINANCIAL_2] (CONFIDENTIAL)
+  Current [PERSON_13] Retention:   [AMOUNT_18]
+  Proposed [PERSON_13] Retention:  [AMOUNT_19]
+  Projected [PERSON_13] Dividend:  [AMOUNT_20] (Board approval Ref: DTD-2513-XQDOV)
+  [PERSON_13] [PERSON_7]:            Luxembourg
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 21, 2026 (Budget [PERSON_29]: INS-HA606987)
+2. Risk Engineering site visit to Facility BE103266 before May 15, 2026
+3. NIST CSF submission to Trident [PERSON_15] Holdings — deadline April 23, 2026
+4. Legal review of D&O [PERSON_18] DIC terms (Counsel: [PERSON_4] Strauss)
+
+REFERENCED [FINANCIAL_3]
+  • Insurance_Renewal_Strategy_GCD-1594-VGZV8_[URL_6]
+  • TIV_Schedule_Draft_[URL_7]
+  • Captive_Dividend_Analysis_[URL_8]
+
+Fitzroy Quintero
+Managing Director | Supply Chain Management | [COMPANY_1]
+Risk ID: ID716675  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Achterberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT [PERSON_5] ONLY
+Handling Protocol: REF-RKC-[PHONE_2]GI | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_19] Deletion
+================================================================================

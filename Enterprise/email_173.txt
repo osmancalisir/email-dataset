@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #173  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Monday, February 23, 2026 at 07:39 PM
+FROM:        Tanya Thornton <tthornton@emberanalyti.com>
+TO:          Gregory Zalewski <gzalewski@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: FY2024 Annual Budget & Capital Allocation Proposal
+REFERENCE:   ACK-8823-MXQ3B
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thomas,
+
+I am distributing the preliminary FY2024 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on April 10, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: SHY-0660-I8ZUK | CFO Sponsor: Constance Szymanski | Prior Year Lock Date: February 19, 2026
+
+FY2024 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2024 Budget        FY2023 Actual      Variance
+Total Revenue           USD     34,590,950   USD     31,088,146    +11.3%
+Gross Profit            USD     18,377,594   USD     20,063,165     +0.0%
+EBITDA                  USD      8,173,345   USD      8,616,834     +1.5%
+EBIT                    USD      6,266,832   USD      6,175,682    +10.8%
+Net Income              USD      3,984,974   USD      4,240,889    +10.9%
+Capital Expenditure     USD      1,338,104   USD      1,166,012    +17.3%
+Free Cash Flow          USD      4,904,007   USD      4,827,123     +1.0%
+Net Debt (Year-End)     USD     53,573,436   USD     57,707,234     +9.8%
+──────────────────────────────────────────────────────
+EBITDA Margin: 3.49%  |  Gross Margin: 13.45%  |  FCF Conversion: 22.95%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 3)  USD 68,452  Medium  QW120968
+  New Manufacturing Line — Plant IL15       USD 3,241,939  Medium  LV303177
+  ERP Enhancement — Module WU38             USD 6,637,778  High  ME226558
+  Logistics Hub Expansion — Dallas          USD 3,172,881  High  SF855027
+  Contingency Reserve (16.68%)              USD 223,195  N/A    ZT504887
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 15.9% assumes 9746 new customer wins (Pipeline: LC998955) and 13.12% retention.
+  Headcount: net +5969 FTEs (5421 hires, 9674 attrition) — Ref: HC-0984.
+  Inflation: 16.61% on COGS, 31.7% on SG&A.
+  FX: USD/EUR 0.9331 | USD/GBP 0.8086 | USD/JPY 131.2 (Treasury Ref: TZ780815).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Asia-Pacific Growth             Revenue: USD 6,231,792   EBITDA: USD 798,405   HC Cap: 915
+  Technology & Digital            Revenue: USD 107,272   EBITDA: USD 14,627   HC Cap: 755
+  Healthcare Solutions            Revenue: USD 600,510   EBITDA: USD 147,549   HC Cap: 1968
+  Industrial Services             Revenue: USD 7,436,260   EBITDA: USD 1,075,532   HC Cap: 1209
+
+REFERENCED ATTACHMENTS
+  • FY2024_Budget_Model_AAZ-0514-H61MS_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_KM159093_CONFIDENTIAL.pdf
+  • Division_Targets_NV927724_RESTRICTED.xlsx
+
+Provide comments to Constance Szymanski only by May 18, 2026. Budget Committee approval required by March 26, 2026.
+
+Monique Lawson
+Head of Strategic Partnerships | Operations | Ember Analytics Inc
+Budget Portal: IW375943  |  Direct: +1 (646) 5962-2932
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Thornton's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-ACK-8823-MXQ3B | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+I am distributing the preliminary FY2024 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_9] review on April 10, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_40] with [FINANCIAL_3]al finance teams or [PERSON_43] management at this stage.
+
+Budget [PERSON_10]: SHY-0660-I8ZUK | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 19, 2026
+
+FY2024 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_43] Item               FY2024 Budget        FY2023 Actual      [PERSON_18]
+Total [PERSON_22]           [AMOUNT_1]   [AMOUNT_2]    +[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_30]                  [AMOUNT_5]   [AMOUNT_6]     +[URL_3]%
+[PERSON_44]                    [AMOUNT_7]   [AMOUNT_8]    +[URL_4]%
+Net [PERSON_31]              [AMOUNT_9]   [AMOUNT_10]    +[URL_5]%
+Capital [PERSON_5]     [AMOUNT_11]   [AMOUNT_12]    +[URL_6]%
+[PERSON_45] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     +[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     +[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_30] Margin: [URL_9]%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_5] ALLOCATION
+  Digital [PERSON_3] [PERSON_23] ([PERSON_38] 3)  [AMOUNT_17]  Medium  QW120968
+  New Manufacturing [PERSON_43] — Plant IL15       [AMOUNT_18]  Medium  LV303177
+  ERP Enhancement — [PERSON_32] WU38             [AMOUNT_19]  High  ME226558
+  Logistics Hub Expansion — Dallas          [AMOUNT_20]  High  SF855027
+  Contingency [PERSON_24] ([URL_12]%)              [AMOUNT_21]  N/A    ZT504887
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_22] growth [URL_13]% assumes 9746 new customer wins ([PERSON_19]: LC998955) and [URL_14]% retention.
+  Headcount: net +5969 FTEs (5421 hires, 9674 attrition) — Ref: HC-0984.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: TZ780815).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_12] — DO NOT [PERSON_40] PRE-ALIGNMENT)
+  Asia-Pacific Growth             [PERSON_22]: [AMOUNT_24]   [PERSON_30]: [AMOUNT_25]   HC Cap: 915
+  Technology & Digital            [PERSON_22]: [AMOUNT_26]   [PERSON_30]: [AMOUNT_27]   HC Cap: 755
+  [PERSON_7] Solutions            [PERSON_22]: [AMOUNT_28]   [PERSON_30]: [AMOUNT_29]   HC Cap: 1968
+  Industrial Services             [PERSON_22]: [AMOUNT_30]   [PERSON_30]: [AMOUNT_31]   HC Cap: 1209
+
+REFERENCED [FINANCIAL_4]
+  • FY2024_Budget_Model_AAZ-0514-H61MS_BOARD_[URL_20]
+  • CapEx_Project_Briefs_KM159093_[URL_21]
+  • [FINANCIAL_3]_Targets_NV927724_[URL_20]
+
+[PERSON_26] comments to [PERSON_1] only by May 18, 2026. Budget [PERSON_9] approval required by March 26, 2026.
+
+[PERSON_2]
+Head of Strategic Partnerships | Operations | [COMPANY_1]
+Budget Portal: IW375943  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_12], and/or proprietary to Thornton's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_9] ONLY
+Handling Protocol: [CONTRACT_1]-MXQ3B | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_35] Deletion
+================================================================================

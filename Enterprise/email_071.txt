@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #071  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Lavinia Rosenberg <lrosenberg@pinnaclefina.com>
+TO:          Piers Westergaard <pwestergaard@pinnaclefina.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2025
+REFERENCE:   CTC-5930-HTU5Z
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Raymond,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: JLS-8908-BN60U). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External Assurance: Delphi Semiconductor (Ref: CI284014) | Target Publication: April 16, 2026 | Filing Deadline: March 23, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+Scope 1 Emissions (tCO2e)         145,860       152,945        116,688
+Scope 2 Emissions (tCO2e)          59,015        61,965         47,212
+Scope 3 Emissions (tCO2e)         131,456       131,456        111,737
+Total Energy (MWh)                294,509       309,234        265,058
+Water Withdrawal (m³)             688,946       723,393        620,051
+Waste Diverted (%)                 26.87%       26.87%         16.28%
+Gender Pay Gap (%)                 26.37%       30.53%         12.96%
+TRIR (injuries/200k hrs)             2.39          2.51           1.91
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-0811: Scope 3 emissions 25.11% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: DP848930).
+  Issue ESG-4127: Gender pay gap of 26.37% exceeds 12.96% target. Board must decide voluntary vs. mandatory cohort disclosure by May 27, 2026.
+  Issue ESG-5734: Tier-1 supplier Prism Healthcare Group (Spend: USD 3,015,703) failed human rights assessment (Score: 63/100, Threshold: 80/100). Disclosure may trigger customer contract reviews (Ref: YCA-7341-HG1S4).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2025):  8,089 tCO2e (Registry: Gold Standard, Ref: BU471291)
+  Credits Retired:              3,321 tCO2e
+  Average Price:                USD 67/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          31.76% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline May 15, 2026 (Ref: NZ736951)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref KN766321
+  TCFD Alignment Score:         20.54% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2025_ZEZ-1923-HK5W6_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_WK480468.xlsx
+  • Supplier_Assessment_FH153453.pdf
+
+Board sign-off required by June 01, 2026. Route comments to Renata Chen only.
+
+Renata Petrossian
+VP of Operations | Internal Audit | Obsidian Telecom Group
+ESG Committee Code: IQ830409  |  Direct: +1 (415) 9345-2045
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-CTC-5930-HTU5Z | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_16],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2025 (Ref: [PERSON_2]). This is classified RESTRICTED – BOARD & AUDIT [PERSON_8] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: EU CSRD / ESRS Framework
+External [PERSON_9]: [PERSON_20] Semiconductor (Ref: CI284014) | Target Publication: April 16, 2026 | Filing [PERSON_15]: March 23, 2026
+
+KEY ESG METRICS (FY2025 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2025 Actual   FY2024 Actual    Target
+[PERSON_25] 1 Emissions (tCO2e)         145,860       152,945        116,688
+[PERSON_25] 2 Emissions (tCO2e)          59,015        61,965         47,212
+[PERSON_25] 3 Emissions (tCO2e)         131,456       131,456        111,737
+Total Energy (MWh)                294,509       309,234        265,058
+Water Withdrawal (m³)             688,946       723,393        620,051
+[PERSON_26] Diverted (%)                 [URL_1]%       [URL_1]%         [URL_2]%
+Gender Pay Gap (%)                 [URL_3]%       [URL_4]%         [URL_5]%
+TRIR (injuries/200k hrs)             [URL_6]          [URL_7]           [URL_8]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_5] ISSUES (PRE-DECISIONAL)
+  [PERSON_27] ESG-0811: [PERSON_25] 3 emissions [URL_9]% above target due to customer usage patterns. Legal reviewing [PERSON_5] language re: forward guidance implications (Ref: DP848930).
+  [PERSON_27] ESG-4127: Gender pay gap of [URL_3]% exceeds [URL_5]% target. Board must decide voluntary vs. mandatory cohort [PERSON_5] by May 27, 2026.
+  [PERSON_27] ESG-5734: Tier-1 supplier Prism [PERSON_6] Group (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_28]: 63/100, Threshold: 80/100). [PERSON_5] may trigger customer contract reviews (Ref: YCA-7341-HG1S4).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2025):  8,089 tCO2e (Registry: Gold Standard, Ref: BU471291)
+  Credits Retired:              3,321 tCO2e
+  [PERSON_18] [PERSON_29]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2050
+  Interim 2030 Target:          [URL_10]% absolute reduction vs. 2021 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_19] [PERSON_5] [PERSON_37]:  [PERSON_7] [PERSON_15] May 15, 2026 (Ref: NZ736951)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref KN766321
+  TCFD Alignment [PERSON_28]:         [URL_11]% (Target: [PERCENTAGE_9])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2025_ZEZ-1923-HK5W6_BOARD_[URL_12]
+  • Emissions_Data_Workbook_[URL_13]
+  • Supplier_Assessment_[URL_14]
+
+Board sign-off required by [PERSON_38] 01, 2026. [PERSON_31] comments to [PERSON_4] only.
+
+[PERSON_1]
+VP of Operations | Internal Audit | Obsidian Telecom Group
+ESG [PERSON_8] Code: IQ830409  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_5] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_8] ONLY
+Handling Protocol: [CONTRACT_1]-HTU5Z | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_23] Deletion
+================================================================================

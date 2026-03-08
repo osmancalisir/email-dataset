@@ -1,0 +1,142 @@
+================================================================================
+EMAIL #075  |  RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 01, 2026 at 07:39 PM
+FROM:        Yolanda Mwangi <ymwangi@ironshorecap.com>
+TO:          Rebecca Thistlethwaite <rthistlethwaite@ironshorecap.com>
+SUBJECT:     CONFIDENTIAL: Trade Finance Facility Review – Zenith Aerospace Ltd
+REFERENCE:   ONE-4372-DO3V4
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alistair,
+
+I am writing in strict confidence regarding the trade finance facility supporting our transactions with Zenith Aerospace Ltd (Counterparty ID: FY262847) under Master Trade Agreement Ref: ZNX-5060-SU28O. This is classified RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY.
+
+Issuing Bank: Crestview Hospitality Group (Code: MO409702) | Confirming Bank: Orion Petrochemicals (Code: US149774)
+Facility Review Date: May 01, 2026 | Trade Finance Committee: March 25, 2026
+
+ACTIVE INSTRUMENTS SUMMARY
+──────────────────────────────────────────────────────
+Type          Reference    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    OW833973        Zenith Aerospace Ltd        52,551   May 26, 2026  Active — Discrepancy Pending
+LC (Usance)   WO129195        Crestview Hospitality Group    14,059,496   March 17, 2026  Active — Awaiting Confirmation
+BG (Perf.)    RJ141281        Orion Petrochemicals       762,704   May 16, 2026  Active — In Order
+BG (Adv. Pmt) ET064254        Sandra Yamamoto    15,761,786   April 24, 2026  Active — Discrepancy Pending
+SBLC          TF502285      Zenith Aerospace Ltd       306,021   May 19, 2026  Active — In Order
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  USD 30,942,558
+FACILITY LIMIT:              USD 44,453,894
+UTILISATION:                 69.6%
+
+OUTSTANDING DISCREPANCY NOTICES
+  D-7617: LC OW833973 — late presentation — beyond 21-day rule. Waiver requested from Zenith Aerospace Ltd (Deadline: May 01, 2026). Exposure: USD 52,551.
+  D-0772: LC WO129195 — late presentation — beyond 21-day rule. Correction letter Ref RE213300, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Copper Cathode
+  Shipment Terms:          CIF — Hamburg to Houston TX
+  Contract Quantity:       5,020 MT (Tolerance: ±36.13%)
+  Invoice Value (Latest):  USD 13,539,088
+  Open Position:           USD 1,332,077 (4239 shipments outstanding)
+  Hedge Coverage:          5.64% (Hedge Ref: GCN-3687-3MGL3, Desk: LN272234)
+
+BANK COVENANT & COMPLIANCE
+  Net Leverage Covenant:   3.0x (Current: 2.2x) — COMPLIANT
+  Annual Review Due:        March 26, 2026
+  AML/KYC Re-certification: Zenith Aerospace Ltd — Due May 01, 2026 (Ref: EX564607)
+  OFAC Sanctions Screening: Last run February 06, 2026 — No matches — Clear
+
+ACTION ITEMS
+1. Resolve D-7617 with Zenith Aerospace Ltd before LC expiry May 26, 2026 — escalate to Lavinia Nkrumah if no waiver received.
+2. Renew BG RJ141281 prior to expiry May 16, 2026 — instruct Crestview Hospitality Group by May 01, 2026 (Lead time: 765 business days).
+3. Submit AML/KYC docs for Zenith Aerospace Ltd re-certification (Contact: Alistair Djordjevic, Ref: EX564607).
+4. CFO approval for facility limit increase of USD 13,936,357 by March 25, 2026 (Form: TF-5612).
+
+REFERENCED ATTACHMENTS
+  • Trade_Finance_Status_Report_ZNX-5060-SU28O_RESTRICTED.pdf
+  • LC_Document_Set_OW833973_KR742299.pdf
+  • Discrepancy_Notice_7617_RE213300.pdf
+  • Commodity_Position_Summary_IHK-4689-ROE48.xlsx
+
+Fletcher Zalewski
+Director of Procurement | Business Development | Halcyon Wealth Partners
+Treasury Direct: +1 (212) 4224-9773  |  SWIFT: SIZIORXF  |  Badge: IQ298261
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Mwangi's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+Handling Protocol: REF-ONE-4372-DO3V4 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I am writing in strict confidence regarding the [PERSON_41] [PERSON_22] [FINANCIAL_3] supporting our transactions with Zenith [PERSON_6] Ltd (Counterparty ID: FY262847) under Master [PERSON_41] Agreement Ref: ZNX-5060-SU28O. This is classified RESTRICTED – [FINANCIAL_1] & [PERSON_41] [PERSON_22] [PERSON_7] ONLY.
+
+Issuing Bank: Crestview Hospitality Group (Code: MO409702) | Confirming Bank: Orion Petrochemicals (Code: US149774)
+[FINANCIAL_3] Review Date: May 01, 2026 | [PERSON_41] [PERSON_22] [PERSON_7]: March 25, 2026
+
+[PERSON_33] [FINANCIAL_2] SUMMARY
+──────────────────────────────────────────────────────
+Type          [PERSON_8]    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    OW833973        Zenith [PERSON_6] Ltd        52,551   May 26, 2026  [PERSON_33] — [FINANCIAL_6] Pending
+LC ([PERSON_34])   WO129195        Crestview Hospitality Group    14,059,496   March 17, 2026  [PERSON_33] — Awaiting Confirmation
+BG (Perf.)    RJ141281        Orion Petrochemicals       762,704   May 16, 2026  [PERSON_33] — In Order
+BG ([PERSON_12]) ET064254        [PERSON_3]    15,761,786   April 24, 2026  [PERSON_33] — [FINANCIAL_6] Pending
+SBLC          TF502285      Zenith [PERSON_6] Ltd       306,021   May 19, 2026  [PERSON_33] — In Order
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  [AMOUNT_1]
+[FINANCIAL_3] LIMIT:              [AMOUNT_2]
+[FINANCIAL_4]:                 [URL_1]%
+
+[FINANCIAL_5] [FINANCIAL_6] NOTICES
+  D-7617: LC OW833973 — late presentation — beyond 21-day rule. Waiver requested from Zenith [PERSON_6] Ltd ([PERSON_16]: May 01, 2026). [PERSON_17]: [AMOUNT_3].
+  D-0772: LC WO129195 — late presentation — beyond 21-day rule. Correction letter Ref RE213300, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Copper [PERSON_25]
+  Shipment Terms:          CIF — Hamburg to Houston TX
+  Contract Quantity:       5,020 MT ([PERSON_9]: ±[URL_2]%)
+  [PERSON_26] Value (Latest):  [AMOUNT_4]
+  Open Position:           [AMOUNT_5] (4239 shipments [FINANCIAL_5])
+  [PERSON_46] [PERSON_19]:          [URL_3]% ([PERSON_46] Ref: GCN-3687-3MGL3, Desk: LN272234)
+
+BANK [FINANCIAL_7] & [PERSON_5]
+  Net [PERSON_20] [FINANCIAL_7]:   [URL_4] (Current: [URL_5]) — COMPLIANT
+  Annual Review Due:        March 26, 2026
+  AML/KYC Re-certification: Zenith [PERSON_6] Ltd — Due May 01, 2026 (Ref: EX564607)
+  OFAC Sanctions Screening: Last run February 06, 2026 — No matches — Clear
+
+ACTION ITEMS
+1. [PERSON_29] D-7617 with Zenith [PERSON_6] Ltd before LC expiry May 26, 2026 — escalate to [PERSON_4] if no waiver received.
+2. Renew BG RJ141281 prior to expiry May 16, 2026 — instruct Crestview Hospitality Group by May 01, 2026 (Lead time: 765 business days).
+3. Submit AML/KYC docs for Zenith [PERSON_6] Ltd re-certification (Contact: [PERSON_1], Ref: EX564607).
+4. CFO approval for [FINANCIAL_3] limit increase of [AMOUNT_6] by March 25, 2026 (Form: TF-5612).
+
+REFERENCED [FINANCIAL_8]
+  • Trade_Finance_Status_Report_ZNX-5060-SU28O_[URL_6]
+  • LC_Document_Set_OW833973_[URL_7]
+  • [FINANCIAL_6]_Notice_7617_[URL_8]
+  • Commodity_Position_Summary_[URL_9]
+
+[PERSON_2]
+Director of Procurement | Business Development | Halcyon Wealth Partners
+[FINANCIAL_1] Direct: [PHONE_1]  |  SWIFT: [FINANCIAL_9]  |  [PERSON_47]: IQ298261
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_8] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_39]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_1] & [PERSON_41] [PERSON_22] [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-DO3V4 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_40] Deletion
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #135  |  COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Marguerite Rosenberg <mrosenberg@titanmanufac.com>
+TO:          Derek Szymanski <dszymanski@titanmanufac.com>
+SUBJECT:     CONFIDENTIAL: Capital Investment Committee Memo – Project GRAIL
+REFERENCE:   NPO-9430-V5QCB
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Barnabas,
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 2100 Peachtree Rd NW, Atlanta GA 30309 (Asset ID: JD652968), internally referred to as Project GRAIL. This is classified Commercial Sensitivity Level 4 for Investment Committee members only.
+
+Transaction Reference: TZH-1988-F6IBH | IC Presentation: April 15, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+Purchase Price (Agreed):             USD        132,212
+Estimated Total CapEx:               USD         64,294
+Projected Stabilized NOI:            USD        296,308
+Going-In Cap Rate:                   10.59%
+Stabilized Cap Rate:                 20.01%
+Levered IRR (Base Case):             3.52%
+Equity Multiple (5-Year Hold):       2.31x
+Loan-to-Value:                       21.47%
+Senior Debt Amount:                  USD        123,525
+Lender:                              Nexpoint Data Centers (Term Sheet: ZC626272)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING ASSUMPTIONS
+  Rent Growth (Years 1–3):    31.92% p.a.
+  Vacancy Allowance:          16.26%
+  Exit Cap Rate:              17.53%
+  Hold Period:                9415 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Nexpoint Data Centers           Lease Expiry: April 15, 2026   Annual Rent: USD 3,437,817   (32.15% of NOI)
+  Sunridge Energy Partners        Lease Expiry: May 13, 2026   Annual Rent: USD 3,125,412   (27.4% of NOI)
+  Goldstone Infrastructure        Lease Expiry: May 26, 2026   Annual Rent: USD 7,979,607   (40.4% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending (Case: ZA610871, Hearing: April 29, 2026)
+  – Environmental Phase II in progress (Consultant: Sunridge Energy Partners, Ref: ZJ758864)
+  – Anchor tenant Nexpoint Data Centers has unexercised break option effective April 11, 2026
+
+REFERENCED ATTACHMENTS
+  • IC_Memo_ProjectGRAIL_JIN-5768-K4JJ3_CONFIDENTIAL.pdf
+  • Financial_Model_QO928026_v753.xlsx
+  • Phase1_Environmental_KK701992.pdf
+  • Lease_Abstracts_LRH-7413-DLDHG_RESTRICTED.pdf
+
+Submit IC vote via secure portal HW841287 by April 19, 2026.
+
+Patrick Nakamura
+Chief Revenue Officer | Tax & Regulatory | Delphi Semiconductor
+IC Member Code: NM340251  |  Direct: +1 (310) 4900-2682
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+Handling Protocol: REF-NPO-9430-V5QCB | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_11],
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 2100 [PERSON_6] Rd NW, [PERSON_21] GA 30309 (Asset ID: JD652968), internally referred to as Project GRAIL. This is classified Commercial [FINANCIAL_3] Level 4 for Investment [PERSON_7] members only.
+
+Transaction [PERSON_8]: TZH-1988-F6IBH | IC Presentation: April 15, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+[PERSON_15] [PERSON_31] (Agreed):             [AMOUNT_1]
+Estimated Total CapEx:               [AMOUNT_2]
+Projected Stabilized NOI:            [AMOUNT_3]
+Going-In Cap [PERSON_37]:                   [URL_1]%
+Stabilized Cap [PERSON_37]:                 [URL_2]%
+Levered IRR ([PERSON_38] [PERSON_39]):             [URL_3]%
+Equity [PERSON_16] (5-Year Hold):       [URL_4]
+[PERSON_3]:                       [URL_5]%
+Senior Debt Amount:                  [AMOUNT_4]
+Lender:                              Nexpoint Data Centers (Term Sheet: ZC626272)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING [FINANCIAL_1]
+  Rent Growth (Years 1–3):    [URL_6]% [URL_7].
+  Vacancy [PERSON_9]:          [URL_8]%
+  Exit Cap [PERSON_37]:              [URL_9]%
+  Hold Period:                9415 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Nexpoint Data Centers           [PERSON_32] Expiry: April 15, 2026   Annual Rent: [AMOUNT_5]   ([URL_10]% of NOI)
+  [PERSON_18] Energy Partners        [PERSON_32] Expiry: May 13, 2026   Annual Rent: [AMOUNT_6]   ([URL_11]% of NOI)
+  [PERSON_10] [PERSON_2]        [PERSON_32] Expiry: May 26, 2026   Annual Rent: [AMOUNT_7]   ([URL_12]% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending ([PERSON_39]: ZA610871, Hearing: April 29, 2026)
+  – Environmental [PERSON_33] II in progress (Consultant: [PERSON_18] Energy Partners, Ref: ZJ758864)
+  – Anchor tenant Nexpoint Data Centers has unexercised break option effective April 11, 2026
+
+REFERENCED [FINANCIAL_2]
+  • IC_Memo_ProjectGRAIL_JIN-5768-K4JJ3_[URL_13]
+  • Financial_Model_QO928026_[URL_14]
+  • Phase1_Environmental_[URL_15]
+  • Lease_Abstracts_LRH-7413-DLDHG_[URL_16]
+
+Submit IC vote via [PERSON_29] portal HW841287 by April 19, 2026.
+
+[PERSON_1]
+Chief [PERSON_26] Officer | Tax & Regulatory | [PERSON_28] Semiconductor
+IC Member Code: NM340251  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL [FINANCIAL_3] LEVEL 4 – IC EYES ONLY
+Handling Protocol: [CONTRACT_1]-V5QCB | Encrypted In-Transit: TLS [URL_17] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

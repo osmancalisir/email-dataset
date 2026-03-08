@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #002  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Derek Caruso <dcaruso@amberfieldco.com>
+TO:          Gregory Harrington <gharrington@amberfieldco.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – Granite Peak Resources / Tidal Basin Ventures
+REFERENCE:   AFH-2349-U51P0
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Desmond,
+
+Following our call on March 04, 2026, I am forwarding the updated term sheet for the proposed joint venture between Granite Peak Resources and Tidal Basin Ventures. This supersedes all prior drafts and is shared exclusively under NDA Ref: ADR-0348-OJJ0H.
+
+Transaction Summary – Project Code: TO314902
+NDA Reference: ADR-0348-OJJ0H | Executed: February 06, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Licensing Agreement
+Enterprise Valuation (Pre-Money):    USD      7,965,174
+Proposed Equity Split:               21.96% / 78.04%
+Anticipated Close Date:              May 05, 2026
+Escrow Agent:                        Titan Manufacturing Co
+Governing Law:                       Ontario, Canada
+Minimum EBITDA Covenant:             USD        121,859
+Maximum Leverage Ratio:              4.4x
+Interest Coverage Floor:             14.2%
+Year-1 CapEx Cap:                    USD     15,389,748
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           May 12, 2026
+  Antitrust Clearance Expected:      June 03, 2026
+  Required Licenses:                 UC515718, BW610275, DL779891
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO TIDAL BASIN VENTURES)
+(a) Management carve-out provisions — Exhibit F, Ref OJK-9008-ZZWV1
+(b) Earn-out KPI metrics PD198117 and NV585315 — valuation impact USD 644,039
+(c) Exclusivity breach penalty: 31.28% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v7989_ZB471922.pdf              [AES-256 encrypted]
+  • Valuation_Model_QLS-7875-JB8OY_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_TL559330.docx
+
+Legal sign-off required from both parties no later than May 08, 2026. Coordinate follow-up with Fitzroy Nakamura and the Tidal Basin Ventures legal team for April 04, 2026.
+
+Dmitri Volkov
+Director of Procurement | Business Development | Granite Peak Resources
+Direct: +1 (415) 9050-6645  |  Mobile: +1 (650) 8583-4142  |  Token: CW976583
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-AFH-2349-U51P0 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+Following our call on March 04, 2026, I am forwarding the updated term sheet for the proposed joint venture between [PERSON_22] Peak Resources and Tidal Basin [FINANCIAL_5]. This supersedes all prior drafts and is shared exclusively under NDA Ref: ADR-0348-OJJ0H.
+
+[FINANCIAL_1] Summary – Project Code: TO314902
+NDA [PERSON_6]: ADR-0348-OJJ0H | Executed: February 06, 2026
+
+[PERSON_3] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_8]:                      Licensing Agreement
+[PERSON_4] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_35] Date:              May 05, 2026
+Escrow Agent:                        [COMPANY_1]
+Governing Law:                       Ontario, [PERSON_29]
+Minimum [PERSON_30] Covenant:             [AMOUNT_2]
+Maximum [PERSON_13] Ratio:              [URL_3]
+Interest [PERSON_14] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_15]
+  HSR Act Filing [PERSON_16]:           May 12, 2026
+  Antitrust [PERSON_10] Expected:      [PERSON_42] 03, 2026
+  Required Licenses:                 UC515718, BW610275, DL779891
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_18] TO TIDAL BASIN [FINANCIAL_5])
+(a) Management carve-out provisions — Exhibit F, Ref OJK-9008-ZZWV1
+(b) Earn-out KPI metrics PD198117 and NV585315 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_4] value
+
+REFERENCED [FINANCIAL_6]
+  • JV_TermSheet_v7989_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_QLS-7875-JB8OY_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than May 08, 2026. [PERSON_5] follow-up with [PERSON_1] and the Tidal Basin [FINANCIAL_5] legal [CALLSIGN_1], 2026.
+
+[PERSON_2]
+Director of Procurement | Business Development | [PERSON_22] Peak Resources
+Direct: [PHONE_1]  |  [PERSON_32]: [PHONE_2]  |  Token: CW976583
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_18], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_7] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [CONTRACT_1]-U51P0 | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_33] Deletion
+================================================================================

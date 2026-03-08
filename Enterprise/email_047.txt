@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #047  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Philippa Rasmussen <prasmussen@meridiancapi.com>
+TO:          Ingrid Tremblay <itremblay@meridiancapi.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Cascadia Real Estate Trust
+REFERENCE:   OHR-4831-IUHKQ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Piers,
+
+I am updating you on the franchise and distribution agreement negotiations with Cascadia Real Estate Trust (ID: JX173341). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: XOM-4682-9VHBZ | Territory: Southeast Asia (excluding Singapore)
+Agreement Type: Master License & Distribution Agreement | External Counsel: Northstar Pharmaceuticals (Matter: NJ584893)
+Heads of Terms Signed: February 16, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v3837)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD      7,662,019
+Annual Renewal Fee:                    USD      3,186,901
+Royalty / Margin Rate:                 23.0% of Net Sales
+Minimum Annual Purchase Commitment:    USD     14,782,316  (Year 1); +25.82% p.a.
+Marketing Contribution:                28.05% of Net Sales (Co-op Fund: GH549511)
+Exclusivity Period:                    2495 months
+Performance Milestone (Year 3):        USD     14,080,196 cumulative revenue
+Breach Penalty / Clawback:             USD        280,241 or 24.3% of initial fee
+Term:                                  2623 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Cascadia Real Estate Trust Credit Rating:       BBB-
+  Last Filed Revenue (FY2025): USD 3,497,980
+  Net Worth (est.):            USD 1,555,193
+  Bank Reference (SilverBridge Consulting):      Satisfactory
+  Director Background Check:   Clear (Ref: GO481169)
+  Litigation Search:           Clear
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH CASCADIA REAL ESTATE TRUST)
+  CP-2627: Cascadia Real Estate Trust seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for SilverBridge Consulting expansion.
+  CP-8033: Sub-franchising rights — accept affiliates-only with 35.44% override royalty (Clause: HA491421).
+  CP-1849: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by March 17, 2026 (Ref: CC-0676)
+  ☐  Legal final review — by April 13, 2026 (Counsel: Northstar Pharmaceuticals)
+  ☐  Brand & IP Committee — territory approval (Ref: EB832781)
+  ☐  CFO — minimum royalty exception if required (Ref: AY603481)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v3837_XOM-4682-9VHBZ_CONFIDENTIAL.pdf
+  • Cascadia Real Estate Trust_Financial_Assessment_ZZ002669.pdf
+  • Territory_Map_UR858932.pdf
+
+Negotiation session scheduled: March 25, 2026 — Venue details via secure channel.
+
+Ingrid Nkrumah
+Director of Corporate Finance | Risk Management | Quantum Data Systems
+Commercial Committee ID: JX173341  |  Direct: +1 (312) 7037-8067
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-OHR-4831-IUHKQ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_33],
+
+I am updating you on the [PERSON_9] and distribution agreement [FINANCIAL_2]s with [PERSON_12] Real [PERSON_26] Trust (ID: JX173341). This is classified RESTRICTED – COMMERCIAL [PERSON_6] ONLY. Do not [PERSON_34] with regional operations until terms are finalised.
+
+[FINANCIAL_2] [PERSON_7]: XOM-4682-9VHBZ | Territory: Southeast [PERSON_39] (excluding [PERSON_8])
+Agreement Type: Master [PERSON_20] & Distribution Agreement | External Counsel: Northstar Pharmaceuticals (Matter: NJ584893)
+Heads of Terms Signed: February 16, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v3837)
+──────────────────────────────────────────────────────
+Initial [PERSON_9] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_40]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_17] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: GH549511)
+Exclusivity Period:                    2495 months
+[PERSON_3] [PERSON_10] (Year 3):        [AMOUNT_4] cumulative [PERSON_22]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  2623 years, renewable on [PERSON_3]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  [PERSON_12] Real [PERSON_26] Trust Credit Rating:       BBB-
+  Last Filed [PERSON_22] (FY2025): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_7] ([PERSON_2] Consulting):      Satisfactory
+  Director Background Check:   Clear (Ref: GO481169)
+  Litigation Search:           Clear
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_34] WITH [PERSON_12] REAL [PERSON_26] TRUST)
+  CP-2627: [PERSON_12] Real [PERSON_26] Trust seeks right of first refusal on adjacent territory. Position: [PERSON_23] — reserved for [PERSON_2] Consulting expansion.
+  CP-8033: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_30]: HA491421).
+  CP-1849: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_4] APPROVALS
+  ☐  Commercial [PERSON_6] sign-off — by March 17, 2026 (Ref: CC-0676)
+  ☐  Legal final review — by April 13, 2026 (Counsel: Northstar Pharmaceuticals)
+  ☐  Brand & IP [PERSON_6] — territory approval (Ref: EB832781)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_4] (Ref: AY603481)
+
+REFERENCED [FINANCIAL_5]
+  • Franchise_Agreement_Draft_v3837_XOM-4682-9VHBZ_[URL_7]
+  • [PERSON_12] Real [PERSON_26] Trust_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: March 25, 2026 — [PERSON_36] details via [PERSON_32] channel.
+
+[PERSON_1]
+Director of [PERSON_11] [PERSON_25] | Risk Management | Quantum Data Systems
+Commercial [PERSON_6] ID: JX173341  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rasmussen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-IUHKQ | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_32] Deletion
+================================================================================

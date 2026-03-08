@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #112  |  EMBARGOED – DCM WORKING GROUP ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Natalie Castleberry <ncastleberry@orionpetroch.com>
+TO:          Natalie Westergaard <nwestergaard@orionpetroch.com>
+SUBJECT:     CONFIDENTIAL: Senior Unsecured Notes Transaction – Pre-Announcement Update
+REFERENCE:   SQD-4963-9QUQ6
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Broderick,
+
+This message is transmitted under strict confidentiality in connection with the proposed Senior Unsecured Notes issuance by Prism Healthcare Group (Issuer Rating: BBB/Baa2). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+Transaction Reference: SOU-6741-8Z4G9
+Joint Lead Managers: Aurora Semiconductor | Apex Logistics Solutions | Legal Counsel (Issuer): Stephanie Abioye
+Expected Pricing: March 16, 2026 | Settlement (T+3): May 30, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Senior Unsecured Notes
+Principal Amount:                    USD        296,422
+Tenor:                               5 years
+Coupon Guidance:                     17.51% – 10.23% p.a. (semi-annual, 30/360)
+Issue Price:                         100.105% of par
+Benchmark:                           UST + 295bps
+Use of Proceeds:                     Acquisition Financing
+Listing:                             Singapore Exchange
+ISIN (Provisional):                  USEMI4LR3X66
+CUSIP (Provisional):                 714400918
+──────────────────────────────────────────────────────
+
+INVESTOR DEMAND SNAPSHOT (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               2.0x oversubscribed
+  Geographic Split:    US 12.3%  |  EU 14.7%  |  Asia 27.6%  |  Other 45.4%
+  Investor Type:       Funds 34.0%  |  Insurance 15.1%  |  Banks 3.5%  |  Other 47.4%
+  Largest Single Order: USD 59,908 (Investor: MASKED — Ref VO516231)
+
+KEY COVENANTS (DRAFT)
+  Negative Pledge:          All material subsidiaries (Ref: XU214875)
+  Change-of-Control Put:    11.49% of par + accrued interest
+  Cross-Default Threshold:  USD 52,076
+  Debt Incurrence Test:     Net Leverage ≤ 1.8x EBITDA
+
+EMBARGOED TIMELINE
+  Roadshow:       March 23, 2026 – June 03, 2026
+  Books Open:     March 26, 2026
+  Pricing:        March 16, 2026
+  Settlement:     May 30, 2026
+
+REFERENCED ATTACHMENTS
+  • Preliminary_Prospectus_BZO-0072-JDHW1_DRAFT_CONFIDENTIAL.pdf
+  • DCM_Indicative_Terms_OQ010122.pdf
+  • Roadshow_Presentation_YHP-2397-RSH72_EMBARGOED.pptx
+
+Route all communications through secure deal room (ID: BB600231).
+
+Marcus Abioye
+Director of Procurement | Supply Chain Management | Prism Healthcare Group
+Bloomberg: CR777214  |  Deal Room: QX309475  |  Direct: +1 (212) 4999-4724
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: REF-SQD-4963-9QUQ6 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_6],
+
+This message is transmitted under strict confidentiality in connection with the proposed Senior Unsecured Notes issuance by Prism [PERSON_3] Group (Issuer Rating: BBB/Baa2). This is in the pre-announcement phase — unauthorized disclosure violates Regulation FD.
+
+[FINANCIAL_1] [PERSON_8]: SOU-6741-8Z4G9
+Joint Lead Managers: [PERSON_28] Semiconductor | Apex Logistics Solutions | Legal Counsel (Issuer): [PERSON_1]
+Expected Pricing: March 16, 2026 | Settlement (T+3): May 30, 2026
+
+[PERSON_4] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Instrument:                          Senior Unsecured Notes
+Principal Amount:                    [AMOUNT_1]
+Tenor:                               5 years
+Coupon [PERSON_16]:                     [URL_1]% – [URL_2]% [URL_3]. (semi-annual, 30/360)
+[PERSON_35] [PERSON_36]:                         [URL_4]% of par
+Benchmark:                           UST + 295bps
+Use of Proceeds:                     Acquisition Financing
+Listing:                             [PERSON_11] [PERSON_18]
+ISIN (Provisional):                  USEMI4LR3X66
+CUSIP (Provisional):                 [PHONE_1]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_2] DEMAND [FINANCIAL_3] (PRE-BOOKBUILD — CONFIDENTIAL)
+  Book Size (Current):               [URL_5] oversubscribed
+  Geographic Split:    US [URL_6]%  |  EU [URL_7]%  |  [PERSON_44] [URL_8]%  |  Other [URL_9]%
+  [FINANCIAL_2] Type:       Funds [URL_10]%  |  [PERSON_12] [URL_11]%  |  Banks [URL_12]%  |  Other [URL_13]%
+  Largest [PERSON_30] Order: [AMOUNT_2] ([FINANCIAL_2]: MASKED — Ref VO516231)
+
+KEY COVENANTS (DRAFT)
+  [PERSON_20] [PERSON_31]:          All material subsidiaries (Ref: XU214875)
+  Change-of-Control Put:    [URL_14]% of par + accrued interest
+  Cross-Default Threshold:  [AMOUNT_3]
+  Debt [PERSON_5] Test:     Net [PERSON_21] ≤ [URL_15] [PERSON_32]
+
+EMBARGOED [PERSON_22]
+  Roadshow:       March 23, 2026 – [PERSON_46] 03, 2026
+  Books Open:     March 26, 2026
+  Pricing:        March 16, 2026
+  Settlement:     May 30, 2026
+
+REFERENCED [FINANCIAL_5]
+  • Preliminary_Prospectus_BZO-0072-JDHW1_DRAFT_[URL_16]
+  • DCM_Indicative_Terms_[URL_17]
+  • Roadshow_Presentation_YHP-2397-RSH72_[URL_18]
+
+[PERSON_39] all communications through [PERSON_33] deal room (ID: BB600231).
+
+[PERSON_2]
+Director of Procurement | Supply Chain Management | Prism [PERSON_3] Group
+Bloomberg: CR777214  |  Deal Room: QX309475  |  Direct: [PHONE_2]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: EMBARGOED – DCM WORKING GROUP ONLY
+Handling Protocol: [CONTRACT_1]-9QUQ6 | Encrypted In-Transit: TLS [URL_19] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_33] Deletion
+================================================================================

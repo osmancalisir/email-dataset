@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #105  |  BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+================================================================================
+DATE:        Friday, February 27, 2026 at 07:39 PM
+FROM:        Natalie Mbeki <nmbeki@goldstoneinf.com>
+TO:          Thaddeus Lawson <tlawson@goldstoneinf.com>
+SUBJECT:     CONFIDENTIAL: Currency Exposure Hedging Strategy – Q2
+REFERENCE:   SHM-7294-I89BU
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Philippa,
+
+Please find below the Q2 currency hedging strategy summary, developed in response to elevated FX volatility since February 10, 2026. This is classified BOARD-RESTRICTED and shared only with the Treasury Oversight Committee.
+
+Hedging Strategy Reference: BFY-3843-2CU3W
+Portfolio Exposure Date: March 20, 2026 | Risk Classification: HIGH
+
+CURRENCY EXPOSURE & HEDGE RATIOS
+──────────────────────────────────────────────────────
+Currency Pair    Notional Exposure      Spot Rate    Hedge Ratio
+USD/EUR          USD   15,969,848       0.9069        35.41%
+USD/GBP          USD      102,898       0.7348        33.28%
+USD/JPY          USD      653,031       141.11       10.41%
+USD/CNH          USD      309,030       7.0327        25.15%
+──────────────────────────────────────────────────────
+
+RECOMMENDED INSTRUMENTS
+1. Forward Contracts (USD/EUR): Lock rate 0.9165 for settlement May 08, 2026 — notional USD 65,658 (Desk: FX-XV925596).
+2. Vanilla Options (USD/GBP): Put strike 0.8321, premium USD 7,360,217, expiry April 12, 2026 (Ref: OPT-IT528224).
+3. Cross-Currency Swap (USD/JPY): Fixed 12.64%, SOFR + 20.75bps, tenor 3798 months (ISDA Ref: CGR-5157-WX5GT).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Granite Peak Resources (Code: TG694947)
+  Backup Dealer:     Trident Marine Holdings (Code: HP381690)
+  Credit Limit Used: 15.18% of approved limit (USD 3,377,054 remaining)
+
+SCENARIO ANALYSIS
+  Base Case   (21.61% probability):   Net FX P&L = USD 691,537
+  Adverse     (21.18% probability):   Net FX P&L = USD -1,611,663
+  Stress      (57.2% probability): Net FX P&L = USD -1,617,686
+
+REFERENCED ATTACHMENTS
+  • FX_Hedging_Strategy_Q2_RLB-9269-GGDAT.xlsx           [AES-256 encrypted]
+  • Counterparty_Credit_Assessment_TB228034_RESTRICTED.pdf
+  • ISDA_Schedule_Amendment_SC321393.pdf
+
+Confirm approval via Treasury Portal TP-4285 by April 05, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+Monique Montclair
+Controller | Legal & Compliance | Cedarwood Pharmaceuticals
+Bloomberg Terminal: VW072714  |  Direct: +1 (646) 1566-1821
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Mbeki's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+Handling Protocol: REF-SHM-7294-I89BU | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_8],
+
+[PERSON_18] find below the Q2 [FINANCIAL_1] hedging strategy summary, developed in response to elevated FX volatility since February 10, 2026. This is classified BOARD-RESTRICTED and shared only with the [FINANCIAL_8] Oversight Committee.
+
+Hedging Strategy [PERSON_6]: BFY-3843-2CU3W
+Portfolio [PERSON_11] Date: March 20, 2026 | Risk Classification: HIGH
+
+[FINANCIAL_1] [PERSON_11] & [PERSON_25] RATIOS
+──────────────────────────────────────────────────────
+[FINANCIAL_1] Pair    Notional [PERSON_11]      Spot [PERSON_31]    [PERSON_25] Ratio
+USD/EUR          [AMOUNT_1]       [URL_1]        [URL_2]%
+USD/GBP          [AMOUNT_2]       [URL_3]        [URL_4]%
+USD/JPY          [AMOUNT_3]       [URL_5]       [URL_6]%
+USD/CNH          [AMOUNT_4]       [URL_7]        [URL_8]%
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] [FINANCIAL_4]
+1. Forward Contracts (USD/EUR): Lock [PERSON_31] [URL_9] for settlement May 08, 2026 — notional [AMOUNT_5] (Desk: FX-XV925596).
+2. [PERSON_14] Options (USD/GBP): Put strike [URL_10], premium [AMOUNT_6], expiry April 12, 2026 (Ref: OPT-IT528224).
+3. Cross-[FINANCIAL_1] Swap (USD/JPY): Fixed [URL_11]%, SOFR + [URL_12], tenor 3798 months ([PERSON_32] Ref: CGR-5157-WX5GT).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    [PERSON_15] Peak Resources (Code: TG694947)
+  Backup Dealer:     Trident [PERSON_20] Holdings (Code: HP381690)
+  Credit Limit Used: [URL_13]% of approved limit ([AMOUNT_7] remaining)
+
+[FINANCIAL_5] [FINANCIAL_6]
+  [PERSON_33] [PERSON_34]   ([URL_14]% probability):   Net FX P&L = [AMOUNT_8]
+  [PERSON_16]     ([URL_15]% probability):   Net FX P&L = USD -1,611,663
+  Stress      ([URL_16]% probability): Net FX P&L = USD -1,617,686
+
+REFERENCED [FINANCIAL_7]
+  • FX_Hedging_Strategy_Q2_[URL_17]           [[MIL_PLATFORM_1] encrypted]
+  • Counterparty_Credit_Assessment_TB228034_[URL_18]
+  • ISDA_Schedule_Amendment_[URL_19]
+
+Confirm approval via [FINANCIAL_8] Portal TP-4285 by April 05, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+[PERSON_2]
+Controller | Legal & [PERSON_4] | Cedarwood Pharmaceuticals
+Bloomberg Terminal: VW072714  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_28]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [FINANCIAL_8] OVERSIGHT [PERSON_5]
+Handling Protocol: [PERSON_1] | Encrypted In-Transit: TLS [URL_20] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_23] Deletion
+================================================================================

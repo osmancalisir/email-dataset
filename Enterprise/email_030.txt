@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #030  |  BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Desmond Chen <dchen@ironcladsupp.com>
+TO:          Thomas Nguyen <tnguyen@ironcladsupp.com>
+SUBJECT:     CONFIDENTIAL: Currency Exposure Hedging Strategy – Q3
+REFERENCE:   MBW-4686-4RTN5
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Renata,
+
+Please find below the Q3 currency hedging strategy summary, developed in response to elevated FX volatility since February 24, 2026. This is classified BOARD-RESTRICTED and shared only with the Treasury Oversight Committee.
+
+Hedging Strategy Reference: IWS-2969-PM5M0
+Portfolio Exposure Date: March 28, 2026 | Risk Classification: HIGH
+
+CURRENCY EXPOSURE & HEDGE RATIOS
+──────────────────────────────────────────────────────
+Currency Pair    Notional Exposure      Spot Rate    Hedge Ratio
+USD/EUR          USD      643,892       0.9427        8.96%
+USD/GBP          USD   12,956,766       0.7917        36.11%
+USD/JPY          USD      697,694       146.34       32.95%
+USD/CNH          USD   16,512,759       7.0434        31.7%
+──────────────────────────────────────────────────────
+
+RECOMMENDED INSTRUMENTS
+1. Forward Contracts (USD/EUR): Lock rate 0.9023 for settlement May 15, 2026 — notional USD 7,981,699 (Desk: FX-QT910651).
+2. Vanilla Options (USD/GBP): Put strike 0.8019, premium USD 7,134,791, expiry March 27, 2026 (Ref: OPT-UG140836).
+3. Cross-Currency Swap (USD/JPY): Fixed 17.95%, SOFR + 14.29bps, tenor 6489 months (ISDA Ref: OVG-6528-2LFBK).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Castleton Chemicals (Code: YD418701)
+  Backup Dealer:     Quantum Data Systems (Code: BU376029)
+  Credit Limit Used: 36.18% of approved limit (USD 3,448,261 remaining)
+
+SCENARIO ANALYSIS
+  Base Case   (37.85% probability):   Net FX P&L = USD 640,416
+  Adverse     (28.87% probability):   Net FX P&L = USD -273,631
+  Stress      (33.3% probability): Net FX P&L = USD -831,281
+
+REFERENCED ATTACHMENTS
+  • FX_Hedging_Strategy_Q3_XIK-6461-8VL08.xlsx           [AES-256 encrypted]
+  • Counterparty_Credit_Assessment_II905035_RESTRICTED.pdf
+  • ISDA_Schedule_Amendment_GR574059.pdf
+
+Confirm approval via Treasury Portal TP-6979 by April 15, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+Celestine Nakamura
+Head of Treasury | Business Development | Mosaic Digital Solutions
+Bloomberg Terminal: BS207899  |  Direct: +1 (646) 1482-1808
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Chen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+Handling Protocol: REF-MBW-4686-4RTN5 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+[PERSON_14] find below the Q3 [FINANCIAL_1] hedging strategy summary, developed in response to elevated FX volatility since February 24, 2026. This is classified BOARD-RESTRICTED and shared only with the [FINANCIAL_8] Oversight Committee.
+
+Hedging Strategy [PERSON_2]: IWS-2969-PM5M0
+Portfolio [PERSON_7] Date: March 28, 2026 | Risk Classification: HIGH
+
+[FINANCIAL_1] [PERSON_7] & [PERSON_19] RATIOS
+──────────────────────────────────────────────────────
+[FINANCIAL_1] Pair    Notional [PERSON_7]      Spot [PERSON_23]    [PERSON_19] Ratio
+USD/EUR          [AMOUNT_1]       [URL_1]        [URL_2]%
+USD/GBP          [AMOUNT_2]       [URL_3]        [URL_4]%
+USD/JPY          [AMOUNT_3]       [URL_5]       [URL_6]%
+USD/CNH          [AMOUNT_4]       [URL_7]        [URL_8]%
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] [FINANCIAL_4]
+1. Forward Contracts (USD/EUR): Lock [PERSON_23] [URL_9] for settlement May 15, 2026 — notional [AMOUNT_5] (Desk: FX-QT910651).
+2. [PERSON_10] Options (USD/GBP): Put strike [URL_10], premium [AMOUNT_6], expiry March 27, 2026 (Ref: OPT-UG140836).
+3. Cross-[FINANCIAL_1] Swap (USD/JPY): Fixed [URL_11]%, SOFR + [URL_12], tenor 6489 months ([PERSON_24] Ref: OVG-6528-2LFBK).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Castleton Chemicals (Code: YD418701)
+  Backup Dealer:     Quantum Data Systems (Code: BU376029)
+  Credit Limit Used: [URL_13]% of approved limit ([AMOUNT_7] remaining)
+
+[FINANCIAL_5] [FINANCIAL_6]
+  [PERSON_25] [PERSON_26]   ([URL_14]% probability):   Net FX P&L = [AMOUNT_8]
+  [PERSON_11]     ([URL_15]% probability):   Net FX P&L = USD -273,631
+  Stress      ([URL_16]% probability): Net FX P&L = USD -831,281
+
+REFERENCED [FINANCIAL_7]
+  • FX_Hedging_Strategy_Q3_[URL_17]           [[MIL_PLATFORM_1] encrypted]
+  • Counterparty_Credit_Assessment_II905035_[URL_18]
+  • ISDA_Schedule_Amendment_[URL_19]
+
+Confirm approval via [FINANCIAL_8] Portal TP-6979 by April 15, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+[PERSON_3] [PERSON_4]
+Head of [FINANCIAL_8] | Business Development | Mosaic Digital Solutions
+Bloomberg Terminal: BS207899  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Chen's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [FINANCIAL_8] OVERSIGHT [PERSON_1]
+Handling Protocol: [CONTRACT_1]-4RTN5 | Encrypted In-Transit: TLS [URL_20] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_17] Deletion
+================================================================================

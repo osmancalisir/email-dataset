@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #027  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Fitzroy Mwangi <fmwangi@helixbiomedi.com>
+TO:          Raymond Patel <rpatel@helixbiomedi.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – Redwood Asset Management / Bridgeway Consumer Finance
+REFERENCE:   YAH-8961-WLG84
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Howard,
+
+Following our call on February 10, 2026, I am forwarding the updated term sheet for the proposed joint venture between Redwood Asset Management and Bridgeway Consumer Finance. This supersedes all prior drafts and is shared exclusively under NDA Ref: GWB-8277-48BKH.
+
+Transaction Summary – Project Code: WF015567
+NDA Reference: GWB-8277-48BKH | Executed: February 26, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Strategic Alliance
+Enterprise Valuation (Pre-Money):    USD      6,356,337
+Proposed Equity Split:               8.59% / 91.41%
+Anticipated Close Date:              April 18, 2026
+Escrow Agent:                        Silveroak Capital Markets
+Governing Law:                       Ontario, Canada
+Minimum EBITDA Covenant:             USD     13,863,687
+Maximum Leverage Ratio:              3.7x
+Interest Coverage Floor:             6.72%
+Year-1 CapEx Cap:                    USD      7,358,860
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           June 01, 2026
+  Antitrust Clearance Expected:      May 17, 2026
+  Required Licenses:                 ZI709831, HM186790, CH152339
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO BRIDGEWAY CONSUMER FINANCE)
+(a) Management carve-out provisions — Exhibit F, Ref DGY-7608-XISGW
+(b) Earn-out KPI metrics FN309184 and UD461747 — valuation impact USD 7,916,299
+(c) Exclusivity breach penalty: 33.61% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v5259_AX320623.pdf              [AES-256 encrypted]
+  • Valuation_Model_JCB-5775-L6EX3_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_LL332001.docx
+
+Legal sign-off required from both parties no later than March 26, 2026. Coordinate follow-up with Charles Wainwright and the Bridgeway Consumer Finance legal team for April 18, 2026.
+
+Marguerite Okafor
+Head of Mergers & Acquisitions | Legal & Compliance | Redwood Asset Management
+Direct: +1 (415) 7770-3320  |  Mobile: +1 (650) 7677-1193  |  Token: KC300417
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Mwangi's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-YAH-8961-WLG84 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_32],
+
+Following our call on February 10, 2026, I am forwarding the updated term sheet for the proposed joint venture between Redwood Asset Management and Bridgeway [FINANCIAL_5] Finance. This supersedes all prior drafts and is shared exclusively under NDA Ref: GWB-8277-48BKH.
+
+[FINANCIAL_1] Summary – Project Code: WF015567
+NDA [PERSON_8]: GWB-8277-48BKH | Executed: February 26, 2026
+
+[PERSON_3] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_10]:                      Strategic [PERSON_16]
+[PERSON_4] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_39] Date:              April 18, 2026
+Escrow Agent:                        Silveroak Capital Markets
+Governing Law:                       Ontario, [PERSON_34]
+Minimum [PERSON_35] Covenant:             [AMOUNT_2]
+Maximum [PERSON_17] Ratio:              [URL_3]
+Interest [PERSON_18] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_19]
+  HSR Act Filing [PERSON_20]:           [PERSON_46] 01, 2026
+  Antitrust [PERSON_12] Expected:      May 17, 2026
+  Required Licenses:                 ZI709831, HM186790, CH152339
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_22] TO BRIDGEWAY [FINANCIAL_5] [PERSON_25])
+(a) Management carve-out provisions — Exhibit F, Ref DGY-7608-XISGW
+(b) Earn-out KPI metrics FN309184 and UD461747 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_4] value
+
+REFERENCED [FINANCIAL_6]
+  • JV_TermSheet_v5259_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_JCB-5775-L6EX3_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than March 26, 2026. [PERSON_5] follow-up with [PERSON_1] and the Bridgeway [FINANCIAL_5] [PERSON_25] legal [CALLSIGN_1], 2026.
+
+[PERSON_2]
+Head of Mergers & Acquisitions | Legal & [PERSON_7] | Redwood Asset Management
+Direct: [PHONE_1]  |  [PERSON_36]: [PHONE_2]  |  Token: KC300417
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_37]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_22], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_7] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [CONTRACT_1]-WLG84 | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_38] Deletion
+================================================================================

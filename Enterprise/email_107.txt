@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #107  |  BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Barnabas Caldwell <bcaldwell@emberanalyti.com>
+TO:          Cormac Djordjevic <cdjordjevic@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: M&A Due Diligence Update – Project ECHO
+REFERENCE:   UJM-1998-ZAPVB
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kevin,
+
+This update pertains to the ongoing due diligence for the potential acquisition of Aurora Semiconductor (codename: Project ECHO). All materials fall under NDA Ref: QNA-5308-GWZ1U, executed February 27, 2026.
+
+Transaction Reference: LDU-1665-PF2PN
+Buy-Side Advisor: Redwood Asset Management | Legal Counsel: Kwame Beaumont
+Process Stage: Round 2 | Final Bid Deadline: May 05, 2026
+
+DUE DILIGENCE WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Not Started         Rebecca Ferrante  4399
+Legal & Regulatory DD    Not Started         Ingrid Vance     4964
+Commercial DD            Escalated           Derek Abramowitz  7439
+IT & Cybersecurity DD    In Progress         Howard Beaumont  6727
+HR & People DD           In Progress         Stephanie Chen   7696
+Tax Structuring          Not Started         Miriam Volkov    8327
+──────────────────────────────────────────────────────
+
+CRITICAL OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-4142: Unresolved litigation — Aurora Semiconductor vs. Kwame Beaumont (Case Ref: ZX681010). Contingent liability: USD 137,393. Adverse outcome probability: 3.09%.
+
+OI-4850: Revenue concentration — top 9574 customers = 27.46% of Aurora Semiconductor revenue. Key account Rebecca Ferrante (Acct: KC856990) renews March 24, 2026 with no confirmation yet.
+
+OI-6979: Pension deficit of USD 67,157 not disclosed in management accounts (Actuarial Ref: LO128070).
+
+OI-930: 30.38% of server estate running end-of-life OS (Ref: SEC-JI224324). Remediation cost: USD 1,371,666.
+
+VALUATION SENSITIVITY
+  Base Case Offer:          USD 57,148   (EV/EBITDA: 8.2x)
+  Bear Case (risks priced): USD 15,770,794   (EV/EBITDA: 5.8x)
+  Walk-Away Price:          USD 812,383   (EV/EBITDA: 3.1x)
+
+NEXT STEPS
+  Management presentation:    April 12, 2026 — Dubai
+  Final bid submission:        March 26, 2026
+  Exclusivity request:         April 26, 2026
+
+REFERENCED ATTACHMENTS
+  • DD_Issues_Log_ProjectECHO_Wk1277_IMW-1383-43RSV.xlsx
+  • Financial_Model_v4399_CR944222_CONFIDENTIAL.xlsx
+  • Legal_Summary_MX674351_PRIVILEGED.pdf
+
+No information herein may be shared with Aurora Semiconductor management without Deal Committee consent.
+
+Derek Abramowitz
+Head of Treasury | Corporate Development | Wavecrest Biotechnology
+Deal Room Access: MM019403  |  Direct: +1 (212) 4964-7439
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+Handling Protocol: REF-UJM-1998-ZAPVB | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_36],
+
+This update pertains to the ongoing due [PERSON_9] for the potential acquisition of [PERSON_28] Semiconductor (codename: Project ECHO). All materials fall under NDA Ref: [PERSON_4], executed February 27, 2026.
+
+Transaction [PERSON_8]: LDU-1665-PF2PN
+[PERSON_15] Advisor: Redwood Asset Management | Legal Counsel: [PERSON_39] Beaumont
+Process [PERSON_40]: Round 2 | Final Bid [PERSON_16]: May 05, 2026
+
+DUE [PERSON_9] WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Not Started         [PERSON_21] [PERSON_18]  4399
+Legal & Regulatory DD    Not Started         [PERSON_7]     4964
+Commercial DD            Escalated           [PERSON_2]  7439
+IT & Cybersecurity DD    In Progress         [PERSON_27] Beaumont  6727
+HR & [PERSON_32] DD           In Progress         [PERSON_3]   7696
+Tax Structuring          Not Started         [PERSON_5]    8327
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-4142: Unresolved litigation — [PERSON_28] Semiconductor vs. [PERSON_39] Beaumont ([PERSON_49] Ref: ZX681010). Contingent liability: [AMOUNT_1]. [PERSON_23] outcome probability: [URL_1]%.
+
+OI-4850: [PERSON_24] concentration — top 9574 customers = [URL_2]% of [PERSON_28] Semiconductor revenue. Key account [PERSON_1]: KC856990) renews March 24, 2026 with no confirmation yet.
+
+OI-6979: Pension deficit of [AMOUNT_2] not disclosed in management accounts (Actuarial Ref: LO128070).
+
+[MIL_PLATFORM_1]: [URL_3]% of server estate running end-of-life OS (Ref: SEC-JI224324). Remediation cost: [AMOUNT_3].
+
+VALUATION [FINANCIAL_2]
+  [PERSON_50] [PERSON_49] Offer:          [AMOUNT_4]   ([PERSON_11]: [URL_4])
+  Bear [PERSON_49] (risks priced): [AMOUNT_5]   ([PERSON_11]: [URL_5])
+  Walk-Away [PERSON_43]:          [AMOUNT_6]   ([PERSON_11]: [URL_6])
+
+NEXT STEPS
+  Management presentation:    April 12, 2026 — [PERSON_44]
+  Final bid submission:        March 26, 2026
+  Exclusivity request:         April 26, 2026
+
+REFERENCED [FINANCIAL_3]
+  • DD_Issues_Log_ProjectECHO_Wk1277_[URL_7]
+  • Financial_Model_v4399_CR944222_[URL_8]
+  • Legal_Summary_MX674351_[URL_9]
+
+No information herein may be shared with [PERSON_28] Semiconductor management without Deal [PERSON_12] consent.
+
+[PERSON_2]
+Head of Treasury | [PERSON_13] Development | Wavecrest Biotechnology
+Deal Room Access: MM019403  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL [CALLSIGN_1]
+Handling Protocol: [CONTRACT_1]-ZAPVB | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_35] Deletion
+================================================================================

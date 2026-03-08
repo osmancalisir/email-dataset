@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #222  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Celestine Ellison <cellison@wavecrestbio.com>
+TO:          Lionel Oduya <loduya@wavecrestbio.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Stratos Energy Corp
+REFERENCE:   HLE-8993-UOQCJ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Fletcher,
+
+I am updating you on the franchise and distribution agreement negotiations with Stratos Energy Corp (ID: EE726375). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: SYB-8638-4UPZV | Territory: Western Europe (excluding UK)
+Agreement Type: Exclusive Distribution Agreement | External Counsel: Cascadia Real Estate Trust (Matter: ZY878982)
+Heads of Terms Signed: March 05, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v3222)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD      1,678,792
+Annual Renewal Fee:                    USD      3,782,666
+Royalty / Margin Rate:                 10.1% of Net Sales
+Minimum Annual Purchase Commitment:    USD        109,224  (Year 1); +14.92% p.a.
+Marketing Contribution:                8.12% of Net Sales (Co-op Fund: EW984451)
+Exclusivity Period:                    1175 months
+Performance Milestone (Year 3):        USD         61,312 cumulative revenue
+Breach Penalty / Clawback:             USD        797,547 or 17.02% of initial fee
+Term:                                  9633 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Stratos Energy Corp Credit Rating:       BB
+  Last Filed Revenue (FY2023): USD 851,089
+  Net Worth (est.):            USD 1,359,164
+  Bank Reference (Cedarwood Pharmaceuticals):      Satisfactory
+  Director Background Check:   Clear (Ref: QM855375)
+  Litigation Search:           Clear
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH STRATOS ENERGY CORP)
+  CP-5671: Stratos Energy Corp seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for Cedarwood Pharmaceuticals expansion.
+  CP-2849: Sub-franchising rights — accept affiliates-only with 31.37% override royalty (Clause: XM602204).
+  CP-4356: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by May 26, 2026 (Ref: CC-8710)
+  ☐  Legal final review — by April 22, 2026 (Counsel: Cascadia Real Estate Trust)
+  ☐  Brand & IP Committee — territory approval (Ref: LW651762)
+  ☐  CFO — minimum royalty exception if required (Ref: GS054417)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v3222_SYB-8638-4UPZV_CONFIDENTIAL.pdf
+  • Stratos Energy Corp_Financial_Assessment_PH938518.pdf
+  • Territory_Map_WR862622.pdf
+
+Negotiation session scheduled: April 04, 2026 — Venue details via secure channel.
+
+Broderick Okonkwo
+Director of Corporate Finance | Corporate Development | Cobalt Ventures LLC
+Commercial Committee ID: EE726375  |  Direct: +1 (312) 9549-6624
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-HLE-8993-UOQCJ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_9],
+
+I am updating you on the [PERSON_6] and distribution agreement [FINANCIAL_2]s with [COMPANY_1] (ID: EE726375). This is classified RESTRICTED – COMMERCIAL [PERSON_3] ONLY. Do not [PERSON_31] with regional operations until terms are finalised.
+
+[FINANCIAL_2] [PERSON_4]: SYB-8638-4UPZV | Territory: Western [PERSON_23] (excluding UK)
+Agreement Type: [PERSON_5] Distribution Agreement | External Counsel: [PERSON_13] Real [PERSON_24] Trust (Matter: ZY878982)
+Heads of Terms Signed: March 05, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v3222)
+──────────────────────────────────────────────────────
+Initial [PERSON_6] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_36]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_15] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: EW984451)
+Exclusivity Period:                    1175 months
+[PERSON_1] [PERSON_7] (Year 3):        [AMOUNT_4] cumulative [PERSON_19]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  9633 years, renewable on [PERSON_1]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  [COMPANY_1] Credit Rating:       BB
+  Last Filed [PERSON_19] (FY2023): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_4] (Cedarwood Pharmaceuticals):      Satisfactory
+  Director Background Check:   Clear (Ref: QM855375)
+  Litigation Search:           Clear
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_31] WITH [COMPANY_1])
+  CP-5671: [COMPANY_1] seeks right of first refusal on adjacent territory. Position: [PERSON_20] — reserved for Cedarwood Pharmaceuticals expansion.
+  CP-2849: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_27]: XM602204).
+  CP-4356: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_3] APPROVALS
+  ☐  Commercial [PERSON_3] sign-off — by May 26, 2026 (Ref: CC-8710)
+  ☐  Legal final review — by April 22, 2026 (Counsel: [PERSON_13] Real [PERSON_24] Trust)
+  ☐  Brand & IP [PERSON_3] — territory approval (Ref: LW651762)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_3] (Ref: GS054417)
+
+REFERENCED [FINANCIAL_4]
+  • Franchise_Agreement_Draft_v3222_SYB-8638-4UPZV_[URL_7]
+  • Stratos Energy Corp_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: April 04, 2026 — [PERSON_33] details via [PERSON_29] channel.
+
+Broderick Okonkwo
+Director of [PERSON_8] [PERSON_22] | [PERSON_8] Development | [COMPANY_2]
+Commercial [PERSON_3] ID: EE726375  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ellison's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_3] ONLY
+Handling Protocol: [CONTRACT_1]-UOQCJ | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

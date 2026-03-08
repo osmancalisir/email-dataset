@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #218  |  BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Renata Drummond <rdrummond@helixbiomedi.com>
+TO:          Howard Strauss <hstrauss@helixbiomedi.com>
+SUBJECT:     CONFIDENTIAL: Strategic Divestiture Update – Project OPAL
+REFERENCE:   NKV-9233-4GNHD
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Charles,
+
+This update pertains to the proposed divestiture of the Corporate Development division (Project OPAL, Ref: XLV-6442-BVRDZ). This is classified BOARD-RESTRICTED and shared exclusively with the Divestiture Steering Committee.
+
+Process Advisor: Citadel Fintech Group (Partner: Piers Lindqvist) | Legal Counsel: Amberfield Consumer Goods (Ref: NN020884)
+Process Stage: Preparation of Confidential Information Memorandum | LOI Deadline: June 06, 2026 | Expected Close: April 15, 2026
+
+BUSINESS UNIT SNAPSHOT (FY2024 ACTUALS)
+──────────────────────────────────────────────────────
+Revenue:                             USD      7,709,943
+EBITDA:                              USD        123,543  (19.73% margin)
+Net Assets:                          USD      3,241,787
+Headcount:                           4,836 FTEs
+Key Customers (21.48% of Revenue):  Philippa Thornton, Alicia Yamamoto
+Key Contract Expiry:                 April 19, 2026 (Value: USD 293,903)
+──────────────────────────────────────────────────────
+
+BUYER UNIVERSE & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      Indicative Bid
+  Citadel Fintech Group   Strategic    Signed        Round 2    USD 2,349,189
+  Amberfield Consumer Goods  Financial    Signed        Round 2    USD 786,225
+  SilverBridge Consulting  Strategic    Signed        Round 1    USD 269,474
+  Delphi Semiconductor    Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation Range:  USD 269,474 – USD 2,349,189  (EV/EBITDA: 5.5x – 7.9x)
+Board Minimum (RESTRICTED): USD 242,526
+
+KEY DIVESTITURE RISKS
+  Risk D-4823: Change-of-control clauses in 322 contracts (Value: USD 119,650) — waivers required before close.
+  Risk D-7227: Pension segregation — employer debt on separation: USD 13,402,861 (Ref: DB889770).
+  Risk D-3819: IT carve-out — 2233 shared systems, TSA duration 9392 months, cost USD 68,538.
+  Risk D-7890: Key person retention — 1633 critical employees; retention budget USD 3,265,898 (Ref: CCA-3247-S3ZGT).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     Alistair Westergaard  In Progress      June 04, 2026
+  IT Carve-Out           Thaddeus Montclair    Complete         May 19, 2026
+  HR Separation          Kevin Mbeki           Complete         March 16, 2026
+  Finance Standalone     Piers Lindqvist       Initiated        June 02, 2026
+
+REFERENCED ATTACHMENTS
+  • CIM_ProjectOPAL_MQI-8544-0ETEE_CONFIDENTIAL.pdf
+  • Financial_Model_BU_FQ470623_v9902.xlsx
+  • Buyer_Tracking_Log_BU291423_RESTRICTED.xlsx
+  • Separation_Plan_DX715508.pdf
+
+Next Steering Committee call: March 26, 2026 — Agenda: Round 2 bid analysis & preferred buyer selection.
+
+Patrick Rasmussen
+Chief Revenue Officer | Corporate Development | Titan Manufacturing Co
+VDR Access Code: KH820052  |  Direct: +1 (415) 3066-4268
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+Handling Protocol: REF-NKV-9233-4GNHD | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+This update pertains to the proposed [PERSON_4] of the [PERSON_9] Development division (Project OPAL, Ref: XLV-6442-BVRDZ). This is classified BOARD-RESTRICTED and shared exclusively with the [PERSON_4] [FINANCIAL_6] Committee.
+
+Process Advisor: Citadel Fintech Group (Partner: Piers Lindqvist) | Legal Counsel: Amberfield Consumer Goods (Ref: NN020884)
+Process [PERSON_38]: Preparation of Confidential Information Memorandum | LOI [PERSON_17]: [PERSON_46] 06, 2026 | Expected [PERSON_39]: April 15, 2026
+
+[FINANCIAL_1] UNIT [FINANCIAL_2] (FY2024 ACTUALS)
+──────────────────────────────────────────────────────
+[PERSON_24]:                             [AMOUNT_1]
+[PERSON_30]:                              [AMOUNT_2]  ([URL_1]% margin)
+Net Assets:                          [AMOUNT_3]
+Headcount:                           4,836 FTEs
+Key Customers ([URL_2]% of [PERSON_24]):  [PERSON_18] Thornton, [PERSON_2]
+Key Contract Expiry:                 April 19, 2026 (Value: [AMOUNT_4])
+──────────────────────────────────────────────────────
+
+BUYER [PERSON_19] & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      [PERSON_7] Bid
+  Citadel Fintech Group   Strategic    Signed        Round 2    [AMOUNT_5]
+  Amberfield Consumer Goods  Financial    Signed        Round 2    [AMOUNT_6]
+  [PERSON_3] Consulting  Strategic    Signed        Round 1    [AMOUNT_7]
+  [PERSON_32] Semiconductor    Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation [PERSON_42]:  [AMOUNT_7] – [AMOUNT_5]  ([PERSON_12]: [URL_3] – [URL_4])
+Board Minimum (RESTRICTED): [AMOUNT_8]
+
+KEY [PERSON_4] RISKS
+  Risk D-4823: Change-of-control clauses in 322 contracts (Value: [AMOUNT_9]) — waivers required before close.
+  Risk D-7227: Pension segregation — employer debt on separation: [AMOUNT_10] (Ref: DB889770).
+  Risk D-3819: IT carve-out — 2233 shared systems, TSA duration 9392 months, cost [AMOUNT_11].
+  Risk D-7890: Key person retention — 1633 critical employees; retention budget [AMOUNT_12] (Ref: CCA-3247-S3ZGT).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     [PERSON_14] Westergaard  In Progress      [PERSON_46] 04, 2026
+  IT Carve-Out           [PERSON_15] Montclair    [PERSON_20]         May 19, 2026
+  HR Separation          [PERSON_37] [PERSON_43]           [PERSON_20]         March 16, 2026
+  [PERSON_28] [PERSON_8]     Piers Lindqvist       Initiated        [PERSON_46] 02, 2026
+
+REFERENCED [FINANCIAL_5]
+  • CIM_ProjectOPAL_MQI-8544-0ETEE_[URL_5]
+  • Financial_Model_BU_FQ470623_[URL_6]
+  • Buyer_Tracking_Log_BU291423_[URL_7]
+  • Separation_Plan_[URL_8]
+
+Next [FINANCIAL_6] [PERSON_10] call: March 26, 2026 — [PERSON_35]: Round 2 bid analysis & preferred buyer selection.
+
+[PERSON_1]
+Chief [PERSON_24] Officer | [PERSON_9] Development | [COMPANY_1]
+VDR Access Code: KH820052  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Drummond's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [PERSON_4] [FINANCIAL_6] [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-4GNHD | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_36] Deletion
+================================================================================

@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #082  |  BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Odessa Ferrante <oferrante@tidalbasinve.com>
+TO:          Sebastian Nkrumah <snkrumah@tidalbasinve.com>
+SUBJECT:     CONFIDENTIAL: M&A Due Diligence Update – Project ATLAS
+REFERENCE:   ANK-7580-D66QA
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Miriam,
+
+This update pertains to the ongoing due diligence for the potential acquisition of Solaris Renewable Energy (codename: Project ATLAS). All materials fall under NDA Ref: AWG-6618-5HACG, executed March 01, 2026.
+
+Transaction Reference: LWC-7642-65BTT
+Buy-Side Advisor: Verdant Food & Beverage | Legal Counsel: Dmitri Abramowitz
+Process Stage: Round 2 | Final Bid Deadline: April 04, 2026
+
+DUE DILIGENCE WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             Complete            Marguerite Drummond  3909
+Legal & Regulatory DD    Escalated           Lavinia Montclair  6646
+Commercial DD            Not Started         Lavinia Vance    3094
+IT & Cybersecurity DD    Under Review        Raymond Caldwell  5864
+HR & People DD           Under Review        Patrick Chen     1795
+Tax Structuring          Complete            Oswald Volkov    116
+──────────────────────────────────────────────────────
+
+CRITICAL OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-9320: Unresolved litigation — Solaris Renewable Energy vs. Dmitri Abramowitz (Case Ref: UN455442). Contingent liability: USD 271,107. Adverse outcome probability: 21.02%.
+
+OI-6861: Revenue concentration — top 2200 customers = 28.08% of Solaris Renewable Energy revenue. Key account Marguerite Drummond (Acct: ZY224802) renews April 29, 2026 with no confirmation yet.
+
+OI-5859: Pension deficit of USD 57,236 not disclosed in management accounts (Actuarial Ref: HY678422).
+
+OI-6752: 20.86% of server estate running end-of-life OS (Ref: SEC-IL452990). Remediation cost: USD 118,240.
+
+VALUATION SENSITIVITY
+  Base Case Offer:          USD 268,005   (EV/EBITDA: 8.7x)
+  Bear Case (risks priced): USD 6,731,431   (EV/EBITDA: 5.1x)
+  Walk-Away Price:          USD 3,563,802   (EV/EBITDA: 3.9x)
+
+NEXT STEPS
+  Management presentation:    March 27, 2026 — Toronto
+  Final bid submission:        March 25, 2026
+  Exclusivity request:         March 19, 2026
+
+REFERENCED ATTACHMENTS
+  • DD_Issues_Log_ProjectATLAS_Wk9158_QXW-1311-CTM63.xlsx
+  • Financial_Model_v3909_KW378807_CONFIDENTIAL.xlsx
+  • Legal_Summary_GX364612_PRIVILEGED.pdf
+
+No information herein may be shared with Solaris Renewable Energy management without Deal Committee consent.
+
+Lavinia Vance
+Director of Corporate Finance | Risk Management | Ironclad Supply Chain
+Deal Room Access: JA862528  |  Direct: +1 (212) 6646-3094
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ferrante's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL TEAM EYES ONLY
+Handling Protocol: REF-ANK-7580-D66QA | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_35],
+
+This update pertains to the ongoing due [PERSON_13] for the potential acquisition of Solaris [PERSON_11] Energy (codename: Project ATLAS). All materials fall under NDA Ref: AWG-6618-5HACG, executed March 01, 2026.
+
+Transaction [PERSON_12]: LWC-7642-65BTT
+[PERSON_19] Advisor: Verdant Food & [PERSON_20] | Legal Counsel: [PERSON_4]
+Process [PERSON_47]: Round 2 | Final Bid [PERSON_21]: April 04, 2026
+
+DUE [PERSON_13] WORKSTREAM STATUS
+──────────────────────────────────────────────────────
+Workstream               Status              Lead             Issues Flagged
+Financial DD             [PERSON_23]            [PERSON_10] Drummond  3909
+Legal & Regulatory DD    Escalated           [PERSON_27] Montclair  6646
+Commercial DD            Not Started         [PERSON_7]    3094
+IT & Cybersecurity DD    Under Review        [PERSON_6]  5864
+HR & [PERSON_40] DD           Under Review        [PERSON_9]     1795
+Tax Structuring          [PERSON_23]            [PERSON_8]    116
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] OPEN ITEMS (BOARD-RESTRICTED)
+
+OI-9320: Unresolved litigation — Solaris [PERSON_11] Energy vs. [PERSON_2] Ref: UN455442). Contingent liability: [AMOUNT_1]. [PERSON_30] outcome probability: [URL_1]%.
+
+OI-6861: [PERSON_31] concentration — top 2200 customers = [URL_2]% of Solaris [PERSON_11] Energy revenue. Key account [PERSON_1]: ZY224802) renews April 29, 2026 with no confirmation yet.
+
+OI-5859: Pension deficit of [AMOUNT_2] not disclosed in management accounts (Actuarial Ref: HY678422).
+
+OI-6752: [URL_3]% of server estate running end-of-life OS (Ref: SEC-IL452990). Remediation cost: [AMOUNT_3].
+
+VALUATION [FINANCIAL_2]
+  [PERSON_55] [PERSON_54] Offer:          [AMOUNT_4]   ([PERSON_14]: [URL_4])
+  Bear [PERSON_54] (risks priced): [AMOUNT_5]   ([PERSON_14]: [URL_5])
+  Walk-Away [PERSON_50]:          [AMOUNT_6]   ([PERSON_14]: [URL_6])
+
+NEXT STEPS
+  Management presentation:    March 27, 2026 — Toronto
+  Final bid submission:        March 25, 2026
+  Exclusivity request:         March 19, 2026
+
+REFERENCED [FINANCIAL_3]
+  • DD_Issues_Log_ProjectATLAS_Wk9158_[URL_7]
+  • Financial_Model_v3909_KW378807_[URL_8]
+  • Legal_Summary_GX364612_[URL_9]
+
+No information herein may be shared with Solaris [PERSON_11] Energy management without Deal [PERSON_15] consent.
+
+[PERSON_7]
+Director of [PERSON_16] [PERSON_34] | Risk Management | Ironclad Supply Chain
+Deal Room Access: JA862528  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_26]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DEAL [CALLSIGN_1]
+Handling Protocol: [PERSON_3] | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_45] Deletion
+================================================================================

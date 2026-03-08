@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #198  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Marguerite Fischer <mfischer@emberanalyti.com>
+TO:          Alicia Szymanski <aszymanski@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: FY2025 Annual Budget & Capital Allocation Proposal
+REFERENCE:   IXR-0235-CHKFK
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Derek,
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on March 27, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: NJO-2049-NJ7P2 | CFO Sponsor: Thaddeus Szymanski | Prior Year Lock Date: February 16, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2025 Budget        FY2024 Actual      Variance
+Total Revenue           USD      1,235,230   USD      1,073,790    +15.0%
+Gross Profit            USD        601,814   USD        642,445     +0.0%
+EBITDA                  USD        220,438   USD        240,566     -2.8%
+EBIT                    USD        171,988   USD        179,303     +2.6%
+Net Income              USD        125,377   USD        124,018     +8.8%
+Capital Expenditure     USD      6,242,758   USD      5,406,579     +3.8%
+Free Cash Flow          USD        132,262   USD        127,233     -0.4%
+Net Debt (Year-End)     USD     27,077,028   USD     26,502,453     -1.5%
+──────────────────────────────────────────────────────
+EBITDA Margin: 28.81%  |  Gross Margin: 10.9%  |  FCF Conversion: 9.62%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 2)  USD 1,548,356  Low  LN605275
+  New Manufacturing Line — Plant HT27       USD 1,604,729  Critical  AC826396
+  ERP Enhancement — Module VU78             USD 14,580,803  Critical  UI516796
+  Logistics Hub Expansion — Chicago         USD 130,943  Medium  QT024025
+  Contingency Reserve (34.68%)              USD 2,164,988  N/A    UX902504
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 24.72% assumes 2771 new customer wins (Pipeline: TO152982) and 20.66% retention.
+  Headcount: net +4849 FTEs (1633 hires, 778 attrition) — Ref: HC-8264.
+  Inflation: 21.0% on COGS, 20.12% on SG&A.
+  FX: USD/EUR 0.925 | USD/GBP 0.8205 | USD/JPY 135.7 (Treasury Ref: DV390034).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Consumer Products               Revenue: USD 7,681,486   EBITDA: USD 1,012,081   HC Cap: 1649
+  EMEA Operations                 Revenue: USD 13,917,064   EBITDA: USD 3,006,424   HC Cap: 1568
+  North America Commercial        Revenue: USD 107,384   EBITDA: USD 21,701   HC Cap: 726
+  Global Supply Chain             Revenue: USD 123,130   EBITDA: USD 20,641   HC Cap: 105
+
+REFERENCED ATTACHMENTS
+  • FY2025_Budget_Model_WYI-8629-SEZ6H_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_CE630503_CONFIDENTIAL.pdf
+  • Division_Targets_IK056597_RESTRICTED.xlsx
+
+Provide comments to Thaddeus Szymanski only by April 28, 2026. Budget Committee approval required by April 02, 2026.
+
+Derek Oduya
+Director of Procurement | Information Technology | Zenith Aerospace Ltd
+Budget Portal: SG876420  |  Direct: +1 (646) 4153-6200
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-IXR-0235-CHKFK | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_34],
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_7] review on March 27, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_39] with [FINANCIAL_3]al finance teams or [PERSON_43] management at this stage.
+
+Budget [PERSON_8]: NJO-2049-NJ7P2 | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 16, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_43] Item               FY2025 Budget        FY2024 Actual      [PERSON_16]
+Total [PERSON_21]           [AMOUNT_1]   [AMOUNT_2]    +[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_28]                  [AMOUNT_5]   [AMOUNT_6]     -[URL_3]%
+[PERSON_44]                    [AMOUNT_7]   [AMOUNT_8]     +[URL_4]%
+Net [PERSON_29]              [AMOUNT_9]   [AMOUNT_10]     +[URL_5]%
+Capital [PERSON_5]     [AMOUNT_11]   [AMOUNT_12]     +[URL_6]%
+[PERSON_45] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     -[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     -[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_28] Margin: 2[URL_5]1%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_5] ALLOCATION
+  Digital [PERSON_2] [PERSON_22] ([PERSON_37] 2)  [AMOUNT_17]  Low  LN605275
+  New Manufacturing [PERSON_43] — Plant HT27       [AMOUNT_18]  Critical  AC826396
+  ERP Enhancement — [PERSON_30] VU78             [AMOUNT_19]  Critical  UI516796
+  Logistics Hub Expansion — Chicago         [AMOUNT_20]  Medium  QT024025
+  Contingency [PERSON_23] ([URL_12]%)              [AMOUNT_21]  N/A    UX902504
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_21] growth [URL_13]% assumes 2771 new customer wins ([PERSON_17]: TO152982) and [URL_14]% retention.
+  Headcount: net +4849 FTEs (1633 hires, 778 attrition) — Ref: HC-8264.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: DV390034).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_10] — DO NOT [PERSON_39] PRE-ALIGNMENT)
+  Consumer Products               [PERSON_21]: [AMOUNT_24]   [PERSON_28]: [AMOUNT_25]   HC Cap: 1649
+  [PERSON_49] Operations                 [PERSON_21]: [AMOUNT_26]   [PERSON_28]: [AMOUNT_27]   HC Cap: 1568
+  North [PERSON_25] Commercial        [PERSON_21]: [AMOUNT_28]   [PERSON_28]: [AMOUNT_29]   HC Cap: 726
+  Global Supply Chain             [PERSON_21]: [AMOUNT_30]   [PERSON_28]: [AMOUNT_31]   HC Cap: 105
+
+REFERENCED [FINANCIAL_4]
+  • FY2025_Budget_Model_WYI-8629-SEZ6H_BOARD_[URL_20]
+  • CapEx_Project_Briefs_CE630503_[URL_21]
+  • [FINANCIAL_3]_Targets_IK056597_[URL_20]
+
+[PERSON_26] comments to [PERSON_1] only by April 28, 2026. Budget [PERSON_7] approval required by April 02, 2026.
+
+[PERSON_4]
+Director of Procurement | Information Technology | Zenith [PERSON_11] Ltd
+Budget Portal: SG876420  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_10], and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-CHKFK | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_33] Deletion
+================================================================================

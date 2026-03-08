@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #031  |  RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Brian Nakamura <bnakamura@cedarwoodpha.com>
+TO:          Elise Lawson <elawson@cedarwoodpha.com>
+SUBJECT:     CONFIDENTIAL: ERP Migration Cost Estimate – Project QZ211815
+REFERENCE:   CXO-7003-Y16BT
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Rebecca,
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: QZ211815). This is classified RESTRICTED and shared solely with the Technology Steering Committee and Finance leadership.
+
+Project Summary – Ref: QWX-8134-S4M05
+Platform: SAP S/4HANA | Implementation Partner: Luminary Media Corp
+Target Go-Live: April 05, 2026 | Legacy Decommission: May 20, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+Infrastructure & Licensing:          USD        697,149  (15.71%)
+Implementation Services:             USD     16,645,951  (32.24%)
+Data Migration & Validation:         USD         59,931  (26.43%)
+Training & Change Management:        USD     16,288,522  (34.19%)
+Post-Go-Live Support (Year 1):       USD        663,602  (27.87%)
+Contingency Reserve (17.76%):       USD      3,055,185
+──────────────────────────────────────────────────────
+Total Project Budget:                USD     37,410,340
+
+PHASE SCOPE
+  Phase 1 Modules:  General Ledger, Inventory Management, Accounts Payable
+  Phase 2 Modules:  Accounts Receivable, Cash Management
+  Data Migration Window: April 10, 2026 – May 02, 2026
+
+RISK REGISTER (TOP ITEMS)
+  Risk R-7613 [HIGH]:    Data integrity failure during migration — Probability: 35.6%
+  Risk R-8837 [MEDIUM]:  Vendor delivery delay (Luminary Media Corp) — Probability: 29.64%
+  Risk R-7396 [HIGH]:    Integration failure with legacy system HG954251 — Probability: 24.07%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request CS398919 by March 18, 2026
+  – IT Security review completion (Ticket: SEC-9037) by April 04, 2026
+  – Polaris Wealth Advisors API certification for module General Ledger (Cert: ZH415827)
+
+REFERENCED ATTACHMENTS
+  • ERP_Migration_CostModel_IP638950_v7761.xlsx   [password-protected]
+  • Project_Charter_YCR-7635-M39AF_RESTRICTED.pdf
+  • Vendor_Assessment_KL911503.docx
+
+Written approval required from cost center owners CC-0521 and CC-5190 by April 18, 2026.
+
+Stephanie Nakamura
+Managing Director | Tax & Regulatory | Clearwater Mining Corp
+Internal Ext: 9921  |  Direct: +1 (408) 9106-2358  |  Badge: MX025874
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nakamura's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+Handling Protocol: REF-CXO-7003-Y16BT | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: QZ211815). This is classified RESTRICTED and shared solely with the Technology [FINANCIAL_3] [PERSON_7] and [PERSON_14] leadership.
+
+Project Summary – Ref: QWX-8134-S4M05
+Platform: SAP [PERSON_15] | Implementation Partner: Luminary [PERSON_29] Corp
+Target [PERSON_16]: April 05, 2026 | Legacy Decommission: May 20, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+[PERSON_2] & Licensing:          [AMOUNT_1]  ([URL_1]%)
+Implementation Services:             [AMOUNT_2]  ([URL_2]%)
+Data Migration & Validation:         [AMOUNT_3]  ([URL_3]%)
+Training & [PERSON_25] Management:        [AMOUNT_4]  ([URL_4]%)
+[PERSON_4] Support (Year 1):       [AMOUNT_5]  ([URL_5]%)
+Contingency [PERSON_17] ([URL_6]%):       [AMOUNT_6]
+──────────────────────────────────────────────────────
+Total Project Budget:                [AMOUNT_7]
+
+[PERSON_31] [PERSON_32]
+  [PERSON_31] 1 Modules:  General Ledger, Inventory Management, Accounts [PERSON_18]
+  [PERSON_31] 2 Modules:  Accounts [PERSON_6], Cash Management
+  Data Migration Window: April 10, 2026 – May 02, 2026
+
+RISK [FINANCIAL_1] (TOP ITEMS)
+  Risk R-7613 [HIGH]:    Data integrity failure during migration — Probability: [URL_7]%
+  Risk R-8837 [MEDIUM]:  Vendor delivery delay (Luminary [PERSON_29] Corp) — Probability: [URL_8]%
+  Risk R-7396 [HIGH]:    Integration failure with legacy system HG954251 — Probability: [URL_9]%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request CS398919 by March 18, 2026
+  – IT Security review completion (Ticket: SEC-9037) by April 04, 2026
+  – Polaris Wealth Advisors API certification for module General Ledger (Cert: ZH415827)
+
+REFERENCED [FINANCIAL_2]
+  • ERP_Migration_CostModel_IP638950_[URL_10]   [password-protected]
+  • Project_Charter_YCR-7635-M39AF_[URL_11]
+  • Vendor_Assessment_[URL_12]
+
+[PERSON_19] approval required from cost center owners CC-0521 and CC-5190 by April 18, 2026.
+
+[PERSON_1]
+Managing Director | Tax & Regulatory | [COMPANY_1]
+Internal Ext: 9921  |  Direct: [PHONE_1]  |  [PERSON_33]: MX025874
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_12]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY [FINANCIAL_3] [PERSON_7]
+Handling Protocol: [CONTRACT_1]-Y16BT | Encrypted In-Transit: TLS [URL_13] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_28] Deletion
+================================================================================

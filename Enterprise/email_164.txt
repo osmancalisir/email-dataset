@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #164  |  ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Lionel Harrington <lharrington@vortextechin.com>
+TO:          Kwame Thornton <kthornton@vortextechin.com>
+SUBJECT:     CONFIDENTIAL: Transfer Pricing Restructuring – Project CARDINAL (FY2024)
+REFERENCE:   GSY-1449-61O60
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Gregory,
+
+I write in strict confidence regarding the proposed intercompany transfer pricing restructuring for FY2024 (Project CARDINAL, Ref: UKW-0765-B955F). This is classified ATTORNEY-CLIENT PRIVILEGED and shared solely with the Tax Steering Group.
+
+External Tax Advisor: Vortex Tech Industries (Partner: Fletcher Morozova) | Legal Counsel: Sunridge Energy Partners (Ref: JD512293)
+Filing Jurisdictions: Germany, United Kingdom, France
+
+CURRENT VS. PROPOSED STRUCTURE
+──────────────────────────────────────────────────────
+Entity                    Current Policy       Proposed Policy     P&L Impact (USD)
+Zenith Aerospace Ltd_HoldCo              Cost Plus 3.1%    Cost Plus 22.82%       +1,815,716
+Zenith Aerospace Ltd_IP_SubCo            Residual Profit      TNMM 37.65%            -2,266,671
+Zenith Aerospace Ltd_Sales_Entity        CUT Method           RPSM                    +1,093,342
+Zenith Aerospace Ltd_Mfg_Entity          Cost Plus 28.63%    Cost Plus 20.31%       -1,196,803
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    USD 107,577   (Effective Rate: 29.26% → 2.36%)
+One-Time Restructuring Cost:    USD 681,062
+Net Present Value (5-Year):     USD 6,836,544
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-3612: OECD Pillar Two GloBE top-up exposure — USD 3,505,609 p.a. if challenged (Ref: LE214923).
+  Risk TP-8451: Germany thin-cap rules — debt/equity 3.5x vs. permitted 2.8x. Disallowed interest: USD 3,154,793.
+  Risk TP-5444: PE risk in United Kingdom — 8636 sales personnel exceeding agency threshold (KY553291).
+  Risk TP-8636: CbCR 33.06% effective rate in France may attract audit attention (Ref: CL024088).
+
+ADVANCE PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ United Kingdom (Filed: February 10, 2026, Ref: ULC-7417-RXH2Y)
+  Expected Conclusion: April 18, 2026 | Rollback Period: 6656 years
+  APA Fee Provision: USD 3,069,641
+
+APPROVAL SCHEDULE
+  ☐  Tax Steering Group — by March 18, 2026 (Ref: TSG-4714)
+  ☐  Board resolution BR-PN258027 — by June 02, 2026
+  ☐  Intercompany agreements executed (ICA-GH073708) — by April 13, 2026
+  ☐  Master File / Local File updates — by May 13, 2026 (Ref: IB601443)
+
+REFERENCED ATTACHMENTS
+  • TP_Restructuring_Memo_ProjectCARDINAL_KHO-7491-IBQ9D.pdf
+  • Financial_Model_TaxImpact_OQ808778_v9487.xlsx
+  • APA_Filing_ULC-7417-RXH2Y_PRIVILEGED.pdf
+
+All queries directed to Fletcher Morozova only. Do not share with local finance teams prior to Board approval.
+
+Adrienne Westergaard
+Controller | Operations | Zenith Aerospace Ltd
+Secure Line: +1 (202) 9402-0455  |  Tax Group ID: YV429029
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+Handling Protocol: REF-GSY-1449-61O60 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_15],
+
+I write in strict confidence regarding the [FINANCIAL_3] intercompany transfer pricing restructuring for FY2024 (Project [FINANCIAL_1], Ref: UKW-0765-B955F). This is classified [FINANCIAL_2]-CLIENT PRIVILEGED and shared solely with the Tax [FINANCIAL_7] Group.
+
+External Tax Advisor: Vortex Tech Industries (Partner: [PERSON_2]) | Legal Counsel: [PERSON_8] Energy Partners (Ref: JD512293)
+Filing Jurisdictions: Germany, United Kingdom, [PERSON_22]
+
+CURRENT VS. [FINANCIAL_3] [PERSON_3]
+──────────────────────────────────────────────────────
+Entity                    Current Policy       [FINANCIAL_3] Policy     P&L Impact (USD)
+Zenith [PERSON_4] Ltd_HoldCo              Cost Plus [URL_1]%    Cost Plus [URL_2]%       +1,815,716
+Zenith [PERSON_4] Ltd_IP_SubCo            Residual Profit      TNMM [URL_3]%            -2,266,671
+Zenith [PERSON_4] Ltd_Sales_Entity        CUT Method           RPSM                    +1,093,342
+Zenith [PERSON_4] Ltd_Mfg_Entity          Cost Plus [URL_4]%    Cost Plus [URL_5]%       -1,196,803
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    [AMOUNT_1]   ([PERSON_5] [PERSON_28]: [URL_6]% → [URL_7]%)
+[PERSON_12] Restructuring Cost:    [AMOUNT_2]
+Net Present Value (5-Year):     [AMOUNT_3]
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-3612: OECD Pillar Two [PERSON_26] top-up exposure — [AMOUNT_4] [URL_8]. if challenged (Ref: LE214923).
+  Risk TP-8451: Germany thin-cap rules — debt/equity [URL_9] vs. permitted [URL_10]. Disallowed interest: [AMOUNT_5].
+  Risk TP-5444: PE risk in United Kingdom — 8636 sales personnel exceeding agency threshold (KY553291).
+  Risk TP-8636: CbCR [URL_11]% [PERSON_5] [PERSON_28] in [PERSON_22] may attract audit attention (Ref: CL024088).
+
+[PERSON_19] PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ United Kingdom (Filed: February 10, 2026, Ref: ULC-7417-RXH2Y)
+  Expected Conclusion: April 18, 2026 | Rollback Period: 6656 years
+  APA Fee Provision: [AMOUNT_6]
+
+[FINANCIAL_4] [PERSON_13]
+  ☐  Tax [FINANCIAL_7] Group — by March 18, 2026 (Ref: TSG-4714)
+  ☐  Board resolution BR-PN258027 — by [PERSON_30] 02, 2026
+  ☐  Intercompany agreements executed (ICA-GH073708) — by April 13, 2026
+  ☐  Master File / Local File updates — by May 13, 2026 (Ref: IB601443)
+
+REFERENCED [FINANCIAL_6]
+  • TP_Restructuring_Memo_Project[FINANCIAL_1]_[URL_12]
+  • Financial_Model_TaxImpact_OQ808778_[URL_13]
+  • APA_Filing_ULC-7417-RXH2Y_[URL_14]
+
+All queries directed to [PERSON_2] only. Do not share with local finance teams prior to Board [FINANCIAL_4].
+
+[PERSON_1]
+Controller | Operations | Zenith [PERSON_4] Ltd
+[PERSON_24] [PERSON_31]: [PHONE_1]  |  Tax Group ID: YV429029
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_2]-CLIENT PRIVILEGED – TAX [FINANCIAL_7] GROUP ONLY
+Handling Protocol: [CONTRACT_1]-61O60 | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_24] Deletion
+================================================================================

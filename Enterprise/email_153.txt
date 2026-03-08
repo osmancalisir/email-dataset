@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #153  |  RESTRICTED – PROCUREMENT COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Monique Okafor <mokafor@solarisrenew.com>
+TO:          Celestine Whitmore <cwhitmore@solarisrenew.com>
+SUBJECT:     CONFIDENTIAL: Supplier Audit Findings – Cedarwood Pharmaceuticals (Vendor MZ960061)
+REFERENCE:   TBH-0951-EXTMW
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Desmond,
+
+This update is issued under Information Security Policy ISP-1074. The supplier audit findings for Cedarwood Pharmaceuticals (Vendor ID: MZ960061) have been finalised and require your immediate attention.
+
+Audit Reference: PCY-1362-11SVN
+Audit Period: February 11, 2026 through June 01, 2026
+Lead Auditor: Sandra Whitmore | External Reviewer: Gregory Zalewski
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+Compliance Score:                    5.53% (Threshold: 27.83%)
+Financial Discrepancy Identified:    USD        678,039
+Disputed Invoices (Count):           9023
+Disputed Invoices (Value):           USD      3,541,186
+Potential Overcharges on SKU UK759875: USD        117,753
+──────────────────────────────────────────────────────
+
+DETAILED FINDINGS
+
+Finding F-001 [CRITICAL]: Unauthorized subcontracting to Meridian Capital Group without written consent (Clause 14.6(b), Ref GDE-7061-CDEP8). Estimated value: USD 118,502.
+
+Finding F-002 [HIGH]: Payment terms breached — 6719 invoices settled 484 days beyond agreed net-1456 schedule. Late-payment exposure: USD 3,122,245.
+
+Finding F-003 [MEDIUM]: QC documentation for Batches LI496324–BQ148595 incomplete. Non-conformance rate: 6.17%.
+
+Finding F-004 [MEDIUM]: SLA breach on Account NQ770855 — on-time delivery 20.05% vs. contracted 4.44%.
+
+REMEDIATION ACTIONS
+1. Issue formal cure notice to Cedarwood Pharmaceuticals within 5 business days (Template: CURE-6545).
+2. Withhold payment on Invoice Batch EB434071 (Value: USD 14,815,107) pending resolution.
+3. Initiate contract termination review if no remediation by April 21, 2026.
+4. Escalate F-001 to Legal (Patrick Thistlethwaite) and Risk Management (Odessa Lawson).
+
+REFERENCED ATTACHMENTS
+  • Supplier_Audit_Report_RHT-9089-VJGIY_CONFIDENTIAL.pdf  [DO NOT DISTRIBUTE]
+  • Discrepancy_Workbook_VJ189722.xlsx
+  • Cure_Notice_Template_2039.docx
+
+This report must not be shared with Cedarwood Pharmaceuticals representatives without prior written approval from the Chief Procurement Officer.
+
+Derek Lawson
+Head of Strategic Partnerships | Information Technology | Polaris Wealth Advisors
+Ext: 0390  |  Secure Fax: +1 (888) 3908-1506  |  Badge: GD235269
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – PROCUREMENT COMMITTEE ONLY
+Handling Protocol: REF-TBH-0951-EXTMW | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+This update is issued under Information Security Policy ISP-1074. The supplier audit [FINANCIAL_2] for Cedarwood Pharmaceuticals (Vendor ID: MZ960061) have been finalised and require your immediate attention.
+
+Audit [PERSON_10]: PCY-1362-11SVN
+Audit Period: February 11, 2026 through [PERSON_41] 01, 2026
+Lead Auditor: [PERSON_25] [PERSON_14] | External Reviewer: [PERSON_2]
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+[PERSON_8] [PERSON_35]:                    [URL_1]% (Threshold: [URL_2]%)
+Financial Discrepancy Identified:    [AMOUNT_1]
+Disputed Invoices (Count):           9023
+Disputed Invoices (Value):           [AMOUNT_2]
+Potential Overcharges on SKU UK759875: [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2]
+
+Finding [MIL_PLATFORM_1] [[FINANCIAL_3]]: Unauthorized subcontracting to Meridian Capital Group without written consent ([PERSON_27] [URL_3](b), Ref GDE-7061-CDEP8). Estimated value: [AMOUNT_4].
+
+Finding [MIL_PLATFORM_2] [HIGH]: Payment terms breached — 6719 invoices settled 484 days beyond agreed net-1456 schedule. Late-payment exposure: [AMOUNT_5].
+
+Finding [MIL_PLATFORM_3] [MEDIUM]: QC documentation for Batches LI496324–BQ148595 incomplete. [PERSON_3] rate: [URL_4]%.
+
+Finding [MIL_PLATFORM_4] [MEDIUM]: SLA breach on [API_KEY_1] — on-time delivery [URL_5]% vs. contracted [URL_6]%.
+
+[FINANCIAL_4] ACTIONS
+1. [PERSON_37] formal cure notice to Cedarwood Pharmaceuticals within 5 business days ([PERSON_16]: CURE-6545).
+2. Withhold payment on [PERSON_24] Batch EB434071 (Value: [AMOUNT_6]) pending resolution.
+3. [PERSON_17] contract termination review if no [FINANCIAL_4] by April 21, 2026.
+4. [PERSON_18] [MIL_PLATFORM_1] to [PERSON_1]) and Risk Management ([PERSON_32] [PERSON_26]).
+
+REFERENCED [FINANCIAL_5]
+  • Supplier_Audit_Report_RHT-9089-VJGIY_[URL_7]  [DO NOT [PERSON_9]]
+  • Discrepancy_Workbook_[URL_8]
+  • Cure_Notice_Template_[URL_9]
+
+This report must not be shared with Cedarwood Pharmaceuticals representatives without prior written approval from the Chief [FINANCIAL_6] Officer.
+
+[PERSON_6]
+Head of Strategic Partnerships | Information Technology | Polaris Wealth Advisors
+Ext: 0390  |  [PERSON_33] Fax: [PHONE_1]  |  [PERSON_40]: GD235269
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Okafor's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or [PERSON_9] its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_6] [PERSON_12] ONLY
+Handling Protocol: [CONTRACT_1]-EXTMW | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_5] Policy: 7 Years | Destruction Method: Certified [PERSON_33] Deletion
+================================================================================

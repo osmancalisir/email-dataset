@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #152  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Renata Kowalski <rkowalski@luminarymedi.com>
+TO:          Claudia Drummond <cdrummond@luminarymedi.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – SilverBridge Consulting / Orion Petrochemicals
+REFERENCE:   JLH-3549-25UJN
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alistair,
+
+Following our call on March 04, 2026, I am forwarding the updated term sheet for the proposed joint venture between SilverBridge Consulting and Orion Petrochemicals. This supersedes all prior drafts and is shared exclusively under NDA Ref: SCH-6987-M07CJ.
+
+Transaction Summary – Project Code: SB182009
+NDA Reference: SCH-6987-M07CJ | Executed: February 22, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Merger of Equals
+Enterprise Valuation (Pre-Money):    USD      3,678,360
+Proposed Equity Split:               7.34% / 92.66%
+Anticipated Close Date:              May 19, 2026
+Escrow Agent:                        Nexus Retail Holdings
+Governing Law:                       England and Wales
+Minimum EBITDA Covenant:             USD      3,962,154
+Maximum Leverage Ratio:              1.8x
+Interest Coverage Floor:             13.68%
+Year-1 CapEx Cap:                    USD      1,712,734
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           April 29, 2026
+  Antitrust Clearance Expected:      April 09, 2026
+  Required Licenses:                 UZ040526, KO312870, SG340512
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO ORION PETROCHEMICALS)
+(a) Management carve-out provisions — Exhibit F, Ref ZVP-7630-DO1VR
+(b) Earn-out KPI metrics JO261368 and FL873603 — valuation impact USD 803,083
+(c) Exclusivity breach penalty: 14.32% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v4562_BX302825.pdf              [AES-256 encrypted]
+  • Valuation_Model_NMT-5426-6CJEX_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_EE592091.docx
+
+Legal sign-off required from both parties no later than May 06, 2026. Coordinate follow-up with Derek Lindqvist and the Orion Petrochemicals legal team for May 09, 2026.
+
+Claudia Kowalski
+Head of Strategic Partnerships | Human Capital | SilverBridge Consulting
+Direct: +1 (415) 9297-8943  |  Mobile: +1 (650) 3905-9099  |  Token: TP581425
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Kowalski's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-JLH-3549-25UJN | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_13],
+
+Following our call on March 04, 2026, I am forwarding the updated term sheet for the proposed joint venture between [PERSON_3] Consulting and Orion Petrochemicals. This supersedes all prior drafts and is shared exclusively under NDA Ref: SCH-6987-M07CJ.
+
+[FINANCIAL_1] Summary – Project Code: SB182009
+NDA [PERSON_8]: SCH-6987-M07CJ | Executed: February 22, 2026
+
+[PERSON_5] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_10]:                      Merger of Equals
+[PERSON_6] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_35] Date:              May 19, 2026
+Escrow Agent:                        Nexus Retail Holdings
+Governing Law:                       England and Wales
+Minimum [PERSON_31] Covenant:             [AMOUNT_2]
+Maximum [PERSON_16] Ratio:              [URL_3]
+Interest [PERSON_17] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_18]
+  HSR Act Filing [PERSON_19]:           April 29, 2026
+  Antitrust [PERSON_12] Expected:      April 09, 2026
+  Required Licenses:                 UZ040526, KO312870, SG340512
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_21] TO ORION PETROCHEMICALS)
+(a) Management carve-out provisions — Exhibit F, Ref ZVP-7630-DO1VR
+(b) Earn-out KPI metrics JO261368 and FL873603 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_6] value
+
+REFERENCED [FINANCIAL_5]
+  • JV_TermSheet_v4562_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_NMT-5426-6CJEX_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than May 06, 2026. [PERSON_7] follow-up with [PERSON_2] and the Orion Petrochemicals legal [CALLSIGN_1], 2026.
+
+[PERSON_1]
+Head of Strategic Partnerships | Human Capital | [PERSON_3] Consulting
+Direct: [PHONE_1]  |  [PERSON_33]: [PHONE_2]  |  Token: TP581425
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_23]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_21], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_6] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [CONTRACT_1]-25UJN | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

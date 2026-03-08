@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #039  |  ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Warren Whitmore <wwhitmore@silveroakcap.com>
+TO:          Thaddeus Quintero <tquintero@silveroakcap.com>
+SUBJECT:     CONFIDENTIAL: Transfer Pricing Restructuring – Project SOLSTICE (FY2023)
+REFERENCE:   PBM-6040-I1BS2
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thomas,
+
+I write in strict confidence regarding the proposed intercompany transfer pricing restructuring for FY2023 (Project SOLSTICE, Ref: XWL-5880-YCRGQ). This is classified ATTORNEY-CLIENT PRIVILEGED and shared solely with the Tax Steering Group.
+
+External Tax Advisor: Meridian Capital Group (Partner: Monique Drummond) | Legal Counsel: SilverBridge Consulting (Ref: LX158780)
+Filing Jurisdictions: Germany, Switzerland, Australia
+
+CURRENT VS. PROPOSED STRUCTURE
+──────────────────────────────────────────────────────
+Entity                    Current Policy       Proposed Policy     P&L Impact (USD)
+Granite Peak Resources_HoldCo              Cost Plus 28.32%    Cost Plus 3.09%       -3,883,707
+Granite Peak Resources_IP_SubCo            Residual Profit      TNMM 6.91%            -3,340,682
+Granite Peak Resources_Sales_Entity        CUT Method           RPSM                      +232,842
+Granite Peak Resources_Mfg_Entity          Cost Plus 9.6%    Cost Plus 27.81%         -596,918
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    USD 317,422   (Effective Rate: 28.48% → 18.63%)
+One-Time Restructuring Cost:    USD 51,948
+Net Present Value (5-Year):     USD 7,795,858
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5544: OECD Pillar Two GloBE top-up exposure — USD 6,034,891 p.a. if challenged (Ref: UB217918).
+  Risk TP-8106: Germany thin-cap rules — debt/equity 2.9x vs. permitted 2.8x. Disallowed interest: USD 693,945.
+  Risk TP-7254: PE risk in Switzerland — 7594 sales personnel exceeding agency threshold (BZ179392).
+  Risk TP-7594: CbCR 8.72% effective rate in Australia may attract audit attention (Ref: IJ051655).
+
+ADVANCE PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ Switzerland (Filed: February 09, 2026, Ref: NST-8934-7LSOO)
+  Expected Conclusion: June 03, 2026 | Rollback Period: 5102 years
+  APA Fee Provision: USD 744,095
+
+APPROVAL SCHEDULE
+  ☐  Tax Steering Group — by May 09, 2026 (Ref: TSG-2618)
+  ☐  Board resolution BR-SR667192 — by March 20, 2026
+  ☐  Intercompany agreements executed (ICA-CO427321) — by May 03, 2026
+  ☐  Master File / Local File updates — by April 11, 2026 (Ref: JL688370)
+
+REFERENCED ATTACHMENTS
+  • TP_Restructuring_Memo_ProjectSOLSTICE_DDS-3249-4AHRC.pdf
+  • Financial_Model_TaxImpact_WP169485_v9399.xlsx
+  • APA_Filing_NST-8934-7LSOO_PRIVILEGED.pdf
+
+All queries directed to Monique Drummond only. Do not share with local finance teams prior to Board approval.
+
+Thaddeus Caruso
+Director of Procurement | Investor Relations | Granite Peak Resources
+Secure Line: +1 (202) 5826-4456  |  Tax Group ID: SF988275
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Whitmore's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: ATTORNEY-CLIENT PRIVILEGED – TAX STEERING GROUP ONLY
+Handling Protocol: REF-PBM-6040-I1BS2 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_22],
+
+I write in strict confidence regarding the [FINANCIAL_3] intercompany transfer pricing restructuring for FY2023 (Project [PERSON_8], Ref: XWL-5880-YCRGQ). This is classified [FINANCIAL_2]-CLIENT PRIVILEGED and shared solely with the Tax [FINANCIAL_7] Group.
+
+External Tax Advisor: Meridian Capital Group (Partner: [PERSON_1]) | Legal Counsel: [PERSON_3] Consulting (Ref: LX158780)
+Filing Jurisdictions: Germany, Switzerland, [PERSON_5]
+
+CURRENT VS. [FINANCIAL_3] [PERSON_6]
+──────────────────────────────────────────────────────
+Entity                    Current Policy       [FINANCIAL_3] Policy     P&L Impact (USD)
+[PERSON_17] Peak Resources_HoldCo              Cost Plus [URL_1]%    Cost Plus [URL_2]%       -3,883,707
+[PERSON_17] Peak Resources_IP_SubCo            Residual Profit      TNMM [URL_3]%            -3,340,682
+[PERSON_17] Peak Resources_Sales_Entity        CUT Method           RPSM                      +232,842
+[PERSON_17] Peak Resources_Mfg_Entity          Cost Plus [URL_4]%    Cost Plus [URL_5]%         -596,918
+──────────────────────────────────────────────────────
+Projected Annual Tax Saving:    [AMOUNT_1]   ([PERSON_7] [PERSON_29]: [URL_6]% → [URL_7]%)
+[PERSON_12] Restructuring Cost:    [AMOUNT_2]
+Net Present Value (5-Year):     [AMOUNT_3]
+
+KEY RISKS (PRIVILEGED)
+  Risk TP-5544: OECD Pillar Two [PERSON_27] top-up exposure — [AMOUNT_4] [URL_8]. if challenged (Ref: UB217918).
+  Risk TP-8106: Germany thin-cap rules — debt/equity [URL_9] vs. permitted [URL_10]. Disallowed interest: [AMOUNT_5].
+  Risk TP-7254: PE risk in Switzerland — 7594 sales personnel exceeding agency threshold (BZ179392).
+  Risk TP-7594: CbCR [URL_11]% [PERSON_7] [PERSON_29] in [PERSON_5] may attract audit attention (Ref: IJ051655).
+
+[PERSON_19] PRICING AGREEMENT
+  Bilateral APA filed: Germany ↔ Switzerland (Filed: February 09, 2026, Ref: NST-8934-7LSOO)
+  Expected Conclusion: [PERSON_31] 03, 2026 | Rollback Period: 5102 years
+  APA Fee Provision: [AMOUNT_6]
+
+[FINANCIAL_4] [PERSON_13]
+  ☐  Tax [FINANCIAL_7] Group — by May 09, 2026 (Ref: TSG-2618)
+  ☐  Board resolution BR-SR667192 — by March 20, 2026
+  ☐  Intercompany agreements executed (ICA-CO427321) — by May 03, 2026
+  ☐  Master File / Local File updates — by April 11, 2026 (Ref: JL688370)
+
+REFERENCED [FINANCIAL_6]
+  • TP_Restructuring_Memo_Project[FINANCIAL_1]_[URL_12]
+  • Financial_Model_TaxImpact_WP169485_[URL_13]
+  • APA_Filing_NST-8934-7LSOO_[URL_14]
+
+All queries directed to [PERSON_1] only. Do not share with local finance teams prior to Board [FINANCIAL_4].
+
+[PERSON_2]
+Director of Procurement | Investor Relations | [PERSON_17] Peak Resources
+[PERSON_25] [PERSON_32]: [PHONE_1]  |  Tax Group ID: SF988275
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_6] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_14]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_2]-CLIENT PRIVILEGED – TAX [FINANCIAL_7] GROUP ONLY
+Handling Protocol: [CONTRACT_1]-I1BS2 | Encrypted In-Transit: TLS [URL_15] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_25] Deletion
+================================================================================

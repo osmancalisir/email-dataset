@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #098  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Wednesday, March 04, 2026 at 07:39 PM
+FROM:        Fitzroy Caldwell <fcaldwell@verdantfood&.com>
+TO:          Vanessa Szymanski <vszymanski@verdantfood&.com>
+SUBJECT:     CONFIDENTIAL: FY2025 Annual Budget & Capital Allocation Proposal
+REFERENCE:   UVL-8808-ZFKNT
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Cormac,
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on April 09, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: DFK-6669-4PXG2 | CFO Sponsor: Rebecca Szymanski | Prior Year Lock Date: February 09, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2025 Budget        FY2024 Actual      Variance
+Total Revenue           USD      2,553,850   USD      2,296,344    +11.2%
+Gross Profit            USD      1,254,104   USD      1,230,726     +0.0%
+EBITDA                  USD        527,258   USD        520,009     -1.2%
+EBIT                    USD        422,299   USD        454,103    +11.5%
+Net Income              USD        331,546   USD        326,189    +14.2%
+Capital Expenditure     USD      6,141,754   USD      5,559,429     -2.5%
+Free Cash Flow          USD        316,354   USD        288,058     +5.6%
+Net Debt (Year-End)     USD        410,400   USD        449,654     +9.4%
+──────────────────────────────────────────────────────
+EBITDA Margin: 21.24%  |  Gross Margin: 6.68%  |  FCF Conversion: 7.1%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 2)  USD 4,009,526  Critical  RX864399
+  New Manufacturing Line — Plant HY00       USD 840,355  Medium  FF658789
+  ERP Enhancement — Module UG92             USD 6,032,447  High  ID467899
+  Logistics Hub Expansion — Dallas          USD 725,887  Medium  QC904785
+  Contingency Reserve (13.62%)              USD 836,506  N/A    WX733312
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 11.16% assumes 1067 new customer wins (Pipeline: HK302874) and 11.09% retention.
+  Headcount: net +8378 FTEs (3905 hires, 8229 attrition) — Ref: HC-3773.
+  Inflation: 15.08% on COGS, 10.55% on SG&A.
+  FX: USD/EUR 1.0946 | USD/GBP 0.7792 | USD/JPY 131.8 (Treasury Ref: JW413282).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  Technology & Digital            Revenue: USD 667,894   EBITDA: USD 102,291   HC Cap: 1885
+  Healthcare Solutions            Revenue: USD 585,262   EBITDA: USD 138,960   HC Cap: 481
+  Industrial Services             Revenue: USD 3,138,676   EBITDA: USD 404,624   HC Cap: 1757
+  Consumer Products               Revenue: USD 28,292,342   EBITDA: USD 4,242,772   HC Cap: 552
+
+REFERENCED ATTACHMENTS
+  • FY2025_Budget_Model_KOY-0603-Q49UA_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_IM948272_CONFIDENTIAL.pdf
+  • Division_Targets_VI170173_RESTRICTED.xlsx
+
+Provide comments to Rebecca Szymanski only by April 18, 2026. Budget Committee approval required by May 19, 2026.
+
+Claudia Szymanski
+Head of Treasury | Information Technology | Aurora Semiconductor
+Budget Portal: QW984729  |  Direct: +1 (646) 2143-4665
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-UVL-8808-ZFKNT | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_27],
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_8] review on April 09, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_41] with [FINANCIAL_3]al finance teams or [PERSON_45] management at this stage.
+
+Budget [PERSON_9]: DFK-6669-4PXG2 | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 09, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_45] Item               FY2025 Budget        FY2024 Actual      [PERSON_16]
+Total [PERSON_21]           [AMOUNT_1]   [AMOUNT_2]    +[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_30]                  [AMOUNT_5]   [AMOUNT_6]     -[URL_3]%
+[PERSON_46]                    [AMOUNT_7]   [AMOUNT_8]    +[URL_4]%
+Net [PERSON_31]              [AMOUNT_9]   [AMOUNT_10]    +[URL_5]%
+Capital [PERSON_5]     [AMOUNT_11]   [AMOUNT_12]     -[URL_6]%
+[PERSON_47] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     +[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     +[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_30] Margin: 2[URL_3]4%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_5] ALLOCATION
+  Digital [PERSON_3] [PERSON_22] ([PERSON_39] 2)  [AMOUNT_17]  Critical  RX864399
+  New Manufacturing [PERSON_45] — Plant HY00       [AMOUNT_18]  Medium  FF658789
+  ERP Enhancement — [PERSON_32] UG92             [AMOUNT_19]  High  ID467899
+  Logistics Hub Expansion — Dallas          [AMOUNT_20]  Medium  QC904785
+  Contingency [PERSON_23] ([URL_12]%)              [AMOUNT_21]  N/A    WX733312
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_21] growth [URL_13]% assumes 1067 new customer wins ([PERSON_17]: HK302874) and [URL_14]% retention.
+  Headcount: net +8378 FTEs (3905 hires, 8229 attrition) — Ref: HC-3773.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_17] | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: JW413282).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_11] — DO NOT [PERSON_41] PRE-ALIGNMENT)
+  Technology & Digital            [PERSON_21]: [AMOUNT_24]   [PERSON_30]: [AMOUNT_25]   HC Cap: 1885
+  [PERSON_7] Solutions            [PERSON_21]: [AMOUNT_26]   [PERSON_30]: [AMOUNT_27]   HC Cap: 481
+  Industrial Services             [PERSON_21]: [AMOUNT_28]   [PERSON_30]: [AMOUNT_29]   HC Cap: 1757
+  Consumer Products               [PERSON_21]: [AMOUNT_30]   [PERSON_30]: [AMOUNT_31]   HC Cap: 552
+
+REFERENCED [FINANCIAL_4]
+  • FY2025_Budget_Model_KOY-0603-Q49UA_BOARD_[URL_20]
+  • CapEx_Project_Briefs_IM948272_[URL_21]
+  • [FINANCIAL_3]_Targets_VI170173_[URL_20]
+
+[PERSON_25] comments to [PERSON_1] only by April 18, 2026. Budget [PERSON_8] approval required by May 19, 2026.
+
+[PERSON_2]
+Head of Treasury | Information Technology | [PERSON_35] Semiconductor
+Budget Portal: QW984729  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_11], and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_8] ONLY
+Handling Protocol: [CONTRACT_1]-ZFKNT | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_36] Deletion
+================================================================================

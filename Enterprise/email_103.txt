@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #103  |  RESTRICTED – PROCUREMENT COMMITTEE ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Sandra Caruso <scaruso@ironcladsupp.com>
+TO:          Warren Montclair <wmontclair@ironcladsupp.com>
+SUBJECT:     CONFIDENTIAL: Supplier Audit Findings – Halcyon Wealth Partners (Vendor FG924311)
+REFERENCE:   SZX-9905-ZWPFK
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Piers,
+
+This update is issued under Information Security Policy ISP-9606. The supplier audit findings for Halcyon Wealth Partners (Vendor ID: FG924311) have been finalised and require your immediate attention.
+
+Audit Reference: MWS-1147-NDBQ0
+Audit Period: March 04, 2026 through May 23, 2026
+Lead Auditor: Marguerite Castleberry | External Reviewer: Monique Thistlethwaite
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+Compliance Score:                    13.84% (Threshold: 20.79%)
+Financial Discrepancy Identified:    USD        765,047
+Disputed Invoices (Count):           5027
+Disputed Invoices (Value):           USD      3,353,457
+Potential Overcharges on SKU HZ433887: USD        134,789
+──────────────────────────────────────────────────────
+
+DETAILED FINDINGS
+
+Finding F-001 [CRITICAL]: Unauthorized subcontracting to Granite Peak Resources without written consent (Clause 14.6(b), Ref SAU-3387-YIMRW). Estimated value: USD 14,888,190.
+
+Finding F-002 [HIGH]: Payment terms breached — 4787 invoices settled 407 days beyond agreed net-7240 schedule. Late-payment exposure: USD 703,944.
+
+Finding F-003 [MEDIUM]: QC documentation for Batches OY290270–VN735935 incomplete. Non-conformance rate: 11.85%.
+
+Finding F-004 [MEDIUM]: SLA breach on Account AD676023 — on-time delivery 15.21% vs. contracted 2.97%.
+
+REMEDIATION ACTIONS
+1. Issue formal cure notice to Halcyon Wealth Partners within 5 business days (Template: CURE-1324).
+2. Withhold payment on Invoice Batch IW108321 (Value: USD 104,189) pending resolution.
+3. Initiate contract termination review if no remediation by March 22, 2026.
+4. Escalate F-001 to Legal (Lionel Vance) and Risk Management (Felicia Ferrante).
+
+REFERENCED ATTACHMENTS
+  • Supplier_Audit_Report_OXA-9406-1XOMT_CONFIDENTIAL.pdf  [DO NOT DISTRIBUTE]
+  • Discrepancy_Workbook_QK250100.xlsx
+  • Cure_Notice_Template_2513.docx
+
+This report must not be shared with Halcyon Wealth Partners representatives without prior written approval from the Chief Procurement Officer.
+
+Kwame Chen
+Head of Strategic Partnerships | Information Technology | Quantum Data Systems
+Ext: 5463  |  Secure Fax: +1 (888) 624-7157  |  Badge: XF705864
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – PROCUREMENT COMMITTEE ONLY
+Handling Protocol: REF-SZX-9905-ZWPFK | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_35],
+
+This update is issued under Information Security Policy ISP-9606. The supplier audit [FINANCIAL_2] for Halcyon Wealth Partners (Vendor ID: FG924311) have been finalised and require your immediate attention.
+
+Audit [PERSON_11]: MWS-1147-NDBQ0
+Audit Period: March 04, 2026 through May 23, 2026
+Lead Auditor: [PERSON_8] Castleberry | External Reviewer: [PERSON_1]
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+[PERSON_9] [PERSON_36]:                    [URL_1]% (Threshold: [URL_2]%)
+Financial Discrepancy Identified:    [AMOUNT_1]
+Disputed Invoices (Count):           5027
+Disputed Invoices (Value):           [AMOUNT_2]
+Potential Overcharges on SKU HZ433887: [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2]
+
+Finding [MIL_PLATFORM_1] [[FINANCIAL_3]]: Unauthorized subcontracting to [PERSON_23] Peak Resources without written consent ([PERSON_27] [URL_3](b), Ref SAU-3387-YIMRW). Estimated value: [AMOUNT_4].
+
+Finding [MIL_PLATFORM_2] [HIGH]: Payment terms breached — 4787 invoices settled 407 days beyond agreed net-7240 schedule. Late-payment exposure: [AMOUNT_5].
+
+Finding [MIL_PLATFORM_3] [MEDIUM]: QC documentation for Batches OY290270–VN735935 incomplete. [PERSON_4] rate: [URL_4]%.
+
+Finding [MIL_PLATFORM_4] [MEDIUM]: SLA breach on [API_KEY_1] — on-time delivery [URL_5]% vs. contracted [URL_6]%.
+
+[FINANCIAL_4] ACTIONS
+1. [PERSON_39] formal cure notice to Halcyon Wealth Partners within 5 business days ([PERSON_16]: CURE-1324).
+2. Withhold payment on [PERSON_24] Batch IW108321 (Value: [AMOUNT_6]) pending resolution.
+3. [PERSON_17] contract termination review if no [FINANCIAL_4] by March 22, 2026.
+4. [PERSON_18] [MIL_PLATFORM_1] to [PERSON_2]) and Risk Management ([PERSON_3]).
+
+REFERENCED [FINANCIAL_5]
+  • Supplier_Audit_Report_OXA-9406-1XOMT_[URL_7]  [DO NOT [PERSON_10]]
+  • Discrepancy_Workbook_[URL_8]
+  • Cure_Notice_Template_[URL_9]
+
+This report must not be shared with Halcyon Wealth Partners representatives without prior written approval from the Chief [FINANCIAL_6] Officer.
+
+[PERSON_41] [PERSON_44]
+Head of Strategic Partnerships | Information Technology | Quantum Data Systems
+Ext: 5463  |  [PERSON_34] Fax: [PHONE_1]  |  [PERSON_43]: XF705864
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caruso's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or [PERSON_10] its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_6] [PERSON_13] ONLY
+Handling Protocol: [CONTRACT_1]-ZWPFK | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_5] Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

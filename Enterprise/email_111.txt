@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #111  |  RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Felicia Wainwright <fwainwright@ironshorecap.com>
+TO:          Fitzroy Haakonsen <fhaakonsen@ironshorecap.com>
+SUBJECT:     CONFIDENTIAL: Insurance Program Renewal Strategy – Internal Assessment
+REFERENCE:   GLB-8683-FDYQB
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Miriam,
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: EUE-7673-H27BO) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal Cycle: February 17, 2026 – May 11, 2026
+Broker: Goldstone Infrastructure (Code: RF111169) | Lead Underwriter: Verdant Food & Beverage (Syndicate: HH089958)
+
+COVERAGE RENEWAL TERMS
+──────────────────────────────────────────────────────
+Line of Coverage         Expiring Premium     Indicated Premium    Change
+Property (All Risk)      USD      850,038   USD      193,986   +10.8%
+General Liability        USD       14,354   USD        7,446   +15.47%
+D&O Liability            USD      172,754   USD      439,642   +10.82%
+Cyber & Privacy          USD       84,824   USD      942,500   +21.15%
+Trade Credit             USD        7,852   USD        7,270   -12.31%
+──────────────────────────────────────────────────────
+Total (Expiring):        USD    1,129,822
+Total (Indicated):       USD    1,590,844
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+Issue U-1958: Cyber underwriters requesting updated NIST CSF self-assessment by March 24, 2026. Non-completion may reduce sublimit from USD 772,401 to USD 62,426 (Policy DF778136).
+Issue U-2196: Property TIV revaluation required — last appraisal February 25, 2026, exceeding 36-month threshold. Cost: USD 4,003,697 (Vendor: Redwood Asset Management, Ref: FL850409).
+Issue U-3251: D&O market hardening due to shareholder action (Case: NZ088826). Retention may increase from USD 1,448,866 to USD 659,883.
+
+CAPTIVE UTILIZATION (CONFIDENTIAL)
+  Current Captive Retention:   USD 16,139,910
+  Proposed Captive Retention:  USD 5,956,229
+  Projected Captive Dividend:  USD 6,652,282 (Board approval Ref: TSN-9551-TDFZ4)
+  Captive Domicile:            Guernsey
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 29, 2026 (Budget Line: INS-XR907712)
+2. Risk Engineering site visit to Facility RZ328452 before April 01, 2026
+3. NIST CSF submission to Goldstone Infrastructure — deadline March 24, 2026
+4. Legal review of D&O Side-A DIC terms (Counsel: Felicia Caruso)
+
+REFERENCED ATTACHMENTS
+  • Insurance_Renewal_Strategy_JHQ-9617-07WCQ_RESTRICTED.pdf
+  • TIV_Schedule_Draft_IR567935.xlsx
+  • Captive_Dividend_Analysis_TSN-9551-TDFZ4.pdf
+
+Alicia Patel
+VP of Operations | Strategic Partnerships | Evergreen Real Estate Fund
+Risk ID: SX790017  |  Direct: +1 (713) 2663-8534
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Wainwright's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+Handling Protocol: REF-GLB-8683-FDYQB | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_19],
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: EUE-7673-H27BO) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal [PERSON_27]: February 17, 2026 – May 11, 2026
+Broker: [PERSON_5] [PERSON_2] (Code: RF111169) | Lead Underwriter: Verdant Food & [PERSON_9] ([PERSON_6]: HH089958)
+
+[PERSON_10] RENEWAL TERMS
+──────────────────────────────────────────────────────
+[PERSON_35] of [PERSON_10]         Expiring Premium     Indicated Premium    [PERSON_20]
+Property (All Risk)      [AMOUNT_1]   [AMOUNT_2]   +[URL_1]%
+General Liability        [AMOUNT_3]   [AMOUNT_4]   +[URL_2]%
+D&O Liability            [AMOUNT_5]   [AMOUNT_6]   +[URL_1]2%
+Cyber & Privacy          [AMOUNT_7]   [AMOUNT_8]   +[URL_4]%
+[PERSON_29] Credit             [AMOUNT_9]   [AMOUNT_10]   -[URL_5]%
+──────────────────────────────────────────────────────
+Total (Expiring):        [AMOUNT_11]
+Total (Indicated):       [AMOUNT_12]
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+[PERSON_30] U-1958: Cyber underwriters requesting updated NIST CSF self-assessment by March 24, 2026. Non-completion may reduce sublimit from [AMOUNT_13] to [AMOUNT_14] (Policy DF778136).
+[PERSON_30] U-2196: Property TIV revaluation required — last appraisal February 25, 2026, exceeding 36-month threshold. Cost: [AMOUNT_15] (Vendor: Redwood Asset Management, Ref: FL850409).
+[PERSON_30] U-3251: D&O market hardening due to shareholder action ([PERSON_37]: NZ088826). Retention may increase from [AMOUNT_16] to [AMOUNT_17].
+
+[PERSON_16] [FINANCIAL_2] (CONFIDENTIAL)
+  Current [PERSON_16] Retention:   [AMOUNT_18]
+  Proposed [PERSON_16] Retention:  [AMOUNT_19]
+  Projected [PERSON_16] Dividend:  [AMOUNT_20] (Board approval Ref: TSN-9551-TDFZ4)
+  [PERSON_16] [PERSON_11]:            Guernsey
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by May 29, 2026 (Budget [PERSON_35]: INS-XR907712)
+2. Risk Engineering site visit to Facility RZ328452 before April 01, 2026
+3. NIST CSF submission to [PERSON_5] [PERSON_2] — deadline March 24, 2026
+4. Legal review of D&O [PERSON_22] DIC terms (Counsel: [PERSON_1])
+
+REFERENCED [FINANCIAL_3]
+  • Insurance_Renewal_Strategy_JHQ-9617-07WCQ_[URL_6]
+  • TIV_Schedule_Draft_[URL_7]
+  • Captive_Dividend_Analysis_[URL_8]
+
+[PERSON_4]
+VP of Operations | Strategic Partnerships | Evergreen Real [PERSON_25] Fund
+Risk ID: SX790017  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Wainwright's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-FDYQB | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_26] Deletion
+================================================================================

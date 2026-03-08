@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #236  |  RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, March 01, 2026 at 07:39 PM
+FROM:        Yolanda Harrington <yharrington@ironcladsupp.com>
+TO:          Sebastian Delacroix <sdelacroix@ironcladsupp.com>
+SUBJECT:     CONFIDENTIAL: Insurance Program Renewal Strategy – Internal Assessment
+REFERENCE:   HGT-5603-P2VXD
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Gregory,
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: TSP-9179-SBOD0) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal Cycle: February 18, 2026 – March 23, 2026
+Broker: Paragon Life Sciences (Code: HA467797) | Lead Underwriter: Sterling Automotive (Syndicate: ZT270870)
+
+COVERAGE RENEWAL TERMS
+──────────────────────────────────────────────────────
+Line of Coverage         Expiring Premium     Indicated Premium    Change
+Property (All Risk)      USD       81,779   USD       15,663   +17.21%
+General Liability        USD       41,565   USD        7,502   +4.73%
+D&O Liability            USD       36,873   USD      477,795   +14.73%
+Cyber & Privacy          USD      969,257   USD       84,606   +13.26%
+Trade Credit             USD      192,264   USD      418,263   -31.48%
+──────────────────────────────────────────────────────
+Total (Expiring):        USD    1,321,738
+Total (Indicated):       USD    1,003,829
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+Issue U-0110: Cyber underwriters requesting updated NIST CSF self-assessment by April 04, 2026. Non-completion may reduce sublimit from USD 104,873 to USD 3,634,451 (Policy HE149010).
+Issue U-0190: Property TIV revaluation required — last appraisal February 13, 2026, exceeding 36-month threshold. Cost: USD 265,592 (Vendor: Orion Petrochemicals, Ref: DI050566).
+Issue U-9873: D&O market hardening due to shareholder action (Case: KN049948). Retention may increase from USD 7,889,953 to USD 1,311,367.
+
+CAPTIVE UTILIZATION (CONFIDENTIAL)
+  Current Captive Retention:   USD 3,928,223
+  Proposed Captive Retention:  USD 6,498,802
+  Projected Captive Dividend:  USD 834,340 (Board approval Ref: UYY-6293-IC8S1)
+  Captive Domicile:            Cayman Islands
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by April 03, 2026 (Budget Line: INS-LY467598)
+2. Risk Engineering site visit to Facility YA942900 before April 12, 2026
+3. NIST CSF submission to Paragon Life Sciences — deadline April 04, 2026
+4. Legal review of D&O Side-A DIC terms (Counsel: Felicia Whitmore)
+
+REFERENCED ATTACHMENTS
+  • Insurance_Renewal_Strategy_SAT-9049-HV5ZV_RESTRICTED.pdf
+  • TIV_Schedule_Draft_NY135908.xlsx
+  • Captive_Dividend_Analysis_UYY-6293-IC8S1.pdf
+
+Adrienne Rasmussen
+VP of Operations | Procurement | Trident Marine Holdings
+Risk ID: DG753508  |  Direct: +1 (713) 262-8110
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT COMMITTEE ONLY
+Handling Protocol: REF-HGT-5603-P2VXD | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_12],
+
+I am sharing the preliminary insurance program renewal assessment (Program Ref: TSP-9179-SBOD0) in strict confidence. This must not be shared with brokers, insurers, or any external party pending final negotiation.
+
+Renewal [PERSON_26]: February 18, 2026 – March 23, 2026
+Broker: Paragon [PERSON_34] Sciences (Code: HA467797) | Lead Underwriter: Sterling [PERSON_3] ([PERSON_5]: ZT270870)
+
+[PERSON_7] RENEWAL TERMS
+──────────────────────────────────────────────────────
+[PERSON_35] of [PERSON_7]         Expiring Premium     Indicated Premium    [PERSON_20]
+Property (All Risk)      [AMOUNT_1]   [AMOUNT_2]   +[URL_1]%
+General Liability        [AMOUNT_3]   [AMOUNT_4]   +[URL_2]%
+D&O Liability            [AMOUNT_5]   [AMOUNT_6]   +1[URL_2]%
+Cyber & Privacy          [AMOUNT_7]   [AMOUNT_8]   +[URL_4]%
+[PERSON_28] Credit             [AMOUNT_9]   [AMOUNT_10]   -[URL_5]%
+──────────────────────────────────────────────────────
+Total (Expiring):        [AMOUNT_11]
+Total (Indicated):       [AMOUNT_12]
+
+UNDERWRITING ISSUES REQUIRING MANAGEMENT RESPONSE
+[PERSON_29] U-0110: Cyber underwriters requesting updated NIST CSF self-assessment by April 04, 2026. Non-completion may reduce sublimit from [AMOUNT_13] to [AMOUNT_14] (Policy HE149010).
+[PERSON_29] U-0190: Property TIV revaluation required — last appraisal February 13, 2026, exceeding 36-month threshold. Cost: [AMOUNT_15] (Vendor: Orion Petrochemicals, Ref: DI050566).
+[PERSON_29] U-9873: D&O market hardening due to shareholder action ([PERSON_37]: KN049948). Retention may increase from [AMOUNT_16] to [AMOUNT_17].
+
+[PERSON_15] [FINANCIAL_2] (CONFIDENTIAL)
+  Current [PERSON_15] Retention:   [AMOUNT_18]
+  Proposed [PERSON_15] Retention:  [AMOUNT_19]
+  Projected [PERSON_15] Dividend:  [AMOUNT_20] (Board approval Ref: UYY-6293-IC8S1)
+  [PERSON_15] [PERSON_8]:            Cayman Islands
+
+ACTION ITEMS
+1. CFO sign-off on premium budget variance by April 03, 2026 (Budget [PERSON_35]: INS-LY467598)
+2. Risk Engineering site visit to Facility YA942900 before April 12, 2026
+3. NIST CSF submission to Paragon [PERSON_34] Sciences — deadline April 04, 2026
+4. Legal review of D&O [PERSON_22] DIC terms (Counsel: [PERSON_2])
+
+REFERENCED [FINANCIAL_3]
+  • Insurance_Renewal_Strategy_SAT-9049-HV5ZV_[URL_6]
+  • TIV_Schedule_Draft_[URL_7]
+  • Captive_Dividend_Analysis_[URL_8]
+
+[PERSON_1]
+VP of Operations | Procurement | Trident [PERSON_24] Holdings
+Risk ID: DG753508  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – RISK MANAGEMENT [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-P2VXD | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_25] Deletion
+================================================================================

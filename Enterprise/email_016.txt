@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #016  |  RESTRICTED – IP COMMITTEE EYES ONLY
+================================================================================
+DATE:        Sunday, March 08, 2026 at 07:39 PM
+FROM:        Marcus Caldwell <mcaldwell@vanguardcybe.com>
+TO:          Rebecca Zalewski <rzalewski@vanguardcybe.com>
+SUBJECT:     CONFIDENTIAL: IP Licensing Negotiation Update – Granite Peak Resources
+REFERENCE:   ATL-1848-24YJQ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Natalie,
+
+I am updating you on the IP licensing negotiation with Granite Peak Resources (Counterparty ID: UP779040). This is designated RESTRICTED – IP COMMITTEE EYES ONLY.
+
+Portfolio: Core Manufacturing Process Patents (Portfolio A)
+Negotiation Reference: MGJ-3751-8WUF0 | NDA Effective: February 09, 2026 | External Counsel: Crestview Hospitality Group (Ref: YR994094)
+
+PROPOSED LICENSE TERMS (DRAFT)
+──────────────────────────────────────────────────────
+License Type:                        Exclusive Field-of-Use License
+Territory:                           Asia-Pacific only
+Field of Use:                        Research & Development
+Term:                                7739 years (renewable)
+Upfront License Fee:                 USD      3,254,078
+Running Royalty Rate:                23.06% of Net Sales
+Minimum Annual Royalty (Year 1):     USD     16,919,513  (escalating 20.58% p.a.)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  USD 3,634,545 (Appraiser: Apex Logistics Solutions, Ref: YW013580)
+  NPV of Royalty Stream (Base):  USD 1,476,477
+  NPV of Royalty Stream (Bear):  USD 57,815
+  Walk-Away Minimum:             USD 1,694,521 upfront + 20.27% royalty
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO GRANITE PEAK RESOURCES)
+  LP-8414: Granite Peak Resources seeks carve-out for adjacent territory — firm rejection. Value of concession: USD 12,982,887.
+  LP-0801: Sublicensing clause — Granite Peak Resources requests unrestricted rights; accept affiliates-only with field-of-use restriction.
+  LP-8567: Grant-back on improvements — accept with field-of-use limitation (Ref: YPL-7067-90IEK).
+
+PATENT PORTFOLIO STATUS
+  Patent SK291529  |  USA      |  Expiry: May 14, 2026  |  Granted
+  Patent QY843743  |  EU       |  Expiry: March 24, 2026  |  Granted
+  Patent MV071089  |  China    |  Expiry: March 21, 2026  |  Pending
+  Patent CX711609  |  Japan    |  Expiry: April 01, 2026  |  Granted
+
+ACTION REQUIRED
+  ☐  IP Committee approval of walk-away terms by March 16, 2026 (Portal: IP-8611)
+  ☐  External counsel to finalize draft by March 31, 2026 (Matter: YR994094)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: ELQ-7870-40GAI)
+
+REFERENCED ATTACHMENTS
+  • IP_License_Draft_v7739_MGJ-3751-8WUF0_CONFIDENTIAL.pdf
+  • Royalty_NPV_Model_TV118875.xlsx
+  • Patent_Portfolio_Summary_EV888220_RESTRICTED.pdf
+
+Desmond Okafor
+Controller | Supply Chain Management | Paragon Life Sciences
+IP Committee Code: UP779040  |  Direct: +1 (650) 2732-9112
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP COMMITTEE EYES ONLY
+Handling Protocol: REF-ATL-1848-24YJQ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_15],
+
+I am updating you on the IP licensing [FINANCIAL_2] with [PERSON_16] Peak Resources (Counterparty ID: UP779040). This is designated RESTRICTED – IP [PERSON_6] EYES ONLY.
+
+Portfolio: [PERSON_26] Manufacturing Process Patents (Portfolio A)
+[FINANCIAL_2] [PERSON_7]: MGJ-3751-8WUF0 | NDA [PERSON_8]: February 09, 2026 | External Counsel: Crestview Hospitality Group (Ref: YR994094)
+
+[FINANCIAL_1] [PERSON_17] TERMS (DRAFT)
+──────────────────────────────────────────────────────
+[PERSON_17] Type:                        [PERSON_9] [PERSON_4] [PERSON_17]
+Territory:                           Asia-Pacific only
+Field of Use:                        Research & Development
+Term:                                7739 years (renewable)
+Upfront [PERSON_17] Fee:                 [AMOUNT_1]
+Running Royalty [PERSON_27]:                [URL_1]% of Net Sales
+Minimum Annual Royalty (Year 1):     [AMOUNT_2]  (escalating [URL_2]% [URL_3].)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  [AMOUNT_3] (Appraiser: Apex Logistics Solutions, Ref: YW013580)
+  NPV of Royalty Stream ([PERSON_28]):  [AMOUNT_4]
+  NPV of Royalty Stream (Bear):  [AMOUNT_5]
+  Walk-Away Minimum:             [AMOUNT_6] upfront + [URL_4]% royalty
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_14] TO [PERSON_16] PEAK RESOURCES)
+  LP-8414: [PERSON_16] Peak Resources seeks carve-out for adjacent territory — firm rejection. Value of concession: [AMOUNT_7].
+  LP-0801: Sublicensing clause — [PERSON_16] Peak Resources requests unrestricted rights; accept affiliates-only with [PERSON_4] restriction.
+  LP-8567: Grant-back on improvements — accept with [PERSON_4] limitation (Ref: YPL-7067-90IEK).
+
+PATENT PORTFOLIO STATUS
+  Patent SK291529  |  USA      |  Expiry: May 14, 2026  |  Granted
+  Patent QY843743  |  EU       |  Expiry: March 24, 2026  |  Granted
+  Patent MV071089  |  [PERSON_24]    |  Expiry: March 21, 2026  |  Pending
+  Patent CX711609  |  Japan    |  Expiry: April 01, 2026  |  Granted
+
+ACTION [FINANCIAL_4]
+  ☐  IP [PERSON_6] approval of walk-away terms by March 16, 2026 (Portal: IP-8611)
+  ☐  External counsel to finalize draft by March 31, 2026 (Matter: YR994094)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: [PERSON_2])
+
+REFERENCED [FINANCIAL_5]
+  • IP_License_Draft_v7739_MGJ-3751-8WUF0_[URL_5]
+  • Royalty_NPV_Model_[URL_6]
+  • Patent_Portfolio_Summary_EV888220_[URL_7]
+
+[PERSON_1]
+Controller | Supply Chain Management | Paragon [PERSON_30] Sciences
+IP [PERSON_6] Code: UP779040  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_14], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP [PERSON_6] EYES ONLY
+Handling Protocol: [CONTRACT_1]-24YJQ | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

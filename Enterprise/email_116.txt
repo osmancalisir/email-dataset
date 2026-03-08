@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #116  |  RESTRICTED – IP COMMITTEE EYES ONLY
+================================================================================
+DATE:        Sunday, March 01, 2026 at 07:39 PM
+FROM:        Ingrid Westergaard <iwestergaard@tridentmarin.com>
+TO:          Alistair Rasmussen <arasmussen@tridentmarin.com>
+SUBJECT:     CONFIDENTIAL: IP Licensing Negotiation Update – Castleton Chemicals
+REFERENCE:   AZR-3265-SC8PC
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Warren,
+
+I am updating you on the IP licensing negotiation with Castleton Chemicals (Counterparty ID: VY292641). This is designated RESTRICTED – IP COMMITTEE EYES ONLY.
+
+Portfolio: Proprietary Algorithm & Data Rights Package
+Negotiation Reference: WTG-5186-V2KCJ | NDA Effective: February 10, 2026 | External Counsel: BluePeak Agrochemicals (Ref: NS232902)
+
+PROPOSED LICENSE TERMS (DRAFT)
+──────────────────────────────────────────────────────
+License Type:                        Exclusive Field-of-Use License
+Territory:                           North America and Europe
+Field of Use:                        Industrial & B2B Applications
+Term:                                4965 years (renewable)
+Upfront License Fee:                 USD        656,702
+Running Royalty Rate:                9.05% of Net Sales
+Minimum Annual Royalty (Year 1):     USD        324,903  (escalating 7.96% p.a.)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  USD 118,681 (Appraiser: Paragon Life Sciences, Ref: ZR586354)
+  NPV of Royalty Stream (Base):  USD 136,555
+  NPV of Royalty Stream (Bear):  USD 66,457
+  Walk-Away Minimum:             USD 7,405,066 upfront + 36.96% royalty
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO CASTLETON CHEMICALS)
+  LP-1572: Castleton Chemicals seeks carve-out for adjacent territory — firm rejection. Value of concession: USD 103,866.
+  LP-9457: Sublicensing clause — Castleton Chemicals requests unrestricted rights; accept affiliates-only with field-of-use restriction.
+  LP-8582: Grant-back on improvements — accept with field-of-use limitation (Ref: WBE-6534-5XGWO).
+
+PATENT PORTFOLIO STATUS
+  Patent GM892363  |  USA      |  Expiry: March 25, 2026  |  Granted
+  Patent SL222607  |  EU       |  Expiry: May 02, 2026  |  Granted
+  Patent KU759097  |  China    |  Expiry: March 21, 2026  |  Pending
+  Patent LC060881  |  Japan    |  Expiry: March 23, 2026  |  Granted
+
+ACTION REQUIRED
+  ☐  IP Committee approval of walk-away terms by March 28, 2026 (Portal: IP-1491)
+  ☐  External counsel to finalize draft by May 14, 2026 (Matter: NS232902)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: IOK-6833-R9EZA)
+
+REFERENCED ATTACHMENTS
+  • IP_License_Draft_v4965_WTG-5186-V2KCJ_CONFIDENTIAL.pdf
+  • Royalty_NPV_Model_OR595820.xlsx
+  • Patent_Portfolio_Summary_ZI834496_RESTRICTED.pdf
+
+Dmitri Mwangi
+Chief Operating Officer | Legal & Compliance | Harborview Shipping
+IP Committee Code: VY292641  |  Direct: +1 (650) 8878-1047
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP COMMITTEE EYES ONLY
+Handling Protocol: REF-AZR-3265-SC8PC | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+I am updating you on the IP licensing [FINANCIAL_2] with Castleton Chemicals (Counterparty ID: VY292641). This is designated RESTRICTED – IP [PERSON_7] EYES ONLY.
+
+Portfolio: Proprietary Algorithm & Data Rights [PERSON_17]
+[FINANCIAL_2] [PERSON_8]: WTG-5186-V2KCJ | NDA [PERSON_9]: February 10, 2026 | External Counsel: BluePeak Agrochemicals (Ref: NS232902)
+
+[FINANCIAL_1] [PERSON_18] TERMS (DRAFT)
+──────────────────────────────────────────────────────
+[PERSON_18] Type:                        [PERSON_10] [PERSON_4] [PERSON_18]
+Territory:                           North [PERSON_19] and [PERSON_26]
+Field of Use:                        Industrial & B2B Applications
+Term:                                4965 years (renewable)
+Upfront [PERSON_18] Fee:                 [AMOUNT_1]
+Running Royalty [PERSON_35]:                [URL_1]% of Net Sales
+Minimum Annual Royalty (Year 1):     [AMOUNT_2]  (escalating [URL_2]% [URL_3].)
+Sublicensing Rights:                 Not permitted without prior consent
+──────────────────────────────────────────────────────
+
+VALUATION (CONFIDENTIAL)
+  IP Portfolio Appraised Value:  [AMOUNT_3] (Appraiser: Paragon [PERSON_36] Sciences, Ref: ZR586354)
+  NPV of Royalty Stream ([PERSON_37]):  [AMOUNT_4]
+  NPV of Royalty Stream (Bear):  [AMOUNT_5]
+  Walk-Away Minimum:             [AMOUNT_6] upfront + [URL_4]% royalty
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_16] TO CASTLETON CHEMICALS)
+  LP-1572: Castleton Chemicals seeks carve-out for adjacent territory — firm rejection. Value of concession: [AMOUNT_7].
+  LP-9457: Sublicensing clause — Castleton Chemicals requests unrestricted rights; accept affiliates-only with [PERSON_4] restriction.
+  LP-8582: Grant-back on improvements — accept with [PERSON_4] limitation (Ref: WBE-6534-5XGWO).
+
+PATENT PORTFOLIO STATUS
+  Patent GM892363  |  USA      |  Expiry: March 25, 2026  |  Granted
+  Patent SL222607  |  EU       |  Expiry: May 02, 2026  |  Granted
+  Patent KU759097  |  [PERSON_31]    |  Expiry: March 21, 2026  |  Pending
+  Patent LC060881  |  Japan    |  Expiry: March 23, 2026  |  Granted
+
+ACTION [FINANCIAL_4]
+  ☐  IP [PERSON_7] approval of walk-away terms by March 28, 2026 (Portal: IP-1491)
+  ☐  External counsel to finalize draft by May 14, 2026 (Matter: NS232902)
+  ☐  CFO sign-off on upfront fee accounting (ASC 606 / IFRS 15 — Ref: [PERSON_1])
+
+REFERENCED [FINANCIAL_5]
+  • IP_License_Draft_v4965_WTG-5186-V2KCJ_[URL_5]
+  • Royalty_NPV_Model_[URL_6]
+  • Patent_Portfolio_Summary_ZI834496_[URL_7]
+
+[PERSON_2]
+[APPROVAL_CODE_2] & [PERSON_6] | Harborview Shipping
+IP [PERSON_7] Code: VY292641  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_16], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – IP [PERSON_7] EYES ONLY
+Handling Protocol: [CONTRACT_1]-SC8PC | Encrypted In-Transit: TLS [URL_8] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

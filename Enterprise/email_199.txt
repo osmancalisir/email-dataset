@@ -1,0 +1,132 @@
+================================================================================
+EMAIL #199  |  STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Piers Rosenberg <prosenberg@cobaltventur.com>
+TO:          Dmitri Mwangi <dmwangi@cobaltventur.com>
+SUBJECT:     CONFIDENTIAL: Internal Investigation – Ref TIC-2468-L828U
+REFERENCE:   BRV-3799-5R59U
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Charles,
+
+This communication is issued under Investigations Protocol INV-8195 and is classified STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation Reference: TIC-2468-L828U
+Complaint Received: February 15, 2026 | Channel: Anonymous Ethics Hotline (Ref: ETH-IU083659)
+Allegation Category: Revenue Recognition Irregularities
+Investigation Lead: Howard Delacroix | External Counsel: Blackridge Logistics (Ref: PZ456546)
+Forensic Accountant: Paragon Life Sciences (Ref: PB463605) | Audit Committee Notified: February 24, 2026
+
+ALLEGATION SUMMARY (ATTORNEY-CLIENT PRIVILEGED)
+The complaint alleges that between February 25, 2026 and March 01, 2026, a procurement officer may have accepted payments from Blackridge Logistics in exchange for contract awards valued at USD 649,101 (Refs: AD082808, AF082874). Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  USD 66,708 – USD 14,267,327
+Transactions Flagged:            4741 (Period: February 25, 2026 – March 01, 2026)
+Systems Under Review:            General Ledger (GL-TR0409), Procurement Platform (ZU5722)
+Geographic Scope:                Singapore, Canada
+
+INVESTIGATION WORKPLAN
+  INV-564  Document preservation order issued    Ingrid Szymanski      Pending Approval  May 15, 2026
+  INV-436  Email & comms forensic imaging        Sebastian Wainwright  Escalated        May 28, 2026
+  INV-711  Financial transaction analysis        Paragon Life Sciences  On Hold          May 04, 2026
+  INV-687  Subject A interview (counsel present) Howard Delacroix      In Progress      May 04, 2026
+  INV-206  Subject B & C interviews              Howard Delacroix      Escalated        April 02, 2026
+  INV-237  Preliminary findings to Audit Cmte   Fitzroy Abramowitz    Complete         April 18, 2026
+
+REGULATORY DISCLOSURE ASSESSMENT (PRIVILEGED)
+  Counsel advises: recommend 60-day investigation before external disclosure
+  External Auditor (Cascadia Real Estate Trust): Notification required — materiality threshold likely met
+  Potential Restatement: Low — below materiality threshold
+  D&O Insurance Notification: Filed February 27, 2026 (Policy Ref: RT676913)
+
+PRESERVATION & CONFIDENTIALITY CONTROLS
+  ✓  Legal hold — 209 custodians (Hold Ref: HJ407314)
+  ✓  System access suspended for Subject A and B (IT Ticket: TP622202)
+  ✓  Document vault created — Vault ID: LQ170661 (IR Team only)
+  ✗  PENDING: External hard drive imaging — 4477 devices (ETA: March 30, 2026)
+
+REFERENCED ATTACHMENTS
+  • Investigation_Plan_TIC-2468-L828U_INV-8195.pdf
+  • Financial_Transactions_Sample_GR962030.xlsx
+  • Legal_Hold_Notice_HJ407314.pdf
+
+All communications must be routed through external counsel Blackridge Logistics. Do not discuss with HR or line management.
+
+Marguerite Harrington
+Head of Strategic Partnerships | Strategic Partnerships | Helix Biomedical Inc
+Encrypted Investigation Line: +1 (800) 5920-4881  |  Badge: SE007003
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – LEGAL COUNSEL & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-BRV-3799-5R59U | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+This communication is issued under Investigations Protocol INV-8195 and is classified [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_13] ONLY. A whistleblower complaint has been received and an internal investigation has been initiated.
+
+Investigation [PERSON_14]: [PERSON_8]
+Complaint Received: February 15, 2026 | Channel: Anonymous Ethics [PERSON_29] (Ref: ETH-IU083659)
+Allegation Category: [PERSON_30] Recognition Irregularities
+Investigation Lead: [PERSON_32] Delacroix | External Counsel: [PERSON_10] Logistics (Ref: PZ456546)
+Forensic Accountant: Paragon [PERSON_42] Sciences (Ref: PB463605) | Audit [PERSON_13] Notified: February 24, 2026
+
+ALLEGATION SUMMARY ([FINANCIAL_2]-CLIENT PRIVILEGED)
+The complaint alleges that between February 25, 2026 and March 01, 2026, a procurement officer may have accepted payments from [PERSON_10] Logistics in exchange for contract awards valued at [AMOUNT_1] (Refs: AD082808, AF082874). Implicated individuals are referred to as Subject A, B, and C pending legal guidance on disclosure.
+
+Financial Quantum Under Review:  [AMOUNT_2] – [AMOUNT_3]
+Transactions Flagged:            4741 (Period: February 25, 2026 – March 01, 2026)
+Systems Under Review:            General Ledger (GL-TR0409), Procurement Platform (ZU5722)
+Geographic [PERSON_39]:                [PERSON_16], [PERSON_35]
+
+INVESTIGATION [FINANCIAL_3]
+  [MIL_PLATFORM_1] preservation order issued    [PERSON_3] Approval  May 15, 2026
+  [MIL_PLATFORM_2] & comms forensic imaging        [PERSON_1]        May 28, 2026
+  [MIL_PLATFORM_3] transaction analysis        Paragon [PERSON_42] Sciences  On Hold          May 04, 2026
+  [MIL_PLATFORM_4] A interview (counsel present) [PERSON_4] Progress      May 04, 2026
+  [MIL_PLATFORM_5] B & C interviews              [PERSON_2]        April 02, 2026
+  [MIL_PLATFORM_6] findings to Audit [PERSON_45]   Fitzroy Abramowitz    [PERSON_24]         April 18, 2026
+
+REGULATORY [PERSON_11] ASSESSMENT (PRIVILEGED)
+  Counsel advises: recommend 60-day investigation before external [PERSON_11]
+  External Auditor ([PERSON_25] Real [PERSON_37] Trust): Notification required — materiality threshold likely met
+  Potential Restatement: Low — below materiality threshold
+  D&O [PERSON_19] Notification: Filed February 27, 2026 (Policy Ref: RT676913)
+
+PRESERVATION & CONFIDENTIALITY [FINANCIAL_4]
+  ✓  Legal hold — 209 custodians (Hold Ref: HJ407314)
+  ✓  System access suspended for Subject A and B (IT Ticket: TP622202)
+  ✓  Document vault created — Vault ID: LQ170661 (IR [CALLSIGN_1])
+  ✗  PENDING: External hard drive imaging — 4477 devices (ETA: March 30, 2026)
+
+REFERENCED [FINANCIAL_5]
+  • Investigation_Plan_TIC-2468-L828U_[URL_1]
+  • Financial_Transactions_Sample_[URL_2]
+  • Legal_Hold_Notice_[URL_3]
+
+All communications must be routed through external counsel [PERSON_10] Logistics. Do not discuss with HR or [PERSON_47] management.
+
+[PERSON_5]
+Head of Strategic Partnerships | Strategic Partnerships | [COMPANY_1]
+Encrypted Investigation [PERSON_47]: [PHONE_1]  |  [PERSON_40]: SE007003
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_11] may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – LEGAL COUNSEL & AUDIT [PERSON_13] ONLY
+Handling Protocol: [PERSON_6] | Encrypted In-Transit: TLS [URL_4] | At-Rest: [MIL_PLATFORM_7] Policy: 7 Years | Destruction Method: Certified [PERSON_38] Deletion
+================================================================================

@@ -1,0 +1,118 @@
+================================================================================
+EMAIL #179  |  CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Oswald Strauss <ostrauss@crestviewhos.com>
+TO:          Priya Caldwell <pcaldwell@crestviewhos.com>
+SUBJECT:     CONFIDENTIAL: Key Account Renewal Terms – Cascadia Real Estate Trust (Account UF559276)
+REFERENCE:   AUS-4807-M71EQ
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Felicia,
+
+I am writing in strict confidence regarding the Key Account renewal with Lavinia Strauss at Cascadia Real Estate Trust (Account ID: UF559276). This is classified at Commercial Sensitivity Level 3.
+
+Account Renewal Summary – Ref: QFF-2612-KIMDF
+Account Tier: Platinum | Contract Expiry: May 08, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     USD     12,774,806
+Proposed Renewal Value:              USD        113,961
+Year-on-Year Growth:                 +3.41%
+Volume Commitment (Units):           239
+Proposed Price Adjustment:           +19.56% effective May 09, 2026
+Rebate on Volumes > 7,207 units:  28.2%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Cascadia Real Estate Trust represents 28.19% of total divisional revenue and has been a strategic partner since February 15, 2026. Their procurement lead, Kwame Rasmussen, has informally indicated willingness to expand volume commitment by up to 37.28% subject to:
+  (a) Preferred pricing on Product Line XQ524890 (list price: USD 8,411/unit)
+  (b) Dedicated account support team (minimum 6721 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-4044)
+
+COMPETITIVE INTELLIGENCE (SOURCE: CI-UP487566 — STRICTLY CONFIDENTIAL)
+Quantum Data Systems has approached Cascadia Real Estate Trust with a competing bid estimated at USD 314,592 annually — approximately 10.04% below our current pricing.
+
+INTERNAL APPROVALS REQUIRED
+  ☐  VP Finance — Budget code: MO330541
+  ☐  Chief Revenue Officer — Exception Ref: ZWP-3560-7FI1R
+  ☐  Legal Counsel — Contract template: MSA-KX682326
+
+REFERENCED ATTACHMENTS
+  • Account_Renewal_Proposal_YE494497.pdf            [CONFIDENTIAL]
+  • Competitive_Intel_Brief_UP487566_RESTRICTED.docx
+  • Pricing_Exception_Form_PAT-0063-IRMMM.xlsx
+
+Internal sign-off deadline: April 16, 2026. Reply with authorization code via secure channel only.
+
+Ingrid Nkrumah
+Chief Operating Officer | Finance & Treasury | Vortex Tech Industries
+Direct: +1 (312) 9272-5764  |  Secure ID: XB150529
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+Handling Protocol: REF-AUS-4807-M71EQ | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_9],
+
+I am writing in strict confidence regarding the Key Account renewal with [PERSON_1] at [PERSON_8] Real [PERSON_16] Trust (Account ID: UF559276). This is classified at Commercial [FINANCIAL_5] Level 3.
+
+Account Renewal Summary – Ref: QFF-2612-KIMDF
+Account Tier: Platinum | Contract Expiry: May 08, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     [AMOUNT_1]
+Proposed Renewal Value:              [AMOUNT_2]
+Year-on-Year Growth:                 +[URL_1]%
+[PERSON_17] Commitment (Units):           239
+Proposed [PERSON_24] Adjustment:           +[URL_2]% effective May 09, 2026
+[PERSON_18] on Volumes > 7,207 units:  [URL_3]%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+[PERSON_8] Real [PERSON_16] Trust represents [URL_4]% of total divisional [PERSON_13] and has been a strategic partner since February 15, 2026. Their procurement lead, [PERSON_2], has informally indicated willingness to expand [PERSON_17] commitment by up to [URL_5]% subject to:
+  (a) Preferred pricing on Product [PERSON_32] XQ524890 (list [PERSON_24]: [AMOUNT_3]/unit)
+  (b) Dedicated account support team (minimum 6721 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-4044)
+
+[PERSON_5] [PERSON_4] ([PERSON_19]: CI-UP487566 — [FINANCIAL_2] CONFIDENTIAL)
+Quantum Data Systems has approached [PERSON_8] Real [PERSON_16] Trust with a competing bid estimated at [AMOUNT_4] annually — approximately [URL_6]% below our current pricing.
+
+INTERNAL APPROVALS [FINANCIAL_3]
+  ☐  VP [PERSON_12] — Budget code: MO330541
+  ☐  Chief [PERSON_13] Officer — Exception Ref: ZWP-3560-7FI1R
+  ☐  Legal Counsel — Contract template: MSA-KX682326
+
+REFERENCED [FINANCIAL_4]
+  • Account_Renewal_Proposal_[URL_7]            [CONFIDENTIAL]
+  • [FINANCIAL_1]_Intel_Brief_UP487566_[URL_8]
+  • Pricing_Exception_Form_[URL_9]
+
+Internal sign-off deadline: April 16, 2026. Reply with authorization code via [PERSON_22] channel only.
+
+[PERSON_3]
+Chief Operating Officer | [PERSON_12] & Treasury | Vortex Tech Industries
+Direct: [PHONE_1]  |  [PERSON_22] ID: XB150529
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL [FINANCIAL_5] LEVEL 3
+Handling Protocol: [CONTRACT_1]-M71EQ | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================

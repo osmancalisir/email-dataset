@@ -1,0 +1,134 @@
+================================================================================
+EMAIL #023  |  BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Warren Fischer <wfischer@pinnaclefina.com>
+TO:          Oswald Oduya <ooduya@pinnaclefina.com>
+SUBJECT:     CONFIDENTIAL: FY2025 Annual Budget & Capital Allocation Proposal
+REFERENCE:   PXG-4454-ROWU5
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alistair,
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget Committee review on May 05, 2026. This is classified BOARD-RESTRICTED. Do not share with divisional finance teams or line management at this stage.
+
+Budget Reference: IDI-2472-PQT23 | CFO Sponsor: Natalie Ferrante | Prior Year Lock Date: February 21, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+Line Item               FY2025 Budget        FY2024 Actual      Variance
+Total Revenue           USD     76,532,480   USD     83,754,214     -8.6%
+Gross Profit            USD     39,605,894   USD     42,487,951     +0.0%
+EBITDA                  USD     22,353,330   USD     21,009,502     -1.0%
+EBIT                    USD     19,793,608   USD     18,469,881    +14.9%
+Net Income              USD     13,073,137   USD     12,167,726    +10.5%
+Capital Expenditure     USD      8,000,722   USD      6,698,231     -3.3%
+Free Cash Flow          USD     13,411,998   USD     13,902,123     -2.8%
+Net Debt (Year-End)     USD     15,852,564   USD     14,324,414     +0.9%
+──────────────────────────────────────────────────────
+EBITDA Margin: 12.3%  |  Gross Margin: 29.01%  |  FCF Conversion: 34.33%
+
+CAPITAL EXPENDITURE ALLOCATION
+  Digital Infrastructure Upgrade (Phase 3)  USD 129,916  Low  RG402475
+  New Manufacturing Line — Plant HP39       USD 15,172,264  High  PQ097339
+  ERP Enhancement — Module HT80             USD 59,330  Medium  MG528742
+  Logistics Hub Expansion — Atlanta         USD 13,947,612  Low  II111235
+  Contingency Reserve (27.57%)              USD 2,205,799  N/A    YY706949
+
+KEY BUDGET ASSUMPTIONS (CONFIDENTIAL)
+  Revenue growth 35.75% assumes 3640 new customer wins (Pipeline: FV092668) and 11.65% retention.
+  Headcount: net +9558 FTEs (9401 hires, 3841 attrition) — Ref: HC-2708.
+  Inflation: 4.69% on COGS, 10.87% on SG&A.
+  FX: USD/EUR 0.9988 | USD/GBP 0.7519 | USD/JPY 131.4 (Treasury Ref: HU821639).
+
+DIVISION-LEVEL TARGETS (SENSITIVE — DO NOT SHARE PRE-ALIGNMENT)
+  North America Commercial        Revenue: USD 15,695,278   EBITDA: USD 3,772,037   HC Cap: 638
+  Asia-Pacific Growth             Revenue: USD 676,050   EBITDA: USD 112,309   HC Cap: 1827
+  EMEA Operations                 Revenue: USD 551,060   EBITDA: USD 131,483   HC Cap: 1454
+  Global Supply Chain             Revenue: USD 1,350,908   EBITDA: USD 258,565   HC Cap: 1448
+
+REFERENCED ATTACHMENTS
+  • FY2025_Budget_Model_QMU-2131-1OUTY_BOARD_RESTRICTED.xlsx
+  • CapEx_Project_Briefs_YN377814_CONFIDENTIAL.pdf
+  • Division_Targets_DY339193_RESTRICTED.xlsx
+
+Provide comments to Natalie Ferrante only by June 05, 2026. Budget Committee approval required by May 29, 2026.
+
+Charles Ellison
+Head of Treasury | Internal Audit | Northstar Pharmaceuticals
+Budget Portal: ET117778  |  Direct: +1 (646) 5510-3150
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET COMMITTEE ONLY
+Handling Protocol: REF-PXG-4454-ROWU5 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_10],
+
+I am distributing the preliminary FY2025 Annual Budget and Capital Allocation proposal ahead of the Budget [PERSON_7] review on May 05, 2026. This is classified BOARD-RESTRICTED. Do not [PERSON_40] with [FINANCIAL_3]al finance teams or [PERSON_43] management at this stage.
+
+Budget [PERSON_8]: IDI-2472-PQT23 | CFO Sponsor: [PERSON_1] | Prior Year Lock Date: February 21, 2026
+
+FY2025 CONSOLIDATED BUDGET SUMMARY
+──────────────────────────────────────────────────────
+[PERSON_43] Item               FY2025 Budget        FY2024 Actual      [PERSON_14]
+Total [PERSON_19]           [AMOUNT_1]   [AMOUNT_2]     -[URL_1]%
+Gross Profit            [AMOUNT_3]   [AMOUNT_4]     +[URL_2]%
+[PERSON_29]                  [AMOUNT_5]   [AMOUNT_6]     -[URL_3]%
+[PERSON_44]                    [AMOUNT_7]   [AMOUNT_8]    +[URL_4]%
+Net [PERSON_30]              [AMOUNT_9]   [AMOUNT_10]    +[URL_5]%
+Capital [PERSON_5]     [AMOUNT_11]   [AMOUNT_12]     -[URL_6]%
+[PERSON_45] Cash Flow          [AMOUNT_13]   [AMOUNT_14]     -[URL_7]%
+Net Debt (Year-End)     [AMOUNT_15]   [AMOUNT_16]     +[URL_8]%
+──────────────────────────────────────────────────────
+[PERSON_29] Margin: [URL_9]%  |  Gross Margin: [URL_10]%  |  FCF Conversion: [URL_11]%
+
+CAPITAL [PERSON_5] ALLOCATION
+  Digital [PERSON_3] [PERSON_20] ([PERSON_37] 3)  [AMOUNT_17]  Low  RG402475
+  New Manufacturing [PERSON_43] — Plant HP39       [AMOUNT_18]  High  PQ097339
+  ERP Enhancement — [PERSON_31] HT80             [AMOUNT_19]  Medium  MG528742
+  Logistics Hub Expansion — [PERSON_21]         [AMOUNT_20]  Low  II111235
+  Contingency [PERSON_22] ([URL_12]%)              [AMOUNT_21]  N/A    YY706949
+
+KEY BUDGET [FINANCIAL_2] (CONFIDENTIAL)
+  [PERSON_19] growth [URL_13]% assumes 3640 new customer wins ([PERSON_15]: FV092668) and [URL_14]% retention.
+  Headcount: net +9558 FTEs (9401 hires, 3841 attrition) — Ref: HC-2708.
+  Inflation: [URL_15]% on COGS, [URL_16]% on SG&A.
+  FX: USD/EUR [URL_8]988 | USD/GBP [URL_18] | USD/JPY [URL_19] (Treasury Ref: HU821639).
+
+[FINANCIAL_3]-LEVEL TARGETS ([PERSON_9] — DO NOT [PERSON_40] PRE-ALIGNMENT)
+  North [PERSON_24] Commercial        [PERSON_19]: [AMOUNT_24]   [PERSON_29]: [AMOUNT_25]   HC Cap: 638
+  Asia-Pacific Growth             [PERSON_19]: [AMOUNT_26]   [PERSON_29]: [AMOUNT_27]   HC Cap: 1827
+  [PERSON_49] Operations                 [PERSON_19]: [AMOUNT_28]   [PERSON_29]: [AMOUNT_29]   HC Cap: 1454
+  Global Supply Chain             [PERSON_19]: [AMOUNT_30]   [PERSON_29]: [AMOUNT_31]   HC Cap: 1448
+
+REFERENCED [FINANCIAL_4]
+  • FY2025_Budget_Model_QMU-2131-1OUTY_BOARD_[URL_20]
+  • CapEx_Project_Briefs_YN377814_[URL_21]
+  • [FINANCIAL_3]_Targets_DY339193_[URL_20]
+
+[PERSON_25] comments to [PERSON_1] only by [PERSON_50] 05, 2026. Budget [PERSON_7] approval required by May 29, 2026.
+
+[PERSON_2]
+Head of Treasury | Internal Audit | Northstar Pharmaceuticals
+Budget Portal: ET117778  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially [PERSON_9], and/or proprietary to Fischer's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – BUDGET [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-ROWU5 | Encrypted In-Transit: TLS [URL_22] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

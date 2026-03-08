@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #052  |  STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Marcus Djordjevic <mdjordjevic@titanmanufac.com>
+TO:          Charles Brennan <cbrennan@titanmanufac.com>
+SUBJECT:     CONFIDENTIAL: Joint Venture Term Sheet – Ironclad Supply Chain / Apex Logistics Solutions
+REFERENCE:   NJK-0780-25B4A
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Monique,
+
+Following our call on February 19, 2026, I am forwarding the updated term sheet for the proposed joint venture between Ironclad Supply Chain and Apex Logistics Solutions. This supersedes all prior drafts and is shared exclusively under NDA Ref: PQZ-0026-9ZE1C.
+
+Transaction Summary – Project Code: NO289094
+NDA Reference: PQZ-0026-9ZE1C | Executed: February 16, 2026
+
+INDICATIVE TRANSACTION TERMS
+──────────────────────────────────────────────────────
+Deal Structure:                      Asset Purchase
+Enterprise Valuation (Pre-Money):    USD        714,915
+Proposed Equity Split:               5.09% / 94.91%
+Anticipated Close Date:              March 27, 2026
+Escrow Agent:                        Cobalt Ventures LLC
+Governing Law:                       Republic of Singapore
+Minimum EBITDA Covenant:             USD        308,585
+Maximum Leverage Ratio:              4.4x
+Interest Coverage Floor:             24.04%
+Year-1 CapEx Cap:                    USD      7,851,159
+──────────────────────────────────────────────────────
+
+REGULATORY TIMELINE
+  HSR Act Filing Deadline:           April 07, 2026
+  Antitrust Clearance Expected:      March 16, 2026
+  Required Licenses:                 DD252712, QL007167, BR907861
+
+OPEN NEGOTIATION POINTS (DO NOT DISCLOSE TO APEX LOGISTICS SOLUTIONS)
+(a) Management carve-out provisions — Exhibit F, Ref CLD-4011-9U5TA
+(b) Earn-out KPI metrics JD606709 and XP361475 — valuation impact USD 13,224,586
+(c) Exclusivity breach penalty: 16.06% of enterprise value
+
+REFERENCED ATTACHMENTS
+  • JV_TermSheet_v1012_HS053284.pdf              [AES-256 encrypted]
+  • Valuation_Model_RKF-1499-4D8CI_CONFIDENTIAL.xlsx
+  • NDA_Cross_Reference_ND161391.docx
+
+Legal sign-off required from both parties no later than April 13, 2026. Coordinate follow-up with Renata Thistlethwaite and the Apex Logistics Solutions legal team for March 17, 2026.
+
+Charles Strauss
+Chief Operating Officer | Operations | Ironclad Supply Chain
+Direct: +1 (415) 1242-8831  |  Mobile: +1 (650) 5203-8698  |  Token: US769544
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Djordjevic's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – DEAL TEAM ONLY
+Handling Protocol: REF-NJK-0780-25B4A | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_29],
+
+Following our call on February 19, 2026, I am forwarding the updated term sheet for the proposed joint venture between Ironclad Supply Chain and Apex Logistics Solutions. This supersedes all prior drafts and is shared exclusively under NDA Ref: PQZ-0026-9ZE1C.
+
+[FINANCIAL_1] Summary – Project Code: NO289094
+NDA [PERSON_12]: PQZ-0026-9ZE1C | Executed: February 16, 2026
+
+[PERSON_9] [FINANCIAL_1] TERMS
+──────────────────────────────────────────────────────
+Deal [PERSON_14]:                      Asset [PERSON_20]
+[PERSON_10] Valuation (Pre-Money):    [AMOUNT_1]
+Proposed Equity Split:               [URL_1]% / [URL_2]%
+Anticipated [PERSON_41] Date:              March 27, 2026
+Escrow Agent:                        [COMPANY_1]
+Governing Law:                       Republic of [PERSON_16]
+Minimum [PERSON_37] Covenant:             [AMOUNT_2]
+Maximum [PERSON_22] Ratio:              [URL_3]
+Interest [PERSON_23] Floor:             [URL_4]%
+Year-1 CapEx Cap:                    [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+REGULATORY [PERSON_24]
+  HSR Act Filing [PERSON_25]:           April 07, 2026
+  Antitrust [PERSON_17] Expected:      March 16, 2026
+  Required Licenses:                 DD252712, QL007167, BR907861
+
+OPEN [FINANCIAL_3] POINTS (DO NOT [PERSON_27] TO APEX LOGISTICS SOLUTIONS)
+(a) Management carve-out provisions — Exhibit F, Ref [PERSON_5]
+(b) Earn-out KPI metrics JD606709 and XP361475 — valuation impact [AMOUNT_4]
+(c) Exclusivity breach penalty: [URL_5]% of [PERSON_10] value
+
+REFERENCED [FINANCIAL_5]
+  • JV_TermSheet_v1012_[URL_6]              [[MIL_PLATFORM_1] encrypted]
+  • Valuation_Model_RKF-1499-4D8CI_[URL_7]
+  • NDA_Cross_Reference_[URL_8]
+
+Legal sign-off required from both parties no later than April 13, 2026. [PERSON_11] follow-up with [PERSON_1] and the Apex Logistics Solutions legal [CALLSIGN_1], 2026.
+
+[PERSON_4]
+[APPROVAL_CODE_2] | Ironclad Supply Chain
+Direct: [PHONE_1]  |  [PERSON_39]: [PHONE_2]  |  Token: US769544
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Djordjevic's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not [PERSON_27], copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: [FINANCIAL_6] CONFIDENTIAL – DEAL [CALLSIGN_2]
+Handling Protocol: [PERSON_2] | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_40] Deletion
+================================================================================

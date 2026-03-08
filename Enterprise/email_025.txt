@@ -1,0 +1,142 @@
+================================================================================
+EMAIL #025  |  RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Elise Rosenberg <erosenberg@meridiancapi.com>
+TO:          Jonathan Achterberg <jachterberg@meridiancapi.com>
+SUBJECT:     CONFIDENTIAL: Trade Finance Facility Review – Prism Healthcare Group
+REFERENCE:   DJU-2656-YWRPP
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alicia,
+
+I am writing in strict confidence regarding the trade finance facility supporting our transactions with Prism Healthcare Group (Counterparty ID: UY479773) under Master Trade Agreement Ref: QJT-8437-ALSJO. This is classified RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY.
+
+Issuing Bank: Amberfield Consumer Goods (Code: YW968440) | Confirming Bank: Mosaic Digital Solutions (Code: DP146189)
+Facility Review Date: March 21, 2026 | Trade Finance Committee: April 14, 2026
+
+ACTIVE INSTRUMENTS SUMMARY
+──────────────────────────────────────────────────────
+Type          Reference    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    FW043739        Prism Healthcare Group       263,980   April 03, 2026  Active — In Order
+LC (Usance)   LG401892        Amberfield Consumer Goods       667,946   June 01, 2026  Active — Discrepancy Pending
+BG (Perf.)    YR112032        Mosaic Digital Solutions       683,347   April 06, 2026  Active — In Order
+BG (Adv. Pmt) VI031299        Brian Volkov          51,354   April 01, 2026  Active — Awaiting Confirmation
+SBLC          JU747687      Prism Healthcare Group       810,908   March 23, 2026  Active — In Order
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  USD 2,477,535
+FACILITY LIMIT:              USD 3,702,631
+UTILISATION:                 66.9%
+
+OUTSTANDING DISCREPANCY NOTICES
+  D-7971: LC FW043739 — port of loading differs from LC stipulated port. Waiver requested from Prism Healthcare Group (Deadline: March 21, 2026). Exposure: USD 263,980.
+  D-2425: LC LG401892 — late presentation — beyond 21-day rule. Correction letter Ref KM532429, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Cocoa Butter
+  Shipment Terms:          FCA — Hamburg to Hamburg
+  Contract Quantity:       7,432 MT (Tolerance: ±34.76%)
+  Invoice Value (Latest):  USD 777,161
+  Open Position:           USD 129,879 (4484 shipments outstanding)
+  Hedge Coverage:          28.21% (Hedge Ref: KUW-3714-B3UE6, Desk: JE173974)
+
+BANK COVENANT & COMPLIANCE
+  Net Leverage Covenant:   4.1x (Current: 3.8x) — COMPLIANT
+  Annual Review Due:        May 26, 2026
+  AML/KYC Re-certification: Prism Healthcare Group — Due March 21, 2026 (Ref: DG231155)
+  OFAC Sanctions Screening: Last run February 08, 2026 — Potential match — under review
+
+ACTION ITEMS
+1. Resolve D-7971 with Prism Healthcare Group before LC expiry April 03, 2026 — escalate to Gregory Nguyen if no waiver received.
+2. Renew BG YR112032 prior to expiry April 06, 2026 — instruct Amberfield Consumer Goods by March 21, 2026 (Lead time: 9732 business days).
+3. Submit AML/KYC docs for Prism Healthcare Group re-certification (Contact: Celestine Westergaard, Ref: DG231155).
+4. CFO approval for facility limit increase of USD 5,998,513 by April 14, 2026 (Form: TF-2093).
+
+REFERENCED ATTACHMENTS
+  • Trade_Finance_Status_Report_QJT-8437-ALSJO_RESTRICTED.pdf
+  • LC_Document_Set_FW043739_FV061326.pdf
+  • Discrepancy_Notice_7971_KM532429.pdf
+  • Commodity_Position_Summary_OXM-1407-KQHSI.xlsx
+
+Jonathan Petrossian
+Head of Treasury | Risk Management | Nexpoint Data Centers
+Treasury Direct: +1 (212) 9526-4057  |  SWIFT: OUIAPGSG  |  Badge: EP710693
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+Handling Protocol: REF-DJU-2656-YWRPP | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+I am writing in strict confidence regarding the [PERSON_36] [PERSON_21] [FINANCIAL_3] supporting our transactions with Prism [PERSON_4] Group (Counterparty ID: UY479773) under Master [PERSON_36] Agreement Ref: QJT-8437-ALSJO. This is classified RESTRICTED – [FINANCIAL_1] & [PERSON_36] [PERSON_21] [PERSON_7] ONLY.
+
+Issuing Bank: Amberfield Consumer Goods (Code: YW968440) | Confirming Bank: Mosaic Digital Solutions (Code: DP146189)
+[FINANCIAL_3] Review Date: March 21, 2026 | [PERSON_36] [PERSON_21] [PERSON_7]: April 14, 2026
+
+[PERSON_30] [FINANCIAL_2] SUMMARY
+──────────────────────────────────────────────────────
+Type          [PERSON_8]    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    FW043739        Prism [PERSON_4] Group       263,980   April 03, 2026  [PERSON_30] — In Order
+LC ([PERSON_31])   LG401892        Amberfield Consumer Goods       667,946   [PERSON_43] 01, 2026  [PERSON_30] — [FINANCIAL_6] Pending
+BG (Perf.)    YR112032        Mosaic Digital Solutions       683,347   April 06, 2026  [PERSON_30] — In Order
+BG ([PERSON_12]) VI031299        [PERSON_3]          51,354   April 01, 2026  [PERSON_30] — Awaiting Confirmation
+SBLC          JU747687      Prism [PERSON_4] Group       810,908   March 23, 2026  [PERSON_30] — In Order
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  [AMOUNT_1]
+[FINANCIAL_3] LIMIT:              [AMOUNT_2]
+[FINANCIAL_4]:                 [URL_1]%
+
+[FINANCIAL_5] [FINANCIAL_6] NOTICES
+  D-7971: LC FW043739 — port of loading differs from LC stipulated port. Waiver requested from Prism [PERSON_4] Group ([PERSON_15]: March 21, 2026). [PERSON_16]: [AMOUNT_3].
+  D-2425: LC LG401892 — late presentation — beyond 21-day rule. Correction letter Ref KM532429, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               [PERSON_39] Butter
+  Shipment Terms:          FCA — Hamburg to Hamburg
+  Contract Quantity:       7,432 MT ([PERSON_9]: ±[URL_2]%)
+  [PERSON_24] Value (Latest):  [AMOUNT_4]
+  Open Position:           [AMOUNT_5] (4484 shipments [FINANCIAL_5])
+  [PERSON_40] [PERSON_18]:          [URL_3]% ([PERSON_40] Ref: KUW-3714-B3UE6, Desk: JE173974)
+
+BANK [FINANCIAL_7] & [PERSON_5]
+  Net [PERSON_19] [FINANCIAL_7]:   [URL_4] (Current: [URL_5]) — COMPLIANT
+  Annual Review Due:        May 26, 2026
+  AML/KYC Re-certification: Prism [PERSON_4] Group — Due March 21, 2026 (Ref: DG231155)
+  OFAC Sanctions Screening: Last run February 08, 2026 — Potential match — under review
+
+ACTION ITEMS
+1. [PERSON_27] D-7971 with Prism [PERSON_4] Group before LC expiry April 03, 2026 — escalate to [PERSON_2] if no waiver received.
+2. Renew BG YR112032 prior to expiry April 06, 2026 — instruct Amberfield Consumer Goods by March 21, 2026 (Lead time: 9732 business days).
+3. Submit AML/KYC docs for Prism [PERSON_4] Group re-certification (Contact: [PERSON_11] Westergaard, Ref: DG231155).
+4. CFO approval for [FINANCIAL_3] limit increase of [AMOUNT_6] by April 14, 2026 (Form: TF-2093).
+
+REFERENCED [FINANCIAL_8]
+  • Trade_Finance_Status_Report_QJT-8437-ALSJO_[URL_6]
+  • LC_Document_Set_FW043739_[URL_7]
+  • [FINANCIAL_6]_Notice_7971_[URL_8]
+  • Commodity_Position_Summary_[URL_9]
+
+[PERSON_1]
+Head of [FINANCIAL_1] | Risk Management | Nexpoint Data Centers
+[FINANCIAL_1] Direct: [PHONE_1]  |  SWIFT: [FINANCIAL_9]  |  [PERSON_41]: EP710693
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_8] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Rosenberg's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_1] & [PERSON_36] [PERSON_21] [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-YWRPP | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

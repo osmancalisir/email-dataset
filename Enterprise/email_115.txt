@@ -1,0 +1,138 @@
+================================================================================
+EMAIL #115  |  STRICTLY CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+================================================================================
+DATE:        Thursday, February 26, 2026 at 07:39 PM
+FROM:        Charles Westergaard <cwestergaard@helixbiomedi.com>
+TO:          Barnabas Petrossian <bpetrossian@helixbiomedi.com>
+SUBJECT:     CONFIDENTIAL: Cybersecurity Incident – Ref HNL-4523-XW1OJ
+REFERENCE:   AAB-8601-DU9E7
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Rebecca,
+
+This communication is issued under Information Security Incident Protocol ISIP-0398 and is STRICTLY CONFIDENTIAL. A potential data security incident has been identified in the Legal & Compliance environment.
+
+Incident Reference: HNL-4523-XW1OJ | Severity: HIGH – SEV-2
+Date/Time Detected: February 27, 2026 at 18:26 UTC | External IR Firm: Delphi Semiconductor (Ref: ZK341406)
+
+INCIDENT SUMMARY
+──────────────────────────────────────────────────────
+Affected Systems:         Data Warehouse (PI1104), ERP Core (OY9959), Payment Gateway (MY9162)
+Data Types Exposed:       Personally Identifiable Information (PII), Employee HR Records
+Records Potentially Affected: 7,336
+Attack Vector:            SQL injection via public-facing web application
+Threat Actor (Suspected): Financially motivated criminal group
+Dwell Time (Estimated):   8472 days | Data Exfiltration: 5113 GB
+C2 Server IP (masked):    77.44.148.143
+──────────────────────────────────────────────────────
+
+CONTAINMENT ACTIONS TAKEN (February 27, 2026)
+  ✓  Isolated network segment CY392913 at 18:26 UTC
+  ✓  Revoked credentials for 2375 potentially compromised accounts (Ref: PW518464)
+  ✓  Forensic imaging of hosts EL880008 and YQ498483
+  ✓  Backup authentication activated on Data Warehouse (PI1104) and ERP Core (OY9959)
+  ✗  PENDING: Full eradication of persistence mechanism (ETA: March 23, 2026)
+
+REGULATORY NOTIFICATION ASSESSMENT (PRIVILEGED)
+  GDPR Article 33 (72-hr):          Deadline April 26, 2026 — Decision PENDING
+  CCPA Breach Notification:          Counsel reviewing — Ref IV853104
+  SEC 8-K Disclosure:                CFO + Legal assessment by March 27, 2026
+  Cyber Insurance (Sunridge Energy Partners):           Filed February 26, 2026 — Policy Ref YD632922
+  Estimated Notification Cost:       USD 1,443,657
+  Estimated Remediation Cost:        USD 789,720
+  Business Interruption Loss (est.): USD 16,823,350
+
+KEY INCIDENT RESPONSE CONTACTS
+  Legal Lead:        Priya Tremblay  |  Ext 3809
+  PR / Comms Lead:   Warren Wainwright  |  Ext 8561
+  Forensics Lead:    Brian Mbeki (Delphi Semiconductor)
+  Regulator Liaison: Barnabas Mwangi  |  Ext 6132
+
+IR Team call: April 08, 2026 at 06:00 EST — Bridge: 4116-5986-0512, PIN: 001827.
+
+REFERENCED ATTACHMENTS
+  • Incident_Report_HNL-4523-XW1OJ_RESTRICTED.pdf
+  • IOC_List_FZG-3692-1ICYG_CONFIDENTIAL.csv
+  • Forensic_Timeline_DN503167.pdf
+  • Insurance_Claim_YD632922.pdf
+
+Sandra Ellison
+Head of Strategic Partnerships | Legal & Compliance | Granite Peak Resources
+IR Hotline: +1 (888) 398-7336  |  Incident Badge: GN559611
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: STRICTLY CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+Handling Protocol: REF-AAB-8601-DU9E7 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_21],
+
+This communication is issued under Information Security [FINANCIAL_2] Protocol ISIP-0398 and is [FINANCIAL_1] CONFIDENTIAL. A potential data security [FINANCIAL_2] has been identified in the Legal & [PERSON_5] environment.
+
+[FINANCIAL_2] [PERSON_8]: HNL-4523-XW1OJ | Severity: HIGH – SEV-2
+[PERSON_9] Detected: February 27, 2026 at 18:26 UTC | External IR Firm: [PERSON_30] Semiconductor (Ref: ZK341406)
+
+[FINANCIAL_2] SUMMARY
+──────────────────────────────────────────────────────
+Affected Systems:         Data [PERSON_10] (PI1104), ERP [PERSON_46] (OY9959), Payment Gateway (MY9162)
+Data Types Exposed:       Personally [PERSON_3] Information (PII), [PERSON_17] HR Records
+Records Potentially Affected: 7,336
+Attack Vector:            SQL injection via public-facing web application
+Threat Actor (Suspected): Financially motivated criminal group
+Dwell [PERSON_47] (Estimated):   8472 days | Data Exfiltration: 5113 GB
+C2 Server IP (masked):    [URL_1]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] ACTIONS TAKEN (February 27, 2026)
+  ✓  Isolated network segment CY392913 at 18:26 UTC
+  ✓  Revoked credentials for 2375 potentially compromised accounts (Ref: PW518464)
+  ✓  Forensic imaging of hosts EL880008 and YQ498483
+  ✓  Backup authentication activated on Data [PERSON_10] (PI1104) and ERP [PERSON_46] (OY9959)
+  ✗  PENDING: Full eradication of persistence mechanism (ETA: March 23, 2026)
+
+REGULATORY NOTIFICATION ASSESSMENT (PRIVILEGED)
+  GDPR [PERSON_23] 33 (72-hr):          [PERSON_18] April 26, 2026 — Decision PENDING
+  [PERSON_48] Breach Notification:          Counsel reviewing — Ref IV853104
+  SEC 8-K [PERSON_6]:                CFO + Legal assessment by March 27, 2026
+  Cyber [PERSON_12] ([PERSON_20] Energy Partners):           Filed February 26, 2026 — Policy Ref YD632922
+  Estimated Notification Cost:       [AMOUNT_1]
+  Estimated Remediation Cost:        [AMOUNT_2]
+  Business Interruption Loss (est.): [AMOUNT_3]
+
+KEY [FINANCIAL_2] RESPONSE [FINANCIAL_4]
+  Legal Lead:        [PERSON_38] [PERSON_13]  |  Ext 3809
+  PR / Comms Lead:   [PERSON_28] Wainwright  |  Ext 8561
+  Forensics Lead:    [PERSON_1] Semiconductor)
+  Regulator Liaison: Barnabas [PERSON_32]  |  Ext 6132
+
+IR [CALLSIGN_1]: April 08, 2026 at 06:00 EST — [PERSON_33]: [PHONE_2], PIN: 001827.
+
+REFERENCED [FINANCIAL_5]
+  • [FINANCIAL_2]_Report_HNL-4523-XW1OJ_[URL_2]
+  • IOC_List_FZG-3692-1ICYG_[URL_3]
+  • Forensic_Timeline_[URL_4]
+  • Insurance_Claim_[URL_5]
+
+[PERSON_2]
+Head of Strategic Partnerships | Legal & [PERSON_5] | [PERSON_26] Peak Resources
+IR [PERSON_27]: [PHONE_3]  |  [FINANCIAL_2] [PERSON_44]: GN559611
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Westergaard's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_6] may result in civil and/or criminal liability.
+Classification: [FINANCIAL_1] CONFIDENTIAL – IR TEAM & SENIOR LEADERSHIP ONLY
+Handling Protocol: [CONTRACT_1]-DU9E7 | Encrypted In-Transit: TLS [URL_6] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_36] Deletion
+================================================================================

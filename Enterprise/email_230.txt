@@ -1,0 +1,119 @@
+================================================================================
+EMAIL #230  |  BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Renata Strauss <rstrauss@tridentmarin.com>
+TO:          Adrienne Volkov <avolkov@tridentmarin.com>
+SUBJECT:     CONFIDENTIAL: Currency Exposure Hedging Strategy – Q1
+REFERENCE:   IPJ-5269-N8F9T
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thaddeus,
+
+Please find below the Q1 currency hedging strategy summary, developed in response to elevated FX volatility since February 09, 2026. This is classified BOARD-RESTRICTED and shared only with the Treasury Oversight Committee.
+
+Hedging Strategy Reference: VFD-5318-ND01X
+Portfolio Exposure Date: April 16, 2026 | Risk Classification: HIGH
+
+CURRENCY EXPOSURE & HEDGE RATIOS
+──────────────────────────────────────────────────────
+Currency Pair    Notional Exposure      Spot Rate    Hedge Ratio
+USD/EUR          USD      672,062       0.8885        7.77%
+USD/GBP          USD      305,568       0.8551        25.32%
+USD/JPY          USD   17,246,509       143.85       9.55%
+USD/CNH          USD    6,402,054       7.2609        16.68%
+──────────────────────────────────────────────────────
+
+RECOMMENDED INSTRUMENTS
+1. Forward Contracts (USD/EUR): Lock rate 1.043 for settlement March 16, 2026 — notional USD 15,112,242 (Desk: FX-MF892004).
+2. Vanilla Options (USD/GBP): Put strike 0.8534, premium USD 68,921, expiry April 03, 2026 (Ref: OPT-GV463962).
+3. Cross-Currency Swap (USD/JPY): Fixed 25.92%, SOFR + 10.13bps, tenor 1144 months (ISDA Ref: JIT-2392-C3TLK).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Quantum Data Systems (Code: ZK895662)
+  Backup Dealer:     Helix Biomedical Inc (Code: DB429963)
+  Credit Limit Used: 6.11% of approved limit (USD 132,920 remaining)
+
+SCENARIO ANALYSIS
+  Base Case   (33.69% probability):   Net FX P&L = USD 13,036,698
+  Adverse     (36.56% probability):   Net FX P&L = USD -131,513
+  Stress      (29.8% probability): Net FX P&L = USD -3,260,526
+
+REFERENCED ATTACHMENTS
+  • FX_Hedging_Strategy_Q1_RYB-8399-6YJG8.xlsx           [AES-256 encrypted]
+  • Counterparty_Credit_Assessment_UK969467_RESTRICTED.pdf
+  • ISDA_Schedule_Amendment_QJ779485.pdf
+
+Confirm approval via Treasury Portal TP-7883 by April 05, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+Claudia Westergaard
+VP of Business Development | Information Technology | Ember Analytics Inc
+Bloomberg Terminal: WB097163  |  Direct: +1 (646) 589-0750
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – TREASURY OVERSIGHT COMMITTEE
+Handling Protocol: REF-IPJ-5269-N8F9T | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_4],
+
+[PERSON_12] find below the Q1 [FINANCIAL_1] hedging strategy summary, developed in response to elevated FX volatility since February 09, 2026. This is classified BOARD-RESTRICTED and shared only with the [FINANCIAL_8] Oversight Committee.
+
+Hedging Strategy [PERSON_3]: VFD-5318-ND01X
+Portfolio [PERSON_7] Date: April 16, 2026 | Risk Classification: HIGH
+
+[FINANCIAL_1] [PERSON_7] & [PERSON_18] RATIOS
+──────────────────────────────────────────────────────
+[FINANCIAL_1] Pair    Notional [PERSON_7]      Spot [PERSON_21]    [PERSON_18] Ratio
+USD/EUR          [AMOUNT_1]       [URL_1]        [URL_2]%
+USD/GBP          [AMOUNT_2]       [URL_3]        [URL_4]%
+USD/JPY          [AMOUNT_3]       [URL_5]       [URL_6]%
+USD/CNH          [AMOUNT_4]       [URL_7]        [URL_8]%
+──────────────────────────────────────────────────────
+
+[FINANCIAL_3] [FINANCIAL_4]
+1. Forward Contracts (USD/EUR): Lock [PERSON_21] [URL_9] for settlement March 16, 2026 — notional [AMOUNT_5] (Desk: FX-MF892004).
+2. [PERSON_9] Options (USD/GBP): Put strike [URL_10], premium [AMOUNT_6], expiry April 03, 2026 (Ref: OPT-GV463962).
+3. Cross-[FINANCIAL_1] Swap (USD/JPY): Fixed [URL_11]%, SOFR + [URL_12], tenor 1144 months ([PERSON_22] Ref: JIT-2392-C3TLK).
+
+COUNTERPARTY DETAILS (RESTRICTED)
+  Primary Dealer:    Quantum Data Systems (Code: ZK895662)
+  Backup Dealer:     [COMPANY_1] (Code: DB429963)
+  Credit Limit Used: [URL_13]% of approved limit ([AMOUNT_7] remaining)
+
+[FINANCIAL_5] [FINANCIAL_6]
+  [PERSON_23] [PERSON_24]   ([URL_14]% probability):   Net FX P&L = [AMOUNT_8]
+  [PERSON_10]     ([URL_15]% probability):   Net FX P&L = USD -131,513
+  Stress      ([URL_16]% probability): Net FX P&L = USD -3,260,526
+
+REFERENCED [FINANCIAL_7]
+  • FX_Hedging_Strategy_Q1_[URL_17]           [[MIL_PLATFORM_1] encrypted]
+  • Counterparty_Credit_Assessment_UK969467_[URL_18]
+  • ISDA_Schedule_Amendment_[URL_19]
+
+Confirm approval via [FINANCIAL_8] Portal TP-7883 by April 05, 2026. Do not communicate positions to trading desks until formal approval is logged.
+
+[PERSON_1]
+VP of Business Development | Information Technology | [COMPANY_2]
+Bloomberg Terminal: WB097163  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_7] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Strauss's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [FINANCIAL_8] OVERSIGHT [PERSON_2]
+Handling Protocol: [CONTRACT_1]-N8F9T | Encrypted In-Transit: TLS [URL_20] | At-Rest: [MIL_PLATFORM_1]
+Retention Policy: 7 Years | Destruction Method: Certified [PERSON_16] Deletion
+================================================================================

@@ -1,0 +1,128 @@
+================================================================================
+EMAIL #244  |  RESTRICTED – CREDIT RISK COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Sebastian Thistlethwaite <sthistlethwaite@emberanalyti.com>
+TO:          Dmitri Wainwright <dwainwright@emberanalyti.com>
+SUBJECT:     CONFIDENTIAL: Counterparty Credit Exposure Review – Q2
+REFERENCE:   NLR-7408-H8XH8
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kwame,
+
+I am forwarding the quarterly counterparty credit exposure review for the period ending February 23, 2026. This is classified RESTRICTED and requires review by the Credit Risk Committee before the April 12, 2026 board presentation.
+
+Review Reference: QYS-1222-9G0OY | Rating Agency: Fitch Ratings | Credit Committee: May 14, 2026
+
+TOP-10 COUNTERPARTY EXPOSURES (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  Exposure (USD)    Limit (USD)    Utilisation
+   1  Amberfield Consumer Goods B         15,134,776     14,321,351   105.7%
+   2  Luminary Media Corp      BBB        3,819,113      4,386,734   87.1%
+   3  Zenith Aerospace Ltd     AA+           60,221         68,500   87.9%
+   4  Sterling Automotive      BBB        7,421,428      7,669,653   96.8%
+   5  Polaris Wealth Advisors  A+         7,660,794      6,434,514   119.1%
+   6  Cobalt Ventures LLC      B+         7,157,017      7,817,906   91.5%
+   7  Crestview Hospitality Group B         14,265,014     12,309,229   115.9%
+   8  Prism Healthcare Group   BBB          128,603        106,506   120.7%
+   9  Trident Marine Holdings  A+         3,905,534      4,680,352   83.4%
+  10  Irongate Private Equity  A            134,611        173,219   77.7%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO EXPOSURE:   USD 59,687,111   |   LIMIT BREACHES: 4
+
+LIMIT BREACH ESCALATION (REQUIRED)
+  Breach B-2019: Amberfield Consumer Goods — 5.7% over limit. Reduce by April 20, 2026 or seek Credit Committee waiver (Ref: RF790517).
+  Breach B-9067: Zenith Aerospace Ltd — rating downgrade on March 04, 2026 from B to AA+. Limit review recommended.
+
+WATCH LIST (CREDIT COMMITTEE ONLY)
+  Luminary Media Corp: Negative outlook March 04, 2026. CDS spread widened 9051bps to 381bps. Recommend limit reduction by April 21, 2026.
+  Prism Healthcare Group: Covenant breach Q2 — Leverage 3.1x vs. covenant 2.6x. Exposure USD 128,603. Legal reviewing cross-default (Ref: VOX-7532-AXOTH).
+
+EXPECTED CREDIT LOSS (ECL) PROVISIONING
+  Stage 1 (12-month ECL):     USD 57,313
+  Stage 2 (Lifetime ECL):     USD 6,614,157
+  Stage 3 (Credit-Impaired):  USD 7,768,022
+  Total ECL Provision:        USD 14,439,492  (Coverage: 8.32%)
+
+REFERENCED ATTACHMENTS
+  • Counterparty_Exposure_Report_FNH-3530-J1ZFX_RESTRICTED.pdf
+  • ECL_Model_Q2_SA943860.xlsx
+  • Watch_List_Detail_ES353214_CONFIDENTIAL.pdf
+
+Submit limit waiver votes via portal CRP-9866 by May 05, 2026.
+
+Kwame Brennan
+Chief Revenue Officer | Finance & Treasury | Blackridge Logistics
+Credit Risk Hotline: +1 (800) 2176-4703  |  Badge: CC758848
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Thistlethwaite's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK COMMITTEE ONLY
+Handling Protocol: REF-NLR-7408-H8XH8 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_36],
+
+I am forwarding the quarterly counterparty credit [PERSON_14] review for the period ending February 23, 2026. This is classified RESTRICTED and requires review by the Credit Risk [PERSON_6] before the April 12, 2026 board presentation.
+
+Review [PERSON_7]: QYS-1222-9G0OY | Rating Agency: Fitch Ratings | Credit [PERSON_6]: May 14, 2026
+
+[MIL_PLATFORM_1] COUNTERPARTY [FINANCIAL_1]S (CONFIDENTIAL)
+──────────────────────────────────────────────────────
+Rank  Counterparty             Rating  [PERSON_14] (USD)    Limit (USD)    Utilisation
+   1  Amberfield Consumer Goods B         15,134,776     14,321,351   [URL_1]%
+   2  Luminary [PERSON_37] Corp      BBB        3,819,113      4,386,734   [URL_2]%
+   3  Zenith [PERSON_8] Ltd     AA+           60,221         68,500   [URL_3]%
+   4  Sterling [PERSON_3]      BBB        7,421,428      7,669,653   [URL_4]%
+   5  Polaris Wealth Advisors  A+         7,660,794      6,434,514   [URL_5]%
+   6  [COMPANY_3]      B+         7,157,017      7,817,906   [URL_6]%
+   7  Crestview Hospitality Group B         14,265,014     12,309,229   [URL_7]%
+   8  Prism [PERSON_4] Group   BBB          128,603        106,506   [URL_8]%
+   9  Trident [PERSON_29] Holdings  A+         3,905,534      4,680,352   [URL_9]%
+  10  [PERSON_16] Private Equity  A            134,611        173,219   [URL_10]%
+──────────────────────────────────────────────────────
+TOTAL PORTFOLIO [PERSON_14]:   [AMOUNT_1]   |   LIMIT [FINANCIAL_2]: 4
+
+LIMIT BREACH ESCALATION ([FINANCIAL_3])
+  Breach B-2019: Amberfield Consumer Goods — [URL_11]% over limit. [PERSON_31] by April 20, 2026 or seek Credit [PERSON_6] waiver (Ref: RF790517).
+  Breach B-9067: Zenith [PERSON_8] Ltd — rating downgrade on March 04, 2026 from B to AA+. Limit review recommended.
+
+WATCH LIST (CREDIT [PERSON_6] ONLY)
+  Luminary [PERSON_37] Corp: [PERSON_17] outlook March 04, 2026. CDS spread widened 9051bps to 381bps. Recommend limit reduction by April 21, 2026.
+  Prism [PERSON_4] Group: Covenant breach Q2 — [PERSON_18] [URL_12] vs. covenant [URL_13]. [PERSON_14] [AMOUNT_2]. Legal reviewing cross-default (Ref: VOX-7532-AXOTH).
+
+[FINANCIAL_4] CREDIT LOSS (ECL) PROVISIONING
+  [PERSON_40] 1 (12-month ECL):     [AMOUNT_3]
+  [PERSON_40] 2 ([PERSON_19] ECL):     [AMOUNT_4]
+  [PERSON_40] 3 (Credit-Impaired):  [AMOUNT_5]
+  Total ECL Provision:        [AMOUNT_6]  ([PERSON_20]: [URL_14]%)
+
+REFERENCED [FINANCIAL_5]
+  • Counterparty_[FINANCIAL_1]_Report_FNH-3530-J1ZFX_[URL_15]
+  • ECL_Model_Q2_[URL_16]
+  • Watch_List_Detail_ES353214_[URL_17]
+
+Submit limit waiver votes via portal CRP-9866 by May 05, 2026.
+
+[PERSON_36] Brennan
+Chief [PERSON_26] Officer | [PERSON_27] & Treasury | [PERSON_5] Logistics
+Credit Risk [PERSON_28]: [PHONE_1]  |  [PERSON_41]: CC758848
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_1]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – CREDIT RISK [PERSON_6] ONLY
+Handling Protocol: [CONTRACT_1]-H8XH8 | Encrypted In-Transit: TLS [URL_18] | At-Rest: [MIL_PLATFORM_2] Policy: 7 Years | Destruction Method: Certified [PERSON_35] Deletion
+================================================================================

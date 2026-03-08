@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #210  |  COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+================================================================================
+DATE:        Wednesday, February 25, 2026 at 07:39 PM
+FROM:        Tanya Quintero <tquintero@granitepeakr.com>
+TO:          Fitzroy Yamamoto <fyamamoto@granitepeakr.com>
+SUBJECT:     CONFIDENTIAL: Capital Investment Committee Memo – Project FENIX
+REFERENCE:   LFH-0119-TEPJF
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Miriam,
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 840 Technology Park Dr, Austin TX 78701 (Asset ID: LP211784), internally referred to as Project FENIX. This is classified Commercial Sensitivity Level 4 for Investment Committee members only.
+
+Transaction Reference: NJZ-9104-5I0OG | IC Presentation: May 15, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+Purchase Price (Agreed):             USD      3,095,925
+Estimated Total CapEx:               USD        135,209
+Projected Stabilized NOI:            USD        295,507
+Going-In Cap Rate:                   34.38%
+Stabilized Cap Rate:                 10.89%
+Levered IRR (Base Case):             12.92%
+Equity Multiple (5-Year Hold):       2.89x
+Loan-to-Value:                       11.77%
+Senior Debt Amount:                  USD        307,844
+Lender:                              Ember Analytics Inc (Term Sheet: BO420589)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING ASSUMPTIONS
+  Rent Growth (Years 1–3):    28.55% p.a.
+  Vacancy Allowance:          31.56%
+  Exit Cap Rate:              10.42%
+  Hold Period:                8642 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Ember Analytics Inc             Lease Expiry: April 24, 2026   Annual Rent: USD 1,487,291   (36.96% of NOI)
+  Apex Logistics Solutions        Lease Expiry: March 30, 2026   Annual Rent: USD 137,197   (32.41% of NOI)
+  Mosaic Digital Solutions        Lease Expiry: March 31, 2026   Annual Rent: USD 14,667,487   (30.6% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending (Case: LG721511, Hearing: May 09, 2026)
+  – Environmental Phase II in progress (Consultant: Apex Logistics Solutions, Ref: UY144501)
+  – Anchor tenant Ember Analytics Inc has unexercised break option effective May 07, 2026
+
+REFERENCED ATTACHMENTS
+  • IC_Memo_ProjectFENIX_ERY-8026-O7EEZ_CONFIDENTIAL.pdf
+  • Financial_Model_MF996104_v7900.xlsx
+  • Phase1_Environmental_QA254841.pdf
+  • Lease_Abstracts_LDL-5002-6217J_RESTRICTED.pdf
+
+Submit IC vote via secure portal KB687753 by March 18, 2026.
+
+Fletcher Ellison
+Senior Vice President | Investor Relations | Irongate Private Equity
+IC Member Code: UZ374352  |  Direct: +1 (310) 6896-9952
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Quintero's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+Handling Protocol: REF-LFH-0119-TEPJF | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_15],
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 840 Technology Park Dr, [PERSON_16] TX 78701 (Asset ID: LP211784), internally referred to as Project FENIX. This is classified Commercial [FINANCIAL_3] Level 4 for Investment [PERSON_4] members only.
+
+Transaction [PERSON_5]: NJZ-9104-5I0OG | IC Presentation: May 15, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+[PERSON_9] [PERSON_19] (Agreed):             [AMOUNT_1]
+Estimated Total CapEx:               [AMOUNT_2]
+Projected Stabilized NOI:            [AMOUNT_3]
+Going-In Cap [PERSON_24]:                   [URL_1]%
+Stabilized Cap [PERSON_24]:                 [URL_2]%
+Levered IRR ([PERSON_25] [PERSON_26]):             [URL_3]%
+Equity [PERSON_10] (5-Year Hold):       [URL_4]
+[PERSON_2]:                       [URL_5]%
+Senior Debt Amount:                  [AMOUNT_4]
+Lender:                              [COMPANY_1] (Term Sheet: BO420589)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING [FINANCIAL_1]
+  Rent Growth (Years 1–3):    [URL_6]% [URL_7].
+  Vacancy [PERSON_6]:          [URL_8]%
+  Exit Cap [PERSON_24]:              [URL_9]%
+  Hold Period:                8642 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  [COMPANY_1]             [PERSON_20] Expiry: April 24, 2026   Annual Rent: [AMOUNT_5]   ([URL_10]% of NOI)
+  Apex Logistics Solutions        [PERSON_20] Expiry: March 30, 2026   Annual Rent: [AMOUNT_6]   ([URL_11]% of NOI)
+  Mosaic Digital Solutions        [PERSON_20] Expiry: March 31, 2026   Annual Rent: [AMOUNT_7]   ([URL_12]% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending ([PERSON_26]: LG721511, Hearing: May 09, 2026)
+  – Environmental [PERSON_21] II in progress (Consultant: Apex Logistics Solutions, Ref: UY144501)
+  – Anchor tenant [COMPANY_1] has unexercised break option effective May 07, 2026
+
+REFERENCED [FINANCIAL_2]
+  • IC_Memo_ProjectFENIX_ERY-8026-O7EEZ_[URL_13]
+  • Financial_Model_MF996104_[URL_14]
+  • Phase1_Environmental_[URL_15]
+  • Lease_Abstracts_LDL-[PHONE_1]J_[URL_16]
+
+Submit IC vote via [PERSON_18] portal KB687753 by March 18, 2026.
+
+[PERSON_1]
+Senior [PERSON_29] President | Investor Relations | [PERSON_12] Private Equity
+IC Member Code: UZ374352  |  Direct: [PHONE_2]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Quintero's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL [FINANCIAL_3] LEVEL 4 – IC EYES ONLY
+Handling Protocol: [CONTRACT_1]-TEPJF | Encrypted In-Transit: TLS [URL_17] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_18] Deletion
+================================================================================

@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #068  |  BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+================================================================================
+DATE:        Sunday, February 22, 2026 at 07:39 PM
+FROM:        Patrick Nakamura <pnakamura@vortextechin.com>
+TO:          Warren Harrington <wharrington@vortextechin.com>
+SUBJECT:     CONFIDENTIAL: Strategic Divestiture Update – Project AMBER
+REFERENCE:   GXM-5895-8ASU7
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Stephanie,
+
+This update pertains to the proposed divestiture of the Supply Chain Management division (Project AMBER, Ref: MEX-7851-OFS3S). This is classified BOARD-RESTRICTED and shared exclusively with the Divestiture Steering Committee.
+
+Process Advisor: Ember Analytics Inc (Partner: Claudia Beaumont) | Legal Counsel: Wavecrest Biotechnology (Ref: CA563766)
+Process Stage: Exclusivity Granted — Final Negotiations | LOI Deadline: March 24, 2026 | Expected Close: April 06, 2026
+
+BUSINESS UNIT SNAPSHOT (FY2024 ACTUALS)
+──────────────────────────────────────────────────────
+Revenue:                             USD        121,496
+EBITDA:                              USD        128,761  (7.42% margin)
+Net Assets:                          USD      3,260,726
+Headcount:                           4,091 FTEs
+Key Customers (2.82% of Revenue):  Charles Fischer, Thomas Beaumont
+Key Contract Expiry:                 May 27, 2026 (Value: USD 7,724,269)
+──────────────────────────────────────────────────────
+
+BUYER UNIVERSE & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      Indicative Bid
+  Ember Analytics Inc     Strategic    Signed        Round 2    USD 9,574,701
+  Wavecrest Biotechnology  Financial    Signed        Round 2    USD 196,779
+  Vanguard Cybersecurity Inc  Strategic    Signed        Round 1    USD 7,225,938
+  Cobalt Ventures LLC     Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation Range:  USD 196,779 – USD 9,574,701  (EV/EBITDA: 4.8x – 7.6x)
+Board Minimum (RESTRICTED): USD 177,101
+
+KEY DIVESTITURE RISKS
+  Risk D-8911: Change-of-control clauses in 8929 contracts (Value: USD 108,699) — waivers required before close.
+  Risk D-7346: Pension segregation — employer debt on separation: USD 331,426 (Ref: VV912170).
+  Risk D-6992: IT carve-out — 4601 shared systems, TSA duration 755 months, cost USD 135,355.
+  Risk D-2483: Key person retention — 22 critical employees; retention budget USD 7,806,172 (Ref: PII-0672-BS65N).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     Alicia Szymanski      Pending Approval  April 04, 2026
+  IT Carve-Out           Philippa Nkrumah      Scheduled        April 24, 2026
+  HR Separation          Odessa Lindqvist      Pending Approval  March 18, 2026
+  Finance Standalone     Claudia Beaumont      Pending Approval  May 05, 2026
+
+REFERENCED ATTACHMENTS
+  • CIM_ProjectAMBER_NSE-5537-232PH_CONFIDENTIAL.pdf
+  • Financial_Model_BU_NP714083_v5594.xlsx
+  • Buyer_Tracking_Log_SZ493399_RESTRICTED.xlsx
+  • Separation_Plan_HS373683.pdf
+
+Next Steering Committee call: March 29, 2026 — Agenda: Round 2 bid analysis & preferred buyer selection.
+
+Broderick Kowalski
+Director of Corporate Finance | Supply Chain Management | Prism Healthcare Group
+VDR Access Code: OE357738  |  Direct: +1 (415) 5230-8663
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Nakamura's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – DIVESTITURE STEERING COMMITTEE ONLY
+Handling Protocol: REF-GXM-5895-8ASU7 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_9],
+
+This update pertains to the proposed [PERSON_4] of the Supply Chain Management division ([PERSON_3], Ref: MEX-7851-OFS3S). This is classified BOARD-RESTRICTED and shared exclusively with the [PERSON_4] [FINANCIAL_6] Committee.
+
+Process Advisor: [COMPANY_3] (Partner: [PERSON_25] Beaumont) | Legal Counsel: Wavecrest Biotechnology (Ref: CA563766)
+Process [PERSON_43]: Exclusivity Granted — Final Negotiations | LOI [PERSON_20]: March 24, 2026 | Expected [PERSON_44]: April 06, 2026
+
+[FINANCIAL_1] UNIT [FINANCIAL_2] (FY2024 ACTUALS)
+──────────────────────────────────────────────────────
+[PERSON_27]:                             [AMOUNT_1]
+[PERSON_38]:                              [AMOUNT_2]  ([URL_1]% margin)
+Net Assets:                          [AMOUNT_3]
+Headcount:                           4,091 FTEs
+Key Customers ([URL_2]% of [PERSON_27]):  [PERSON_1], [PERSON_2]
+Key Contract Expiry:                 May 27, 2026 (Value: [AMOUNT_4])
+──────────────────────────────────────────────────────
+
+BUYER [PERSON_21] & STATUS (CONFIDENTIAL)
+  Buyer                  Type         NDA Status    Round      [PERSON_6] Bid
+  [COMPANY_3]     Strategic    Signed        Round 2    [AMOUNT_5]
+  Wavecrest Biotechnology  Financial    Signed        Round 2    [AMOUNT_6]
+  [COMPANY_2]  Strategic    Signed        Round 1    [AMOUNT_7]
+  [COMPANY_4]     Financial    Pending       Round 1    TBD
+──────────────────────────────────────────────────────
+Advisor Valuation [PERSON_45]:  [AMOUNT_6] – [AMOUNT_5]  ([PERSON_12]: [URL_3] – [URL_4])
+Board Minimum (RESTRICTED): [AMOUNT_8]
+
+KEY [PERSON_4] RISKS
+  Risk D-8911: Change-of-control clauses in 8929 contracts (Value: [AMOUNT_9]) — waivers required before close.
+  Risk D-7346: Pension segregation — employer debt on separation: [AMOUNT_10] (Ref: VV912170).
+  Risk D-6992: IT carve-out — 4601 shared systems, TSA duration 755 months, cost [AMOUNT_11].
+  Risk D-2483: Key person retention — 22 critical employees; retention budget [AMOUNT_12] (Ref: PII-0672-BS65N).
+
+SEPARATION WORKSTREAM STATUS
+  Legal Entity Reorg     [PERSON_35] [PERSON_13]      Pending Approval  April 04, 2026
+  IT Carve-Out           [PERSON_23] Nkrumah      Scheduled        April 24, 2026
+  HR Separation          [PERSON_39] Lindqvist      Pending Approval  March 18, 2026
+  [PERSON_31] [PERSON_7]     [PERSON_25] Beaumont      Pending Approval  May 05, 2026
+
+REFERENCED [FINANCIAL_5]
+  • CIM_ProjectAMBER_NSE-[PHONE_1]PH_[URL_5]
+  • Financial_Model_BU_NP714083_[URL_6]
+  • Buyer_Tracking_Log_SZ493399_[URL_7]
+  • Separation_Plan_[URL_8]
+
+Next [FINANCIAL_6] [PERSON_10] call: March 29, 2026 — [PERSON_41]: Round 2 bid analysis & preferred buyer selection.
+
+Broderick [PERSON_17]
+Director of [PERSON_15] [PERSON_31] | Supply Chain Management | Prism [PERSON_8] Group
+VDR Access Code: OE357738  |  Direct: [PHONE_2]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_24]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: BOARD-RESTRICTED – [PERSON_4] [FINANCIAL_6] [PERSON_10] ONLY
+Handling Protocol: [CONTRACT_1]-8ASU7 | Encrypted In-Transit: TLS [URL_9] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_42] Deletion
+================================================================================

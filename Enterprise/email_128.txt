@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #128  |  RESTRICTED – PROCUREMENT COMMITTEE ONLY
+================================================================================
+DATE:        Thursday, March 05, 2026 at 07:39 PM
+FROM:        Felicia Abramowitz <fabramowitz@ironshorecap.com>
+TO:          Patrick Okafor <pokafor@ironshorecap.com>
+SUBJECT:     CONFIDENTIAL: Supplier Audit Findings – Sterling Automotive (Vendor EJ745932)
+REFERENCE:   QGP-4040-9BAZ9
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Alicia,
+
+This update is issued under Information Security Policy ISP-1678. The supplier audit findings for Sterling Automotive (Vendor ID: EJ745932) have been finalised and require your immediate attention.
+
+Audit Reference: XGL-3176-Q8FAF
+Audit Period: February 23, 2026 through May 28, 2026
+Lead Auditor: Celestine Thistlethwaite | External Reviewer: Broderick Djordjevic
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+Compliance Score:                    4.7% (Threshold: 28.8%)
+Financial Discrepancy Identified:    USD      7,693,389
+Disputed Invoices (Count):           8583
+Disputed Invoices (Value):           USD        119,258
+Potential Overcharges on SKU RU865409: USD      1,449,027
+──────────────────────────────────────────────────────
+
+DETAILED FINDINGS
+
+Finding F-001 [CRITICAL]: Unauthorized subcontracting to Mosaic Digital Solutions without written consent (Clause 14.6(b), Ref ZCU-5826-1MXBQ). Estimated value: USD 16,167,808.
+
+Finding F-002 [HIGH]: Payment terms breached — 648 invoices settled 1245 days beyond agreed net-4978 schedule. Late-payment exposure: USD 1,696,107.
+
+Finding F-003 [MEDIUM]: QC documentation for Batches LC687673–CS745737 incomplete. Non-conformance rate: 33.08%.
+
+Finding F-004 [MEDIUM]: SLA breach on Account ME425713 — on-time delivery 33.12% vs. contracted 9.86%.
+
+REMEDIATION ACTIONS
+1. Issue formal cure notice to Sterling Automotive within 5 business days (Template: CURE-9478).
+2. Withhold payment on Invoice Batch ZL809777 (Value: USD 16,181,985) pending resolution.
+3. Initiate contract termination review if no remediation by March 18, 2026.
+4. Escalate F-001 to Legal (Fitzroy Morozova) and Risk Management (Lavinia Achterberg).
+
+REFERENCED ATTACHMENTS
+  • Supplier_Audit_Report_YJH-4187-NVH0J_CONFIDENTIAL.pdf  [DO NOT DISTRIBUTE]
+  • Discrepancy_Workbook_UY321864.xlsx
+  • Cure_Notice_Template_6106.docx
+
+This report must not be shared with Sterling Automotive representatives without prior written approval from the Chief Procurement Officer.
+
+Barnabas Montclair
+VP of Compliance | Operations | Pinnacle Financial Services
+Ext: 3647  |  Secure Fax: +1 (888) 8606-7634  |  Badge: XJ413822
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abramowitz's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – PROCUREMENT COMMITTEE ONLY
+Handling Protocol: REF-QGP-4040-9BAZ9 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_27],
+
+This update is issued under Information Security Policy ISP-1678. The supplier audit [FINANCIAL_2] for Sterling [PERSON_6] (Vendor ID: EJ745932) have been finalised and require your immediate attention.
+
+Audit [PERSON_10]: XGL-3176-Q8FAF
+Audit Period: February 23, 2026 through May 28, 2026
+Lead Auditor: [PERSON_11] [PERSON_3] | External Reviewer: Broderick Djordjevic
+
+AUDIT SCORECARD
+──────────────────────────────────────────────────────
+Overall Risk Rating:                 HIGH
+[PERSON_7] [PERSON_36]:                    [URL_1]% (Threshold: [URL_2]%)
+Financial Discrepancy Identified:    [AMOUNT_1]
+Disputed Invoices (Count):           8583
+Disputed Invoices (Value):           [AMOUNT_2]
+Potential Overcharges on SKU RU865409: [AMOUNT_3]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2]
+
+Finding [MIL_PLATFORM_1] [[FINANCIAL_3]]: Unauthorized subcontracting to Mosaic Digital Solutions without written consent ([PERSON_28] [URL_3](b), Ref ZCU-5826-1MXBQ). Estimated value: [AMOUNT_4].
+
+Finding [MIL_PLATFORM_2] [HIGH]: Payment terms breached — 648 invoices settled 1245 days beyond agreed net-4978 schedule. Late-payment exposure: [AMOUNT_5].
+
+Finding [MIL_PLATFORM_3] [MEDIUM]: QC documentation for Batches LC687673–CS745737 incomplete. [PERSON_2] rate: [URL_4]%.
+
+Finding [MIL_PLATFORM_4] [MEDIUM]: SLA breach on [API_KEY_1] — on-time delivery [URL_5]% vs. contracted [URL_6]%.
+
+[FINANCIAL_4] ACTIONS
+1. [PERSON_38] formal cure notice to Sterling [PERSON_6] within 5 business days ([PERSON_16]: CURE-9478).
+2. Withhold payment on [PERSON_23] Batch ZL809777 (Value: [AMOUNT_6]) pending resolution.
+3. [PERSON_17] contract termination review if no [FINANCIAL_4] by March 18, 2026.
+4. [PERSON_18] [MIL_PLATFORM_1] to Legal (Fitzroy [PERSON_19]) and Risk Management ([PERSON_1]).
+
+REFERENCED [FINANCIAL_5]
+  • Supplier_Audit_Report_YJH-4187-NVH0J_[URL_7]  [DO NOT [PERSON_8]]
+  • Discrepancy_Workbook_[URL_8]
+  • Cure_Notice_Template_[URL_9]
+
+This report must not be shared with Sterling [PERSON_6] representatives without prior written approval from the Chief [FINANCIAL_6] Officer.
+
+Barnabas Montclair
+VP of [PERSON_7] | Operations | [PERSON_21] Financial Services
+Ext: 3647  |  [PERSON_34] Fax: [PHONE_1]  |  [PERSON_40]: XJ413822
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abramowitz's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or [PERSON_8] its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_6] [PERSON_13] ONLY
+Handling Protocol: [CONTRACT_1]-9BAZ9 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_5] Policy: 7 Years | Destruction Method: Certified [PERSON_34] Deletion
+================================================================================

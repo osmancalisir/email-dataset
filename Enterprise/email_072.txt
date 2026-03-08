@@ -1,0 +1,136 @@
+================================================================================
+EMAIL #072  |  RESTRICTED – COMMERCIAL COMMITTEE ONLY
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Gregory Ihejirika <gihejirika@nexusretailh.com>
+TO:          Charles Rasmussen <crasmussen@nexusretailh.com>
+SUBJECT:     CONFIDENTIAL: Franchise / Distribution Agreement Negotiation – Vanguard Cybersecurity Inc
+REFERENCE:   AUR-8889-JWAMD
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Constance,
+
+I am updating you on the franchise and distribution agreement negotiations with Vanguard Cybersecurity Inc (ID: KA417836). This is classified RESTRICTED – COMMERCIAL COMMITTEE ONLY. Do not share with regional operations until terms are finalised.
+
+Negotiation Reference: WQN-9314-F540S | Territory: Eastern Europe
+Agreement Type: Area Development Agreement | External Counsel: Ember Analytics Inc (Matter: KG204508)
+Heads of Terms Signed: February 17, 2026
+
+PROPOSED COMMERCIAL TERMS (DRAFT v4734)
+──────────────────────────────────────────────────────
+Initial Franchise / Distribution Fee:  USD      6,911,078
+Annual Renewal Fee:                    USD        809,175
+Royalty / Margin Rate:                 25.7% of Net Sales
+Minimum Annual Purchase Commitment:    USD         53,282  (Year 1); +18.01% p.a.
+Marketing Contribution:                4.03% of Net Sales (Co-op Fund: LO125859)
+Exclusivity Period:                    7991 months
+Performance Milestone (Year 3):        USD        296,296 cumulative revenue
+Breach Penalty / Clawback:             USD     13,398,150 or 9.69% of initial fee
+Term:                                  9917 years, renewable on performance
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  Vanguard Cybersecurity Inc Credit Rating:       BBB-
+  Last Filed Revenue (FY2023): USD 278,658
+  Net Worth (est.):            USD 14,902,407
+  Bank Reference (Sunridge Energy Partners):      Satisfactory with comments
+  Director Background Check:   Clear (Ref: TR634426)
+  Litigation Search:           Matches found — below materiality threshold
+
+OPEN NEGOTIATION POINTS (DO NOT SHARE WITH VANGUARD CYBERSECURITY INC)
+  CP-3292: Vanguard Cybersecurity Inc seeks right of first refusal on adjacent territory. Position: DECLINE — reserved for Sunridge Energy Partners expansion.
+  CP-8250: Sub-franchising rights — accept affiliates-only with 28.85% override royalty (Clause: SR100774).
+  CP-8666: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+REQUIRED APPROVALS
+  ☐  Commercial Committee sign-off — by April 12, 2026 (Ref: CC-6293)
+  ☐  Legal final review — by May 08, 2026 (Counsel: Ember Analytics Inc)
+  ☐  Brand & IP Committee — territory approval (Ref: AO910695)
+  ☐  CFO — minimum royalty exception if required (Ref: KV390839)
+
+REFERENCED ATTACHMENTS
+  • Franchise_Agreement_Draft_v4734_WQN-9314-F540S_CONFIDENTIAL.pdf
+  • Vanguard Cybersecurity Inc_Financial_Assessment_ZV716930.pdf
+  • Territory_Map_LJ856195.pdf
+
+Negotiation session scheduled: May 23, 2026 — Venue details via secure channel.
+
+Cormac Mbeki
+Chief Operating Officer | Procurement | Pinnacle Financial Services
+Commercial Committee ID: KA417836  |  Direct: +1 (312) 7770-1281
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Ihejirika's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL COMMITTEE ONLY
+Handling Protocol: REF-AUR-8889-JWAMD | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_3],
+
+I am updating you on the [PERSON_6] and distribution agreement [FINANCIAL_2]s with [COMPANY_1] (ID: KA417836). This is classified RESTRICTED – COMMERCIAL [PERSON_4] ONLY. Do not [PERSON_29] with regional operations until terms [PERSON_39] finalised.
+
+[FINANCIAL_2] [PERSON_5]: WQN-9314-F540S | Territory: Eastern [PERSON_23]
+Agreement Type: [PERSON_34] Development Agreement | External Counsel: [COMPANY_2] (Matter: KG204508)
+Heads of Terms Signed: February 17, 2026
+
+[FINANCIAL_1] COMMERCIAL TERMS (DRAFT v4734)
+──────────────────────────────────────────────────────
+Initial [PERSON_6] / Distribution Fee:  [AMOUNT_1]
+Annual Renewal Fee:                    [AMOUNT_2]
+Royalty / Margin [PERSON_35]:                 [URL_1]% of Net Sales
+Minimum Annual [PERSON_13] Commitment:    [AMOUNT_3]  (Year 1); +[URL_2]% [URL_3].
+Marketing Contribution:                [URL_4]% of Net Sales (Co-op Fund: LO125859)
+Exclusivity Period:                    7991 months
+[PERSON_1] [PERSON_7] (Year 3):        [AMOUNT_4] cumulative [PERSON_19]
+Breach Penalty / Clawback:             [AMOUNT_5] or [URL_5]% of initial fee
+Term:                                  9917 years, renewable on [PERSON_1]
+──────────────────────────────────────────────────────
+
+COUNTERPARTY FINANCIAL ASSESSMENT (CONFIDENTIAL)
+  [COMPANY_1] Credit Rating:       BBB-
+  Last Filed [PERSON_19] (FY2023): [AMOUNT_6]
+  Net Worth (est.):            [AMOUNT_7]
+  Bank [PERSON_5] ([PERSON_15] Energy Partners):      Satisfactory with comments
+  Director Background Check:   Clear (Ref: TR634426)
+  Litigation Search:           Matches found — below materiality threshold
+
+OPEN [FINANCIAL_2] POINTS (DO NOT [PERSON_29] WITH [COMPANY_1])
+  CP-3292: [COMPANY_1] seeks right of first refusal on adjacent territory. Position: [PERSON_21] — reserved for [PERSON_15] Energy Partners expansion.
+  CP-8250: Sub-franchising rights — accept affiliates-only with [URL_6]% override royalty ([PERSON_26]: SR100774).
+  CP-8666: Broader brand usage rights requested — counter with digital channels only, no physical signage.
+
+[FINANCIAL_4] APPROVALS
+  ☐  Commercial [PERSON_4] sign-off — by April 12, 2026 (Ref: CC-6293)
+  ☐  Legal final review — by May 08, 2026 (Counsel: [COMPANY_2])
+  ☐  Brand & IP [PERSON_4] — territory approval (Ref: AO910695)
+  ☐  CFO — minimum royalty exception if [FINANCIAL_4] (Ref: KV390839)
+
+REFERENCED [FINANCIAL_5]
+  • Franchise_Agreement_Draft_v4734_WQN-9314-F540S_[URL_7]
+  • [FINANCIAL_3] Cybersecurity Inc_Financial_Assessment_[URL_8]
+  • Territory_Map_[URL_9]
+
+[FINANCIAL_2] session scheduled: May 23, 2026 — [PERSON_31] details via [PERSON_27] channel.
+
+Cormac [PERSON_32]
+[APPROVAL_CODE_2] | [PERSON_16] Financial Services
+Commercial [PERSON_4] ID: KA417836  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_5] [PERSON_39] intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_8]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – COMMERCIAL [PERSON_4] ONLY
+Handling Protocol: [CONTRACT_1]-JWAMD | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_27] Deletion
+================================================================================

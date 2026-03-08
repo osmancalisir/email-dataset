@@ -1,0 +1,116 @@
+================================================================================
+EMAIL #058  |  COMPENSATION COMMITTEE – EYES ONLY
+================================================================================
+DATE:        Tuesday, February 24, 2026 at 07:39 PM
+FROM:        Thomas Caldwell <tcaldwell@helixbiomedi.com>
+TO:          Constance Wainwright <cwainwright@helixbiomedi.com>
+SUBJECT:     CONFIDENTIAL: Executive Compensation Benchmarking – Annual Review
+REFERENCE:   YAQ-7293-2FWFP
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Priya,
+
+This communication is designated COMPENSATION COMMITTEE – EYES ONLY under Human Capital Policy HCP-4704. The attached executive compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking Reference: PGG-8886-XN4MU
+External Advisor: Ironshore Capital (Engagement Ref: EX137543) | Effective Date: May 20, 2026
+Committee Session: May 21, 2026 | Peer Group Size: 2592 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+Role                      Current TDC         Market P50      Gap
+Chief Executive Officer   USD    1,453,078   USD    1,523,886        +70,808
+Chief Financial Officer   USD    1,747,865   USD    3,187,312     +1,439,447
+Chief Operating Officer   USD    3,949,324   USD    1,750,352     -2,198,972
+Chief Technology Officer  USD      843,175   USD    2,113,559     +1,270,384
+SVP, Sales                USD    2,198,904   USD    3,930,119     +1,731,215
+──────────────────────────────────────────────────────
+
+PROPOSED ADJUSTMENTS (PRE-DECISIONAL)
+  CEO base salary increase:   +14.0% effective April 24, 2026 (new base: USD 1,656,508)
+  CFO LTI grant:              1,323 RSUs at USD 3,262/share (Ref: LTI-RH002131)
+  COO retention bonus:        USD 1,667,492 — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      USD 3,182,680 one-time (Payroll code: PC-2943)
+  SVP Sales STI modifier:     +23.96% kicker above 30.69% quota attainment
+
+REGULATORY CONSIDERATIONS
+  CD&A disclosure threshold:  USD 1,559,731 (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled May 02, 2026
+  Clawback policy update due:  April 21, 2026 (Ref: SOX-BU340873)
+
+REFERENCED ATTACHMENTS
+  • ExecComp_Benchmarking_VXO-0746-64UEA_COMMITTEE_ONLY.pdf  [password-protected]
+  • LTI_Grant_Schedule_OA253641_CONFIDENTIAL.xlsx
+  • Peer_Group_Analysis_QR359461.docx
+
+Do not store on shared drives. Delete after the Committee session. Direct all queries to Monique Nakamura only.
+
+Marguerite Okafor
+Director of Corporate Finance | Legal & Compliance | Helix Biomedical Inc
+Secure Line: +1 (202) 4157-6318  |  PGP Key: VE935185
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION COMMITTEE – EYES ONLY
+Handling Protocol: REF-YAQ-7293-2FWFP | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_30],
+
+This communication is designated COMPENSATION [PERSON_7] – EYES ONLY under Human Capital Policy HCP-4704. The attached [PERSON_11] compensation benchmarking analysis must not be disclosed to any employee, including those named within.
+
+Benchmarking [PERSON_8]: [PERSON_3]
+External Advisor: [PERSON_9] Capital (Engagement Ref: EX137543) | [PERSON_10] Date: May 20, 2026
+[PERSON_7] Session: May 21, 2026 | Peer Group Size: 2592 companies
+
+TOTAL DIRECT COMPENSATION BENCHMARK (P50)
+──────────────────────────────────────────────────────
+[PERSON_32]                      Current TDC         Market P50      Gap
+Chief [PERSON_11] Officer   [AMOUNT_1]   [AMOUNT_2]        +70,808
+[APPROVAL_CODE_3]   [AMOUNT_3]   [AMOUNT_4]     +1,439,447
+[APPROVAL_CODE_4]   [AMOUNT_5]   [AMOUNT_6]     -2,198,972
+[APPROVAL_CODE_5]  [AMOUNT_7]   [AMOUNT_8]     +1,270,384
+SVP, Sales                [AMOUNT_9]   [AMOUNT_10]     +1,731,215
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [FINANCIAL_2] (PRE-DECISIONAL)
+  CEO base salary increase:   +[URL_1]% [PERSON_10] April 24, 2026 (new base: [AMOUNT_11])
+  CFO LTI [PERSON_29]:              1,323 RSUs at [AMOUNT_12]/share (Ref: LTI-RH002131)
+  COO retention bonus:        [AMOUNT_13] — 2-year cliff vest, forfeiture on voluntary departure
+  CTO market adjustment:      [AMOUNT_14] one-time (Payroll code: PC-2943)
+  SVP Sales STI modifier:     +[URL_2]% kicker above [URL_3]% quota attainment
+
+REGULATORY CONSIDERATIONS
+  [PERSON_33] disclosure threshold:  [AMOUNT_15] (Section 402 proxy rules)
+  Say-on-Pay vote:             Scheduled May 02, 2026
+  Clawback policy update due:  April 21, 2026 (Ref: SOX-BU340873)
+
+REFERENCED [FINANCIAL_3]
+  • ExecComp_Benchmarking_VXO-0746-64UEA_COMMITTEE_[URL_4]  [password-protected]
+  • LTI_Grant_Schedule_OA253641_[URL_5]
+  • Peer_Group_Analysis_[URL_6]
+
+Do not store on shared drives. [PERSON_25] after the [PERSON_7] session. Direct all queries to [PERSON_2] only.
+
+[PERSON_1]
+Director of [PERSON_12] [PERSON_24] | Legal & [PERSON_6] | [COMPANY_1]
+[PERSON_28] [PERSON_35]: [PHONE_1]  |  PGP Key: VE935185
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Caldwell's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMPENSATION [PERSON_7] – EYES ONLY
+Handling Protocol: [CONTRACT_1]-2FWFP | Encrypted In-Transit: TLS [URL_7] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_28] Deletion
+================================================================================

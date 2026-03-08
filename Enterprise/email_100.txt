@@ -1,0 +1,142 @@
+================================================================================
+EMAIL #100  |  RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Alistair Abioye <aabioye@tidalbasinve.com>
+TO:          Simone Drummond <sdrummond@tidalbasinve.com>
+SUBJECT:     CONFIDENTIAL: Trade Finance Facility Review – Solaris Renewable Energy
+REFERENCE:   JJV-5213-X0I17
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Felicia,
+
+I am writing in strict confidence regarding the trade finance facility supporting our transactions with Solaris Renewable Energy (Counterparty ID: VL676960) under Master Trade Agreement Ref: DWY-4299-5T6TE. This is classified RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY.
+
+Issuing Bank: Zenith Aerospace Ltd (Code: FF459490) | Confirming Bank: Citadel Fintech Group (Code: KU004597)
+Facility Review Date: June 05, 2026 | Trade Finance Committee: May 21, 2026
+
+ACTIVE INSTRUMENTS SUMMARY
+──────────────────────────────────────────────────────
+Type          Reference    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    MM277724        Solaris Renewable Energy    15,503,519   April 17, 2026  Active — In Order
+LC (Usance)   KM451615        Zenith Aerospace Ltd       311,570   May 20, 2026  Active — Awaiting Confirmation
+BG (Perf.)    VN612484        Citadel Fintech Group       689,017   April 21, 2026  Active — Awaiting Confirmation
+BG (Adv. Pmt) CM292911        Felicia Achterberg       306,578   March 17, 2026  Active — In Order
+SBLC          YG126644      Solaris Renewable Energy       136,633   April 21, 2026  Active — Discrepancy Pending
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  USD 16,947,317
+FACILITY LIMIT:              USD 18,646,583
+UTILISATION:                 90.9%
+
+OUTSTANDING DISCREPANCY NOTICES
+  D-6411: LC MM277724 — port of loading differs from LC stipulated port. Waiver requested from Solaris Renewable Energy (Deadline: June 05, 2026). Exposure: USD 15,503,519.
+  D-2307: LC KM451615 — late presentation — beyond 21-day rule. Correction letter Ref FY027231, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Agricultural Soy Derivatives
+  Shipment Terms:          DDP — Dubai (Jebel Ali) to Dubai (Jebel Ali)
+  Contract Quantity:       6,496 kg (Tolerance: ±11.75%)
+  Invoice Value (Latest):  USD 3,448,235
+  Open Position:           USD 1,376,092 (4174 shipments outstanding)
+  Hedge Coverage:          33.04% (Hedge Ref: EIU-2962-WG2SM, Desk: YC391776)
+
+BANK COVENANT & COMPLIANCE
+  Net Leverage Covenant:   2.0x (Current: 1.5x) — COMPLIANT
+  Annual Review Due:        March 29, 2026
+  AML/KYC Re-certification: Solaris Renewable Energy — Due June 05, 2026 (Ref: QH136866)
+  OFAC Sanctions Screening: Last run February 17, 2026 — Potential match — under review
+
+ACTION ITEMS
+1. Resolve D-6411 with Solaris Renewable Energy before LC expiry April 17, 2026 — escalate to Renata Brennan if no waiver received.
+2. Renew BG VN612484 prior to expiry April 21, 2026 — instruct Zenith Aerospace Ltd by June 05, 2026 (Lead time: 8891 business days).
+3. Submit AML/KYC docs for Solaris Renewable Energy re-certification (Contact: Elise Petrossian, Ref: QH136866).
+4. CFO approval for facility limit increase of USD 6,530,202 by May 21, 2026 (Form: TF-3710).
+
+REFERENCED ATTACHMENTS
+  • Trade_Finance_Status_Report_DWY-4299-5T6TE_RESTRICTED.pdf
+  • LC_Document_Set_MM277724_PI114937.pdf
+  • Discrepancy_Notice_6411_FY027231.pdf
+  • Commodity_Position_Summary_IDB-1915-ZL3O2.xlsx
+
+Derek Haakonsen
+Head of Mergers & Acquisitions | Investor Relations | Pinnacle Financial Services
+Treasury Direct: +1 (212) 7060-3570  |  SWIFT: CYPBARCS  |  Badge: RK332097
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Abioye's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TREASURY & TRADE FINANCE COMMITTEE ONLY
+Handling Protocol: REF-JJV-5213-X0I17 | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_25],
+
+I am writing in strict confidence regarding the [PERSON_43] [PERSON_26] [FINANCIAL_3] supporting our transactions with Solaris [PERSON_8] Energy (Counterparty ID: VL676960) under Master [PERSON_43] Agreement Ref: DWY-4299-5T6TE. This is classified RESTRICTED – [FINANCIAL_1] & [PERSON_43] [PERSON_26] [PERSON_9] ONLY.
+
+Issuing Bank: Zenith [PERSON_10] Ltd (Code: FF459490) | Confirming Bank: Citadel Fintech Group (Code: KU004597)
+[FINANCIAL_3] Review Date: [PERSON_51] 05, 2026 | [PERSON_43] [PERSON_26] [PERSON_9]: May 21, 2026
+
+[PERSON_36] [FINANCIAL_2] SUMMARY
+──────────────────────────────────────────────────────
+Type          [PERSON_11]    Beneficiary    Amount (USD)     Expiry         Status
+LC (Sight)    MM277724        Solaris [PERSON_8] Energy    15,503,519   April 17, 2026  [PERSON_36] — In Order
+LC ([PERSON_37])   KM451615        Zenith [PERSON_10] Ltd       311,570   May 20, 2026  [PERSON_36] — Awaiting Confirmation
+BG (Perf.)    VN612484        Citadel Fintech Group       689,017   April 21, 2026  [PERSON_36] — Awaiting Confirmation
+BG ([PERSON_14]) CM292911        [PERSON_25] Achterberg       306,578   March 17, 2026  [PERSON_36] — In Order
+SBLC          YG126644      Solaris [PERSON_8] Energy       136,633   April 21, 2026  [PERSON_36] — [FINANCIAL_6] Pending
+──────────────────────────────────────────────────────
+TOTAL CONTINGENT LIABILITY:  [AMOUNT_1]
+[FINANCIAL_3] LIMIT:              [AMOUNT_2]
+[FINANCIAL_4]:                 [URL_1]%
+
+[FINANCIAL_5] [FINANCIAL_6] NOTICES
+  D-6411: LC MM277724 — port of loading differs from LC stipulated port. Waiver requested from Solaris [PERSON_8] Energy ([PERSON_19]: [PERSON_51] 05, 2026). [PERSON_20]: [AMOUNT_3].
+  D-2307: LC KM451615 — late presentation — beyond 21-day rule. Correction letter Ref FY027231, pending acknowledgement.
+
+COMMODITY & PRICING DETAILS (RESTRICTED)
+  Commodity:               Agricultural Soy Derivatives
+  Shipment Terms:          DDP — [PERSON_46] ([PERSON_7]) to [PERSON_46] ([PERSON_7])
+  Contract Quantity:       6,496 kg ([PERSON_12]: ±[URL_2]%)
+  [PERSON_29] Value (Latest):  [AMOUNT_4]
+  Open Position:           [AMOUNT_5] (4174 shipments [FINANCIAL_5])
+  [PERSON_47] [PERSON_22]:          [URL_3]% ([PERSON_47] Ref: EIU-2962-WG2SM, Desk: YC391776)
+
+BANK [FINANCIAL_7] & [PERSON_6]
+  Net [PERSON_23] [FINANCIAL_7]:   [URL_4] (Current: [URL_5]) — COMPLIANT
+  Annual Review Due:        March 29, 2026
+  AML/KYC Re-certification: Solaris [PERSON_8] Energy — Due [PERSON_51] 05, 2026 (Ref: QH136866)
+  OFAC Sanctions Screening: Last run February 17, 2026 — Potential match — under review
+
+ACTION ITEMS
+1. [PERSON_32] D-6411 with Solaris [PERSON_8] Energy before LC expiry April 17, 2026 — escalate to [PERSON_3] if no waiver received.
+2. Renew BG VN612484 prior to expiry April 21, 2026 — instruct Zenith [PERSON_10] Ltd by [PERSON_51] 05, 2026 (Lead time: 8891 business days).
+3. Submit AML/KYC docs for Solaris [PERSON_8] Energy re-certification (Contact: [PERSON_1], Ref: QH136866).
+4. CFO approval for [FINANCIAL_3] limit increase of [AMOUNT_6] by May 21, 2026 (Form: TF-3710).
+
+REFERENCED [FINANCIAL_8]
+  • Trade_Finance_Status_Report_DWY-4299-5T6TE_[URL_6]
+  • LC_Document_Set_MM277724_[URL_7]
+  • [FINANCIAL_6]_Notice_6411_[URL_8]
+  • Commodity_Position_Summary_[URL_9]
+
+[PERSON_2]
+Head of Mergers & Acquisitions | Investor Relations | [PERSON_24] Financial Services
+[FINANCIAL_1] Direct: [PHONE_1]  |  SWIFT: [FINANCIAL_9]  |  [PERSON_49]: RK332097
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_8] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_41]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – [FINANCIAL_1] & [PERSON_43] [PERSON_26] [PERSON_9] ONLY
+Handling Protocol: [CONTRACT_1]-X0I17 | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_42] Deletion
+================================================================================

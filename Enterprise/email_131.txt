@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #131  |  RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+================================================================================
+DATE:        Friday, March 06, 2026 at 07:39 PM
+FROM:        Felicia Castleberry <fcastleberry@blackridgelo.com>
+TO:          Dmitri Oduya <doduya@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: ERP Migration Cost Estimate – Project JJ304583
+REFERENCE:   PRV-0338-S9ZIO
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Howard,
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: JJ304583). This is classified RESTRICTED and shared solely with the Technology Steering Committee and Finance leadership.
+
+Project Summary – Ref: NAA-7398-SMIE8
+Platform: Infor CloudSuite | Implementation Partner: Verdant Food & Beverage
+Target Go-Live: April 25, 2026 | Legacy Decommission: May 11, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+Infrastructure & Licensing:          USD        298,280  (8.32%)
+Implementation Services:             USD         54,712  (2.92%)
+Data Migration & Validation:         USD      1,361,928  (33.77%)
+Training & Change Management:        USD        639,388  (2.52%)
+Post-Go-Live Support (Year 1):       USD        104,542  (23.0%)
+Contingency Reserve (31.61%):       USD        854,073
+──────────────────────────────────────────────────────
+Total Project Budget:                USD      3,312,923
+
+PHASE SCOPE
+  Phase 1 Modules:  Business Intelligence, Order Management, HR & Payroll
+  Phase 2 Modules:  Accounts Receivable, Fixed Assets
+  Data Migration Window: May 30, 2026 – April 21, 2026
+
+RISK REGISTER (TOP ITEMS)
+  Risk R-8166 [HIGH]:    Data integrity failure during migration — Probability: 11.44%
+  Risk R-3346 [MEDIUM]:  Vendor delivery delay (Verdant Food & Beverage) — Probability: 14.56%
+  Risk R-3865 [HIGH]:    Integration failure with legacy system BR991637 — Probability: 33.53%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request JM161021 by May 22, 2026
+  – IT Security review completion (Ticket: SEC-6104) by April 18, 2026
+  – Bridgeway Consumer Finance API certification for module Business Intelligence (Cert: FU363856)
+
+REFERENCED ATTACHMENTS
+  • ERP_Migration_CostModel_TZ032103_v3531.xlsx   [password-protected]
+  • Project_Charter_LEH-7340-OKJT0_RESTRICTED.pdf
+  • Vendor_Assessment_CD836859.docx
+
+Written approval required from cost center owners CC-7000 and CC-2314 by June 02, 2026.
+
+Dmitri Okonkwo
+VP of Legal Affairs | Business Development | Cascadia Real Estate Trust
+Internal Ext: 1871  |  Direct: +1 (408) 5375-9001  |  Badge: RP217973
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+Handling Protocol: REF-PRV-0338-S9ZIO | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_22],
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: JJ304583). This is classified RESTRICTED and shared solely with the Technology [FINANCIAL_3] [PERSON_10] and [PERSON_16] leadership.
+
+Project Summary – Ref: NAA-7398-SMIE8
+Platform: Infor [PERSON_8] | Implementation Partner: Verdant Food & [PERSON_14]
+Target [PERSON_18]: April 25, 2026 | Legacy Decommission: May 11, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+[PERSON_2] & Licensing:          [AMOUNT_1]  ([URL_1]%)
+Implementation Services:             [AMOUNT_2]  ([URL_2]%)
+Data Migration & Validation:         [AMOUNT_3]  ([URL_3]%)
+Training & [PERSON_25] Management:        [AMOUNT_4]  ([URL_4]%)
+[PERSON_4] Support (Year 1):       [AMOUNT_5]  ([URL_5]%)
+Contingency [PERSON_19] ([URL_6]%):       [AMOUNT_6]
+──────────────────────────────────────────────────────
+Total Project Budget:                [AMOUNT_7]
+
+[PERSON_31] [PERSON_32]
+  [PERSON_31] 1 Modules:  Business [PERSON_5], Order Management, HR & Payroll
+  [PERSON_31] 2 Modules:  Accounts [PERSON_9], Fixed Assets
+  Data Migration Window: May 30, 2026 – April 21, 2026
+
+RISK [FINANCIAL_1] (TOP ITEMS)
+  Risk R-8166 [HIGH]:    Data integrity failure during migration — Probability: [URL_7]%
+  Risk R-3346 [MEDIUM]:  Vendor delivery delay (Verdant Food & [PERSON_14]) — Probability: [URL_8]%
+  Risk R-3865 [HIGH]:    Integration failure with legacy system BR991637 — Probability: [URL_9]%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request JM161021 by May 22, 2026
+  – IT Security review completion (Ticket: SEC-6104) by April 18, 2026
+  – Bridgeway Consumer [PERSON_16] API certification for module Business [PERSON_5] (Cert: FU363856)
+
+REFERENCED [FINANCIAL_2]
+  • ERP_Migration_CostModel_TZ032103_[URL_10]   [password-protected]
+  • Project_Charter_LEH-7340-OKJT0_[URL_11]
+  • Vendor_Assessment_[URL_12]
+
+[PERSON_20] approval required from cost center owners CC-7000 and CC-2314 by [PERSON_39] 02, 2026.
+
+[PERSON_1]
+VP of Legal Affairs | Business Development | [PERSON_15] Real [PERSON_28] Trust
+Internal Ext: 1871  |  Direct: [PHONE_1]  |  [PERSON_34]: RP217973
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Castleberry's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY [FINANCIAL_3] [PERSON_10]
+Handling Protocol: [CONTRACT_1]-S9ZIO | Encrypted In-Transit: TLS [URL_13] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_29] Deletion
+================================================================================

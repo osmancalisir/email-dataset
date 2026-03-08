@@ -1,0 +1,118 @@
+================================================================================
+EMAIL #079  |  CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+================================================================================
+DATE:        Saturday, February 28, 2026 at 07:39 PM
+FROM:        Thaddeus Harrington <tharrington@blackridgelo.com>
+TO:          Patrick Beaumont <pbeaumont@blackridgelo.com>
+SUBJECT:     CONFIDENTIAL: Key Account Renewal Terms – Obsidian Telecom Group (Account CD112887)
+REFERENCE:   BFN-8543-4XS1B
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Stephanie,
+
+I am writing in strict confidence regarding the Key Account renewal with Jonathan Djordjevic at Obsidian Telecom Group (Account ID: CD112887). This is classified at Commercial Sensitivity Level 3.
+
+Account Renewal Summary – Ref: DUN-5021-8S1PG
+Account Tier: Platinum | Contract Expiry: March 23, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     USD         51,235
+Proposed Renewal Value:              USD         56,135
+Year-on-Year Growth:                 +25.43%
+Volume Commitment (Units):           7,146
+Proposed Price Adjustment:           +33.2% effective April 24, 2026
+Rebate on Volumes > 1,689 units:  15.62%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Obsidian Telecom Group represents 26.54% of total divisional revenue and has been a strategic partner since February 08, 2026. Their procurement lead, Yolanda Caldwell, has informally indicated willingness to expand volume commitment by up to 13.85% subject to:
+  (a) Preferred pricing on Product Line OE709896 (list price: USD 3,145/unit)
+  (b) Dedicated account support team (minimum 6723 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-0299)
+
+COMPETITIVE INTELLIGENCE (SOURCE: CI-DI284368 — STRICTLY CONFIDENTIAL)
+Meridian Capital Group has approached Obsidian Telecom Group with a competing bid estimated at USD 3,630,199 annually — approximately 18.21% below our current pricing.
+
+INTERNAL APPROVALS REQUIRED
+  ☐  VP Finance — Budget code: OA064369
+  ☐  Chief Revenue Officer — Exception Ref: UHT-4764-2ZFY4
+  ☐  Legal Counsel — Contract template: MSA-QR500255
+
+REFERENCED ATTACHMENTS
+  • Account_Renewal_Proposal_VC729309.pdf            [CONFIDENTIAL]
+  • Competitive_Intel_Brief_DI284368_RESTRICTED.docx
+  • Pricing_Exception_Form_HCS-9931-I7N9A.xlsx
+
+Internal sign-off deadline: May 16, 2026. Reply with authorization code via secure channel only.
+
+Kevin Mbeki
+Head of Mergers & Acquisitions | Risk Management | Stratos Energy Corp
+Direct: +1 (312) 1768-4840  |  Secure ID: YZ746167
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL SENSITIVITY LEVEL 3
+Handling Protocol: REF-BFN-8543-4XS1B | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_8],
+
+I am writing in strict confidence regarding the Key Account renewal with [PERSON_1] at Obsidian Telecom Group (Account ID: CD112887). This is classified at Commercial [FINANCIAL_5] Level 3.
+
+Account Renewal Summary – Ref: DUN-5021-8S1PG
+Account Tier: Platinum | Contract Expiry: March 23, 2026
+
+COMMERCIAL TERMS
+──────────────────────────────────────────────────────
+Annual Contract Value (Current):     [AMOUNT_1]
+Proposed Renewal Value:              [AMOUNT_2]
+Year-on-Year Growth:                 +[URL_1]%
+[PERSON_13] Commitment (Units):           7,146
+Proposed [PERSON_20] Adjustment:           +[URL_2]% effective April 24, 2026
+[PERSON_14] on Volumes > 1,689 units:  [URL_3]%
+──────────────────────────────────────────────────────
+
+STRATEGIC CONTEXT
+Obsidian Telecom Group represents [URL_4]% of total divisional [PERSON_12] and has been a strategic partner since February 08, 2026. Their procurement lead, [PERSON_2], has informally indicated willingness to expand [PERSON_13] commitment by up to [URL_5]% subject to:
+  (a) Preferred pricing on Product [PERSON_27] OE709896 (list [PERSON_20]: [AMOUNT_3]/unit)
+  (b) Dedicated account support team (minimum 6723 FTEs)
+  (c) SLA upgrade to Tier-1 response times (Ref: SLA-0299)
+
+[PERSON_5] [PERSON_3] ([PERSON_15]: CI-DI284368 — [FINANCIAL_2] CONFIDENTIAL)
+Meridian Capital Group has approached Obsidian Telecom Group with a competing bid estimated at [AMOUNT_4] annually — approximately [URL_6]% below our current pricing.
+
+INTERNAL APPROVALS [FINANCIAL_3]
+  ☐  VP [PERSON_11] — Budget code: OA064369
+  ☐  Chief [PERSON_12] Officer — Exception Ref: UHT-4764-2ZFY4
+  ☐  Legal Counsel — Contract template: MSA-QR500255
+
+REFERENCED [FINANCIAL_4]
+  • Account_Renewal_Proposal_[URL_7]            [CONFIDENTIAL]
+  • [FINANCIAL_1]_Intel_Brief_DI284368_[URL_8]
+  • Pricing_Exception_Form_[URL_9]
+
+Internal sign-off deadline: May 16, 2026. Reply with authorization code via [PERSON_18] channel only.
+
+[PERSON_4]
+Head of Mergers & Acquisitions | Risk Management | [COMPANY_1]
+Direct: [PHONE_1]  |  [PERSON_18] ID: YZ746167
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_4] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: CONFIDENTIAL – COMMERCIAL [FINANCIAL_5] LEVEL 3
+Handling Protocol: [CONTRACT_1]-4XS1B | Encrypted In-Transit: TLS [URL_10] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_18] Deletion
+================================================================================

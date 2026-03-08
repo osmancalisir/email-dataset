@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #096  |  RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Desmond Mwangi <dmwangi@sterlingauto.com>
+TO:          Felicia Beaumont <fbeaumont@sterlingauto.com>
+SUBJECT:     CONFIDENTIAL: ESG & Sustainability Report Draft – FY2024
+REFERENCE:   HJD-8787-H6CST
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kevin,
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2024 (Ref: PLM-3777-S0U9E). This is classified RESTRICTED – BOARD & AUDIT COMMITTEE ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External Assurance: Cobalt Ventures LLC (Ref: UD709000) | Target Publication: March 28, 2026 | Filing Deadline: May 20, 2026
+
+KEY ESG METRICS (FY2024 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2024 Actual   FY2023 Actual    Target
+Scope 1 Emissions (tCO2e)          91,397        77,995         73,117
+Scope 2 Emissions (tCO2e)          30,622        32,153         24,497
+Scope 3 Emissions (tCO2e)         439,287       439,287        373,393
+Total Energy (MWh)                201,414       211,484        181,272
+Water Withdrawal (m³)             469,640       493,122        422,676
+Waste Diverted (%)                 31.22%       10.84%          36.4%
+Gender Pay Gap (%)                  8.88%       10.23%          4.61%
+TRIR (injuries/200k hrs)              1.8          1.89           1.44
+──────────────────────────────────────────────────────
+
+MATERIAL DISCLOSURE ISSUES (PRE-DECISIONAL)
+  Issue ESG-9100: Scope 3 emissions 12.8% above target due to customer usage patterns. Legal reviewing disclosure language re: forward guidance implications (Ref: XW900895).
+  Issue ESG-4482: Gender pay gap of 8.88% exceeds 4.61% target. Board must decide voluntary vs. mandatory cohort disclosure by May 03, 2026.
+  Issue ESG-6191: Tier-1 supplier Ironclad Supply Chain (Spend: USD 311,871) failed human rights assessment (Score: 52/100, Threshold: 78/100). Disclosure may trigger customer contract reviews (Ref: KDA-8058-GW8Q1).
+
+CARBON CREDIT STRATEGY
+  Credits Purchased (FY2024):  2,690 tCO2e (Registry: Climate Action Reserve, Ref: XW282859)
+  Credits Retired:              2,048 tCO2e
+  Average Price:                USD 51/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          9.61% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC Climate Disclosure Rule:  Compliance deadline April 05, 2026 (Ref: AT362240)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref DN411560
+  TCFD Alignment Score:         11.39% (Target: 90%)
+
+REFERENCED ATTACHMENTS
+  • ESG_Report_Draft_FY2024_FEB-4626-5R9JS_BOARD_ONLY.pdf
+  • Emissions_Data_Workbook_GV583512.xlsx
+  • Supplier_Assessment_ZS929787.pdf
+
+Board sign-off required by April 30, 2026. Route comments to Dmitri Abioye only.
+
+Rebecca Okafor
+Chief Technology Officer | Procurement | Pinnacle Financial Services
+ESG Committee Code: EN274642  |  Direct: +1 (415) 7846-7718
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Mwangi's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT COMMITTEE ONLY
+Handling Protocol: REF-HJD-8787-H6CST | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_28],
+
+I am distributing the pre-publication draft ESG & Sustainability Report for FY2024 (Ref: [PERSON_2]). This is classified RESTRICTED – BOARD & AUDIT [PERSON_7] ONLY. Do not share with investor relations, communications, or external parties until formal Board approval.
+
+Reporting Framework: SASB + TCFD Integrated
+External [PERSON_8]: [COMPANY_1] (Ref: UD709000) | Target Publication: March 28, 2026 | Filing [PERSON_13]: May 20, 2026
+
+KEY ESG METRICS (FY2024 ACTUALS vs. TARGETS)
+──────────────────────────────────────────────────────
+Metric                         FY2024 Actual   FY2023 Actual    Target
+[PERSON_29] 1 Emissions (tCO2e)          91,397        77,995         73,117
+[PERSON_29] 2 Emissions (tCO2e)          30,622        32,153         24,497
+[PERSON_29] 3 Emissions (tCO2e)         439,287       439,287        373,393
+Total Energy (MWh)                201,414       211,484        181,272
+Water Withdrawal (m³)             469,640       493,122        422,676
+[PERSON_30] Diverted (%)                 [URL_1]%       [URL_2]%          [URL_3]%
+Gender Pay Gap (%)                  [URL_4]%       [URL_5]%          [URL_6]%
+TRIR (injuries/200k hrs)              [URL_7]          [URL_7]9           [URL_9]
+──────────────────────────────────────────────────────
+
+[FINANCIAL_1] [PERSON_5] ISSUES (PRE-DECISIONAL)
+  [PERSON_31] ESG-9100: [PERSON_29] 3 emissions [URL_10]% above target due to customer usage patterns. Legal reviewing [PERSON_5] language re: forward guidance implications (Ref: XW900895).
+  [PERSON_31] ESG-4482: Gender pay gap of [URL_4]% exceeds [URL_6]% target. Board must decide voluntary vs. mandatory cohort [PERSON_5] by May 03, 2026.
+  [PERSON_31] ESG-6191: Tier-1 supplier Ironclad Supply Chain (Spend: [AMOUNT_1]) failed human rights assessment ([PERSON_32]: 52/100, Threshold: 78/100). [PERSON_5] may trigger customer contract reviews (Ref: KDA-8058-GW8Q1).
+
+CARBON CREDIT [FINANCIAL_2]
+  Credits Purchased (FY2024):  2,690 tCO2e (Registry: [PERSON_16] Action [PERSON_17], Ref: XW282859)
+  Credits Retired:              2,048 tCO2e
+  [PERSON_18] [PERSON_34]:                [AMOUNT_2]/tCO2e
+  Net Zero Target Year:         2040
+  Interim 2030 Target:          [URL_11]% absolute reduction vs. 2020 baseline
+
+REGULATORY WATCH
+  SEC [PERSON_16] [PERSON_5] [PERSON_43]:  [PERSON_6] [PERSON_13] April 05, 2026 (Ref: AT362240)
+  CSRD (EU) Applicability:      Assessment ongoing — Ref DN411560
+  TCFD Alignment [PERSON_32]:         [URL_12]% (Target: [PERCENTAGE_10])
+
+REFERENCED [FINANCIAL_3]
+  • ESG_Report_Draft_FY2024_FEB-4626-5R9JS_BOARD_[URL_13]
+  • Emissions_Data_Workbook_[URL_14]
+  • Supplier_Assessment_[URL_15]
+
+Board sign-off required by April 30, 2026. [PERSON_35] comments to [PERSON_3] only.
+
+[PERSON_1]
+[APPROVAL_CODE_2] | [PERSON_14] Financial Services
+ESG [PERSON_7] Code: EN274642  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_3] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to [PERSON_26]'s organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or [PERSON_5] may result in civil and/or criminal liability.
+Classification: RESTRICTED – BOARD & AUDIT [PERSON_7] ONLY
+Handling Protocol: [CONTRACT_1]-H6CST | Encrypted In-Transit: TLS [URL_16] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_27] Deletion
+================================================================================

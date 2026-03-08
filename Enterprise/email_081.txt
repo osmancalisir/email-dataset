@@ -1,0 +1,124 @@
+================================================================================
+EMAIL #081  |  RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+================================================================================
+DATE:        Monday, March 02, 2026 at 07:39 PM
+FROM:        Derek Montclair <dmontclair@luminarymedi.com>
+TO:          Marguerite Oduya <moduya@luminarymedi.com>
+SUBJECT:     CONFIDENTIAL: ERP Migration Cost Estimate – Project WB959567
+REFERENCE:   WCT-2256-V1RXI
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Kevin,
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: WB959567). This is classified RESTRICTED and shared solely with the Technology Steering Committee and Finance leadership.
+
+Project Summary – Ref: OAV-3324-ZSG02
+Platform: Infor CloudSuite | Implementation Partner: Amberfield Consumer Goods
+Target Go-Live: May 20, 2026 | Legacy Decommission: April 29, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+Infrastructure & Licensing:          USD     16,479,765  (24.01%)
+Implementation Services:             USD      1,608,940  (16.83%)
+Data Migration & Validation:         USD        124,364  (16.87%)
+Training & Change Management:        USD      3,339,770  (33.42%)
+Post-Go-Live Support (Year 1):       USD        668,411  (36.71%)
+Contingency Reserve (10.35%):       USD     15,024,758
+──────────────────────────────────────────────────────
+Total Project Budget:                USD     37,246,008
+
+PHASE SCOPE
+  Phase 1 Modules:  General Ledger, Inventory Management, HR & Payroll
+  Phase 2 Modules:  Procurement, Order Management
+  Data Migration Window: March 22, 2026 – April 23, 2026
+
+RISK REGISTER (TOP ITEMS)
+  Risk R-5925 [HIGH]:    Data integrity failure during migration — Probability: 19.5%
+  Risk R-1365 [MEDIUM]:  Vendor delivery delay (Amberfield Consumer Goods) — Probability: 27.18%
+  Risk R-9226 [HIGH]:    Integration failure with legacy system JT700951 — Probability: 26.28%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request UD110825 by March 24, 2026
+  – IT Security review completion (Ticket: SEC-0945) by April 03, 2026
+  – Aurora Semiconductor API certification for module General Ledger (Cert: AR410669)
+
+REFERENCED ATTACHMENTS
+  • ERP_Migration_CostModel_HD166885_v2556.xlsx   [password-protected]
+  • Project_Charter_OXU-7010-X60K1_RESTRICTED.pdf
+  • Vendor_Assessment_DN466616.docx
+
+Written approval required from cost center owners CC-0547 and CC-0462 by April 05, 2026.
+
+Charles Drummond
+Chief Revenue Officer | Finance & Treasury | Harborview Shipping
+Internal Ext: 3137  |  Direct: +1 (408) 7519-2011  |  Badge: NE424242
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY STEERING COMMITTEE
+Handling Protocol: REF-WCT-2256-V1RXI | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_24],
+
+I am sharing the internal cost estimate for the ERP migration initiative (Project Code: WB959567). This is classified RESTRICTED and shared solely with the Technology [FINANCIAL_3] [PERSON_9] and [PERSON_12] leadership.
+
+Project Summary – Ref: OAV-3324-ZSG02
+Platform: Infor [PERSON_8] | Implementation Partner: Amberfield Consumer Goods
+Target [PERSON_13]: May 20, 2026 | Legacy Decommission: April 29, 2026
+
+COST BREAKDOWN BY WORKSTREAM
+──────────────────────────────────────────────────────
+[PERSON_4] & Licensing:          [AMOUNT_1]  ([URL_1]%)
+Implementation Services:             [AMOUNT_2]  ([URL_2]%)
+Data Migration & Validation:         [AMOUNT_3]  ([URL_3]%)
+Training & [PERSON_19] Management:        [AMOUNT_4]  ([URL_4]%)
+[PERSON_6] Support (Year 1):       [AMOUNT_5]  ([URL_5]%)
+Contingency [PERSON_14] ([URL_6]%):       [AMOUNT_6]
+──────────────────────────────────────────────────────
+Total Project Budget:                [AMOUNT_7]
+
+[PERSON_26] [PERSON_27]
+  [PERSON_26] 1 Modules:  General Ledger, Inventory Management, HR & Payroll
+  [PERSON_26] 2 Modules:  Procurement, Order Management
+  Data Migration Window: March 22, 2026 – April 23, 2026
+
+RISK [FINANCIAL_1] (TOP ITEMS)
+  Risk R-5925 [HIGH]:    Data integrity failure during migration — Probability: [URL_7]%
+  Risk R-1365 [MEDIUM]:  Vendor delivery delay (Amberfield Consumer Goods) — Probability: [URL_8]%
+  Risk R-9226 [HIGH]:    Integration failure with legacy system JT700951 — Probability: [URL_9]%
+
+KEY DEPENDENCIES
+  – CFO sign-off on CapEx Request UD110825 by March 24, 2026
+  – IT Security review completion (Ticket: SEC-0945) by April 03, 2026
+  – [PERSON_21] Semiconductor API certification for module General Ledger (Cert: AR410669)
+
+REFERENCED [FINANCIAL_2]
+  • ERP_Migration_CostModel_HD166885_[URL_10]   [password-protected]
+  • Project_Charter_OXU-7010-X60K1_[URL_11]
+  • Vendor_Assessment_[URL_12]
+
+[PERSON_15] approval required from cost center owners CC-0547 and CC-0462 by April 05, 2026.
+
+[PERSON_3]
+Chief [PERSON_16] Officer | [PERSON_12] & Treasury | Harborview Shipping
+Internal Ext: 3137  |  Direct: [PHONE_1]  |  [PERSON_29]: NE424242
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Montclair's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: RESTRICTED – TECHNOLOGY [FINANCIAL_3] [PERSON_9]
+Handling Protocol: [PERSON_1] | Encrypted In-Transit: TLS [URL_13] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_23] Deletion
+================================================================================

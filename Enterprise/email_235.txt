@@ -1,0 +1,130 @@
+================================================================================
+EMAIL #235  |  COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+================================================================================
+DATE:        Tuesday, March 03, 2026 at 07:39 PM
+FROM:        Renata Harrington <rharrington@sunridgeener.com>
+TO:          Stephanie Quintero <squintero@sunridgeener.com>
+SUBJECT:     CONFIDENTIAL: Capital Investment Committee Memo – Project DELPHI
+REFERENCE:   BZD-9114-UB2UN
+────────────────────────────────────────────────────────────────────────────────
+
+Dear Thaddeus,
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 840 Technology Park Dr, Austin TX 78701 (Asset ID: FH399012), internally referred to as Project DELPHI. This is classified Commercial Sensitivity Level 4 for Investment Committee members only.
+
+Transaction Reference: KTR-2475-43GVJ | IC Presentation: March 17, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+Purchase Price (Agreed):             USD     13,712,300
+Estimated Total CapEx:               USD      6,106,621
+Projected Stabilized NOI:            USD        135,769
+Going-In Cap Rate:                   23.16%
+Stabilized Cap Rate:                 24.32%
+Levered IRR (Base Case):             27.19%
+Equity Multiple (5-Year Hold):       3.34x
+Loan-to-Value:                       3.02%
+Senior Debt Amount:                  USD        105,959
+Lender:                              Bridgeway Consumer Finance (Term Sheet: HA991221)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING ASSUMPTIONS
+  Rent Growth (Years 1–3):    2.75% p.a.
+  Vacancy Allowance:          3.96%
+  Exit Cap Rate:              11.56%
+  Hold Period:                1391 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Bridgeway Consumer Finance      Lease Expiry: April 16, 2026   Annual Rent: USD 56,079   (16.59% of NOI)
+  Halcyon Wealth Partners         Lease Expiry: April 13, 2026   Annual Rent: USD 6,968,851   (34.84% of NOI)
+  Ironshore Capital               Lease Expiry: March 23, 2026   Annual Rent: USD 3,651,063   (48.6% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending (Case: BH825954, Hearing: March 28, 2026)
+  – Environmental Phase II in progress (Consultant: Halcyon Wealth Partners, Ref: PJ014727)
+  – Anchor tenant Bridgeway Consumer Finance has unexercised break option effective March 18, 2026
+
+REFERENCED ATTACHMENTS
+  • IC_Memo_ProjectDELPHI_FSV-5487-H0EMU_CONFIDENTIAL.pdf
+  • Financial_Model_AO472730_v124.xlsx
+  • Phase1_Environmental_WL277019.pdf
+  • Lease_Abstracts_CSX-4063-P7QBB_RESTRICTED.pdf
+
+Submit IC vote via secure portal VJ512848 by May 21, 2026.
+
+Kwame Morozova
+VP of Operations | Supply Chain Management | Paragon Life Sciences
+IC Member Code: VC721351  |  Direct: +1 (310) 7484-7087
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL SENSITIVITY LEVEL 4 – IC EYES ONLY
+Handling Protocol: REF-BZD-9114-UB2UN | Encrypted In-Transit: TLS 1.3 | At-Rest: AES-256
+Retention Policy: 7 Years | Destruction Method: Certified Secure Deletion
+================================================================================
+
+============================================================
+SANITIZED PROMPT:
+Dear [PERSON_7],
+
+I write in strict confidence regarding the proposed capital investment in the Data Center Facility asset at 840 Technology Park Dr, [PERSON_19] TX 78701 (Asset ID: FH399012), internally referred to as Project DELPHI. This is classified Commercial [FINANCIAL_3] Level 4 for Investment [PERSON_3] members only.
+
+Transaction [PERSON_4]: KTR-2475-43GVJ | IC Presentation: March 17, 2026
+
+INVESTMENT METRICS
+──────────────────────────────────────────────────────
+[PERSON_10] [PERSON_24] (Agreed):             [AMOUNT_1]
+Estimated Total CapEx:               [AMOUNT_2]
+Projected Stabilized NOI:            [AMOUNT_3]
+Going-In Cap [PERSON_30]:                   [URL_1]%
+Stabilized Cap [PERSON_30]:                 [URL_2]%
+Levered IRR ([PERSON_31] [PERSON_32]):             [URL_3]%
+Equity [PERSON_11] (5-Year Hold):       [URL_4]
+[PERSON_1]:                       [URL_5]%
+Senior Debt Amount:                  [AMOUNT_4]
+Lender:                              Bridgeway Consumer [PERSON_17] (Term Sheet: HA991221)
+──────────────────────────────────────────────────────
+
+KEY UNDERWRITING [FINANCIAL_1]
+  Rent Growth (Years 1–3):    [URL_6]% [URL_7].
+  Vacancy [PERSON_5]:          [URL_8]%
+  Exit Cap [PERSON_30]:              [URL_9]%
+  Hold Period:                1391 years
+
+MAJOR TENANTS (CONFIDENTIAL)
+  Bridgeway Consumer [PERSON_17]      [PERSON_25] Expiry: April 16, 2026   Annual Rent: [AMOUNT_5]   ([URL_10]% of NOI)
+  Halcyon Wealth Partners         [PERSON_25] Expiry: April 13, 2026   Annual Rent: [AMOUNT_6]   ([URL_11]% of NOI)
+  [PERSON_6] Capital               [PERSON_25] Expiry: March 23, 2026   Annual Rent: [AMOUNT_7]   ([URL_12]% of NOI)
+
+RISK FACTORS
+  – Zoning appeal pending ([PERSON_32]: BH825954, Hearing: March 28, 2026)
+  – Environmental [PERSON_26] II in progress (Consultant: Halcyon Wealth Partners, Ref: PJ014727)
+  – Anchor tenant Bridgeway Consumer [PERSON_17] has unexercised break option effective March 18, 2026
+
+REFERENCED [FINANCIAL_2]
+  • IC_Memo_ProjectDELPHI_FSV-5487-H0EMU_[URL_13]
+  • Financial_Model_AO472730_[URL_14]
+  • Phase1_Environmental_[URL_15]
+  • Lease_Abstracts_CSX-4063-P7QBB_[URL_16]
+
+Submit IC vote via [PERSON_22] portal VJ512848 by May 21, 2026.
+
+[PERSON_27] [PERSON_14]
+VP of Operations | Supply Chain Management | Paragon [PERSON_36] Sciences
+IC Member Code: VC721351  |  Direct: [PHONE_1]
+
+────────────────────────────────────────────────────────────────────────────────
+CONFIDENTIALITY NOTICE: This email and any [FINANCIAL_2] are intended solely for
+the use of the named addressee(s) and may contain information that is legally
+privileged, commercially sensitive, and/or proprietary to Harrington's organization.
+If you have received this message in error, notify the sender immediately, destroy
+all copies, and do not disclose, copy, or distribute its contents. Unauthorized
+use or disclosure may result in civil and/or criminal liability.
+Classification: COMMERCIAL [FINANCIAL_3] LEVEL 4 – IC EYES ONLY
+Handling Protocol: [CONTRACT_1]-UB2UN | Encrypted In-Transit: TLS [URL_17] | At-Rest: [MIL_PLATFORM_1] Policy: 7 Years | Destruction Method: Certified [PERSON_22] Deletion
+================================================================================
