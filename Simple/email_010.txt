@@ -22,30 +22,3 @@ Closing Date: April 25, 2025
 
 James Caldwell
 (602) 771-4490
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 5, 2025
-Subject: [PERSON_11] [PERSON_3] - 1204 Walnut [PERSON_23]
-
-Hi [PERSON_4],
-
-[PERSON_12] use the following for closing on 1204 Walnut [PERSON_23], Phoenix, AZ 85001:
-
-[PERSON_16]: [PERSON_14] & [PERSON_10] [PERSON_6]
-[PERSON_14] [PERSON_24]: [PHONE_1]
-[PERSON_10] [PERSON_24]: [PHONE_2]
-Combined [PERSON_13]: [AMOUNT_1]/yr
-
-Loan Amount: [AMOUNT_2] (Wells Fargo [PERSON_8])
-Down Payment: [AMOUNT_3]
-
-[PERSON_21] [PERSON_3] for down payment:
-[PERSON_1]: [PHONE_3]
-Account: [PHONE_4]
-Closing Date: April 25, 2025
-
-[PERSON_2]
-[PHONE_5]

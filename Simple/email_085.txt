@@ -19,27 +19,3 @@ Bank management notified of preliminary findings under confidentiality. Public d
 Formal report to follow within 30 days.
 
 Examiner-in-Charge, District 7
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 14, 2025
-Subject: CONFIDENTIAL [FINANCIAL_1] FINDING - [PERSON_8] [PERSON_5] [PERSON_14]
-
-[PERSON_15] CONFIDENTIAL
-
-[PERSON_14]: [PERSON_8] [PERSON_5] [PERSON_14] ([PERSON_12] [PERSON_6])
-[FINANCIAL_1] period: April 7 - May 9, 2025
-
-Preliminary finding (CAMELS Rating: [PERSON_7] to 3):
-
-Loan portfolio: [PERCENTAGE_1] of commercial loans classified as "Substandard" ([AMOUNT_1])
-Capital ratio: [URL_4]% (approaching regulatory minimums)
-Key concern: [AMOUNT_2] in loans to entities related to Board [PERSON_1] undisclosed conflict of [PERSON_9]
-
-[PERSON_14] [PERSON_4] [PERSON_10] of preliminary findings under confidentiality. Public disclosure of CAMELS rating is prohibited by 12 [URL_5]. § 1820.
-
-Formal report to follow within 30 days.
-
-[PERSON_2], District 7

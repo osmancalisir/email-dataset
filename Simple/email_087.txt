@@ -19,27 +19,3 @@ CONFIDENTIAL: Revenue run rate $6.2M ARR. Key customer (50% of revenue): Microso
 Please do not share data room credentials. NDA on file covers all materials.
 
 CEO, Stealth Tech Inc.
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 8, 2025
-Subject: CONFIDENTIAL - Pre-Term Sheet Data Room [PERSON_11]
-
-[PERSON_16] [PERSON_1] [PERSON_18],
-
-Granting data room [PERSON_11] for [PERSON_19] diligence. [PERSON_2]:
-
-[PERSON_5]: [PERSON_6]
-URL: [URL_5]
-[API_KEY_1]
-[API_KEY_2]!
-
-Contents: Cap table, financial model [PHONE_1] projections), customer contracts (NDA required), patent filings (3 pending), [PERSON_18] bios with compensation.
-
-CONFIDENTIAL: [PERSON_10] run rate $[URL_7] ARR. Key customer ([PERCENTAGE_1] of [PERSON_10]): Microsoft (contract name redacted in public docs but visible in data room).
-
-[PERSON_14] do not share data room credentials. NDA on file covers all materials.
-
-CEO, Stealth Tech Inc.

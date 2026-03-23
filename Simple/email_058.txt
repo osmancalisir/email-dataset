@@ -19,27 +19,3 @@ HS requests identity protection and potential relocation assistance. Mental stat
 Follow-up action: Subpoena financial records, coordinate with SEC.
 
 SA J. Brooks, Badge #FBI-44821
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 6, 2025
-Subject: [PERSON_4] - Human [PERSON_9] Debrief Summary
-
-[PERSON_4] BUT UNCLASSIFIED
-
-[PERSON_13]: Operation Cedar Falls (#FBI-[PHONE_1])
-Date of Debrief: May 5, 2025
-
-Human [PERSON_9] (HS): Identity protected — designator HS-CEDAR-04
-DOB of [PERSON_9]: 1979 (exact date withheld)
-Occupation: Mid-level employee, Nexus Financial Group
-
-Information provided: HS reports CFO (name: [PERSON_1]) has been approving fraudulent wire transfers to offshore accounts controlled by unknown third party. Estimated amount: [AMOUNT_1]-18M over 18 months.
-
-HS requests identity protection and potential relocation assistance. Mental state: stable but fearful.
-
-Follow-up action: [PERSON_6] financial records, coordinate with SEC.
-
-SA [PERSON_3], [PERSON_10] [PERSON_2]

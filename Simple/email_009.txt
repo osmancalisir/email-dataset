@@ -23,31 +23,3 @@ Patient allergies: Penicillin, Sulfa drugs
 
 Nurse Sandra Jones, RN
 Ext: 4492
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 12, 2025
-Subject: Medication Order for [PERSON_1]
-
-[PERSON_4] [PERSON_16],
-
-[PERSON_7] prepare the following for patient:
-
-Name: [PERSON_2]
-[DATE_1]
-MRN: RH-558821
-Room: 4B-112
-Diagnosis: [PERSON_15] myocardial infarction, Hypertension
-
-Medications:
-- Metoprolol 50mg twice daily
-- Aspirin 81mg daily
-- Lisinopril 10mg daily
-- Atorvastatin 40mg nightly
-
-Patient [MEDICAL_1], [PERSON_12] [PERSON_13]
-
-[PERSON_9] [PERSON_3], RN
-[PERSON_19]: 4492

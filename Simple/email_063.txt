@@ -19,25 +19,3 @@ Special notes:
 - Previous incident: Do not assign staff member "Kyle" from 2024 visit
 
 General Manager
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 23, 2025
-Subject: VIP Guest Alert - [PERSON_10] with [PERSON_16]
-
-[PERSON_4],
-
-[PERSON_11] up on arrival this Friday:
-
-Guest: [PERSON_1] (CEO, Ashworth Industries)
-Check-in: May 2, Checkout: May 9
-[PERSON_14]: [PERSON_6] 1 (pre-paid, [AMOUNT_1])
-CC on file: Amex [PHONE_1], [FINANCIAL_1], Billing ZIP: [ADDRESS_1] notes:
-- Guest traveling with personal assistant ([PERSON_3]) — book adjoining room under her name
-- Guest has severe shellfish allergy (EpiPen on person — alert kitchen)
-- Request: Do NOT appear in guest registry or respond to any media inquiries about his presence
-- Previous incident: Do not assign staff member "[PERSON_15]" from 2024 [PERSON_12]
-
-[PERSON_9] [PERSON_8]

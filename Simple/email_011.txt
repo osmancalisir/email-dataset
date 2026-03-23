@@ -17,24 +17,3 @@ These records are for the confidential placement review meeting on March 1.
 
 Anna Scott
 District Coordinator
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: February 20, 2025
-Subject: Student Records Request - Confidential
-
-[PERSON_17] [PERSON_1],
-
-[PERSON_9] forward the academic and behavioral records for the following students to the [PERSON_8] office:
-
-1. [PERSON_2], [DATE_1], Student ID: LE-[ADDRESS_1]: [PERSON_3], SSN on file: [PHONE_1]
-   
-2. [PERSON_4], [DATE_2], Student ID: LE-20387
-   IEP on file, diagnosed with ADHD and dyslexia
-
-[PERSON_15] records are for the confidential placement review meeting on [PERSON_13] 1.
-
-[PERSON_6]
-[PERSON_8] [PERSON_5]

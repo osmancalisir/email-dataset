@@ -22,27 +22,3 @@ Bank Account (for verification): Chase #000487293811
 Please update me on the status.
 
 Michael Torres
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: February 10, 2025
-Subject: Loan Application Follow-Up
-
-Hello,
-
-I'm following up on my mortgage application submitted last week. My details:
-
-[PERSON_13] Name: [PERSON_1]
-[PERSON_17]: [PHONE_1]
-[DATE_1]
-Annual [PERSON_6]: [AMOUNT_1]
-Current Address: 88 Birchwood [PERSON_14], Denver, CO [ADDRESS_1] [PERSON_10] on File: 741
-
-Loan Amount Requested: [AMOUNT_2]
-Property: 22 Sunset Blvd, Denver, CO [ADDRESS_2] Account (for verification): [PERSON_11] #[PHONE_2]
-
-[PERSON_7] update me on the status.
-
-[PERSON_2]

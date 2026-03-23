@@ -20,28 +20,3 @@ Change: Switching to Cabenuva (cabotegravir + rilpivirine) monthly injectable pe
 Patient Note: Patient has not disclosed status to family. Send all refill reminders to cell ONLY: (213) 449-0032. Do NOT mail to home address.
 
 Nurse Practitioner V. Santos
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 13, 2025
-Subject: Patient ART Prescription [PERSON_16] - CONFIDENTIAL
-
-[PERSON_18] — [PERSON_7] DIAGNOSIS
-
-Patient: [PERSON_2]
-[DATE_1]
-MRN: CH-882013
-SSN: [PHONE_1]
-[PERSON_8]: [PERSON_9] [PERSON_3]
-
-[PERSON_25] Status: [PERSON_10] (diagnosed 2019)
-Current [PERSON_5]: Biktarvy (bictegravir/TAF/emtricitabine) [PHONE_2]mg once daily
-Most recent CD4: 680 cells/μL | Viral Load: [PERSON_4] (<20 copies/mL)
-
-[PERSON_17]: Switching to [PERSON_13] (cabotegravir + rilpivirine) monthly injectable per patient preference.
-
-Patient [PERSON_23]: Patient has [PERSON_26] disclosed status to family. Send all refill reminders to cell ONLY: [PHONE_3]. Do [PERSON_26] mail to home address.
-
-[PERSON_20] [PERSON_1]

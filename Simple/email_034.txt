@@ -20,28 +20,3 @@ Please process today — client has deadline.
 
 Linda McAllister
 Private Banking Relationship Manager
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 12, 2025
-Subject: Urgent [PERSON_18] [PERSON_6] [PERSON_3]
-
-[PERSON_18] [PERSON_6] [PERSON_19],
-
-Authorized by client [PERSON_1] #PVT-44821, [DATE_1], Security [PERSON_12]: "Monsoon2024"):
-
-Amount: [AMOUNT_1] USD
-Destination: HSBC [PERSON_5]
-SWIFT: [FINANCIAL_1]
-Account: [PHONE_1]
-Beneficiary: [COMPANY_1]
-
-[PERSON_11]: Investment capital [PERSON_6]
-Client called to authorize at 10:32 AM, call recorded per policy.
-
-[PERSON_14] process today — client [PERSON_20] deadline.
-
-[PERSON_2]
-Private [PERSON_10] Relationship Manager

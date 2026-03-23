@@ -21,29 +21,3 @@ Red flags:
 Do not contact claimants. Assign investigator for surveillance. Preserve right to deny.
 
 Adjuster K. Porter
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 7, 2025
-Subject: Suspected [PERSON_2] Fraud - Claim #[CONTRACT_1]
-
-SIU Team,
-
-Flagging the following claim for investigation:
-
-Claimant: [PERSON_8] & Betty [PERSON_6]
-Policy #: [CONTRACT_2]
-Claim: [PERSON_10] fire, 03/15/2025, total loss
-Claimed value: [AMOUNT_1] (structure) + [AMOUNT_2] (contents) = [AMOUNT_3]
-
-Red flags:
-1. Policy purchased 6 weeks before fire (limit increase from [AMOUNT_4] to [AMOUNT_5] in January)
-2. Financial records show [PERSON_1] filed for personal bankruptcy 4 months prior
-3. Neighbors reported seeing [PERSON_8] at property night of fire (he claimed to be out of town)
-4. [PERSON_8] SSN: [PHONE_1], [DATE_1]
-
-Do not contact claimants. Assign investigator for surveillance. [PERSON_5] right to deny.
-
-[PERSON_3] K. [PERSON_9]

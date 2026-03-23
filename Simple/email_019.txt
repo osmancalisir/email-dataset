@@ -18,26 +18,3 @@ Annual budget request: $480,000
 
 Director Maria Santos
 Community Shelter of Hope
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: February 5, 2025
-Subject: [PERSON_12] Application - Client Demographic Data
-
-[PERSON_15] [PERSON_1],
-
-[PERSON_6] data for our annual funding application. Client demographics (anonymized per [PERSON_14], with consent):
-
-Total clients served 2024: 342
-- Domestic violence survivors: 187 (names on file internally)
-- Minors: 94
-- Veterans: 61
-
-[PERSON_7] case (with consent): [PERSON_19] D., age 34, fled abusive partner, currently in witness protection adjacent program. Location confidential.
-
-Annual budget request: [PERSON_16],000
-
-[PERSON_4] [PERSON_2]
-Community Shelter of [PERSON_20]

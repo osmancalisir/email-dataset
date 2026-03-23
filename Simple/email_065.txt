@@ -21,29 +21,3 @@ Restaurant manager confirmed receipt and stated document was shredded.
 Breach determination required within 60 days. Recommend: patient notification, process retraining.
 
 Compliance Officer T. Bradley
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 4, 2025
-Subject: [PERSON_16] Breach Report - [PERSON_9] #HN-[PHONE_1]
-
-[PERSON_10] [PERSON_11],
-
-[PERSON_6] [PERSON_7] [PERSON_16] breach per 45 CFR §[URL_3]:
-
-[PERSON_9]: Misdirected fax sent to wrong number (patient info faxed to a restaurant instead of specialist)
-
-Patient Affected: [PERSON_3]
-[DATE_1]
-MRN: HN-441293
-Data exposed: Name, DOB, diagnosis (Hepatitis C, [URL_4]), physician name, appointment date
-
-Fax sent: 04/30/2025 at 2:14 PM
-Incorrect recipient: [PHONE_2] ([PERSON_14] Grill)
-Restaurant manager confirmed receipt and stated document was shredded.
-
-Breach determination required within 60 days. Recommend: patient notification, [PERSON_12] retraining.
-
-[PERSON_4] [PERSON_1]

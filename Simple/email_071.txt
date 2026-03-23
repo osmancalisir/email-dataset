@@ -22,28 +22,3 @@ Monthly stipend: $3,200
 Handler: SA Patricia Moore, ext. 7741
 
 Previous family members also relocated: Wife + 2 children. DO NOT create any paper links to original identity.
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 13, 2025
-Subject: [PERSON_3] - [PERSON_15] [PERSON_9] Processing #WP-[PHONE_1]
-
-[PERSON_3]
-
-[PERSON_15] [PERSON_8] [PERSON_9]:
-
-[PERSON_5] Identity: [PERSON_1]
-[DATE_1]
-SSN: [PHONE_2]
-Former Address: 442 Canal Street, [PERSON_15] Orleans, LA [ADDRESS_1] basis: Testified against [PERSON_4] crime family ([PERSON_12]: DOJ-[PHONE_3]). High-risk.
-
-[PERSON_15] Identity Assigned: (Details in secure vault — clearance required)
-Relocation: Pacific Northwest (city classified)
-[PERSON_15] employer arranged: Yes (logistics company, name classified)
-
-Monthly stipend: [AMOUNT_1]
-Handler: SA [PERSON_2], ext. 7741
-
-Previous family members also relocated: [PERSON_14] + 2 children. DO NOT create any paper links to [PERSON_5] identity.

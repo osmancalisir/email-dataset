@@ -23,31 +23,3 @@ Password: SN!TestEnv2025#
 Rules of engagement: No social engineering, no physical access, no production database write operations.
 
 Emergency stop contact: (888) 441-0032 24/7
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 29, 2025
-Subject: Penetration Test [PERSON_9] - Confidential
-
-Security Team,
-
-[PERSON_9] for [PERSON_3] penetration test:
-
-Client: SecureNet Systems
-Test Window: May 15-22, 2025
-[PERSON_3] by: [PERSON_2], [PERSON_14] ([EMAIL_3])
-
-[PERSON_4] systems:
-- Primary domain: [URL_1]
-- IP [PERSON_10]: [URL_4], [URL_5]
-- AWS account ID: [PHONE_1]
-
-Admin credentials for test environment (do NOT use on prod):
-[API_KEY_1]
-[API_KEY_2]#
-
-Rules of engagement: No social engineering, no physical access, no production database write operations.
-
-Emergency stop contact: [PHONE_2]/7

@@ -19,27 +19,3 @@ Sample account data received:
 Recommendation: Accept portfolio with exclusions for bankrupt accounts and accounts >7 years past SOL.
 
 Analyst K. Weston
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 9, 2025
-Subject: Debt Portfolio Acquisition - Due [PERSON_4] Data
-
-[PERSON_3],
-
-[PERSON_15] the following portfolio up for acquisition:
-
-Portfolio: Seller — [PERSON_10] Lending LLC
-[PERSON_21] value of debt: $[URL_2] (3,812 accounts)
-[PERSON_6] price: $[URL_3] (5 cents on dollar)
-
-[PERSON_16] account data received:
-- Debtor: Frank & [PERSON_22] [PERSON_17], SSN: [PHONE_1]/[PHONE_2], Amount: [AMOUNT_3], last [AMOUNT_8]
-- Debtor: [PERSON_1], SSN: [PHONE_3], Amount: [AMOUNT_4], last [AMOUNT_10]
-- Debtor: [PERSON_2], SSN: [PHONE_4], Amount: [AMOUNT_5], in bankruptcy (Ch 7, 2024)
-
-Recommendation: Accept portfolio with exclusions for bankrupt accounts and accounts >7 years [PERSON_20] SOL.
-
-[PERSON_9] K. [PERSON_14]

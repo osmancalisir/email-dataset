@@ -25,33 +25,3 @@ Compensation to surrogate: $45,000 + expenses (escrow account opened)
 Agreement signed and notarized. Parentage order filing: post-birth, Travis County.
 
 Atty. D. Williams
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 8, 2025
-Subject: [PERSON_6] [PERSON_7] - Confidential - [PERSON_24] #SG-[PHONE_1]
-
-[PERSON_6] [PERSON_23],
-
-[PERSON_24] details:
-
-Intended Parents: [PERSON_22] & [PERSON_2]
-[PERSON_22] SSN: [PHONE_2] | [DATE_1]
-[PERSON_15] SSN: [PHONE_3] | [DATE_2]
-Address: 88 Lakeview [PERSON_13], [PERSON_16], TX 78701
-
-[PERSON_8]: [PERSON_3]
-[DATE_3], SSN: [PHONE_4]
-Address: 330 Oak St, San Antonio, TX 78201
-OB: [PERSON_5], San Antonio Women's Health
-
-Embryo transfer: April 28, 2025 — confirmed positive pregnancy (hCG: 842)
-Genetic link: [PERSON_2] (sperm donor), anonymous egg donor #ED-2241
-
-Compensation to [PERSON_8]: [AMOUNT_1] + expenses (escrow account opened)
-
-[PERSON_7] signed and notarized. [PERSON_9] order filing: post-birth, Travis County.
-
-[PERSON_1]

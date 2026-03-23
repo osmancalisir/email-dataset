@@ -23,30 +23,3 @@ Manager: James Kowalski (he is NOT to know specific diagnosis — only "serious 
 Return to work assessment required before resuming security-cleared duties.
 
 HR Benefits Coordinator
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 6, 2025
-Subject: Confidential [PERSON_23] Request [PERSON_7]
-
-[PERSON_10] [PERSON_22],
-
-[PERSON_23] request details:
-
-[PERSON_11]: [PERSON_1] ID: [PERSON_12]
-[DATE_1]
-Position: Senior [PERSON_8] Engineer
-Department: Propulsion Systems
-
-Reason for [PERSON_23]: Serious health condition — [PERSON_21] 2 breast cancer diagnosis. Chemotherapy to begin May 20. Anticipated leave: 12 weeks.
-
-Treating physician: [PERSON_5], Oncology, [PHONE_1]
-[PERSON_23] paperwork submitted: Yes, approved
-
-Manager: [PERSON_4] (he is NOT to know specific diagnosis — only "serious health condition")
-
-Return to work assessment required before resuming security-cleared duties.
-
-HR [PERSON_10] [PERSON_6]

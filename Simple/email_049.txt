@@ -19,25 +19,3 @@ Patient is anxious and in a remote area with limited transportation. Telehealth 
 
 NP Kelly Harris
 Pine Ridge Rural Clinic
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 13, 2025
-Subject: [PERSON_11] [PERSON_7] - Urgent
-
-[PERSON_15] [PERSON_2],
-
-[PERSON_5] [PERSON_11] for urgent oncology consultation:
-
-Name: [PERSON_1]
-[DATE_1]
-SSN: [PHONE_1]
-[PERSON_6]: [PERSON_9] Part B #1EG4-B5-FO91
-Address: RR2 Box 44, [PERSON_17] [PERSON_14], SD [ADDRESS_1] concern: [PERSON_10] mass, left breast (~2cm), discovered on exam 3/10/2025. Mammogram at local facility inconclusive. Family history: mother and aunt — breast cancer.
-
-[PERSON_11] is anxious and in a remote area with limited transportation. Telehealth consult preferred if possible.
-
-NP [PERSON_3]
-[PERSON_17] [PERSON_14] Rural Clinic

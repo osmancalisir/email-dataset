@@ -22,28 +22,3 @@ Recommend: Proceed with offer.
 
 Brian Foster
 TechRecruit Background Services
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 7, 2025
-Subject: [PERSON_6] [PERSON_5] Check Results - Confidential
-
-[PERSON_9] [PERSON_18],
-
-[PERSON_5] check complete for [PERSON_6]:
-
-Name: [PERSON_1]
-[DATE_1]
-SSN: [PHONE_1]
-Address: 210 Elm Street, San [PERSON_19], CA [ADDRESS_1]:
-- Criminal: Clear
-- Credit [PERSON_17]: 688 (one collection, [AMOUNT_1] medical)
-- Employment gap [PHONE_2] (confirmed: maternity leave)
-- Education: Verified [PERSON_3] [PERSON_8], Stanford 2018
-
-Recommend: Proceed with offer.
-
-[PERSON_2]
-[PERSON_4] [PERSON_5] Services

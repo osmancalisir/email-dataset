@@ -23,31 +23,3 @@ Charitable giving reminder: $500,000 donor-advised fund balance must be deployed
 Private Meeting: May 21, 10 AM, our offices.
 
 Your Advisor, Rebecca Stern
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 6, 2025
-Subject: Quarterly Review - Your Portfolio
-
-Dear Mr. & [PERSON_1],
-
-Private client quarterly summary:
-
-Clients: [PERSON_15] & [PERSON_14] [PERSON_4]
-Account #: TW-88321
-SSN on file: [PHONE_1] ([PERSON_15])
-
-Portfolio value (April 30, 2025): [AMOUNT_1]
-
-[PERSON_5]: +[URL_3]% YTD (outperformed S&P by [URL_4]%)
-[PERSON_18] generated Q1: [AMOUNT_2] (dividends + interest)
-
-Upcoming: Tax harvest opportunity — suggest realizing [AMOUNT_3] in losses in tech sector to offset gains. [PERSON_7] with CPA ([PERSON_2], [EMAIL_3]).
-
-[PERSON_8] giving reminder: [AMOUNT_4] donor-advised fund balance must be deployed by year-end for 2025 deduction.
-
-Private Meeting: May 21, 10 AM, our offices.
-
-Your [PERSON_11], [PERSON_3]

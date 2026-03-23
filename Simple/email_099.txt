@@ -20,28 +20,3 @@ Legal aid: Referred to Safe Harbor Law Project
 Under NO circumstances disclose shelter address or that Maya is a resident. If David Chen contacts organization, refer to police.
 
 Intake Coordinator S. Rodriguez
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: [PERSON_20] 10, 2025
-Subject: [PERSON_19] [PERSON_12] - [PERSON_5] [PERSON_7] Survivor - [FINANCIAL_1] CONFIDENTIAL
-
-CONFIDENTIAL — DO NOT [PERSON_8] [FINANCIAL_1]
-
-[PERSON_19] [PERSON_9] [PERSON_12]:
-
-[PERSON_6]: [PERSON_4] (alias used — real name on file separately)
-[DATE_1]
-SSN: [PHONE_1] (provided for benefits)
-Children: Two — Lily (age 6) and [PERSON_14] (age 4)
-
-Situation: Fled abusive spouse [PERSON_3], [DATE_2] — prior restraining order violation x2. [PERSON_13] report filed: PD case #2025-DV-8821. [PERSON_3] is considered dangerous — possesses firearms (permit #[CONTRACT_1], reported stolen by [PERSON_17]).
-
-Benefits initiated: EBT, Medicaid for children
-Legal aid: Referred to [PERSON_18] Harbor Law Project
-
-Under NO circumstances [PERSON_8] [PERSON_9] address or that [PERSON_17] is a resident. If [PERSON_3] contacts organization, refer to police.
-
-[PERSON_12] [PERSON_1]

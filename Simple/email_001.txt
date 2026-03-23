@@ -16,22 +16,3 @@ John Anderson
 DOB: 06/14/1985
 Home Address: 412 Maple Drive, Austin, TX 78701
 Personal Phone: (512) 334-9821
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 3, 2025
-Subject: Salary Review Request
-
-Dear [PERSON_5],
-
-I am writing to request a formal salary review. My current annual salary is [AMOUNT_1] and I believe based on my contributions over the past year, a raise to [AMOUNT_2] is warranted.
-
-My employee ID is TC-004821, and my SSN for payroll records is [PHONE_1].
-
-[PERSON_8] let me know when we can schedule a meeting.
-
-Best [PERSON_6],
-[PERSON_1]: [PERSON_3]
-[PERSON_13] Address: 412 [PERSON_10] [PERSON_11], [PERSON_7], TX [ADDRESS_1] Phone: [PHONE_2]

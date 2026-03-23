@@ -16,24 +16,3 @@ Assets in dispute:
 Rebecca requests primary custody of children Lucas (age 7) and Mia (age 5). Derek's history of substance abuse documented in attached exhibit (confidential therapist notes).
 
 Alex Turner, Family Law Attorney
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 28, 2025
-Subject: [PERSON_9] [PERSON_1] (Confidential)
-
-RE: [PERSON_23] No. FC-[PHONE_1]
-
-Client: [PERSON_2] ([PERSON_26]: [PERSON_5], SSN: [PHONE_2])
-[PERSON_11]: [PERSON_3] ([PERSON_26]: [PERSON_6])
-
-Assets in dispute:
-- [PERSON_16] home: 330 [PERSON_7], value [AMOUNT_1]
-- Joint savings: [AMOUNT_2] ([PERSON_17] #[PHONE_3])
-[PERSON_8] 401k: ~[AMOUNT_3]
-
-[PERSON_12] requests primary custody of children [PERSON_18] (age 7) and [PERSON_25] (age 5). [PERSON_13] history of substance abuse documented in attached exhibit (confidential [PERSON_10] [PERSON_21]).
-
-[PERSON_4], [PERSON_16] [PERSON_27] Attorney

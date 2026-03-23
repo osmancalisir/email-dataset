@@ -18,26 +18,3 @@ Yield: 94% ee — this is our competitive advantage over Helix Bio who is stuck 
 Reminder: Dr. Patel's employment agreement includes trade secret non-disclosure and 5-year non-compete. If he leaves before Q3, we enforce immediately.
 
 CEO Nathan Cross
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 15, 2025
-Subject: [PERSON_12] SECRET - Compound [MIL_PLATFORM_1] [PERSON_13]
-
-[PERSON_12] SECRET - EYES ONLY
-
-[PERSON_2],
-
-As discussed, committing synthesis [PERSON_13] to writing per your request. Keep this email in encrypted vault only — do not forward, print, or copy to unsecured systems.
-
-Compound: [MIL_PLATFORM_2] (pending patent, application #US-2025-NX771-PROV)
-
-Key proprietary step: Asymmetric hydrogenation catalyst ratio — [Rh(COD)Cl]₂ at [URL_3] mol% with BINAP ligand (S-enantiomer), solvent DCM:MeOH 3:1 at -15°C. This step is NOT in our published papers.
-
-Yield: [PERCENTAGE_1] ee — this is our competitive advantage over Helix Bio who is stuck at [PERCENTAGE_2] ee.
-
-Reminder: [PERSON_3] employment agreement includes [PERSON_12] secret non-disclosure and 5-year non-compete. If he leaves before Q3, we [PERSON_7] immediately.
-
-[PERSON_14] [PERSON_1]

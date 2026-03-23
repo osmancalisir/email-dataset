@@ -18,25 +18,3 @@ Recommendation: In-home services referral, 30-day safety plan. If no improvement
 Note: Mother's boyfriend (name: Ray Gibson, prior DV record) present in home.
 
 Caseworker Diana Thomas
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 6, 2025
-Subject: [PERSON_18] File #CPS-[PHONE_1] - Urgent
-
-[PERSON_4],
-
-Urgent [PERSON_8] on active CPS investigation:
-
-Children: Jaylen (age 6) and [PERSON_13] (age 4) [PERSON_11]
-Mother: [PERSON_1], [DATE_1], Address: 112 Franklin Ave Apt 3, Columbus OH [ADDRESS_1]: Unknown, [PERSON_24] in picture
-
-Concerns: Neglect — food insecurity, school absences (22 days). Children appear healthy but [PERSON_16] conditions substandard.
-
-Recommendation: [PERSON_6] services referral, 30-day safety plan. If no improvement, consider removal.
-
-[PERSON_21]: Mother's boyfriend (name: [PERSON_3], prior DV record) present in home.
-
-[PERSON_5] [PERSON_2]

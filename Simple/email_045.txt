@@ -23,31 +23,3 @@ Emergency contact: Sister Gloria Carter, (804) 332-9921
 Robert is cooperative and motivated. Please expedite.
 
 Social Worker Maria Nguyen
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 8, 2025
-Subject: [PERSON_12] [PERSON_24] [PERSON_7] - Veteran [PERSON_4]
-
-VA [PERSON_12],
-
-[PERSON_8] [PERSON_24] on behalf of veteran:
-
-Name: [PERSON_2]
-[DATE_1]
-SSN: [PHONE_1]
-[PERSON_14]: US Army, [PHONE_2] (20 years)
-VA File #: C-[PHONE_3]
-
-Claiming: PTSD (combat-related, 3 tours [PERSON_5]), bilateral knee injuries
-
-Current mental health treatment: Weekly therapy, prescribed [PERSON_9] 150mg, Prazosin for nightmares
-
-Living situation: Transitional housing (homeless prior 6 months)
-Emergency contact: [PERSON_1], [PHONE_4]
-
-[PERSON_15] is cooperative and motivated. [PERSON_19] expedite.
-
-[PERSON_16] [PERSON_3]

@@ -19,27 +19,3 @@ Legal has reviewed. HR to be informed 48 hrs before announcement.
 Do NOT circulate this list.
 
 VP Operations
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 14, 2025
-Subject: CONFIDENTIAL - [PERSON_8] [PERSON_5]
-
-[PERSON_13],
-
-[PERSON_14] our discussion, here is the draft RIF (Reduction in [PERSON_10]) [PERSON_11] for Q2:
-
-Division A (12 employees):
-[PERSON_1], Salary: [AMOUNT_1], [PERSON_4]: 8 weeks
-- [PERSON_7] Park, Salary: [AMOUNT_2], [PERSON_4]: 10 weeks
-[PERSON_2], Salary: [AMOUNT_3], [PERSON_4]: 8 weeks
-(Full [PERSON_11] attached — encrypted. [API_KEY_1])
-
-Total [PERSON_4] liability: ~$[URL_3]
-Legal has reviewed. HR to be informed 48 hrs before announcement.
-
-Do NOT circulate this list.
-
-VP [PERSON_3]

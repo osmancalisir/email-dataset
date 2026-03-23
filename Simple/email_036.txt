@@ -19,27 +19,3 @@ Recommendation: Termination or demotion + mandatory training.
 All documentation encrypted. Password provided separately via secure channel.
 
 Jessica Price, HR Consultant
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: February 27, 2025
-Subject: Confidential [PERSON_4] [PERSON_2] - [PERSON_8]
-
-[PERSON_16],
-
-Confidential [PERSON_2] [PERSON_8] re: complaint filed 01/15/2025.
-
-Complainant: [Name withheld per policy — refer to file HR-[PHONE_1]]
-Respondent: Program Director Frank Hollis ([DATE_1], [IDNUMBER_1])
-
-Allegation: [PERSON_4] harassment (verbal, pattern over 6 months)
-
-Findings: Substantiated. [PERSON_13] corroborating witnesses interviewed. Email evidence preserved.
-
-Recommendation: Termination or demotion + mandatory training.
-
-All documentation encrypted. [API_KEY_1] separately via [PERSON_9] channel.
-
-[PERSON_1], HR [PERSON_3]

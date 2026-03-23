@@ -19,27 +19,3 @@ Per department policy, requires clearance from occupational medicine before retu
 Family status: Married, 3 dependents — handle sensitively re: pay implications.
 
 Capt. T. Riley
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 28, 2025
-Subject: Firefighter Medical Fitness Review - Confidential
-
-HR,
-
-Confidential fitness-for-duty review:
-
-[PERSON_4]: [PERSON_1]
-[PERSON_8] #: MFD-0441
-[DATE_1]
-[PERSON_4] ID: [CONTRACT_1]
-
-Medical concern: Recent diagnosis of Type 2 Diabetes (treating physician: [PERSON_3], [PHONE_1]). A1C: [URL_3] — not well controlled. Also disclosed: sleep apnea, CPAP prescribed.
-
-Per department policy, requires clearance from occupational medicine before return to active duty (currently on desk assignment).
-
-Family status: Married, 3 dependents — handle sensitively re: pay implications.
-
-[PERSON_2]

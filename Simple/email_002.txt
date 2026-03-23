@@ -13,21 +13,3 @@ Her insurance ID is BlueCross #BCB-442-987712.
 
 Thanks,
 Dr. Patricia Lee
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: January 15, 2025
-Subject: [PERSON_9] [PERSON_8] [PERSON_4] - Account [PERSON_5]
-
-Hi [PERSON_8],
-
-[PERSON_9] [PERSON_1] ([DATE_1], SSN: [PHONE_1]) has been incorrectly billed for a procedure she did not receive.
-
-She was admitted on 12/10/2024 for Type 2 Diabetes management ([MIL_PLATFORM_1]: [URL_3]) and hypertension monitoring. [PERSON_12] remove the cardiology consultation charge of [AMOUNT_1] from her account.
-
-Her insurance [IDNUMBER_2] #BCB-[PHONE_2].
-
-[PERSON_11],
-[PERSON_2]

@@ -23,29 +23,3 @@ Anesthesia (epidural): Billed under Dr. Greene separately
 Note: Father listed on birth certificate is Marcus Okafor. However, patient disclosed in confidence that biological father is a different individual — this is NOT to appear anywhere in billing or records.
 
 Nurse Manager T. Collins
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 12, 2025
-Subject: [PERSON_24] [PERSON_17] & [PERSON_12] [PERSON_23]
-
-[PERSON_12] [PERSON_29],
-
-[PERSON_18] details for recent delivery:
-
-Mother: [PERSON_4]
-[DATE_1]
-[PERSON_34]: [PHONE_1]
-[PERSON_12]: [PERSON_3] [PERSON_7]
-Address: 22 [PERSON_26] Way, [PERSON_21], GA [ADDRESS_1]: May 5, 2025, vaginal [PERSON_24]
-Baby: [PERSON_32], born 7 lbs 4 oz, APGAR 8/9
-Baby Name on [PERSON_24] [PERSON_9]: [PERSON_2]
-
-CPT Codes billed: 59400 (global OB), 99460 (newborn care)
-[PERSON_11] (epidural): Billed under [PERSON_10] separately
-
-[PERSON_33]: Father listed on [PERSON_24] [PERSON_9] is Marcus Okafor. However, patient disclosed in confidence that biological father is a different individual — this is [PERSON_36] to appear anywhere in [PERSON_18] or records.
-
-[PERSON_25] [PERSON_1]

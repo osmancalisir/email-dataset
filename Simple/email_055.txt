@@ -19,27 +19,3 @@ Findings:
 Photos and video evidence: 47 files (encrypted, password sent via separate channel)
 
 Elena Vasquez, Licensed PI #NC-8821
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 8, 2025
-Subject: [PERSON_6] Report - [PERSON_20] #PD-[PHONE_1]
-
-CONFIDENTIAL REPORT
-
-Client: [PERSON_1] (seeking info on spouse)
-Subject: [PERSON_5], [DATE_1]
-Address: 445 Cypress Court, [PERSON_8], NC 28201
-
-[PERSON_6] dates: April 20-27, 2025
-
-Findings:
-- Subject visited 88 Rosemont Apt 4B on 6 of 7 days (avg [URL_4] hours)
-- Registered to a [PERSON_2], [DATE_2], [PERSON_14] plate: [CONTRACT_1]
-- Subject paid cash at numerous locations; observed withdrawing [AMOUNT_1] from ATM (Branch St. ATM 04/23)
-
-Photos and video evidence: 47 files (encrypted, password sent via [PERSON_9] [PERSON_12])
-
-[PERSON_3], [PERSON_10] PI #NC-8821

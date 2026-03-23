@@ -22,27 +22,3 @@ Objection filed by: Daughter Carol Marsh-Webb — alleges David has history of f
 Court date: June 18, 2025. Guardian ad litem appointed: Atty. Susan Flores.
 
 Court Clerk
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 2, 2025
-Subject: [PERSON_2] Filing - In re: Helen [PERSON_9] (Confidential)
-
-[PERSON_4],
-
-[PERSON_15] [PERSON_2] case filing:
-
-Ward: Helen [PERSON_9]
-[DATE_1]
-SSN: [PHONE_1]
-Current Location: Clearwater Memory [PERSON_12], 44 [PERSON_13] St, [PERSON_5], OR [ADDRESS_1]: Advanced dementia — lacks decision-making capacity
-
-Petitioner (proposed guardian): Nephew [PERSON_7] [PERSON_9]
-[DATE_2], SSN: [PHONE_2]
-Address: 22 [PERSON_3], Portland, OR [ADDRESS_2] filed by: Daughter Carol Marsh-Webb — alleges [PERSON_7] has history of financial exploitation.
-
-[PERSON_10] date: [PERSON_14] 18, 2025. Guardian ad litem appointed: Atty. Susan Flores.
-
-[PERSON_10] [PERSON_8]

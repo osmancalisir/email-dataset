@@ -21,29 +21,3 @@ Internal notes (DO NOT PRODUCE without legal review): Manager Kevin Tran made co
 Settlement demand: $340,000. Do not respond until we confer.
 
 HR Director
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 12, 2025
-Subject: CONFIDENTIAL - Wrongful Termination [PERSON_20] [PERSON_3]
-
-[PERSON_19],
-
-[PERSON_21] up on potential litigation:
-
-Former employee: [PERSON_2]
-Last role: Senior Data Analyst
-Termination date: April 15, 2025
-Stated reason: [PERSON_4] (PIP failure)
-
-[PERSON_5]' attorney (firm: [PERSON_12] & Associates) sent a demand letter alleging:
-1. Termination was retaliatory following internal EEOC complaint (race discrimination, filed 02/2025)
-2. [PERSON_7] treatment vs similarly-situated white employees
-
-Internal notes (DO NOT [PERSON_8] [PERSON_9] [PERSON_19] [PERSON_16]): [PERSON_1] made comments in Slack that could be problematic — IT has preserved logs per litigation hold.
-
-Settlement demand: [AMOUNT_1]. Do not respond until we confer.
-
-HR Director

@@ -17,24 +17,3 @@ My personal mobile for 2FA: (773) 492-8801
 
 Thanks,
 Lisa Nguyen
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: February 28, 2025
-Subject: Password Reset Request
-
-Hi IT,
-
-I've been locked out of my account. [PERSON_10] reset:
-
-[API_KEY_1]
-[PERSON_4] ID: ACM-[ADDRESS_1]: [PERSON_7]
-
-My temporary access code from last time was TMP#4492-XK. 
-[PERSON_12]: 3rd Floor, Room 312
-My personal mobile for 2FA: [PHONE_1]
-
-[PERSON_9],
-[PERSON_1]

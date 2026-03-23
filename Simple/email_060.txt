@@ -19,25 +19,3 @@ Rx:
 Sensitive: Patient's partner unaware of IVF treatment — patient requests all correspondence to personal email only: allison.turner.private@gmail.com. Do NOT send to joint/household address.
 
 Dr. Stephanie Lang, OB/GYN
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: May 2, 2025
-Subject: Prescription & [PERSON_15] Details - [PERSON_18]
-
-[PERSON_18] [PERSON_8]
-
-[PERSON_15]: [PERSON_2]
-[PERSON_23]: [PERSON_6]
-MRN: WH-33821
-[PERSON_9]: [PERSON_19] #CIG-[PHONE_1]
-Address: 810 Oak Park Blvd, Chicago, IL [ADDRESS_2]:
-- Prenatal Vitamins (OTC, advise)
-- [PERSON_4] 200mg suppository — IVF support
-- Metformin 1000mg BID (PCOS management)
-
-[PERSON_10]: [PERSON_15]'s partner unaware of IVF treatment — [PERSON_15] requests all correspondence to personal email only: [EMAIL_3]. Do NOT send to joint/household address.
-
-[PERSON_1], [PERSON_17]

@@ -21,27 +21,3 @@ Cognitive assessment score: MMSE 14/30 (moderate impairment)
 Patient does not have capacity to consent to own care.
 
 Dr. Rania Hassan, MD, Neurology
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 22, 2025
-Subject: Patient [PERSON_11] Summary - Confidential
-
-[PERSON_14] [PERSON_18],
-
-[PERSON_11] summary for patient moving to Boston facility:
-
-Name: [PERSON_1]
-[DATE_1]
-SSN: [PHONE_1]
-[PERSON_12] #: 2GH4-TE8-EF45
-Address: 22 Harbor View [PERSON_20], Newport, RI [ADDRESS_1]: Alzheimer's disease ([URL_3]), Parkinson's (G20), Osteoporosis
-Current Medications: Donepezil 10mg, [PERSON_3] 25-100mg TID, [PERSON_7] 70mg weekly
-Power of Attorney: Son, [PERSON_2], [PHONE_2]
-
-[PERSON_10] assessment score: [PERSON_21] 14/30 (moderate impairment)
-Patient does not have capacity to consent to own care.
-
-[PERSON_5], MD, [PERSON_8]

@@ -17,25 +17,3 @@ Distributions:
 K-1s will be issued by April 30. Do not share distribution amounts with staff.
 
 CFO, Horizon Realty Group
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 16, 2025
-Subject: CONFIDENTIAL - Partner Distribution Q1 2025
-
-[PERSON_3],
-
-Q1 2025 distribution details:
-
-Total distributable income: [AMOUNT_1]
-
-Distributions:
-- Alan Marsh (SSN [PHONE_1]): [AMOUNT_2] — wire to Citibank acct [PHONE_2]
-[PERSON_1] (SSN [PHONE_3]): [AMOUNT_2] — wire to [PERSON_4] acct [PHONE_4]
-[PERSON_2] (SSN [PHONE_5]): [AMOUNT_3] — wire to BOA acct [PHONE_6]
-
-K-1s will be issued by April 30. Do not share distribution amounts with staff.
-
-CFO, Horizon Realty Group

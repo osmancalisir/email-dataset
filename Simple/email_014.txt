@@ -15,23 +15,3 @@ Intel provided: Thursday shipments arriving at 440 Harbor Rd warehouse. Primary 
 Do NOT share CI identity under any circumstances.
 
 Det. R. Morales, Badge #1148
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 30, 2025
-Subject: Confidential Informant [PERSON_8] - [PERSON_13] #SPD-[PHONE_1]
-
-DA [PERSON_7],
-
-CI [PERSON_8] for ongoing narcotics investigation.
-
-CI Identity (CONFIDENTIAL): [PERSON_4], [DATE_1], Address: 77 [PERSON_14] St Apt 2B, Springfield
-CI Contact: burner phone [PHONE_2]
-
-Intel provided: Thursday shipments arriving at 440 Harbor Rd warehouse. Primary suspect: "[PERSON_5] believed to be [PERSON_3], DOB unknown, drives black Ford [MIL_PLATFORM_1], plate: SPR-7743.
-
-Do NOT share CI identity under any circumstances.
-
-[PERSON_1], [PERSON_9] [PERSON_10]

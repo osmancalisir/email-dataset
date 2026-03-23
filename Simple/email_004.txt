@@ -20,28 +20,3 @@ Client SSN on file: 701-32-6658
 Routing/Account for wire: 021000021 / 449302183
 
 Sarah Kim, Portfolio Manager
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: March 18, 2025
-Subject: Confidential - [PERSON_4] Rebalancing Instructions
-
-CONFIDENTIAL
-
-[PERSON_10] rebalance the following client [PERSON_4] per client authorization:
-
-Client: [PERSON_1]
-Account #: GI-[PHONE_1]
-[PERSON_4] Value: [AMOUNT_1]
-
-Instructions:
-- [PERSON_5] [PERCENTAGE_1] of AAPL holdings (~[AMOUNT_2])
-- [PERSON_6] ETF: VTI ([AMOUNT_3])
-- [PERSON_13] [AMOUNT_4] to money market
-
-Client SSN on file: [PHONE_2]
-Routing/Account for wire: [PHONE_3] / [PHONE_4]
-
-[PERSON_2], [PERSON_4] [PERSON_7]

@@ -19,27 +19,3 @@ No prohibited items found. Subject cooperative. Released to board.
 Refer to TTRT for follow-up per protocol.
 
 Officer Samantha Briggs, Badge #TSA-3302
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: April 4, 2025
-Subject: [PERSON_5] - Passenger Flagged at [PERSON_4]
-
-[PERSON_5] [PERSON_7] [PERSON_2]
-
-[PERSON_4]: Terminal B, [PERSON_14] 22
-[PERSON_6]: 04/04/2025, 07:43 AM
-
-Passenger: [PERSON_3]
-[DATE_1]
-Passport: UK-PA[PHONE_1]
-Flight: Intl to Chicago [PERSON_12] ([MIL_PLATFORM_1])
-
-Flagged: Document anomaly, secondary screening completed. Small undeclared cash: [AMOUNT_1].
-
-No prohibited items found. Subject cooperative. Released to board.
-Refer to TTRT for follow-up per protocol.
-
-Officer [PERSON_1], [PERSON_13] #TSA-3302

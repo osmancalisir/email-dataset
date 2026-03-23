@@ -23,31 +23,3 @@ Caregiver: Wife, Betty Simms, (804) 223-0049
 Note: Patient has mild cognitive impairment — wife is primary decision-maker for daily care.
 
 Discharge Planner M. Washington
-
-============================================================
-SANITIZED PROMPT:
-From: [EMAIL_1]
-To: [EMAIL_2]
-Date: [PERSON_22] 8, 2025
-Subject: [PERSON_18] Health Referral - Patient [PERSON_1]
-
-[PERSON_18] Health Team,
-
-Referral for [PERSON_18] health services:
-
-Patient: [PERSON_1]
-[DATE_1]
-SSN: [PHONE_1]
-[PERSON_8] #: 3FG5-HJ9-WS22
-Address: 8 Briarwood [PERSON_12], Richmond, VA 23201
-
-[PERSON_5] [PERSON_6]: [PERSON_13] hip replacement ([URL_4]), Type 2 Diabetes ([URL_5]), [PERSON_21] ([URL_6])
-[PERSON_5] date: [PERSON_22] 9, 2025
-
-Ordered services: PT 3x/week, RN wound [PERSON_17] 2x/week, diabetic management
-Medications: Metformin, [PERSON_4], Warfarin (INR monitoring needed)
-
-Caregiver: [PERSON_19], [PERSON_2], [PHONE_2]
-[PERSON_20]: Patient has mild cognitive impairment — [PERSON_19] is primary decision-maker for [PERSON_15] care.
-
-[PERSON_5] [PERSON_10] M. [PERSON_3]
